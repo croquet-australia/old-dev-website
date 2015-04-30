@@ -1,0 +1,31 @@
+body { text-align: left; background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 0.9em; font-weight: normal; background-image: url('/images/background.gif'); }
+h1 { font-size: 1.4em; font-weight: bold; 	color: #009900; }
+h2 { font-size: 1.4em; font-weight: bold; 	color: #009900; }
+h3 { font-size: .9em; }
+table { padding: 0; cellspacing: 0; }
+td { border: solid 1px #000000; padding: 5px; font-size: 0.8em; white-space: nowrap; background-color: #ffffff; }
+.Won, .Lost, .Initials { text-align: center; width: 60px; white-space: nowrap; }
+.Won { color: #ff0000; }
+.Lost { color: #000000; }
+.Block { background-color: #000000; }
+.Initials, .TotalHeading, .GamesHeading, .PlaceHeading, .Player { color: #006600; background-color: #dddddd; font-weight: bold;}
+.Total, .TotalHeading, .Games, .Place, .GamesHeading, .PlaceHeading { text-align: center; width: 50px; }
+.Difference { vertical-align: super; font-size:.7em; }
+.Heading { color: #006600; background-color: #dddddd; font-weight: bold; }
+.Odd { background-color: #ffffcc; }
+.Even { background-color: #ffffff; }
+.LastUpdate { font-style:italic; font-size: .8em }
+.TeamHead { color: #006600; background-color: #dddddd; font-weight: bold;}
+.TeamTotal { font-weight: bold; }
+.Team1 { width: 200px; white-space: nowrap; text-align: right; }
+.Team2 { width: 200px; white-space: nowrap; text-align: left; }
+.TeamMatch { width: 100px; white-space: nowrap; text-align: center; }
+
+#TeamSummary table { padding: 0; cellspacing: 0; }
+#TeamSummary td { border: solid 1px #000000; padding: 0px; font-size: 0.8em; white-space: nowrap; background-color: #ffffff; }
+#TeamSummary .Head { color: #006600; background-color: #dddddd; font-weight: bold; width: 60px; text-align: center; }
+#TeamSummary .Name { text-align: center; color: #006600; background-color: #dddddd; font-weight: bold; }
+#TeamSummary .Total { text-align: center; }
+#TeamSummary .Result { text-align: center; padding: 2px; border-right-width: 0px; border-left-width: 0px; font-size: 0.7em; }
+#TeamSummary table table { width: 100%; }
+#TeamSummary .SubHead { text-align: center; padding: 2px; border-right-width: 0px; border-left-width: 0px; color: #006600; background-color: #dddddd; font-weight: bold; font-size: 0.7em; }

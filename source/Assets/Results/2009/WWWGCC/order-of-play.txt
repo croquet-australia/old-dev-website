@@ -1,0 +1,649 @@
+Event AUS Block A
+Date 22-25.11.09
+Class 2
+Type single
+Games 51
+Order firstname
+1	Ann Sharp	beat	Susan Sands	+4
+2	Ann Sharp	beat	Susan Sands	+4
+3	Sou Leitinger	beat	Rosemary Graham	+4
+4	Rosemary Graham	beat	Sou Leitinger	+3
+5	Sou Leitinger	beat	Rosemary Graham	+2
+6	Samia Mahmoud	beat	Jola Jurasinska	+7
+7	Jola Jurasinska	beat	Samia Mahmoud	+1
+8	Samia Mahmoud	beat	Jola Jurasinska	+6
+9	Susan Sands	beat	Jola Jurasinska	+3
+10	Jola Jurasinska	beat	Susan Sands	+1
+11	Jola Jurasinska	beat	Susan Sands	+3
+12	Sou Leitinger	beat	Iman Elfaransawi	+1
+13	Iman Elfaransawi	beat	Sou Leitinger	+4
+14	Iman Elfaransawi	beat	Sou Leitinger	+1
+15	Samia Mahmoud	beat	Ann Sharp	+1
+16	Ann Sharp	beat	Samia Mahmoud	+4
+17	Ann Sharp	beat	Samia Mahmoud	+4
+18	Ann Sharp	beat	Rosemary Graham	+1
+19	Rosemary Graham	beat	Ann Sharp	+4
+20	Rosemary Graham	beat	Ann Sharp	+2
+21	Sou Leitinger	beat	Samia Mahmoud	+3
+22	Samia Mahmoud	beat	Sou Leitinger	+5
+23	Samia Mahmoud	beat	Sou Leitinger	+2
+24	Iman Elfaransawi	beat	Jola Jurasinska	+4
+25	Iman Elfaransawi	beat	Jola Jurasinska	+3
+26	Sou Leitinger	beat	Susan Sands	+2
+27	Susan Sands	beat	Sou Leitinger	+5
+28	Susan Sands	beat	Sou Leitinger	+2
+29	Rosemary Graham	beat	Jola Jurasinska	+6
+30	Rosemary Graham	beat	Jola Jurasinska	+2
+31	Iman Elfaransawi	beat	Ann Sharp	+3
+32	Iman Elfaransawi	beat	Ann Sharp	+3
+33	Iman Elfaransawi	beat	Susan Sands	+6
+34	Iman Elfaransawi	beat	Susan Sands	+5
+35	Rosemary Graham	beat	Samia Mahmoud	+1
+36	Rosemary Graham	beat	Samia Mahmoud	+2
+37	Sou Leitinger	beat	Jola Jurasinska	+6
+38	Sou Leitinger	beat	Jola Jurasinska	+2
+39	Sou Leitinger	beat	Ann Sharp	+2
+40	Ann Sharp	beat	Sou Leitinger	+2
+41	Ann Sharp	beat	Sou Leitinger	+1
+42	Iman Elfaransawi	beat	Samia Mahmoud	+2
+43	Iman Elfaransawi	beat	Samia Mahmoud	+6
+44	Susan Sands	beat	Rosemary Graham	+1
+45	Susan Sands	beat	Rosemary Graham	+2
+46	Iman Elfaransawi	beat	Rosemary Graham	+7
+47	Iman Elfaransawi	beat	Rosemary Graham	+1
+48	Samia Mahmoud	beat	Susan Sands	+4
+49	Samia Mahmoud	beat	Susan Sands	+4
+50	Ann Sharp	beat	Jola Jurasinska	+3
+51	Ann Sharp	beat	Jola Jurasinska	+4
+End
+
+Event AUS Block B
+Date 22-25.11.09
+Class 2
+Type single
+Games 50
+Order firstname
+1	Abir Moustafa	beat	Anne Quinn	+7
+2	Abir Moustafa	beat	Anne Quinn	+4
+3	Erica Stephens	beat	Anna Miller	+4
+4	Anna Miller	beat	Erica Stephens	+2
+5	Erica Stephens	beat	Anna Miller	+2
+6	Alison Wall	beat	Judy Evans	+4
+7	Judy Evans	beat	Alison Wall	+2
+8	Alison Wall	beat	Judy Evans	+2
+9	Anna Miller	beat	Judy Evans	+1
+10	Judy Evans	beat	Anna Miller	+4
+11	Judy Evans	beat	Anna Miller	+3
+12	Marwa Mostafa	beat	Anne Quinn	+5
+13	Marwa Mostafa	beat	Anne Quinn	+1
+14	Erica Stephens	beat	Alison Wall	+4
+15	Erica Stephens	beat	Alison Wall	+2
+16	Abir Moustafa	beat	Alison Wall	+5
+17	Abir Moustafa	beat	Alison Wall	+3
+18	Erica Stephens	beat	Anne Quinn	+4
+19	Erica Stephens	beat	Anne Quinn	+1
+20	Marwa Mostafa	beat	Anna Miller	+2
+21	Anna Miller	beat	Marwa Mostafa	+3
+22	Marwa Mostafa	beat	Anna Miller	+5
+23	Abir Moustafa	beat	Anna Miller	+1
+24	Abir Moustafa	beat	Anna Miller	+4
+25	Marwa Mostafa	beat	Alison Wall	+5
+26	Alison Wall	beat	Marwa Mostafa	+1
+27	Marwa Mostafa	beat	Alison Wall	+1
+28	Anne Quinn	beat	Judy Evans	+4
+29	Judy Evans	beat	Anne Quinn	+4
+30	Judy Evans	beat	Anne Quinn	+3
+31	Marwa Mostafa	beat	Judy Evans	+3
+32	Marwa Mostafa	beat	Judy Evans	+3
+33	Abir Moustafa	beat	Erica Stephens	+5
+34	Abir Moustafa	beat	Erica Stephens	+2
+35	Anne Quinn	beat	Anna Miller	+2
+36	Anna Miller	beat	Anne Quinn	+1
+37	Anna Miller	beat	Anne Quinn	+5
+38	Alison Wall	beat	Anne Quinn	+3
+39	Alison Wall	beat	Anne Quinn	+2
+40	Marwa Mostafa	beat	Erica Stephens	+1
+41	Erica Stephens	beat	Marwa Mostafa	+4
+42	Marwa Mostafa	beat	Erica Stephens	+2
+43	Abir Moustafa	beat	Judy Evans	+4
+44	Abir Moustafa	beat	Judy Evans	+6
+45	Abir Moustafa	beat	Marwa Mostafa	+6
+46	Abir Moustafa	beat	Marwa Mostafa	+2
+47	Erica Stephens	beat	Judy Evans	+1
+48	Erica Stephens	beat	Judy Evans	+2
+49	Alison Wall	beat	Anna Miller	+3
+50	Alison Wall	beat	Anna Miller	+6
+End
+
+Event AUS Block C
+Date 22-25.11.09
+Class 2
+Type single
+Games 49
+Order firstname
+1	Dallas Cooke	beat	Ros Pimlott	+3
+2	Dallas Cooke	beat	Ros Pimlott	+4
+3	Sherine Hamdi	beat	Kay Chynoweth	+3
+4	Kay Chynoweth	beat	Sherine Hamdi	+2
+5	Kay Chynoweth	beat	Sherine Hamdi	+2
+6	Laura Whittaker	beat	Margaret Melville	+2
+7	Margaret Melville	beat	Laura Whittaker	+1
+8	Margaret Melville	beat	Laura Whittaker	+2
+9	Margaret Melville	beat	Ros Pimlott	+4
+10	Margaret Melville	beat	Ros Pimlott	+5
+11	Hemmat Mostafa	beat	Kay Chynoweth	+3
+12	Kay Chynoweth	beat	Hemmat Mostafa	+2
+13	Kay Chynoweth	beat	Hemmat Mostafa	+3
+14	Laura Whittaker	beat	Dallas Cooke	+3
+15	Dallas Cooke	beat	Laura Whittaker	+6
+16	Laura Whittaker	beat	Dallas Cooke	+1
+17	Sherine Hamdi	beat	Laura Whittaker	+3
+18	Laura Whittaker	beat	Sherine Hamdi	+3
+19	Sherine Hamdi	beat	Laura Whittaker	+1
+20	Dallas Cooke	beat	Kay Chynoweth	+2
+21	Dallas Cooke	beat	Kay Chynoweth	+2
+22	Hemmat Mostafa	beat	Ros Pimlott	+4
+23	Hemmat Mostafa	beat	Ros Pimlott	+3
+24	Margaret Melville	beat	Kay Chynoweth	+5
+25	Margaret Melville	beat	Kay Chynoweth	+2
+26	Sherine Hamdi	beat	Ros Pimlott	+4
+27	Sherine Hamdi	beat	Ros Pimlott	+4
+28	Hemmat Mostafa	beat	Laura Whittaker	+5
+29	Hemmat Mostafa	beat	Laura Whittaker	+2
+30	Hemmat Mostafa	beat	Margaret Melville	+3
+31	Hemmat Mostafa	beat	Margaret Melville	+3
+32	Sherine Hamdi	beat	Dallas Cooke	+1
+33	Dallas Cooke	beat	Sherine Hamdi	+1
+34	Sherine Hamdi	beat	Dallas Cooke	+5
+35	Kay Chynoweth	beat	Ros Pimlott	+1
+36	Kay Chynoweth	beat	Ros Pimlott	+1
+37	Kay Chynoweth	beat	Laura Whittaker	+2
+38	Kay Chynoweth	beat	Laura Whittaker	+1
+39	Hemmat Mostafa	beat	Dallas Cooke	+4
+40	Hemmat Mostafa	beat	Dallas Cooke	+5
+41	Margaret Melville	beat	Sherine Hamdi	+4
+42	Margaret Melville	beat	Sherine Hamdi	+1
+43	Hemmat Mostafa	beat	Sherine Hamdi	+2
+44	Sherine Hamdi	beat	Hemmat Mostafa	+5
+45	Sherine Hamdi	beat	Hemmat Mostafa	+6
+46	Margaret Melville	beat	Dallas Cooke	+1
+47	Margaret Melville	beat	Dallas Cooke	+3
+48	Laura Whittaker	beat	Ros Pimlott	+5
+49	Laura Whittaker	beat	Ros Pimlott	+1
+End
+
+Event AUS Block D
+Date 22-25.11.09
+Class 2
+Type single
+Games 53
+Order firstname
+1	Liz Fleming	beat	Gwen Salisbury	+3
+2	Liz Fleming	beat	Gwen Salisbury	+3
+3	Wilma Bonner	beat	Salwa Saleh	+1
+4	Salwa Saleh	beat	Wilma Bonner	+4
+5	Salwa Saleh	beat	Wilma Bonner	+2
+6	Christine Pont	beat	Clare Stableford	+1
+7	Clare Stableford	beat	Christine Pont	+1
+8	Christine Pont	beat	Clare Stableford	+4
+9	Liz Fleming	beat	Clare Stableford	+1
+10	Clare Stableford	beat	Liz Fleming	+2
+11	Liz Fleming	beat	Clare Stableford	+5
+12	Jenny Clarke	beat	Wilma Bonner	+6
+13	Jenny Clarke	beat	Wilma Bonner	+4
+14	Christine Pont	beat	Gwen Salisbury	+3
+15	Christine Pont	beat	Gwen Salisbury	+1
+16	Salwa Saleh	beat	Gwen Salisbury	+1
+17	Gwen Salisbury	beat	Salwa Saleh	+1
+18	Salwa Saleh	beat	Gwen Salisbury	+4
+19	Christine Pont	beat	Wilma Bonner	+7
+20	Wilma Bonner	beat	Christine Pont	+5
+21	Wilma Bonner	beat	Christine Pont	+3
+22	Jenny Clarke	beat	Clare Stableford	+5
+23	Jenny Clarke	beat	Clare Stableford	+7
+24	Wilma Bonner	beat	Liz Fleming	+1
+25	Liz Fleming	beat	Wilma Bonner	+2
+26	Wilma Bonner	beat	Liz Fleming	+4
+27	Salwa Saleh	beat	Clare Stableford	+4
+28	Salwa Saleh	beat	Clare Stableford	+6
+29	Jenny Clarke	beat	Gwen Salisbury	+3
+30	Jenny Clarke	beat	Gwen Salisbury	+4
+31	Jenny Clarke	beat	Liz Fleming	+1
+32	Jenny Clarke	beat	Liz Fleming	+3
+33	Christine Pont	beat	Salwa Saleh	+5
+34	Salwa Saleh	beat	Christine Pont	+2
+35	Salwa Saleh	beat	Christine Pont	+5
+36	Clare Stableford	beat	Wilma Bonner	+2
+37	Clare Stableford	beat	Wilma Bonner	+1
+38	Wilma Bonner	beat	Gwen Salisbury	+2
+39	Gwen Salisbury	beat	Wilma Bonner	+1
+40	Gwen Salisbury	beat	Wilma Bonner	+2
+41	Christine Pont	beat	Jenny Clarke	+1
+42	Jenny Clarke	beat	Christine Pont	+4
+43	Christine Pont	beat	Jenny Clarke	+2
+44	Salwa Saleh	beat	Liz Fleming	+4
+45	Liz Fleming	beat	Salwa Saleh	+1
+46	Liz Fleming	beat	Salwa Saleh	+1
+47	Jenny Clarke	beat	Salwa Saleh	+1
+48	Jenny Clarke	beat	Salwa Saleh	+6
+49	Christine Pont	beat	Liz Fleming	+2
+50	Liz Fleming	beat	Christine Pont	+2
+51	Liz Fleming	beat	Christine Pont	+2
+52	Gwen Salisbury	beat	Clare Stableford	+2
+53	Gwen Salisbury	beat	Clare Stableford	+3
+End
+
+Event AUS Block E
+Date 22-25.11.09
+Class 2
+Type single
+Games 50
+Order firstname
+1	Sue Beattie	beat	Sarah Riad	+1
+2	Sarah Riad	beat	Sue Beattie	+1
+3	Sue Beattie	beat	Sarah Riad	+2
+4	Teresa Burt	beat	Phyllis Young	+1
+5	Phyllis Young	beat	Teresa Burt	+2
+6	Teresa Burt	beat	Phyllis Young	+2
+7	Creina Dawson	beat	Marlene McCaa	+5
+8	Creina Dawson	beat	Marlene McCaa	+2
+9	Creina Dawson	beat	Teresa Burt	+4
+10	Creina Dawson	beat	Teresa Burt	+4
+11	Sue Beattie	beat	Manal Ali Mohsen	+1
+12	Manal Ali Mohsen	beat	Sue Beattie	+5
+13	Manal Ali Mohsen	beat	Sue Beattie	+1
+14	Phyllis Young	beat	Marlene McCaa	+1
+15	Phyllis Young	beat	Marlene McCaa	+3
+16	Sarah Riad	beat	Marlene McCaa	+5
+17	Sarah Riad	beat	Marlene McCaa	+4
+18	Phyllis Young	beat	Sue Beattie	+3
+19	Sue Beattie	beat	Phyllis Young	+3
+20	Sue Beattie	beat	Phyllis Young	+1
+21	Manal Ali Mohsen	beat	Teresa Burt	+4
+22	Manal Ali Mohsen	beat	Teresa Burt	+6
+23	Sue Beattie	beat	Creina Dawson	+3
+24	Creina Dawson	beat	Sue Beattie	+4
+25	Sue Beattie	beat	Creina Dawson	+1
+26	Sarah Riad	beat	Teresa Burt	+5
+27	Sarah Riad	beat	Teresa Burt	+2
+28	Manal Ali Mohsen	beat	Marlene McCaa	+3
+29	Manal Ali Mohsen	beat	Marlene McCaa	+6
+30	Manal Ali Mohsen	beat	Creina Dawson	+6
+31	Manal Ali Mohsen	beat	Creina Dawson	+2
+32	Sarah Riad	beat	Phyllis Young	+2
+33	Sarah Riad	beat	Phyllis Young	+2
+34	Sue Beattie	beat	Teresa Burt	+2
+35	Sue Beattie	beat	Teresa Burt	+5
+36	Sue Beattie	beat	Marlene McCaa	+3
+37	Sue Beattie	beat	Marlene McCaa	+3
+38	Manal Ali Mohsen	beat	Phyllis Young	+3
+39	Manal Ali Mohsen	beat	Phyllis Young	+3
+40	Creina Dawson	beat	Sarah Riad	+5
+41	Sarah Riad	beat	Creina Dawson	+6
+42	Sarah Riad	beat	Creina Dawson	+2
+43	Sarah Riad	beat	Manal Ali Mohsen	+1
+44	Manal Ali Mohsen	beat	Sarah Riad	+3
+45	Manal Ali Mohsen	beat	Sarah Riad	+3
+46	Phyllis Young	beat	Creina Dawson	+2
+47	Creina Dawson	beat	Phyllis Young	+4
+48	Creina Dawson	beat	Phyllis Young	+2
+49	Marlene McCaa	beat	Teresa Burt	+2
+50	Marlene McCaa	beat	Teresa Burt	+5
+End
+
+Event AUS Block F
+Date 22-25.11.09
+Class 2
+Type single
+Games 50
+Order firstname
+1	Mavis Brogden	beat	Jacky McDonald	+1
+2	Mavis Brogden	beat	Jacky McDonald	+2
+3	Genny Vandersluys	beat	Anne Oxton	+2
+4	Genny Vandersluys	beat	Anne Oxton	+6
+5	Jane Shorten	beat	Pam Gentle	+5
+6	Pam Gentle	beat	Jane Shorten	+3
+7	Jane Shorten	beat	Pam Gentle	+1
+8	Genny Vandersluys	beat	Jane Shorten	+2
+9	Jane Shorten	beat	Genny Vandersluys	+3
+10	Jane Shorten	beat	Genny Vandersluys	+2
+11	Shaden Okasha	beat	Jacky McDonald	+4
+12	Jacky McDonald	beat	Shaden Okasha	+2
+13	Shaden Okasha	beat	Jacky McDonald	+5
+14	Anne Oxton	beat	Pam Gentle	+1
+15	Pam Gentle	beat	Anne Oxton	+3
+16	Pam Gentle	beat	Anne Oxton	+4
+17	Mavis Brogden	beat	Jane Shorten	+4
+18	Mavis Brogden	beat	Jane Shorten	+1
+19	Genny Vandersluys	beat	Jacky McDonald	+4
+20	Jacky McDonald	beat	Genny Vandersluys	+5
+21	Jacky McDonald	beat	Genny Vandersluys	+1
+22	Shaden Okasha	beat	Anne Oxton	+4
+23	Shaden Okasha	beat	Anne Oxton	+1
+24	Pam Gentle	beat	Jacky McDonald	+3
+25	Pam Gentle	beat	Jacky McDonald	+4
+26	Mavis Brogden	beat	Anne Oxton	+3
+27	Mavis Brogden	beat	Anne Oxton	+2
+28	Jane Shorten	beat	Shaden Okasha	+2
+29	Shaden Okasha	beat	Jane Shorten	+6
+30	Shaden Okasha	beat	Jane Shorten	+4
+31	Shaden Okasha	beat	Pam Gentle	+3
+32	Shaden Okasha	beat	Pam Gentle	+2
+33	Mavis Brogden	beat	Genny Vandersluys	+5
+34	Mavis Brogden	beat	Genny Vandersluys	+3
+35	Anne Oxton	beat	Jacky McDonald	+4
+36	Anne Oxton	beat	Jacky McDonald	+5
+37	Jacky McDonald	beat	Jane Shorten	+2
+38	Jane Shorten	beat	Jacky McDonald	+1
+39	Jane Shorten	beat	Jacky McDonald	+4
+40	Shaden Okasha	beat	Genny Vandersluys	+5
+41	Shaden Okasha	beat	Genny Vandersluys	+1
+42	Pam Gentle	beat	Mavis Brogden	+4
+43	Pam Gentle	beat	Mavis Brogden	+2
+44	Mavis Brogden	beat	Shaden Okasha	+2
+45	Mavis Brogden	beat	Shaden Okasha	+1
+46	Pam Gentle	beat	Genny Vandersluys	+3
+47	Pam Gentle	beat	Genny Vandersluys	+2
+48	Jane Shorten	beat	Anne Oxton	+2
+49	Anne Oxton	beat	Jane Shorten	+2
+50	Jane Shorten	beat	Anne Oxton	+2
+End
+
+Event AUS Block G
+Date 22-25.11.09
+Class 2
+Type single
+Games 50
+Order firstname
+1	Judy Wembridge	beat	Carole Jackson	+1
+2	Carole Jackson	beat	Judy Wembridge	+3
+3	Carole Jackson	beat	Judy Wembridge	+1
+4	Ashley Cooke	beat	Elizabeth Allen	+1
+5	Elizabeth Allen	beat	Ashley Cooke	+2
+6	Ashley Cooke	beat	Elizabeth Allen	+1
+7	Tricia Devlin	beat	Nerida Jackson	+1
+8	Tricia Devlin	beat	Nerida Jackson	+4
+9	Soumaya Saad	beat	Judy Wembridge	+5
+10	Judy Wembridge	beat	Soumaya Saad	+3
+11	Judy Wembridge	beat	Soumaya Saad	+2
+12	Ashley Cooke	beat	Tricia Devlin	+4
+13	Tricia Devlin	beat	Ashley Cooke	+3
+14	Tricia Devlin	beat	Ashley Cooke	+3
+15	Nerida Jackson	beat	Elizabeth Allen	+3
+16	Nerida Jackson	beat	Elizabeth Allen	+3
+17	Carole Jackson	beat	Nerida Jackson	+5
+18	Carole Jackson	beat	Nerida Jackson	+5
+19	Judy Wembridge	beat	Elizabeth Allen	+1
+20	Elizabeth Allen	beat	Judy Wembridge	+2
+21	Elizabeth Allen	beat	Judy Wembridge	+3
+22	Ashley Cooke	beat	Soumaya Saad	+1
+23	Soumaya Saad	beat	Ashley Cooke	+3
+24	Ashley Cooke	beat	Soumaya Saad	+4
+25	Judy Wembridge	beat	Tricia Devlin	+1
+26	Judy Wembridge	beat	Tricia Devlin	+2
+27	Ashley Cooke	beat	Carole Jackson	+2
+28	Carole Jackson	beat	Ashley Cooke	+2
+29	Carole Jackson	beat	Ashley Cooke	+4
+30	Soumaya Saad	beat	Nerida Jackson	+1
+31	Soumaya Saad	beat	Nerida Jackson	+2
+32	Soumaya Saad	beat	Tricia Devlin	+1
+33	Soumaya Saad	beat	Tricia Devlin	+3
+34	Carole Jackson	beat	Elizabeth Allen	+3
+35	Carole Jackson	beat	Elizabeth Allen	+2
+36	Ashley Cooke	beat	Judy Wembridge	+2
+37	Ashley Cooke	beat	Judy Wembridge	+1
+38	Judy Wembridge	beat	Nerida Jackson	+3
+39	Judy Wembridge	beat	Nerida Jackson	+4
+40	Elizabeth Allen	beat	Soumaya Saad	+1
+41	Elizabeth Allen	beat	Soumaya Saad	+2
+42	Tricia Devlin	beat	Carole Jackson	+1
+43	Tricia Devlin	beat	Carole Jackson	+1
+44	Carole Jackson	beat	Soumaya Saad	+3
+45	Soumaya Saad	beat	Carole Jackson	+3
+46	Carole Jackson	beat	Soumaya Saad	+4
+47	Tricia Devlin	beat	Elizabeth Allen	+6
+48	Tricia Devlin	beat	Elizabeth Allen	+1
+49	Ashley Cooke	beat	Nerida Jackson	+5
+50	Ashley Cooke	beat	Nerida Jackson	+2
+End
+
+Event AUS Block H
+Date 22-25.11.09
+Class 2
+Type single
+Games 44
+Order firstname
+1	Alix Verge	beat	Rosemary Newsham	+2
+2	Alix Verge	beat	Rosemary Newsham	+1
+3	Kath Burt	beat	Wendy Dickson	+2
+4	Kath Burt	beat	Wendy Dickson	+5
+5	Anne Taves	beat	Sue Roberts	+5
+6	Anne Taves	beat	Sue Roberts	+3
+7	Kath Burt	beat	Anne Taves	+3
+8	Kath Burt	beat	Anne Taves	+4
+9	Nihal Ahmed	beat	Rosemary Newsham	+2
+10	Nihal Ahmed	beat	Rosemary Newsham	+6
+11	Wendy Dickson	beat	Sue Roberts	+4
+12	Wendy Dickson	beat	Sue Roberts	+7
+13	Alix Verge	beat	Sue Roberts	+4
+14	Alix Verge	beat	Sue Roberts	+3
+15	Wendy Dickson	beat	Rosemary Newsham	+3
+16	Wendy Dickson	beat	Rosemary Newsham	+3
+17	Nihal Ahmed	beat	Kath Burt	+1
+18	Nihal Ahmed	beat	Kath Burt	+2
+19	Anne Taves	beat	Rosemary Newsham	+2
+20	Anne Taves	beat	Rosemary Newsham	+4
+21	Alix Verge	beat	Kath Burt	+3
+22	Alix Verge	beat	Kath Burt	+2
+23	Nihal Ahmed	beat	Sue Roberts	+2
+24	Nihal Ahmed	beat	Sue Roberts	+5
+25	Anne Taves	beat	Nihal Ahmed	+5
+26	Anne Taves	beat	Nihal Ahmed	+4
+27	Alix Verge	beat	Wendy Dickson	+1
+28	Alix Verge	beat	Wendy Dickson	+3
+29	Kath Burt	beat	Rosemary Newsham	+5
+30	Kath Burt	beat	Rosemary Newsham	+6
+31	Sue Roberts	beat	Rosemary Newsham	+1
+32	Sue Roberts	beat	Rosemary Newsham	+2
+33	Wendy Dickson	beat	Nihal Ahmed	+1
+34	Nihal Ahmed	beat	Wendy Dickson	+4
+35	Nihal Ahmed	beat	Wendy Dickson	+3
+36	Anne Taves	beat	Alix Verge	+3
+37	Alix Verge	beat	Anne Taves	+1
+38	Alix Verge	beat	Anne Taves	+2
+39	Alix Verge	beat	Nihal Ahmed	+2
+40	Alix Verge	beat	Nihal Ahmed	+4
+41	Wendy Dickson	beat	Anne Taves	+3
+42	Wendy Dickson	beat	Anne Taves	+1
+43	Kath Burt	beat	Sue Roberts	+4
+44	Kath Burt	beat	Sue Roberts	+5
+End
+
+Event AUS Knockout
+Date 25-28.11.09
+Class 2
+Type match
+Games 31
+Order firstname
+1	Iman Elfaransawi	beat	Liz Fleming	+2, +5
+2	Erica Stephens	beat	Tricia Devlin	+3, -7, +4
+3	Sarah Riad	beat	Ann Sharp	+1, -1, +1
+4	Abir Moustafa	beat	Creina Dawson	+1, +6
+5	Manal Ali Mohsen	beat	Alison Wall	-2, +2, +4
+6	Anne Taves	beat	Mavis Brogden	-3, +5, +3
+7	Sherine Hamdi	beat	Ashley Cooke	+3, -3, +2
+8	Jenny Clarke	beat	Samia Mahmoud	+3, +2
+9	Hemmat Mostafa	beat	Judy Wembridge	+1, -2, +3
+10	Margaret Melville	beat	Kath Burt	+4, -2, +2
+11	Rosemary Graham	beat	Carole Jackson	+3, +1
+12	Shaden Okasha	beat	Kay Chynoweth	+3, +3
+13	Alix Verge	beat	Jane Shorten	+6, +2
+14	Nihal Ahmed	beat	Sue Beattie	+6, +3
+15	Pam Gentle	beat	Salwa Saleh	+1, +3
+16	Marwa Mostafa	beat	Christine Pont	+3, +1
+17	Iman Elfaransawi	beat	Erica Stephens	+1, -1, +5
+18	Abir Moustafa	beat	Sarah Riad	+2, -2, +1
+19	Manal Ali Mohsen	beat	Anne Taves	-1, +1, +3
+20	Jenny Clarke	beat	Sherine Hamdi	+3, +4
+21	Margaret Melville	beat	Hemmat Mostafa	+1, +1
+22	Shaden Okasha	beat	Rosemary Graham	+6, +1
+23	Alix Verge	beat	Nihal Ahmed	+1, +4
+24	Marwa Mostafa	beat	Pam Gentle	+5, -1, +4
+25	Iman Elfaransawi	beat	Abir Moustafa	-3, +2, +1
+26	Jenny Clarke	beat	Manal Ali Mohsen	+2, +4
+27	Shaden Okasha	beat	Margaret Melville	+4, -1, +4
+28	Alix Verge	beat	Marwa Mostafa	-2, +2, +4
+29	Iman Elfaransawi	beat	Jenny Clarke	-4, +2, +1, -2, +2
+30	Alix Verge	beat	Shaden Okasha	+2, +1, +1
+31	Alix Verge	beat	Iman Elfaransawi	+1, -2, -4, +1, +1
+End
+
+Event AUS Plate
+Date 25-27.11.09
+Class 2
+Type single
+Games 101
+Order firstname
+1	Phyllis Young	beat	Wendy Dickson	+5
+2	Judy Evans	beat	Gwen Salisbury	+1
+3	Clare Stableford	beat	Ros Pimlott	+2
+4	Sue Roberts	beat	Anna Miller	+4
+5	Laura Whittaker	beat	Jacky McDonald	+3
+6	Wilma Bonner	beat	Anne Oxton	+3
+7	Jola Jurasinska	beat	Teresa Burt	+3
+8	Nerida Jackson	beat	Marlene McCaa	+5
+9	Clare Stableford	beat	Wilma Bonner	+1
+10	Laura Whittaker	beat	Judy Evans	+2
+11	Christine Pont	beat	Creina Dawson	+1
+12	Elizabeth Allen	beat	Genny Vandersluys	+4
+13	Sue Roberts	beat	Phyllis Young	+1
+14	Jola Jurasinska	beat	Wendy Dickson	+1
+15	Anne Quinn	beat	Rosemary Newsham	+1
+16	Dallas Cooke	beat	Sou Leitinger	+1
+17	Jacky McDonald	beat	Ros Pimlott	+2
+18	Sue Beattie	beat	Teresa Burt	+2
+19	Gwen Salisbury	beat	Anna Miller	+6
+20	Tricia Devlin	beat	Samia Mahmoud	+5
+21	Ashley Cooke	beat	Kay Chynoweth	+5
+22	Alison Wall	beat	Ann Sharp	+1
+23	Mavis Brogden	beat	Judy Wembridge	+3
+24	Kath Burt	beat	Jane Shorten	+4
+25	Sue Roberts	beat	Laura Whittaker	+4
+26	Creina Dawson	beat	Rosemary Newsham	+4
+27	Clare Stableford	beat	Jola Jurasinska	+1
+28	Teresa Burt	beat	Marlene McCaa	+5
+29	Kath Burt	beat	Ashley Cooke	+4
+30	Genny Vandersluys	beat	Sou Leitinger	+2
+31	Ann Sharp	beat	Ros Pimlott	+5
+32	Alison Wall	beat	Judy Evans	+2
+33	Anna Miller	beat	Wendy Dickson	+2
+34	Nerida Jackson	beat	Wilma Bonner	+1
+35	Dallas Cooke	beat	Elizabeth Allen	+3
+36	Judy Wembridge	beat	Jane Shorten	+1
+37	Anne Quinn	beat	Christine Pont	+2
+38	Sue Beattie	beat	Tricia Devlin	+1
+39	Marlene McCaa	beat	Sou Leitinger	+4
+40	Kay Chynoweth	beat	Jacky McDonald	+3
+41	Phyllis Young	beat	Gwen Salisbury	+3
+42	Ros Pimlott	beat	Rosemary Newsham	+4
+43	Kath Burt	beat	Ann Sharp	+6
+44	Christine Pont	beat	Sue Beattie	+1
+45	Ashley Cooke	beat	Genny Vandersluys	+2
+46	Mavis Brogden	beat	Alison Wall	+1
+47	Dallas Cooke	beat	Nerida Jackson	+2
+48	Clare Stableford	beat	Sue Roberts	+2
+49	Jane Shorten	beat	Kay Chynoweth	+3
+50	Jacky McDonald	beat	Phyllis Young	+1
+51	Ann Sharp	beat	Elizabeth Allen	+2
+52	Gwen Salisbury	beat	Wilma Bonner	+2
+53	Rosemary Newsham	beat	Judy Wembridge	+2
+54	Anna Miller	beat	Judy Evans	+4
+55	Kath Burt	beat	Alison Wall	+1
+56	Creina Dawson	beat	Ashley Cooke	+2
+57	Laura Whittaker	beat	Jola Jurasinska	+1
+58	Mavis Brogden	beat	Tricia Devlin	+5
+59	Jane Shorten	beat	Marlene McCaa	+4
+60	Ros Pimlott	beat	Judy Evans	+5
+61	Wilma Bonner	beat	Genny Vandersluys	+4
+62	Ashley Cooke	beat	Ann Sharp	+2
+63	Christine Pont	beat	Tricia Devlin	+5
+64	Elizabeth Allen	beat	Kay Chynoweth	+6
+65	Anne Quinn	beat	Sue Beattie	+2
+66	Mavis Brogden	beat	Dallas Cooke	+4
+67	Alison Wall	beat	Creina Dawson	+1
+68	Nerida Jackson	beat	Judy Wembridge	+4
+69	Gwen Salisbury	beat	Teresa Burt	+4
+70	Ashley Cooke	beat	Judy Evans	+6
+71	Clare Stableford	beat	Kath Burt	+3
+72	Christine Pont	beat	Alison Wall	+3
+73	Anne Quinn	beat	Phyllis Young	+2
+74	Laura Whittaker	beat	Mavis Brogden	+4
+75	Jola Jurasinska	beat	Rosemary Newsham	+1
+76	Ann Sharp	beat	Sue Beattie	+3
+77	Nerida Jackson	beat	Creina Dawson	+1
+78	Anna Miller	beat	Jacky McDonald	+1
+79	Dallas Cooke	beat	Sue Roberts	+3
+80	Wilma Bonner	beat	Ros Pimlott	+3
+81	Genny Vandersluys	beat	Teresa Burt	+2
+82	Marlene McCaa	beat	Tricia Devlin	+4
+83	Mavis Brogden	beat	Nerida Jackson	+4
+84	Laura Whittaker	beat	Kath Burt	+1
+85	Elizabeth Allen	beat	Jane Shorten	+1
+86	Gwen Salisbury	beat	Jola Jurasinska	+4
+87	Dallas Cooke	beat	Christine Pont	+4
+88	Judy Wembridge	beat	Kay Chynoweth	+1
+89	Clare Stableford	beat	Anne Quinn	+1
+90	Phyllis Young	beat	Anna Miller	+2
+91	Teresa Burt	beat	Jacky McDonald	+3
+92	Gwen Salisbury	beat	Sue Roberts	+1
+93	Kath Burt	beat	Nerida Jackson	+4
+94	Phyllis Young	beat	Elizabeth Allen	+4
+95	Anne Quinn	beat	Ashley Cooke	+1
+96	Gwen Salisbury	beat	Christine Pont	+1
+97	Mavis Brogden	beat	Phyllis Young	+4
+98	Laura Whittaker	beat	Kath Burt	+1
+99	Dallas Cooke	beat	Gwen Salisbury	+4
+100	Anne Quinn	beat	Clare Stableford	+1
+101	Genny Vandersluys	beat	Rosemary Newsham	+3
+End
+
+Event AUS Play Off - 5th to 8th
+Date 27-28.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Abir Moustafa	beat	Manal Ali Mohsen	+7, +7
+2	Marwa Mostafa	beat	Margaret Melville	+5, -1, +2
+3	Abir Moustafa	beat	Marwa Mostafa	+1, -3, +7
+End
+
+Event AUS Plate Finals
+Date 27-28.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Anne Quinn	beat	Dallas Cooke	+3, -5, +4
+2	Laura Whittaker	beat	Mavis Brogden	+4, +2
+3	Anne Quinn	beat	Laura Whittaker	+2, +2
+End
+
+Event AUS Play Off - 7th v 8th
+Date 28-28.11.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	Abir Moustafa	beat	Marwa Mostafa	+1, -3, +7
+End
+
+Event AUS Play Off - 3rd v 4th
+Date 28-28.11.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	Shaden Okasha	beat	Jenny Clarke	-6, -4
+End
+

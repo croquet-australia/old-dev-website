@@ -1,0 +1,256 @@
+Event AUS First Eight (Eddie Hunt Trophy)
+Date 1-4.10.10
+Class 2
+Type single
+Games 56
+Order firstname
+1	Trevor Bassett	beat	Peter Landrebe	+18
+2	Ken Bald	beat	Tim Murphy	+20TP
+3	Robert Fletcher	beat	Malcolm Fletcher	+14
+4	Bruce Fleming	beat	Stephen Forster	+4
+5	Ken Bald	beat	Malcolm Fletcher	+16
+6	Stephen Forster	beat	Peter Landrebe	+25TP
+7	Stephen Forster	beat	Tim Murphy	+4
+8	Trevor Bassett	beat	Malcolm Fletcher	+14
+9	Bruce Fleming	beat	Ken Bald	+23
+10	Robert Fletcher	beat	Peter Landrebe	+17
+11	Bruce Fleming	beat	Robert Fletcher	+16
+12	Trevor Bassett	beat	Tim Murphy	+17
+13	Bruce Fleming	beat	Tim Murphy	+22
+14	Malcolm Fletcher	beat	Peter Landrebe	+9
+15	Robert Fletcher	beat	Trevor Bassett	+25TP
+16	Stephen Forster	beat	Ken Bald	+24TP
+17	Stephen Forster	beat	Malcolm Fletcher	+3TP
+18	Bruce Fleming	beat	Trevor Bassett	+26TP
+19	Peter Landrebe	beat	Ken Bald	+10TPO
+20	Robert Fletcher	beat	Tim Murphy	+24
+21	Bruce Fleming	beat	Peter Landrebe	+8
+22	Robert Fletcher	beat	Stephen Forster	+24
+23	Tim Murphy	beat	Malcolm Fletcher	+15
+24	Ken Bald	beat	Trevor Bassett	+22
+25	Robert Fletcher	beat	Ken Bald	+25TP
+26	Peter Landrebe	beat	Tim Murphy	+21TP
+27	Stephen Forster	beat	Trevor Bassett	+17
+28	Malcolm Fletcher	beat	Bruce Fleming	+25TP
+29	Stephen Forster	beat	Bruce Fleming	+7
+30	Robert Fletcher	beat	Malcolm Fletcher	+18TP
+31	Ken Bald	beat	Tim Murphy	+11
+32	Peter Landrebe	beat	Trevor Bassett	+25TP
+33	Robert Fletcher	beat	Peter Landrebe	+17TP
+34	Ken Bald	beat	Bruce Fleming	+17
+35	Trevor Bassett	beat	Malcolm Fletcher	+11
+36	Stephen Forster	beat	Tim Murphy	+7
+37	Tim Murphy	beat	Trevor Bassett	+5
+38	Stephen Forster	beat	Peter Landrebe	+10
+39	Bruce Fleming	beat	Robert Fletcher	+3
+40	Malcolm Fletcher	beat	Ken Bald	+4
+41	Stephen Forster	beat	Ken Bald	+26
+42	Robert Fletcher	beat	Trevor Bassett	+6
+43	Peter Landrebe	beat	Malcolm Fletcher	+5
+44	Bruce Fleming	beat	Tim Murphy	+25
+45	Robert Fletcher	beat	Tim Murphy	+17TP
+46	Ken Bald	beat	Peter Landrebe	+12
+47	Bruce Fleming	beat	Trevor Bassett	+18
+48	Stephen Forster	beat	Malcolm Fletcher	+17
+49	Ken Bald	beat	Trevor Bassett	+23
+50	Malcolm Fletcher	beat	Tim Murphy	+25TP
+51	Robert Fletcher	beat	Stephen Forster	+9TPO
+52	Peter Landrebe	beat	Bruce Fleming	+17
+53	Malcolm Fletcher	beat	Bruce Fleming	+26TP
+54	Stephen Forster	beat	Trevor Bassett	+26
+55	Robert Fletcher	beat	Ken Bald	+22QNP
+56	Peter Landrebe	beat	Tim Murphy	+11
+End
+
+Event AUS Second Eight (Tom Howat Cup)
+Date 1-4.10.10
+Class 2
+Type single
+Games 56
+Order firstname
+1	Gil Schupelius	beat	Alan Walsh	+6
+2	Margaret Melville	beat	Rosemary Graham	+11
+3	Neil Bonnar	beat	Ken Edwards	+15
+4	Stephen Richards	beat	Alison Sharpe	+9
+5	Stephen Richards	beat	Rosemary Graham	+9
+6	Gil Schupelius	beat	Ken Edwards	+17
+7	Alison Sharpe	beat	Margaret Melville	+8
+8	Neil Bonnar	beat	Alan Walsh	+1
+9	Ken Edwards	beat	Margaret Melville	+9
+10	Neil Bonnar	beat	Alison Sharpe	+26
+11	Stephen Richards	beat	Alan Walsh	+17TP
+12	Rosemary Graham	beat	Gil Schupelius	+4
+13	Alison Sharpe	beat	Rosemary Graham	+5
+14	Alan Walsh	beat	Ken Edwards	+13
+15	Gil Schupelius	beat	Neil Bonnar	+23
+16	Stephen Richards	beat	Margaret Melville	+7
+17	Ken Edwards	beat	Stephen Richards	+16
+18	Gil Schupelius	beat	Alison Sharpe	+5
+19	Margaret Melville	beat	Alan Walsh	+22
+20	Rosemary Graham	beat	Neil Bonnar	+12TP
+21	Alison Sharpe	beat	Alan Walsh	+17
+22	Stephen Richards	beat	Neil Bonnar	+19
+23	Rosemary Graham	beat	Ken Edwards	+8
+24	Gil Schupelius	beat	Margaret Melville	+12
+25	Neil Bonnar	beat	Margaret Melville	+1
+26	Alan Walsh	beat	Rosemary Graham	+3
+27	Stephen Richards	beat	Gil Schupelius	+3
+28	Ken Edwards	beat	Alison Sharpe	+17
+29	Stephen Richards	beat	Alison Sharpe	+23
+30	Ken Edwards	beat	Neil Bonnar	+3
+31	Margaret Melville	beat	Rosemary Graham	+19
+32	Gil Schupelius	beat	Alan Walsh	+8
+33	Alan Walsh	beat	Neil Bonnar	+14
+34	Margaret Melville	beat	Alison Sharpe	+4
+35	Gil Schupelius	beat	Ken Edwards	+5
+36	Rosemary Graham	beat	Stephen Richards	+2
+37	Gil Schupelius	beat	Rosemary Graham	+17
+38	Alan Walsh	beat	Stephen Richards	+26
+39	Alison Sharpe	beat	Neil Bonnar	+12
+40	Ken Edwards	beat	Margaret Melville	+17
+41	Stephen Richards	beat	Margaret Melville	+22
+42	Neil Bonnar	beat	Gil Schupelius	+15
+43	Alan Walsh	beat	Ken Edwards	+26
+44	Rosemary Graham	beat	Alison Sharpe	+17
+45	Neil Bonnar	beat	Rosemary Graham	+4
+46	Margaret Melville	beat	Alan Walsh	+7
+47	Gil Schupelius	beat	Alison Sharpe	+19
+48	Ken Edwards	beat	Stephen Richards	+26
+49	Gil Schupelius	beat	Stephen Richards	+4
+50	Gil Schupelius	beat	Margaret Melville	+22
+51	Ken Edwards	beat	Rosemary Graham	+25
+52	Stephen Richards	beat	Neil Bonnar	+26
+53	Alison Sharpe	beat	Alan Walsh	+3
+54	Margaret Melville	beat	Neil Bonnar	+2
+55	Alan Walsh	beat	Rosemary Graham	+26
+56	Alison Sharpe	beat	Ken Edwards	+8
+End
+
+Event AUS Third Eight (The Major Tingey Tray)
+Date 1-4.10.10
+Class 2
+Type single
+Games 56
+Order firstname
+1	Dwayne McCormick	beat	Claire Bassett	+11TP
+2	Chris McWhirter	beat	Charlotte Morgan	+16
+3	Ian Bassett	beat	Ernie Melville	+12
+4	Liz Fleming	beat	Roger Buddle	+5TP
+5	Chris McWhirter	beat	Liz Fleming	+13
+6	Ernie Melville	beat	Claire Bassett	+9
+7	Charlotte Morgan	beat	Roger Buddle	+15
+8	Ian Bassett	beat	Dwayne McCormick	+23
+9	Roger Buddle	beat	Ian Bassett	+26
+10	Claire Bassett	beat	Chris McWhirter	+9
+11	Liz Fleming	beat	Dwayne McCormick	+12
+12	Ernie Melville	beat	Charlotte Morgan	+17
+13	Chris McWhirter	beat	Roger Buddle	+8
+14	Dwayne McCormick	beat	Ernie Melville	+6
+15	Ian Bassett	beat	Claire Bassett	+19
+16	Liz Fleming	beat	Charlotte Morgan	+24
+17	Liz Fleming	beat	Ernie Melville	+23
+18	Claire Bassett	beat	Roger Buddle	+8
+19	Dwayne McCormick	beat	Charlotte Morgan	+20
+20	Ian Bassett	beat	Chris McWhirter	+17TP
+21	Dwayne McCormick	beat	Roger Buddle	+15
+22	Ian Bassett	beat	Liz Fleming	+6
+23	Ernie Melville	beat	Chris McWhirter	+2
+24	Claire Bassett	beat	Charlotte Morgan	+13
+25	Ian Bassett	beat	Charlotte Morgan	+15
+26	Dwayne McCormick	beat	Chris McWhirter	+9
+27	Claire Bassett	beat	Liz Fleming	+23
+28	Roger Buddle	beat	Ernie Melville	+4
+29	Roger Buddle	beat	Liz Fleming	+11
+30	Ernie Melville	beat	Ian Bassett	+14
+31	Chris McWhirter	beat	Charlotte Morgan	+17
+32	Dwayne McCormick	beat	Claire Bassett	+12
+33	Ian Bassett	beat	Dwayne McCormick	+10
+34	Roger Buddle	beat	Charlotte Morgan	+17
+35	Claire Bassett	beat	Ernie Melville	+19
+36	Liz Fleming	beat	Chris McWhirter	+13
+37	Claire Bassett	beat	Chris McWhirter	+6
+38	Dwayne McCormick	beat	Liz Fleming	+10
+39	Roger Buddle	beat	Ian Bassett	+22
+40	Charlotte Morgan	beat	Ernie Melville	+8
+41	Liz Fleming	beat	Charlotte Morgan	+23
+42	Claire Bassett	beat	Ian Bassett	+11
+43	Dwayne McCormick	beat	Ernie Melville	+14
+44	Roger Buddle	beat	Chris McWhirter	+23
+45	Chris McWhirter	beat	Ian Bassett	+21
+46	Dwayne McCormick	beat	Charlotte Morgan	+25
+47	Roger Buddle	beat	Claire Bassett	+9
+48	Liz Fleming	beat	Ernie Melville	+11
+49	Charlotte Morgan	beat	Claire Bassett	+10
+50	Chris McWhirter	beat	Ernie Melville	+21
+51	Liz Fleming	beat	Ian Bassett	+17
+52	Dwayne McCormick	beat	Roger Buddle	+9
+53	Roger Buddle	beat	Ernie Melville	+8
+54	Claire Bassett	beat	Liz Fleming	+16
+55	Dwayne McCormick	beat	Chris McWhirter	+1
+56	Charlotte Morgan	beat	Ian Bassett	+25
+End
+
+Event AUS Women's Eight (Jean Armstrong Bowl)
+Date 1-4.10.10
+Class 2
+Type single
+Games 56
+Order firstname
+1	Helen Collins	beat	Tricia Devlin	+1
+2	Pam Gentle	beat	Elizabeth Allen	+13
+3	Marga Podnieks	beat	Wendy Dickson	+19
+4	Sue Beattie	beat	Liz Bassett	+2
+5	Liz Bassett	beat	Elizabeth Allen	+2
+6	Wendy Dickson	beat	Helen Collins	+5
+7	Sue Beattie	beat	Pam Gentle	+18
+8	Tricia Devlin	beat	Marga Podnieks	+23
+9	Wendy Dickson	beat	Pam Gentle	+26
+10	Tricia Devlin	beat	Liz Bassett	+11
+11	Helen Collins	beat	Elizabeth Allen	+19
+12	Sue Beattie	beat	Marga Podnieks	+7
+13	Elizabeth Allen	beat	Sue Beattie	+1
+14	Tricia Devlin	beat	Wendy Dickson	+17
+15	Marga Podnieks	beat	Helen Collins	+7
+16	Pam Gentle	beat	Liz Bassett	+14
+17	Wendy Dickson	beat	Liz Bassett	+21
+18	Helen Collins	beat	Sue Beattie	+13
+19	Tricia Devlin	beat	Pam Gentle	+17
+20	Marga Podnieks	beat	Elizabeth Allen	+9
+21	Tricia Devlin	beat	Sue Beattie	+1
+22	Marga Podnieks	beat	Liz Bassett	+7
+23	Wendy Dickson	beat	Elizabeth Allen	+22
+24	Pam Gentle	beat	Helen Collins	+19
+25	Marga Podnieks	beat	Pam Gentle	+13
+26	Tricia Devlin	beat	Elizabeth Allen	+1
+27	Liz Bassett	beat	Helen Collins	+1
+28	Wendy Dickson	beat	Sue Beattie	+5
+29	Liz Bassett	beat	Sue Beattie	+25
+30	Marga Podnieks	beat	Wendy Dickson	+1
+31	Pam Gentle	beat	Elizabeth Allen	+11
+32	Tricia Devlin	beat	Helen Collins	+10
+33	Marga Podnieks	beat	Tricia Devlin	+3
+34	Sue Beattie	beat	Pam Gentle	+9
+35	Wendy Dickson	beat	Helen Collins	+5
+36	Elizabeth Allen	beat	Liz Bassett	+4
+37	Elizabeth Allen	beat	Helen Collins	+9
+38	Tricia Devlin	beat	Liz Bassett	+5
+39	Marga Podnieks	beat	Sue Beattie	+1
+40	Wendy Dickson	beat	Pam Gentle	+1
+41	Liz Bassett	beat	Pam Gentle	+7
+42	Marga Podnieks	beat	Helen Collins	+23
+43	Wendy Dickson	beat	Tricia Devlin	+10
+44	Elizabeth Allen	beat	Sue Beattie	+5
+45	Marga Podnieks	beat	Elizabeth Allen	+13
+46	Tricia Devlin	beat	Pam Gentle	+22
+47	Sue Beattie	beat	Helen Collins	+2
+48	Wendy Dickson	beat	Liz Bassett	+16
+49	Helen Collins	beat	Pam Gentle	+2
+50	Wendy Dickson	beat	Elizabeth Allen	+15
+51	Liz Bassett	beat	Marga Podnieks	+6
+52	Tricia Devlin	beat	Sue Beattie	+8
+53	Sue Beattie	beat	Wendy Dickson	+1
+54	Liz Bassett	beat	Helen Collins	+14
+55	Tricia Devlin	beat	Elizabeth Allen	+23
+56	Pam Gentle	beat	Marga Podnieks	+3
+End
+

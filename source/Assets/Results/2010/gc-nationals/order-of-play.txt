@@ -1,0 +1,635 @@
+Event AUS Gold and Silver Medals
+Date 25-27.8.10
+Class 2
+Type single
+Games 37
+Order firstname
+1	Greg Freeman	beat	Graham Whiteway	+2
+2	Graham Whiteway	beat	Greg Freeman	+2
+3	Graham Whiteway	beat	Greg Freeman	+3
+4	Noel Reynolds	beat	Geoff Kingdon (TAS)	+2
+5	Noel Reynolds	beat	Geoff Kingdon (TAS)	+6
+6	Alix Verge	beat	Greg Bury	+2
+7	Alix Verge	beat	Greg Bury	+4
+8	Greg Freeman	beat	Noel Reynolds	+1
+9	Noel Reynolds	beat	Greg Freeman	+3
+10	Noel Reynolds	beat	Greg Freeman	+1
+11	Alix Verge	beat	Graham Whiteway	+3
+12	Alix Verge	beat	Graham Whiteway	+4
+13	Greg Bury	beat	Geoff Kingdon (TAS)	+3
+14	Greg Bury	beat	Geoff Kingdon (TAS)	+1
+15	Alix Verge	beat	Greg Freeman	+1
+16	Alix Verge	beat	Greg Freeman	+6
+17	Noel Reynolds	beat	Greg Bury	+2
+18	Greg Bury	beat	Noel Reynolds	+6
+19	Noel Reynolds	beat	Greg Bury	+1
+20	Graham Whiteway	beat	Geoff Kingdon (TAS)	+3
+21	Graham Whiteway	beat	Geoff Kingdon (TAS)	+5
+22	Alix Verge	beat	Geoff Kingdon (TAS)	+5
+23	Alix Verge	beat	Geoff Kingdon (TAS)	+5
+24	Graham Whiteway	beat	Noel Reynolds	+5
+25	Noel Reynolds	beat	Graham Whiteway	+1
+26	Noel Reynolds	beat	Graham Whiteway	+1
+27	Greg Bury	beat	Greg Freeman	+2
+28	Greg Freeman	beat	Greg Bury	+1
+29	Greg Bury	beat	Greg Freeman	+5
+30	Alix Verge	beat	Noel Reynolds	+1
+31	Noel Reynolds	beat	Alix Verge	+1
+32	Alix Verge	beat	Noel Reynolds	+5
+33	Graham Whiteway	beat	Greg Bury	+2
+34	Graham Whiteway	beat	Greg Bury	+1
+35	Geoff Kingdon (TAS)	beat	Greg Freeman	+7
+36	Greg Freeman	beat	Geoff Kingdon (TAS)	+1
+37	Greg Freeman	beat	Geoff Kingdon (TAS)	+4
+End
+
+Event AUS Men's Block A
+Date 28-28.8.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	Michael Shanahan	beat	Geoff Kingdon (TAS)	+2
+2	Joe Dimech	beat	Bradley Maguire	+1
+3	Greg Bury	beat	Michael Shanahan	+3
+4	Geoff Kingdon (TAS)	beat	Bradley Maguire	+1
+5	Joe Dimech	beat	Geoff Kingdon (TAS)	+1
+6	Bradley Maguire	beat	Greg Bury	+6
+7	Bradley Maguire	beat	Michael Shanahan	+1
+8	Greg Bury	beat	Joe Dimech	+5
+9	Geoff Kingdon (TAS)	beat	Greg Bury	+1
+10	Joe Dimech	beat	Michael Shanahan	+1
+End
+
+Event AUS Men's Block B
+Date 28-28.8.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	Peter Smith	beat	Graeme Denehey	+6
+2	Wayne Strong	beat	Henry Roy Smith	+1
+3	Terry Ericson	beat	Graeme Denehey	+1
+4	Peter Smith	beat	Henry Roy Smith	+4
+5	Wayne Strong	beat	Peter Smith	+5
+6	Terry Ericson	beat	Henry Roy Smith	+6
+7	Henry Roy Smith	beat	Graeme Denehey	+3
+8	Terry Ericson	beat	Wayne Strong	+4
+9	Terry Ericson	beat	Peter Smith	+4
+10	Wayne Strong	beat	Graeme Denehey	+5
+End
+
+Event AUS Men's Block C
+Date 28-28.8.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	Snow Evans	beat	Graham Wemyss	+4
+2	John Hardy	beat	Neil Bonnar	+3
+3	John Levick	beat	Neil Bonnar	+2
+4	Graham Wemyss	beat	John Hardy	+1
+5	Neil Bonnar	beat	Graham Wemyss	+5
+6	John Levick	beat	Snow Evans	+2
+7	Snow Evans	beat	John Hardy	+5
+8	John Levick	beat	Graham Wemyss	+4
+9	John Hardy	beat	John Levick	+2
+10	Neil Bonnar	beat	Snow Evans	+3
+End
+
+Event AUS Men's Block D
+Date 28-28.8.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	Peter Freer	beat	Mike Jenner	+4
+2	David Wise	beat	Mike Bertram	+4
+3	Noel Reynolds	beat	Peter Freer	+4
+4	Noel Reynolds	beat	Mike Bertram	+6
+5	Mike Jenner	beat	Mike Bertram	+3
+6	Noel Reynolds	beat	David Wise	+3
+7	Peter Freer	beat	Mike Bertram	+1
+8	Mike Jenner	beat	Noel Reynolds	+4
+9	Mike Jenner	beat	David Wise	+3
+10	David Wise	beat	Peter Freer	+3
+End
+
+Event AUS Men's Block E
+Date 28-28.8.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	Ron Schodel	beat	Fred Van Vugt	+4
+2	Jim Saunders	beat	Kim Reynolds	+2
+3	Jim Saunders	beat	Nick Macoun	+1
+4	Kim Reynolds	beat	Fred Van Vugt	+3
+5	Nick Macoun	beat	Fred Van Vugt	+1
+6	Kim Reynolds	beat	Ron Schodel	+2
+7	Jim Saunders	beat	Fred Van Vugt	+5
+8	Nick Macoun	beat	Ron Schodel	+5
+9	Jim Saunders	beat	Ron Schodel	+4
+10	Nick Macoun	beat	Kim Reynolds	+2
+End
+
+Event AUS Men's Block F
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Greg Kerswell	beat	Graham Whiteway	+2
+2	Brian Hadley	beat	John Jacob	+3
+3	Ron Johnstone	beat	Brian Rudd	+3
+4	Ron Johnstone	beat	Greg Kerswell	+1
+5	Graham Whiteway	beat	Brian Rudd	+5
+6	Ron Johnstone	beat	John Jacob	+5
+7	Graham Whiteway	beat	John Jacob	+4
+8	Greg Kerswell	beat	Brian Rudd	+4
+9	Brian Hadley	beat	Ron Johnstone	+2
+10	Brian Rudd	beat	Brian Hadley	+1
+11	Greg Kerswell	beat	John Jacob	+3
+12	Graham Whiteway	beat	Ron Johnstone	+2
+13	Brian Hadley	beat	Greg Kerswell	+2
+14	John Jacob	beat	Brian Rudd	+3
+15	Brian Hadley	beat	Graham Whiteway	+3
+End
+
+Event AUS Men's Block G
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Neil White	beat	John Compton	+3
+2	John Philpott	beat	Eric Miller	+5
+3	Neil White	beat	Chris McWhirter	+1
+4	Tony Watson	beat	John Compton	+3
+5	Chris McWhirter	beat	Eric Miller	+5
+6	John Compton	beat	Eric Miller	+2
+7	Neil White	beat	Tony Watson	+4
+8	Chris McWhirter	beat	John Philpott	+3
+9	John Philpott	beat	Tony Watson	+1
+10	Eric Miller	beat	Neil White	+2
+11	Chris McWhirter	beat	John Compton	+4
+12	Neil White	beat	John Philpott	+3
+13	Eric Miller	beat	Tony Watson	+1
+14	John Compton	beat	John Philpott	+1
+15	Chris McWhirter	beat	Tony Watson	+4
+End
+
+Event AUS Men's Block H
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Howard Wood	beat	Henry Burbury	+3
+2	Tony Hall	beat	Bruce McAlister	+3
+3	Alan Sands	beat	Leigh Campbell	+5
+4	Alan Sands	beat	Bruce McAlister	+2
+5	Henry Burbury	beat	Tony Hall	+3
+6	Alan Sands	beat	Henry Burbury	+5
+7	Leigh Campbell	beat	Bruce McAlister	+2
+8	Howard Wood	beat	Tony Hall	+4
+9	Howard Wood	beat	Leigh Campbell	+4
+10	Bruce McAlister	beat	Henry Burbury	+6
+11	Tony Hall	beat	Leigh Campbell	+3
+12	Alan Sands	beat	Howard Wood	+3
+13	Alan Sands	beat	Tony Hall	+2
+14	Howard Wood	beat	Bruce McAlister	+2
+15	Leigh Campbell	beat	Henry Burbury	+2
+End
+
+Event AUS Women's Block A
+Date 28-28.8.10
+Class 2
+Type single
+Games 21
+Order firstname
+1	Deidre Hardy	beat	Wilma Freeman	+3
+2	Lynda Davis	beat	Gwen Denehey	+4
+3	Heather White	beat	Jenny McNaught	+2
+4	Heather White	beat	Deidre Hardy	+1
+5	Lynda Davis	beat	Jenny McNaught	+4
+6	Alix Verge	beat	Gwen Denehey	+5
+7	Wilma Freeman	beat	Gwen Denehey	+2
+8	Alix Verge	beat	Jenny McNaught	+2
+9	Deidre Hardy	beat	Lynda Davis	+5
+10	Heather White	beat	Gwen Denehey	+4
+11	Alix Verge	beat	Deidre Hardy	+6
+12	Wilma Freeman	beat	Jenny McNaught	+4
+13	Alix Verge	beat	Wilma Freeman	+2
+14	Jenny McNaught	beat	Gwen Denehey	+3
+15	Lynda Davis	beat	Heather White	+3
+16	Alix Verge	beat	Lynda Davis	+7
+17	Deidre Hardy	beat	Jenny McNaught	+1
+18	Heather White	beat	Wilma Freeman	+1
+19	Deidre Hardy	beat	Gwen Denehey	+6
+20	Alix Verge	beat	Heather White	+5
+21	Lynda Davis	beat	Wilma Freeman	+4
+End
+
+Event AUS Women's Block B
+Date 28-28.8.10
+Class 2
+Type single
+Games 21
+Order firstname
+1	Robbie Stock	beat	Rosemary Newsham	+3
+2	Creina Dawson	beat	Jennifer Parrott	+4
+3	Anna Miller	beat	Wendy Prendiville	+6
+4	Anna Miller	beat	Robbie Stock	+3
+5	Creina Dawson	beat	Wendy Prendiville	+3
+6	Margaret Melville	beat	Jennifer Parrott	+2
+7	Rosemary Newsham	beat	Jennifer Parrott	+2
+8	Margaret Melville	beat	Wendy Prendiville	+2
+9	Robbie Stock	beat	Creina Dawson	+1
+10	Anna Miller	beat	Jennifer Parrott	+1
+11	Margaret Melville	beat	Robbie Stock	+2
+12	Rosemary Newsham	beat	Wendy Prendiville	+2
+13	Rosemary Newsham	beat	Margaret Melville	+2
+14	Wendy Prendiville	beat	Jennifer Parrott	+1
+15	Anna Miller	beat	Creina Dawson	+1
+16	Robbie Stock	beat	Wendy Prendiville	+1
+17	Margaret Melville	beat	Creina Dawson	+4
+18	Anna Miller	beat	Rosemary Newsham	+3
+19	Anna Miller	beat	Margaret Melville	+2
+20	Robbie Stock	beat	Jennifer Parrott	+3
+21	Creina Dawson	beat	Rosemary Newsham	+3
+End
+
+Event AUS Women's Block C
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Pam Gentle	beat	Val Saunders	+3
+2	Merryl Garrod	beat	Johanna Lowe	+2
+3	Bernie Pfitzner	beat	Willy Silk	+1
+4	Merryl Garrod	beat	Bernie Pfitzner	+2
+5	Pam Gentle	beat	Willy Silk	+4
+6	Johanna Lowe	beat	Val Saunders	+4
+7	Willy Silk	beat	Val Saunders	+4
+8	Bernie Pfitzner	beat	Johanna Lowe	+1
+9	Merryl Garrod	beat	Pam Gentle	+1
+10	Bernie Pfitzner	beat	Val Saunders	+5
+11	Merryl Garrod	beat	Willy Silk	+1
+12	Pam Gentle	beat	Johanna Lowe	+2
+13	Willy Silk	beat	Johanna Lowe	+1
+14	Bernie Pfitzner	beat	Pam Gentle	+1
+15	Val Saunders	beat	Merryl Garrod	+3
+End
+
+Event AUS Women's Block D
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Pamela Hamilton	beat	Susan Sands	+3
+2	Genny Vandersluys	beat	Robyn Compton	+6
+3	Genny Vandersluys	beat	Susan Bertram	+2
+4	Wilma Bonnar	beat	Pamela Hamilton	+3
+5	Susan Bertram	beat	Robyn Compton	+1
+6	Wilma Bonnar	beat	Susan Bertram	+2
+7	Robyn Compton	beat	Susan Sands	+2
+8	Susan Bertram	beat	Pamela Hamilton	+4
+9	Wilma Bonnar	beat	Susan Sands	+3
+10	Pamela Hamilton	beat	Genny Vandersluys	+2
+11	Wilma Bonnar	beat	Robyn Compton	+3
+12	Susan Sands	beat	Genny Vandersluys	+4
+13	Robyn Compton	beat	Pamela Hamilton	+3
+14	Wilma Bonnar	beat	Genny Vandersluys	+1
+15	Susan Sands	beat	Susan Bertram	+5
+End
+
+Event AUS Women's Block E
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Penny Jackson	beat	Barb Piggott	+3
+2	Elizabeth Allen	beat	Geraldine Trivett	+1
+3	Margar Podnieks (SA)	beat	Patsy Paine	+5
+4	Elizabeth Allen	beat	Patsy Paine	+4
+5	Barb Piggott	beat	Margar Podnieks (SA)	+5
+6	Penny Jackson	beat	Geraldine Trivett	+1
+7	Geraldine Trivett	beat	Patsy Paine	+4
+8	Elizabeth Allen	beat	Barb Piggott	+3
+9	Margar Podnieks (SA)	beat	Geraldine Trivett	+2
+10	Patsy Paine	beat	Barb Piggott	+3
+11	Barb Piggott	beat	Geraldine Trivett	+2
+12	Elizabeth Allen	beat	Penny Jackson	+5
+13	Margar Podnieks (SA)	beat	Penny Jackson	+1
+14	Elizabeth Allen	beat	Margar Podnieks (SA)	+3
+15	Patsy Paine	beat	Penny Jackson	+2
+End
+
+Event AUS Women's Block F
+Date 28-28.8.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Claire Wilson	beat	Ros Johnstone	+3
+2	Judy Evans	beat	Lee Turner	+2
+3	Sandra Boon	beat	Cynthia Tacey	+1
+4	Lee Turner	beat	Claire Wilson	+3
+5	Cynthia Tacey	beat	Judy Evans	+1
+6	Ros Johnstone	beat	Sandra Boon	+3
+7	Lee Turner	beat	Cynthia Tacey	+2
+8	Claire Wilson	beat	Sandra Boon	+1
+9	Judy Evans	beat	Ros Johnstone	+1
+10	Ros Johnstone	beat	Cynthia Tacey	+4
+11	Judy Evans	beat	Claire Wilson	+6
+12	Lee Turner	beat	Sandra Boon	+1
+13	Cynthia Tacey	beat	Claire Wilson	+3
+14	Judy Evans	beat	Sandra Boon	+4
+15	Ros Johnstone	beat	Lee Turner	+1
+End
+
+Event AUS Men's Knockout
+Date 29-31.8.10
+Class 2
+Type match
+Games 31
+Order firstname
+1		beat		+1, +1
+2		beat		-4, +3, +4
+3		beat		+2, -1, +3
+4		beat		+3, -2, +1
+5		beat		-3, +1, +5
+6		beat		-3, +5, +1
+7		beat		+7, +2
+8		beat		+3, +2
+9		beat		-1, +7, +4
+10		beat		+2, +2
+11		beat		+4, +3
+12		beat		-4, +3, +4
+13	Geoff Kingdon (TAS)	beat		+5, +3
+14		beat		-1, +3, +1
+15		beat		+4, +3
+16		beat		+3, +5
+17		beat		+1, -3, +2
+18		beat		-1, +4, +2
+19		beat		+1, -6, +4
+20		beat		-4, +2, +2
+21		beat		-6, +2, +3
+22		beat		+4, +4
+23		beat	Geoff Kingdon (TAS)	+1, +2
+24		beat		+6, +3
+25		beat		+2, -3, +2
+26		beat		+6, +4
+27		beat		-3, +1, +1
+28		beat		-4, +4, +3
+29		beat		+2, -7, +1
+30		beat		+4, +4
+31		beat		+3, -5, +4, -2, +3
+End
+
+Event AUS Men's Plate Block
+Date 29-31.8.10
+Class 2
+Type single
+Games 21
+Order firstname
+1	Tony Watson	beat	Mike Bertram	+3
+2	Eric Miller	beat	Michael Shanahan	+3
+3	Bruce McAlister	beat	Brian Rudd	+4
+4	Bruce McAlister	beat	Graham Wemyss	+1
+5	Brian Rudd	beat	Mike Bertram	+1
+6	Eric Miller	beat	Tony Watson	+2
+7	Brian Rudd	beat	Tony Watson	+5
+8	Bruce McAlister	beat	Mike Bertram	+2
+9	Michael Shanahan	beat	Graham Wemyss	+2
+10	Graham Wemyss	beat	Tony Watson	+1
+11	Michael Shanahan	beat	Brian Rudd	+1
+12	Eric Miller	beat	Mike Bertram	+2
+13	Eric Miller	beat	Bruce McAlister	+2
+14	Michael Shanahan	beat	Mike Bertram	+2
+15	Graham Wemyss	beat	Eric Miller	+4
+16	Bruce McAlister	beat	Tony Watson	+1
+17	Eric Miller	beat	Brian Rudd	+5
+18	Graham Wemyss	beat	Mike Bertram	+2
+19	Michael Shanahan	beat	Bruce McAlister	+4
+20	Tony Watson	beat	Michael Shanahan	+1
+21	Graham Wemyss	beat	Brian Rudd	+4
+End
+
+Event AUS Women's Knockout
+Date 29-31.8.10
+Class 2
+Type match
+Games 31
+Order firstname
+1		beat		+6, +4
+2		beat		+4, -6, +4
+3		beat		-3, +2, +2
+4		beat		+2, +1
+5		beat		+1, +2
+6		beat		+3, +6
+7		beat		+2, +3
+8		beat		+3, +1
+9		beat		+4, +5
+10		beat		+2, -1, +4
+11		beat		-5, +1, +3
+12		beat		+4, +6
+13		beat		+6, -2, +1
+14		beat		+3, +3
+15		beat	Margar Podnieks (SA)	+4, -2, +2
+16		beat		+4, +5
+17		beat		+3, +5
+18		beat		+2, +2
+19		beat		+1, +1
+20		beat		+2, -4, +3
+21		beat		+4, -2, +5
+22		beat		-4, +4, +3
+23		beat		+6, +3
+24		beat		+6, +1
+25		beat		+4, +4
+26		beat		+1, +3
+27		beat		+1, +4
+28		beat		+1, +1
+29		beat		+4, +6
+30		beat		+2, -1, +3
+31		beat		+4, -1, +2, -3, +3
+End
+
+Event AUS Women's Plate Block
+Date 29-31.8.10
+Class 2
+Type single
+Games 90
+Order firstname
+1	Jenny McNaught	beat	Lyn Robertson	+4
+2	Claire Wilson	beat	Wilma Freeman	+1
+3	Sandra Boon	beat	Jennifer Parrott	+1
+4	Barb Piggott	beat	Robyn Compton	+5
+5	Geraldine Trivett	beat	Wendy Prendiville	+2
+6	Patsy Paine	beat	Val Saunders	+2
+7	Cynthia Tacey	beat	Pamela Hamilton	+2
+8	Jennifer Parrott	beat	Jenny McNaught	+2
+9	Robyn Compton	beat	Patsy Paine	+2
+10	Geraldine Trivett	beat	Wilma Freeman	+3
+11	Val Saunders	beat	Lyn Robertson	+3
+12	Wendy Prendiville	beat	Sandra Boon	+3
+13	Cynthia Tacey	beat	Barb Piggott	+2
+14	Pamela Hamilton	beat	Claire Wilson	+1
+15	Wendy Prendiville	beat	Jennifer Parrott	+5
+16	Val Saunders	beat	Jenny McNaught	+1
+17	Cynthia Tacey	beat	Patsy Paine	+3
+18	Robyn Compton	beat	Lyn Robertson	+1
+19	Sandra Boon	beat	Wilma Freeman	+3
+20	Claire Wilson	beat	Barb Piggott	+1
+21	Pamela Hamilton	beat	Geraldine Trivett	+1
+22	Jenny McNaught	beat	Robyn Compton	+6
+23	Jennifer Parrott	beat	Val Saunders	+4
+24	Wendy Prendiville	beat	Wilma Freeman	+1
+25	Lyn Robertson	beat	Cynthia Tacey	+1
+26	Barb Piggott	beat	Geraldine Trivett	+2
+27	Patsy Paine	beat	Claire Wilson	+3
+28	Cynthia Tacey	beat	Jenny McNaught	+4
+29	Val Saunders	beat	Robyn Compton	+1
+30	Jennifer Parrott	beat	Wilma Freeman	+1
+31	Claire Wilson	beat	Lyn Robertson	+4
+32	Sandra Boon	beat	Pamela Hamilton	+2
+33	Patsy Paine	beat	Geraldine Trivett	+2
+34	Wendy Prendiville	beat	Pamela Hamilton	+3
+35	Barb Piggott	beat	Sandra Boon	+1
+36	Cynthia Tacey	beat	Val Saunders	+4
+37	Jennifer Parrott	beat	Robyn Compton	+5
+38	Lyn Robertson	beat	Wilma Freeman	+3
+39	Jenny McNaught	beat	Claire Wilson	+2
+40	Barb Piggott	beat	Wendy Prendiville	+4
+41	Lyn Robertson	beat	Geraldine Trivett	+1
+42	Sandra Boon	beat	Patsy Paine	+2
+43	Cynthia Tacey	beat	Robyn Compton	+1
+44	Barb Piggott	beat	Wilma Freeman	+3
+45	Val Saunders	beat	Claire Wilson	+1
+46	Claire Wilson	beat	Robyn Compton	+3
+47	Wilma Freeman	beat	Patsy Paine	+2
+48	Val Saunders	beat	Geraldine Trivett	+2
+49	Jennifer Parrott	beat	Cynthia Tacey	+1
+50	Sandra Boon	beat	Jenny McNaught	+1
+51	Lyn Robertson	beat	Wendy Prendiville	+4
+52	Barb Piggott	beat	Pamela Hamilton	+1
+53	Jennifer Parrott	beat	Pamela Hamilton	+1
+54	Barb Piggott	beat	Jennifer Parrott	+6
+55	Pamela Hamilton	beat	Patsy Paine	+2
+56	Sandra Boon	beat	Val Saunders	+2
+57	Cynthia Tacey	beat	Claire Wilson	+1
+58	Robyn Compton	beat	Geraldine Trivett	+3
+59	Wendy Prendiville	beat	Jenny McNaught	+1
+60	Barb Piggott	beat	Patsy Paine	+4
+61	Claire Wilson	beat	Jennifer Parrott	+4
+62	Jenny McNaught	beat	Wilma Freeman	+3
+63	Sandra Boon	beat	Lyn Robertson	+6
+64	Pamela Hamilton	beat	Robyn Compton	+3
+65	Wendy Prendiville	beat	Val Saunders	+1
+66	Geraldine Trivett	beat	Cynthia Tacey	+4
+67	Wendy Prendiville	beat	Patsy Paine	+7
+68	Barb Piggott	beat	Val Saunders	+4
+69	Jennifer Parrott	beat	Lyn Robertson	+2
+70	Jenny McNaught	beat	Pamela Hamilton	+2
+71	Sandra Boon	beat	Robyn Compton	+1
+72	Geraldine Trivett	beat	Claire Wilson	+6
+73	Wilma Freeman	beat	Cynthia Tacey	+1
+74	Wendy Prendiville	beat	Robyn Compton	+7
+75	Lyn Robertson	beat	Patsy Paine	+1
+76	Wilma Freeman	beat	Val Saunders	+1
+77	Geraldine Trivett	beat	Jenny McNaught	+1
+78	Claire Wilson	beat	Sandra Boon	+2
+79	Barb Piggott	beat	Lyn Robertson	+7
+80	Patsy Paine	beat	Jennifer Parrott	+3
+81	Wendy Prendiville	beat	Cynthia Tacey	+6
+82	Wilma Freeman	beat	Robyn Compton	+2
+83	Val Saunders	beat	Pamela Hamilton	+2
+84	Jenny McNaught	beat	Patsy Paine	+1
+85	Cynthia Tacey	beat	Sandra Boon	+2
+86	Geraldine Trivett	beat	Jennifer Parrott	+2
+87	Wendy Prendiville	beat	Claire Wilson	+6
+88	Pamela Hamilton	beat	Lyn Robertson	+6
+89	Barb Piggott	beat	Jenny McNaught	+2
+90	Geraldine Trivett	beat	Sandra Boon	+2
+End
+
+Event AUS Women's Y 
+Date 29-31.8.10
+Class 2
+Type match
+Games 15
+Order firstname
+1		beat		-1, +1, +2
+2		beat		+2, +2
+3		beat		-4, +3, +1
+4		beat		+2, +6
+5		beat		+4, +5
+6		beat		+5, +5
+7		beat		+1, +2
+8	Margar Podnieks (SA)	beat		+4, +4
+9		beat		-4, +4, +1
+10		beat		+2, +5
+11		beat		-4, +1, +2
+12	Margar Podnieks (SA)	beat		-4, +1, +2
+13		beat		+4, +6
+14	Margar Podnieks (SA)	beat		+2, +2
+15	Margar Podnieks (SA)	beat		+4, -5, +5
+End
+
+Event AUS Men's Y Knockout
+Date 30-31.8.10
+Class 2
+Type match
+Games 15
+Order firstname
+1		beat		-1, +2, +2
+2		beat		+5, -1, +1
+3		beat		+1, +2
+4		beat		+2, +2
+5		beat		-5, +3, +1
+6		beat		+6, +1
+7		beat		+4, +2
+8		beat		+4, +5
+9		beat		+3, +3
+10		beat		+4, +1
+11		beat		+4, +2
+12		beat		-3, +2, +2
+13		beat		+4, +4
+14		beat		+3, -1, +3
+15		beat		+2, -1, +3
+End
+
+Event AUS Men's Z Knockout
+Date 30-31.8.10
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		+4, +3
+2		beat		+3, -1, +2
+3		beat		+2, -3, +3
+4		beat	Geoff Kingdon (TAS)	+5, -3, +3
+5		beat		+4, -2, +3
+6		beat		+4, +4
+7		beat		+3, +2
+End
+
+Event AUS Women's Z
+Date 30-31.8.10
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		+3, -4, +1
+2		beat		+2, +1
+3		beat		-4, +4, +5
+4		beat		-4, +3, +2
+5		beat		-1, +2, +2
+6		beat		+1, +2
+7		beat		+2, +4
+End
+

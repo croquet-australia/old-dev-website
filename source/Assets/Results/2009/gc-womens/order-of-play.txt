@@ -1,0 +1,305 @@
+Event AUS Block A
+Date 1-2.5.09
+Class 2
+Type single
+Games 36
+Order firstname
+1	Anne Miller	beat	Rosemary Newsham	+2
+2	Christine Pont	beat	Paula Gardiner	+2
+3	Robyn Wallace	beat	Jacky McDonald	+4
+4	Susan Sands	beat	Marjorie Grant	+3
+5	Anne Miller	beat	Paula Gardiner	+1
+6	Jacky McDonald	beat	Christine Pont	+3
+7	Marjorie Grant	beat	Robyn Wallace	+3
+8	Susan Sands	beat	Val Brown	+1
+9	Anne Miller	beat	Jacky McDonald	+3
+10	Christine Pont	beat	Marjorie Grant	+2
+11	Robyn Wallace	beat	Susan Sands	+2
+12	Rosemary Newsham	beat	Val Brown	+2
+13	Marjorie Grant	beat	Anne Miller	+3
+14	Susan Sands	beat	Christine Pont	+2
+15	Val Brown	beat	Robyn Wallace	+1
+16	Rosemary Newsham	beat	Paula Gardiner	+1
+17	Susan Sands	beat	Anne Miller	+1
+18	Val Brown	beat	Christine Pont	+2
+19	Rosemary Newsham	beat	Robyn Wallace	+3
+20	Paula Gardiner	beat	Jacky McDonald	+2
+21	Anne Miller	beat	Val Brown	+5
+22	Christine Pont	beat	Rosemary Newsham	+2
+23	Paula Gardiner	beat	Robyn Wallace	+2
+24	Jacky McDonald	beat	Marjorie Grant	+3
+25	Anne Miller	beat	Christine Pont	+5
+26	Rosemary Newsham	beat	Susan Sands	+2
+27	Marjorie Grant	beat	Paula Gardiner	+5
+28	Jacky McDonald	beat	Val Brown	+1
+29	Robyn Wallace	beat	Anne Miller	+1
+30	Paula Gardiner	beat	Susan Sands	+3
+31	Marjorie Grant	beat	Val Brown	+1
+32	Rosemary Newsham	beat	Jacky McDonald	+1
+33	Christine Pont	beat	Robyn Wallace	+1
+34	Susan Sands	beat	Jacky McDonald	+4
+35	Rosemary Newsham	beat	Marjorie Grant	+2
+36	Paula Gardiner	beat	Val Brown	+4
+End
+
+Event AUS Block B
+Date 1-2.5.09
+Class 2
+Type single
+Games 45
+Order firstname
+1	Alison Wall	beat	Wilma Freeman	+2
+2	Wendy Dickson	beat	Robin Compton	+3
+3	Creina Dawson	beat	Lynda Davis	+4
+4	Nerida Taylor	beat	Tricia Devlin	+1
+5	Judith Wembridge	beat	Bernice Pfitzner	+2
+6	Alison Wall	beat	Robin Compton	+4
+7	Wendy Dickson	beat	Lynda Davis	+4
+8	Nerida Taylor	beat	Creina Dawson	+1
+9	Tricia Devlin	beat	Bernice Pfitzner	+4
+10	Judith Wembridge	beat	Wilma Freeman	+2
+11	Alison Wall	beat	Lynda Davis	+3
+12	Wendy Dickson	beat	Nerida Taylor	+3
+13	Creina Dawson	beat	Bernice Pfitzner	+4
+14	Judith Wembridge	beat	Tricia Devlin	+1
+15	Wilma Freeman	beat	Robin Compton	+5
+16	Alison Wall	beat	Nerida Taylor	+5
+17	Bernice Pfitzner	beat	Wendy Dickson	+2
+18	Creina Dawson	beat	Judith Wembridge	+2
+19	Tricia Devlin	beat	Wilma Freeman	+1
+20	Robin Compton	beat	Lynda Davis	+3
+21	Bernice Pfitzner	beat	Alison Wall	+3
+22	Wendy Dickson	beat	Judith Wembridge	+2
+23	Creina Dawson	beat	Wilma Freeman	+5
+24	Robin Compton	beat	Tricia Devlin	+3
+25	Nerida Taylor	beat	Lynda Davis	+5
+26	Judith Wembridge	beat	Alison Wall	+2
+27	Wendy Dickson	beat	Wilma Freeman	+1
+28	Creina Dawson	beat	Robin Compton	+4
+29	Tricia Devlin	beat	Lynda Davis	+5
+30	Bernice Pfitzner	beat	Nerida Taylor	+3
+31	Alison Wall	beat	Tricia Devlin	+6
+32	Creina Dawson	beat	Wendy Dickson	+1
+33	Judith Wembridge	beat	Robin Compton	+1
+34	Bernice Pfitzner	beat	Lynda Davis	+3
+35	Nerida Taylor	beat	Wilma Freeman	+1
+36	Alison Wall	beat	Creina Dawson	+2
+37	Wendy Dickson	beat	Tricia Devlin	+3
+38	Judith Wembridge	beat	Lynda Davis	+4
+39	Bernice Pfitzner	beat	Wilma Freeman	+3
+40	Nerida Taylor	beat	Robin Compton	+3
+41	Tricia Devlin	beat	Creina Dawson	+6
+42	Wendy Dickson	beat	Alison Wall	+1
+43	Nerida Taylor	beat	Judith Wembridge	+3
+44	Bernice Pfitzner	beat	Robin Compton	+2
+45	Lynda Davis	beat	Wilma Freeman	+4
+End
+
+Event AUS Block C
+Date 1-2.5.09
+Class 2
+Type single
+Games 45
+Order firstname
+1	Shirley Fahey	beat	Margaret Melville	+4
+2	Marga Podnieks	beat	Pamela Shepherd	+3
+3	Wilma Bonner	beat	Ros Johnston	+4
+4	Joanne Carmichael	beat	Jill Tainsh	+2
+5	Judy Evans	beat	Anne  Quinn	+2
+6	Margaret Melville	beat	Pamela Shepherd	+5
+7	Marga Podnieks	beat	Ros Johnston	+3
+8	Wilma Bonner	beat	Joanne Carmichael	+5
+9	Anne  Quinn	beat	Jill Tainsh	+6
+10	Judy Evans	beat	Shirley Fahey	+4
+11	Ros Johnston	beat	Margaret Melville	+4
+12	Marga Podnieks	beat	Joanne Carmichael	+3
+13	Anne  Quinn	beat	Wilma Bonner	+3
+14	Judy Evans	beat	Jill Tainsh	+1
+15	Pamela Shepherd	beat	Shirley Fahey	+3
+16	Joanne Carmichael	beat	Margaret Melville	+1
+17	Anne  Quinn	beat	Marga Podnieks	+1
+18	Judy Evans	beat	Wilma Bonner	+1
+19	Jill Tainsh	beat	Shirley Fahey	+1
+20	Ros Johnston	beat	Pamela Shepherd	+4
+21	Anne  Quinn	beat	Margaret Melville	+1
+22	Judy Evans	beat	Marga Podnieks	+2
+23	Wilma Bonner	beat	Shirley Fahey	+4
+24	Pamela Shepherd	beat	Jill Tainsh	+3
+25	Joanne Carmichael	beat	Ros Johnston	+2
+26	Margaret Melville	beat	Judy Evans	+1
+27	Marga Podnieks	beat	Shirley Fahey	+4
+28	Wilma Bonner	beat	Pamela Shepherd	+2
+29	Jill Tainsh	beat	Ros Johnston	+2
+30	Anne  Quinn	beat	Joanne Carmichael	+5
+31	Margaret Melville	beat	Jill Tainsh	+5
+32	Wilma Bonner	beat	Marga Podnieks	+4
+33	Judy Evans	beat	Pamela Shepherd	+2
+34	Anne  Quinn	beat	Ros Johnston	+3
+35	Shirley Fahey	beat	Joanne Carmichael	+4
+36	Wilma Bonner	beat	Margaret Melville	+1
+37	Marga Podnieks	beat	Jill Tainsh	+1
+38	Judy Evans	beat	Ros Johnston	+4
+39	Anne  Quinn	beat	Shirley Fahey	+3
+40	Joanne Carmichael	beat	Pamela Shepherd	+2
+41	Margaret Melville	beat	Marga Podnieks	+3`
+42	Wilma Bonner	beat	Jill Tainsh	+2
+43	Judy Evans	beat	Joanne Carmichael	+2
+44	Anne  Quinn	beat	Pamela Shepherd	+3
+45	Ros Johnston	beat	Shirley Fahey	+2
+End
+
+Event AUS Block D
+Date 1-2.5.09
+Class 2
+Type single
+Games 36
+Order firstname
+1	Rosemary  Graham	beat	Marilyn Peters	+4
+2	Pam Gentle	beat	Isabelle Howe	+2
+3	Gaye Pitman	beat	Sue Leitinger	+1
+4	Margaret Heaney	beat	Elizabeth Allen	+2
+5	Isabelle Howe	beat	Rosemary  Graham	+1
+6	Sue Leitinger	beat	Pam Gentle	+3
+7	Margaret Heaney	beat	Gaye Pitman	+1
+8	Sue Beattie	beat	Marilyn Peters	+1
+9	Rosemary  Graham	beat	Sue Leitinger	+3
+10	Pam Gentle	beat	Margaret Heaney	+2
+11	Sue Beattie	beat	Elizabeth Allen	+3
+12	Isabelle Howe	beat	Marilyn Peters	+5
+13	Margaret Heaney	beat	Rosemary  Graham	+3
+14	Sue Beattie	beat	Gaye Pitman	+3
+15	Marilyn Peters	beat	Elizabeth Allen	+1
+16	Isabelle Howe	beat	Sue Leitinger	+1
+17	Pam Gentle	beat	Sue Beattie	+2
+18	Marilyn Peters	beat	Gaye Pitman	+2
+19	Elizabeth Allen	beat	Isabelle Howe	+4
+20	Margaret Heaney	beat	Sue Leitinger	+2
+21	Rosemary  Graham	beat	Sue Beattie	+1
+22	Pam Gentle	beat	Marilyn Peters	+3
+23	Gaye Pitman	beat	Isabelle Howe	+2
+24	Sue Leitinger	beat	Elizabeth Allen	+1
+25	Rosemary  Graham	beat	Elizabeth Allen	+1
+26	Pam Gentle	beat	Gaye Pitman	+5
+27	Isabelle Howe	beat	Sue Beattie	+5
+28	Marilyn Peters	beat	Margaret Heaney	+1
+29	Rosemary  Graham	beat	Gaye Pitman	+6
+30	Pam Gentle	beat	Elizabeth Allen	+2
+31	Sue Leitinger	beat	Sue Beattie	+4
+32	Margaret Heaney	beat	Isabelle Howe	+6
+33	Rosemary  Graham	beat	Pam Gentle	+5
+34	Elizabeth Allen	beat	Gaye Pitman	+5
+35	Sue Beattie	beat	Margaret Heaney	+2
+36	Sue Leitinger	beat	Marilyn Peters	+2
+End
+
+Event AUS Knockout
+Date 2-4.5.09
+Class 2
+Type match
+Games 31
+Order firstname
+1	Anne  Quinn	beat	Joanne Carmichael	+1, -1, +2
+2	Tricia Devlin	beat	Sue Leitinger	+1, +1
+3	Susan Sands	beat	Jacky McDonald	+3, -2, +5
+4	Alison Wall	beat	Sue Beattie	+4, -3, +2
+5	Pam Gentle	beat	Nerida Taylor	+2, +2
+6	Wilma Bonner	beat	Robin Compton	+3, +6
+7	Marjorie Grant	beat	Ros Johnston	+3, +4
+8	Wendy Dickson	beat	Judith Wembridge	-2, +3, +3
+9	Isabelle Howe	beat	Rosemary Newsham	+2, -2, +1
+10	Marga Podnieks	beat	Shirley Fahey	+3, +2
+11	Creina Dawson	beat	Marilyn Peters	+3, -2, +3
+12	Christine Pont	beat	Judy Evans	+3, +1
+13	Anne Miller	beat	Margaret Melville	+1, +2
+14	Margaret Heaney	beat	Elizabeth Allen	+5, -2, +5
+15	Bernice Pfitzner	beat	Robyn Wallace	+5, +2
+16	Rosemary  Graham	beat	Paula Gardiner	+2, +2
+17	Tricia Devlin	beat	Anne  Quinn	-3, +3, +3
+18	Alison Wall	beat	Susan Sands	+1, -1, +6
+19	Pam Gentle	beat	Wilma Bonner	+2, +4
+20	Wendy Dickson	beat	Marjorie Grant	+4, +6
+21	Marga Podnieks	beat	Isabelle Howe	+3, -1, +2
+22	Creina Dawson	beat	Christine Pont	+2, -4, +2
+23	Margaret Heaney	beat	Anne Miller	+2, -2, +5
+24	Rosemary  Graham	beat	Bernice Pfitzner	+4, +2
+25	Alison Wall	beat	Tricia Devlin	+1, -2, +3
+26	Wendy Dickson	beat	Pam Gentle	+3, -5, +1
+27	Creina Dawson	beat	Marga Podnieks	+2, +3
+28	Rosemary  Graham	beat	Margaret Heaney	+4, +6
+29	Wendy Dickson	beat	Alison Wall	+3, -2, +3
+30	Rosemary  Graham	beat	Creina Dawson	+2, -2, +2
+31	Rosemary  Graham	beat	Wendy Dickson	+2, +2
+End
+
+Event AUS Plate
+Date 2-2.5.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Wilma Freeman	beat	Val Brown	+3
+2	Lynda Davis	beat	Pamela Shepherd	+2
+3	Gaye Pitman	beat	Jill Tainsh	+6
+4	Pamela Shepherd	beat	Val Brown	+1
+5	Wilma Freeman	beat	Jill Tainsh	+2
+6	Gaye Pitman	beat	Lynda Davis	+3
+7	Jill Tainsh	beat	Lynda Davis	+4
+8	Gaye Pitman	beat	Val Brown	+4
+9	Wilma Freeman	beat	Pamela Shepherd	+5
+10	Gaye Pitman	beat	Pamela Shepherd	+6
+11	Lynda Davis	beat	Wilma Freeman	+3
+12	Jill Tainsh	beat	Val Brown	+4
+13	Gaye Pitman	beat	Wilma Freeman	+5
+14	Jill Tainsh	beat	Pamela Shepherd	+1
+15	Val Brown	beat	Lynda Davis	+2
+End
+
+Event AUS  Y Knockout
+Date 3-4.5.09
+Class 2
+Type match
+Games 15
+Order firstname
+1	Sue Leitinger	beat	Joanne Carmichael	+3, +4
+2	Jacky McDonald	beat	Sue Beattie	-4, +1, +3
+3	Nerida Taylor	beat	Robin Compton	+3, +4
+4	Judith Wembridge	beat	Ros Johnston	+4, +2
+5	Rosemary Newsham	beat	Shirley Fahey	+4, +1
+6	Judy Evans	beat	Marilyn Peters	+3, +3
+7	Elizabeth Allen	beat	Margaret Melville	+1, -2, +1
+8	Paula Gardiner	beat	Robyn Wallace	-5, +2, +3
+9	Sue Leitinger	beat	Jacky McDonald	+4, -2, +3
+10	Judith Wembridge	beat	Nerida Taylor	+2, +3
+11	Judy Evans	beat	Rosemary Newsham	+2, -1, +1
+12	Elizabeth Allen	beat	Paula Gardiner	-2, +1, +3
+13	Sue Leitinger	beat	Judith Wembridge	+3, -4, +3
+14	Judy Evans	beat	Elizabeth Allen	+2, +2
+15	Sue Leitinger	beat	Judy Evans	+2, +4
+End
+
+Event AUS Fifth
+Date 3-4.5.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Tricia Devlin	beat	Pam Gentle	-1, +3, +3
+2	Marga Podnieks	beat	Margaret Heaney	+4, +2
+3	Tricia Devlin	beat	Marga Podnieks	+6, +3
+End
+
+Event AUS Z Knockout
+Date 3-4.5.09
+Class 2
+Type match
+Games 7
+Order firstname
+1	Susan Sands	beat	Anne  Quinn	+3, +1
+2	Wilma Bonner	beat	Marjorie Grant	+1, +3
+3	Christine Pont	beat	Isabelle Howe	-4, 0
+4	Anne Miller	beat	Bernice Pfitzner	+3, +2
+5	Wilma Bonner	beat	Susan Sands	-1, +2, +2
+6	Christine Pont	beat	Anne Miller	-2, +4, +2
+7	Christine Pont	beat	Wilma Bonner	+2, +1
+End
+

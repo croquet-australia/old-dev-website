@@ -1,0 +1,483 @@
+Event AUS Gold & Silver Medal
+Date 17-19.3.10
+Class 1
+Type single
+Games 30
+Order firstname
+1	Paddy Chapman	beat	Robert Fletcher	+26TP
+2	Peter Landrebe	beat	Bob Beattie	+11
+3	Martin Clarke	beat	Jocelyn Sutton	+3TP
+4	Robert Fletcher	beat	Bob Beattie	+26TP
+5	Paddy Chapman	beat	Martin Clarke	+5
+6	Peter Landrebe	beat	Jocelyn Sutton	+8
+7	Martin Clarke	beat	Bob Beattie	+24TP
+8	Peter Landrebe	beat	Robert Fletcher	+2TPO
+9	Paddy Chapman	beat	Jocelyn Sutton	+13TPO
+10	Peter Landrebe	beat	Martin Clarke	+26TP
+11	Paddy Chapman	beat	Bob Beattie	+25TP
+12	Robert Fletcher	beat	Jocelyn Sutton	+18TP
+13	Paddy Chapman	beat	Peter Landrebe	+24TP
+14	Robert Fletcher	beat	Martin Clarke	+15
+15	Jocelyn Sutton	beat	Bob Beattie	+21
+16	Robert Fletcher	beat	Paddy Chapman	+17
+17	Martin Clarke	beat	Jocelyn Sutton	+21TP
+18	Peter Landrebe	beat	Bob Beattie	+8
+19	Paddy Chapman	beat	Martin Clarke	+19
+20	Peter Landrebe	beat	Jocelyn Sutton	+8TP
+21	Robert Fletcher	beat	Bob Beattie	+8
+22	Martin Clarke	beat	Bob Beattie	+17TP
+23	Robert Fletcher	beat	Peter Landrebe	+18TP
+24	Paddy Chapman	beat	Jocelyn Sutton	+26TP
+25	Peter Landrebe	beat	Martin Clarke	+17TP
+26	Paddy Chapman	beat	Bob Beattie	+14
+27	Robert Fletcher	beat	Jocelyn Sutton	+26TP
+28	Paddy Chapman	beat	Peter Landrebe	+20
+29	Robert Fletcher	beat	Martin Clarke	+26TP
+30	Jocelyn Sutton	beat	Bob Beattie	+11
+End
+
+Event AUS Men's Open
+Date 20-23.3.10
+Class 1
+Type match
+Games 47
+Order firstname
+1	Paddy Chapman	beat	Neil Hardie	+23TP, +26SXP
+2	Greg Fletcher	beat	Peter Rich	+26TP, +24TP
+3	Dean Paterson	beat	Robin Shenton	+26, -10, +22
+4	Chris McWhirter	beat	Peter Freer	+12, +21TP
+5	Ernie Melville	beat	Roger Bowles	+23, +24
+6	Les Watson	beat	Kenn Boal	+24, +2
+7	John Levick	beat	Doug Amey	+16, +26TP
+8	Tony Hall	beat	David Wise	+9, +23
+9	Martin Clarke	beat	Snow Evans	+26TP, +19
+10	Gil Schupelius	beat	Rob McAdam	-22, +25, +13
+11	Greg Bury	beat	Bob Beattie	+13, +26
+12	Malcolm Fletcher	beat	Gareth Bushill	+25, +17
+13	Martyn Prins	beat	Jock Capobianco	+17, +25TP
+14	Albert Rutten	beat	Mike Hughes	+21, +6
+15	Alan Walsh	beat	Keith McLeod	+21, +15
+16	Jim Nicholls	beat	Brad Maguire	+8, +23
+17	Paddy Chapman	beat	Eric Ayling	+22, +21TP
+18	Alan Sands	beat	Greg Fletcher	+17, -16, +11
+19	John Hardy	beat	Dean Paterson	+3, -26, +10
+20	Simon Watkins	beat	Chris McWhirter	-3TP, +14, +12
+21	Peter Landrebe	beat	Ernie Melville	+26, +21
+22	Les Watson	beat	Ken Edwards	+2, +26
+23	Roger Buddle	beat	John Levick	+11, -23, +8
+24	Stephen Forster	beat	Tony Hall	+16TP, +26TP
+25	Martin Clarke	beat	Alan Honey	+23, +16
+26	Tim Murphy	beat	Gil Schupelius	+10, +3
+27	Greg Bury	beat	Malcolm Fletcher	-4, +12, +2
+28	Trevor Bassett	beat	Terry Ericson	+4, -5, +6
+29	Kevin Beard	beat	Martyn Prins	+21TP, +26
+30	Ken Bald	beat	Albert Rutten	-3, +18TP, +24
+31	Alan Walsh	beat	Ian Bassett	-23, +9, +5
+32	Robert Fletcher	beat	Jim Nicholls	+25TP, -26, +26TP
+33	Paddy Chapman	beat	Alan Sands	-14, +17TP, +20
+34	John Hardy	beat	Simon Watkins	+16, +22
+35	Peter Landrebe	beat	Les Watson	+23, +17
+36	Stephen Forster	beat	Roger Buddle	+24TP, +26TP
+37	Martin Clarke	beat	Tim Murphy	+22TP, +26
+38	Trevor Bassett	beat	Greg Bury	+17TP, +4
+39	Ken Bald	beat	Kevin Beard	+17TP, -14, +16
+40	Robert Fletcher	beat	Alan Walsh	+26TP, +20TP
+41	Paddy Chapman	beat	John Hardy	+20, +25
+42	Stephen Forster	beat	Peter Landrebe	-19, +17, +14
+43	Trevor Bassett	beat	Martin Clarke	-25, +17TP, +23
+44	Robert Fletcher	beat	Ken Bald	+17, -17, +5TP
+45	Paddy Chapman	beat	Stephen Forster	+26TP, +26TP
+46	Robert Fletcher	beat	Trevor Bassett	+9TP, -25, +17TP
+47	Paddy Chapman	beat	Robert Fletcher	+26TP, -9OTP, +20tp, -14, +26STP
+End
+
+Event AUS Women's Open
+Date 20-23.3.10
+Class 1
+Type match
+Games 31
+Order firstname
+1	Miranda Morgan	beat	Wendy Prendiville	+21, +26
+2	Sue Leitinger	beat	Pam Gentle	+24, -4, +4
+3	Sue Beattie	beat	Norma Amey	+19, +16
+4	Alix Verge	beat	Rosemary Newsham	+26, +25
+5	Rosemary Graham	beat	Elaine Roomes	+25, +24
+6	Alison Sharpe	beat	Jannine Hawker	+23, +26
+7	Helen Collins	beat	Creina Dawson	-14, +16, +13
+8	Claire Bassett	beat	Helen Eagle	+17, +12
+9	Margaret Melville	beat	Pam Hamilton	+18, +20
+10	Wendy Dickson	beat	Sandra Stevenson	+7, +23
+11	Tricia Devlin	beat	Megan Reynolds	+3, +26
+12	Judy Wembridge	beat	Cynthia Tacey	+10, +18
+13	Charlotte Morgan	beat	Anne Quinn	+16, +20
+14	Deidre Hardy	beat	Judy Evans	+4, -4, +10
+15	Willi Silk	beat	Liz Bassett	+8, +16
+16	Jocelyn Sutton	beat	Elizabeth Brinsdon	+18, +25QP
+17	Miranda Morgan	beat	Sue Leitinger	+16, -1, +9
+18	Alix Verge	beat	Sue Beattie	+6, -12, +26
+19	Rosemary Graham	beat	Alison Sharpe	-25, +15, +26
+20	Claire Bassett	beat	Helen Collins	+20, +8
+21	Margaret Melville	beat	Wendy Dickson	+26, +20
+22	Tricia Devlin	beat	Judy Wembridge	+23, +6
+23	Charlotte Morgan	beat	Deidre Hardy	+16, +19
+24	Jocelyn Sutton	beat	Willi Silk	+16TP, +23
+25	Miranda Morgan	beat	Alix Verge	+19, +20
+26	Rosemary Graham	beat	Claire Bassett	+10, -14, +7
+27	Tricia Devlin	beat	Margaret Melville	+14, +6
+28	Jocelyn Sutton	beat	Charlotte Morgan	+2, +20
+29	Miranda Morgan	beat	Rosemary Graham	+26, +17
+30	Jocelyn Sutton	beat	Tricia Devlin	+5, +16
+31	Miranda Morgan	beat	Jocelyn Sutton	+25, -15, +8
+End
+
+Event AUS Men's Open - Plate 1
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Keith McLeod	beat	Kenn Boal	+11
+2	Bob Beattie	beat	Peter Rich	+25
+3	Eric Ayling	beat	Ernie Melville	+5
+4	Alan Honey	beat	Martyn Prins	+17
+5	Kenn Boal	beat	Peter Rich	+26TP
+6	Ernie Melville	beat	Alan Honey	+21
+7	Martyn Prins	beat	Eric Ayling	+15
+8	Keith McLeod	beat	Bob Beattie	+7
+9	Eric Ayling	beat	Keith McLeod	+1
+10	Kenn Boal	beat	Martyn Prins	+10
+11	Ernie Melville	beat	Bob Beattie	+1
+12	Alan Honey	beat	Peter Rich	+4
+13	Bob Beattie	beat	Martyn Prins	+10
+14	Eric Ayling	beat	Peter Rich	+26
+15	Alan Honey	beat	Keith McLeod	+22
+16	Kenn Boal	beat	Ernie Melville	+13
+17	Kenn Boal	beat	Alan Honey	+9
+18	Martyn Prins	beat	Keith McLeod	+22TP
+19	Ernie Melville	beat	Peter Rich	+15
+20	Bob Beattie	beat	Eric Ayling	+2
+21	Ernie Melville	beat	Keith McLeod	+4
+22	Bob Beattie	beat	Alan Honey	+1
+23	Kenn Boal	beat	Eric Ayling	+1
+24	Martyn Prins	beat	Peter Rich	+23OP
+25	Alan Honey	beat	Eric Ayling	+20
+26	Keith McLeod	beat	Peter Rich	+13
+27	Ernie Melville	beat	Martyn Prins	+16
+28	Kenn Boal	beat	Bob Beattie	+18
+End
+
+Event AUS Men's Open - Plate 2
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Albert Rutten	beat	Gil Schupelius	+9
+2	David Wise	beat	Brad Maguire	+20
+3	Gareth Bushill	beat	Robin Shenton	+17
+4	Ken Edwards	beat	Liz Bassett	+16
+5	David Wise	beat	Robin Shenton	+25
+6	Ken Edwards	beat	Gil Schupelius	+17
+7	Albert Rutten	beat	Liz Bassett	+22
+8	Gareth Bushill	beat	Brad Maguire	+16
+9	Brad Maguire	beat	Liz Bassett	+20
+10	Albert Rutten	beat	David Wise	+14
+11	Gareth Bushill	beat	Ken Edwards	+2
+12	Gil Schupelius	beat	Robin Shenton	+12
+13	Albert Rutten	beat	Gareth Bushill	+10
+14	Robin Shenton	beat	Liz Bassett	+1
+15	Gil Schupelius	beat	Brad Maguire	+16
+16	Ken Edwards	beat	David Wise	+13
+17	Gil Schupelius	beat	David Wise	+6
+18	Albert Rutten	beat	Brad Maguire	+13
+19	Ken Edwards	beat	Robin Shenton	+3
+20	Liz Bassett	beat	Gareth Bushill	+8
+21	Ken Edwards	beat	Brad Maguire	+17
+22	Gil Schupelius	beat	Gareth Bushill	+15
+23	David Wise	beat	Liz Bassett	+6
+24	Albert Rutten	beat	Robin Shenton	+23
+25	Gil Schupelius	beat	Liz Bassett	+9
+26	Brad Maguire	beat	Robin Shenton	+19
+27	Ken Edwards	beat	Albert Rutten	+5
+28	Gareth Bushill	beat	David Wise	+15
+End
+
+Event AUS Men's Open - Plate 3
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Neil Hardie	beat	Snow Evans	+2
+2	Jock Capobianco	beat	Peter Freer	+5
+3	John Levick	beat	Malcolm Fletcher	+22
+4	Ian Bassett	beat	Dean Paterson	+20
+5	Snow Evans	beat	Peter Freer	+2
+6	John Levick	beat	Dean Paterson	+10
+7	Ian Bassett	beat	Malcolm Fletcher	+23TP
+8	Jock Capobianco	beat	Neil Hardie	+10
+9	Malcolm Fletcher	beat	Neil Hardie	+25
+10	Ian Bassett	beat	Snow Evans	+17
+11	John Levick	beat	Jock Capobianco	+12
+12	Peter Freer	beat	Dean Paterson	+13
+13	Ian Bassett	beat	Jock Capobianco	+26
+14	Malcolm Fletcher	beat	Peter Freer	+21
+15	Dean Paterson	beat	Neil Hardie	+24
+16	John Levick	beat	Snow Evans	+16
+17	Dean Paterson	beat	Snow Evans	+19
+18	Ian Bassett	beat	Neil Hardie	+17
+19	John Levick	beat	Peter Freer	+2
+20	Malcolm Fletcher	beat	Jock Capobianco	+10
+21	John Levick	beat	Neil Hardie	+14
+22	Dean Paterson	beat	Jock Capobianco	+14
+23	Malcolm Fletcher	beat	Snow Evans	+13
+24	Ian Bassett	beat	Peter Freer	+26
+25	Dean Paterson	beat	Malcolm Fletcher	+8
+26	Neil Hardie	beat	Peter Freer	+20
+27	John Levick	beat	Ian Bassett	+16
+28	Jock Capobianco	beat	Snow Evans	+21
+End
+
+Event AUS Men's Open - Plate 4
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Terry Ericson	beat	Jim Nicholls	+25
+2	Rob McAdam	beat	Judy Evans	+10
+3	Mike Hughes	beat	Roger Bowles	+22
+4	Tony Hall	beat	Chris McWhirter	+25TP
+5	Rob McAdam	beat	Roger Bowles	+16
+6	Terry Ericson	beat	Tony Hall	+10
+7	Chris McWhirter	beat	Jim Nicholls	+26
+8	Mike Hughes	beat	Judy Evans	+8
+9	Chris McWhirter	beat	Judy Evans	+16
+10	Rob McAdam	beat	Jim Nicholls	+16
+11	Tony Hall	beat	Mike Hughes	+4
+12	Terry Ericson	beat	Roger Bowles	+25
+13	Jim Nicholls	beat	Mike Hughes	+2
+14	Chris McWhirter	beat	Roger Bowles	+18
+15	Judy Evans	beat	Terry Ericson	+1
+16	Tony Hall	beat	Rob McAdam	+10TPO
+17	Terry Ericson	beat	Rob McAdam	+23
+18	Judy Evans	beat	Jim Nicholls	+18
+19	Tony Hall	beat	Roger Bowles	+21
+20	Chris McWhirter	beat	Mike Hughes	+4TPO
+21	Tony Hall	beat	Judy Evans	+15
+22	Mike Hughes	beat	Terry Ericson	+4
+23	Chris McWhirter	beat	Rob McAdam	+26tp
+24	Jim Nicholls	beat	Roger Bowles	+17
+25	Chris McWhirter	beat	Terry Ericson	+23
+26	Judy Evans	beat	Roger Bowles	+21
+27	Jim Nicholls	beat	Tony Hall	+12
+28	Rob McAdam	beat	Mike Hughes	+6
+End
+
+Event AUS Men's Open - Y (9th to 16th)
+Date 21-23.3.10
+Class 2
+Type match
+Games 7
+Order firstname
+1	Simon Watkins	beat	Alan Sands	-21, +2, +3
+2	Les Watson	beat	Roger Buddle	+23, +26TP
+3	Tim Murphy	beat	Greg Bury	+3, +3
+4	Alan Walsh	beat	Kevin Beard	-23, +12, +2
+5	Simon Watkins	beat	Les Watson	+21, +26
+6	Tim Murphy	beat	Alan Walsh	-9, +18, +6
+7	Tim Murphy	beat	Simon Watkins	+16, +3TP
+End
+
+Event AUS Men's Open - Z (5th to 8th)
+Date 21-23.3.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Peter Landrebe	beat	John Hardy	+25, +14
+2	Ken Bald	beat	Martin Clarke	-26, +3, +26TP
+3	Ken Bald	beat	Peter Landrebe	+16, +2OTP
+End
+
+Event AUS Women's Open - Plate 1
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Coral Broun	beat	Wendy Prendiville	+5
+2	Creina Dawson	beat	Pam Hamilton	+22
+3	Megan Reynolds	beat	Elaine Roomes	+5
+4	Norma Amey	beat	Jenny McNaught	+1
+5	Megan Reynolds	beat	Creina Dawson	+2
+6	Wendy Prendiville	beat	Jenny McNaught	+3
+7	Coral Broun	beat	Norma Amey	+2
+8	Pam Hamilton	beat	Elaine Roomes	+1
+9	Pam Hamilton	beat	Norma Amey	+7
+10	Creina Dawson	beat	Coral Broun	+23
+11	Elaine Roomes	beat	Jenny McNaught	+11
+12	Megan Reynolds	beat	Wendy Prendiville	+24
+13	Elaine Roomes	beat	Coral Broun	+16
+14	Norma Amey	beat	Megan Reynolds	+24
+15	Wendy Prendiville	beat	Pam Hamilton	+11
+16	Creina Dawson	beat	Jenny McNaught	+24
+17	Creina Dawson	beat	Wendy Prendiville	+22
+18	Coral Broun	beat	Pam Hamilton	+1
+19	Megan Reynolds	beat	Jenny McNaught	+10
+20	Elaine Roomes	beat	Norma Amey	+1
+21	Pam Hamilton	beat	Jenny McNaught	+5
+22	Elaine Roomes	beat	Wendy Prendiville	+17
+23	Creina Dawson	beat	Norma Amey	+23
+24	Megan Reynolds	beat	Coral Broun	+5
+25	Norma Amey	beat	Wendy Prendiville	+12
+26	Megan Reynolds	beat	Pam Hamilton	+5
+27	Jenny McNaught	beat	Coral Broun	+8
+28	Elaine Roomes	beat	Creina Dawson	+3
+End
+
+Event AUS Women's Open - Plate 2
+Date 21-22.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Elizabeth Brinsdon	beat	Pam Gentle	+15
+2	Sandra Stevenson	beat	Helen Eagle	+3
+3	Jannine Hawker	beat	Cynthia Tacey	+23
+4	Rosemary Newsham	beat	Anne Quinn	+23
+5	Helen Eagle	beat	Cynthia Tacey	+3
+6	Anne Quinn	beat	Pam Gentle	+6
+7	Rosemary Newsham	beat	Elizabeth Brinsdon	+8
+8	Jannine Hawker	beat	Sandra Stevenson	+18
+9	Sandra Stevenson	beat	Rosemary Newsham	+7
+10	Helen Eagle	beat	Elizabeth Brinsdon	+6
+11	Anne Quinn	beat	Jannine Hawker	+6
+12	Cynthia Tacey	beat	Pam Gentle	+20
+13	Jannine Hawker	beat	Elizabeth Brinsdon	+13
+14	Cynthia Tacey	beat	Rosemary Newsham	+20
+15	Sandra Stevenson	beat	Pam Gentle	+6
+16	Anne Quinn	beat	Helen Eagle	+9
+17	Helen Eagle	beat	Pam Gentle	+17
+18	Sandra Stevenson	beat	Elizabeth Brinsdon	+19
+19	Anne Quinn	beat	Cynthia Tacey	+11
+20	Jannine Hawker	beat	Rosemary Newsham	+14
+21	Sandra Stevenson	beat	Anne Quinn	+4
+22	Pam Gentle	beat	Jannine Hawker	+4
+23	Rosemary Newsham	beat	Helen Eagle	+20
+24	Cynthia Tacey	beat	Elizabeth Brinsdon	+2
+25	Pam Gentle	beat	Rosemary Newsham	+8
+26	Sandra Stevenson	beat	Cynthia Tacey	+15
+27	Anne Quinn	beat	Elizabeth Brinsdon	+7
+28	Jannine Hawker	beat	Helen Eagle	+18
+End
+
+Event AUS Women's Open - Y (9th to 16th)
+Date 21-23.3.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	Willi Silk	beat	Deidre Hardy	+1
+2	Wendy Dickson	beat	Helen Collins	+3
+3	Judy Wembridge	beat	Alison Sharpe	+9
+4	Sue Beattie	beat	Sue Leitinger	+26
+5	Judy Wembridge	beat	Helen Collins	+11
+6	Alison Sharpe	beat	Wendy Dickson	+24
+7	Deidre Hardy	beat	Sue Leitinger	+26
+8	Sue Beattie	beat	Willi Silk	+18
+9	Willi Silk	beat	Helen Collins	+9
+10	Alison Sharpe	beat	Sue Leitinger	+26
+11	Judy Wembridge	beat	Deidre Hardy	+6
+12	Wendy Dickson	beat	Sue Beattie	+13
+13	Alison Sharpe	beat	Willi Silk	+9
+14	Judy Wembridge	beat	Sue Beattie	+15
+15	Wendy Dickson	beat	Deidre Hardy	+7
+16	Helen Collins	beat	Sue Leitinger	+26
+17	Helen Collins	beat	Deidre Hardy	+2
+18	Wendy Dickson	beat	Willi Silk	+6
+19	Judy Wembridge	beat	Sue Leitinger	+26
+20	Sue Beattie	beat	Alison Sharpe	+6
+21	Wendy Dickson	beat	Sue Leitinger	+26
+22	Alison Sharpe	beat	Deidre Hardy	+16
+23	Sue Beattie	beat	Helen Collins	+20
+24	Judy Wembridge	beat	Willi Silk	+1
+25	Deidre Hardy	beat	Sue Beattie	+17
+26	Judy Wembridge	beat	Wendy Dickson	+2
+27	Willi Silk	beat	Sue Leitinger	+26
+28	Alison Sharpe	beat	Helen Collins	+26
+End
+
+Event AUS Men's Open - 13th to 16th
+Date 22-23.3.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Alan Sands	beat	Roger Buddle	+12TP, +21
+2	Kevin Beard	beat	Greg Bury	+5tp, +22
+3	Alan Sands	beat	Kevin Beard	+17, +4
+End
+
+Event AUS Men's Open - Plate Final
+Date 22-23.3.10
+Class 2
+Type match
+Games 7
+Order firstname
+1	Kenn Boal	beat	Terry Ericson	+14
+2	John Levick	beat	Ken Edwards	+17
+3	Chris McWhirter	beat	Ian Bassett	+18TP
+4	Albert Rutten	beat	Ernie Melville	+9
+5	John Levick	beat	Kenn Boal	+24
+6	Albert Rutten	beat	Chris McWhirter	+26
+7	John Levick	beat	Albert Rutten	+18
+End
+
+Event AUS Women's Open - Plate Final
+Date 22-23.3.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Jannine Hawker	beat	Megan Reynolds	+25
+2	Creina Dawson	beat	Sandra Stevenson	+26
+3	Creina Dawson	beat	Jannine Hawker	+17
+End
+
+Event AUS Women's Open - Z (5th to 8th)
+Date 22-23.3.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Alix Verge	beat	Claire Bassett	-22, +6, +16
+End
+
+Event AUS Men's Open - 3rd & 4th
+Date 23-23.3.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Stephen Forster	beat	Trevor Bassett	+23, -26TP, +17TP
+End
+
+Event AUS Men's Open - 7th & 8th
+Date 23-23.3.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Martin Clarke	beat	John Hardy	+24TP, +22TP
+End
+
+Event AUS Women's Open - 3rd & 4th
+Date 23-23.3.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Rosemary Graham	beat	Tricia Devlin	+12, +20
+End
+

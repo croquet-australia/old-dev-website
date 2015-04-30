@@ -1,0 +1,420 @@
+Event AUS New South Wales v South Australia
+Date 24-24.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Verge	beat	M Morgan & G Howell	+23
+2	R Stock & A Sharpe	beat	B Hooper & K Chynoweth	+17
+3	Rosemary Graham	beat	Gloria Howell	+3
+4	Robyn Stock	beat	Miranda Morgan	+5
+5	Kay Chenoweth	beat	Alix Verge	+14
+6	Alison Sharp	beat	Barbara Hooper	+14
+7	Rosemary Graham	beat	Miranda Morgan	+26
+8	Robyn Stock	beat	Gloria Howell	+16
+9	Barbara Hooper	beat	Alix Verge	+7
+10	Alison Sharp	beat	Kay Chenoweth	+13
+11	P Chapman &  R Buddle	beat	P Landrebe & J Levick	+14OTP
+12	G Schupelius & D McCormick	beat	T Murphy & K Edwards	+9
+13	Peter Lambrebe	beat	Gil Schupelius	+26
+14	Paddy Chapman	beat	John Levick	+11TP
+15	Roger Buddle	beat	Tim Murphy	+12
+16	Ken Edwards	beat	Dwayne McCormick	+18
+17	Paddy Chapman	beat	Peter Lambrebe	+26TP
+18	Gil Schupelius	beat	John Levick	+24
+19	Tim Murphy	beat	Dwayne McCormick	+15
+20	Ken Edwards	beat	Roger Buddle	+1
+End
+
+Event AUS Queensland v Western Australia
+Date 24-24.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Sutton & M Melville	beat	J Hawker & H Collins	+26
+2	D Hardy & W Silk	beat	M Reynolds & S Stevenson	+3
+3	Jocelyn Sutton	beat	Helen Collins	+20
+4	Margaret Melville	beat	Jeanine Hawker	+18
+5	Megan Reynolds	beat	Deidre Hardy	+7
+6	Willi Silk	beat	Sandra Stevenson	+3
+7	Jocelyn Sutton	beat	Jeanine Hawker	+21tp
+8	Margaret Melville	beat	Helen Collins	+12
+9	Sandra Stevenson	beat	Deidre Hardy	+4
+10	Willi Silk	beat	Megan Reynolds	+20
+11	J Newcombe & A Sands	beat	L Watson & J Hardy	+24
+12	M Clarke & C McWhirter	beat	G Bury & T Ericson	+1
+13	Les Watson	beat	Jeff Newcombe	+23
+14	Martin  Clarke	beat	John Hardy	+25tp
+15	Chris McWhirter	beat	Greg Bury	+17
+16	Terry Ericson	beat	Alan  Sands	+5
+17	Les Watson	beat	Martin  Clarke	+26TP
+18	Jeff Newcombe	beat	John Hardy	+20
+19	Alan  Sands	beat	Greg Bury	+21
+20	Terry Ericson	beat	Chris McWhirter	+16
+End
+
+Event AUS Victoria v Tasmania
+Date 24-24.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Wembridge & S Leitinger	beat	S Beattie & P Hamilton	+1
+2	T Devlin & W Dickson	beat	C Bamford & E Brinsdon	+17
+3	Judith Wembridge	beat	Claire Bamford	+21
+4	Sue Beattie	beat	Patricia Devlin	+22
+5	Elaine Roomes	beat	Wendy Dixon	+5
+6	Sue Leitinger	beat	Pam Hamilton	+20
+7	Sue Beattie	beat	Judith Wembridge	+1
+8	Patricia Devlin	beat	Claire Bamford	+26
+9	Pam Hamilton	beat	Wendy Dixon	+2
+10	Elaine Roomes	beat	Sue Leitinger	+7
+11	S Forster &  R Fletcher	beat	M Fletcher & R McAdam	+23TP(SF)
+12	K Beard & S Watkins	beat	B Beattie & R Bowles	+24
+13	Robert Fletcher	beat	Rob McAdam	+26TP
+14	Stephen Foster	beat	Malcolm Fletcher	+26TP
+15	Kevin Beard	beat	Roger Bowles	+20
+16	Simon Watkins	beat	Bob Beattie	+19
+17	Robert Fletcher	beat	Malcolm Fletcher	+24TP
+18	Stephen Foster	beat	Rob McAdam	+17
+19	Kevin Beard	beat	Bob Beattie	+26
+20	Simon Watkins	beat	Roger Bowles	+26
+End
+
+Event AUS New South Wales v Western Australia
+Date 25-25.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Verge	beat	J Hawker & H Collins	+26
+2	R Stock & A Sharpe	beat	M Reynolds & S Stevenson	+5
+3	Rosemary Graham	beat	Helen Collins	+20
+4	Robyn Stock	beat	Jeanine Hawker	+5
+5	Alix Verge	beat	Megan Reynolds	+11
+6	Alison Sharp	beat	Sandra Stevenson	+20
+7	Rosemary Graham	beat	Jeanine Hawker	+4
+8	Helen Collins	beat	Robyn Stock	+21
+9	Alix Verge	beat	Sandra Stevenson	+17
+10	Alison Sharp	beat	Megan Reynolds	+16
+11	P Landrebe & J Levick	beat	J Newcombe & A Sands	+3
+12	M Clarke & C McWhirter	beat	T Murphy & K Edwards	+17
+13	Peter Lambrebe	beat	Jeff Newcombe	+26
+14	Martin  Clarke	beat	John Levick	+26TP
+15	Chris McWhirter	beat	Tim Murphy	+14
+16	Alan  Sands	beat	Ken Edwards	+1
+17	Martin  Clarke	beat	Peter Lambrebe	+9
+18	John Levick	beat	Jeff Newcombe	+4
+19	Tim Murphy	beat	Alan  Sands	+15
+20	Ken Edwards	beat	Chris McWhirter	+16
+End
+
+Event AUS Queensland v Tasmania
+Date 25-25.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Sutton & M Melville	beat	S Beattie & P Hamilton	+18TP
+2	W Silk & D Hardy	beat	C Bamford & E Roomes	+12
+3	Jocelyn Sutton	beat	Claire Bamford	+26TP
+4	Margaret Melville	beat	Sue Beattie	+25
+5	Elizabeth Brinsdon	beat	Deidre Hardy	+1
+6	Willi Silk	beat	Elaine Roomes	+9
+7	Jocelyn Sutton	beat	Sue Beattie	+19
+8	Claire Bamford	beat	Margaret Melville	+3
+9	Deidre Hardy	beat	Elaine Roomes	+1
+10	Willi Silk	beat	Elizabeth Brinsdon	+14
+11	L Watson & J Hardy	beat	M Fletcher & R McAdam	+8TP(LW)
+12	G Bury & T Ericson	beat	B Beattie & P Rich	+19
+13	Rob McAdam	beat	Les Watson	+24
+14	Malcolm Fletcher	beat	John Hardy	+26TP
+15	Greg Bury	beat	Roger Bowles	+26
+16	Terry Ericson	beat	Bob Beattie	+16
+17	Les Watson	beat	Malcolm Fletcher	+3OTP
+18	Rob McAdam	beat	John Hardy	+20
+19	Greg Bury	beat	Bob Beattie	+25
+20	Terry Ericson	beat	Roger Bowles	+26
+End
+
+Event AUS Victoria v South Australia
+Date 25-25.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	N Amey &  B Hooper	beat	J Wembridge & S Leitinger	+1
+2	M Morgan & G Howell	beat	T Devlin & W Dickson	+4
+3	Gloria Howell	beat	Judith Wembridge	+9
+4	Miranda Morgan	beat	Patricia Devlin	+18
+5	Wendy Dixon	beat	Norma Amey	+17
+6	Barbara Hooper	beat	Sue Leitinger	+7
+7	Miranda Morgan	beat	Judith Wembridge	+5
+8	Patricia Devlin	beat	Gloria Howell	+3
+9	Barbara Hooper	beat	Wendy Dixon	+20
+10	Sue Leitinger	beat	Norma Amey	+5
+11	P Chapman &  R Buddle	beat	S Forster &  R Fletcher	+25TP(PC)
+12	G Schupelius & D Paterson	beat	K Beard & S Watkins	+6
+13	Robert Fletcher	beat	Gil Schupelius	+17TP
+14	Paddy Chapman	beat	Stephen Foster	+26TP
+15	Kevin Beard	beat	Roger Buddle	+20
+16	Simon Watkins	beat	Dean Paterson	+2
+17	Robert Fletcher	beat	Paddy Chapman	+21TP
+18	Stephen Foster	beat	Gil Schupelius	+6
+19	Kevin Beard	beat	Dean Paterson	+12
+20	Roger Buddle	beat	Simon Watkins	+12
+End
+
+Event AUS Queensland v New South Wales
+Date 26-26.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Sutton & M Melville	beat	R Graham & A Verge	+14
+2	R Stock & A Sharpe	beat	W Silk & D Hardy	+4
+3	Jocelyn Sutton	beat	Robyn Stock	+25TP
+4	Margaret Melville	beat	Rosemary Graham	+26
+5	Alison Sharp	beat	Deidre Hardy	+15
+6	Willi Silk	beat	Alix Verge	+5
+7	Jocelyn Sutton	beat	Rosemary Graham	+6
+8	Margaret Melville	beat	Robyn Stock	+5
+9	Deidre Hardy	beat	Alix Verge	+5
+10	Alison Sharp	beat	Willi Silk	+14
+11	P Landrebe & J Levick	beat	L Watson & E Melville	+20
+12	G Bury & T Ericson	beat	T Murphy & K Edwards	+16
+13	John Levick	beat	Les Watson	+1
+14	Peter Lambrebe	beat	Greg Bury	+18
+15	Ernie Melville	beat	Ken Edwards	+26
+16	Terry Ericson	beat	Tim Murphy	+10
+17	Peter Lambrebe	beat	Les Watson	+7
+18	Greg Bury	beat	John Levick	+22
+19	Ernie Melville	beat	Tim Murphy	+25
+20	Terry Ericson	beat	Ken Edwards	+22
+End
+
+Event AUS South Australia v Tasmania
+Date 26-26.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	G Howell & B Hooper	beat	S Beattie & E Roomes	+9
+2	P Hamilton & E Brinsdon	beat	N Amey & K Chynoweth	+5
+3	Gloria Howell	beat	Claire Bamford	+15
+4	Sue Beattie	beat	Barbara Hooper	+25
+5	Elaine Roomes	beat	Norma Amey	+20
+6	Kay Chenoweth	beat	Pam Hamilton	+16
+7	Sue Beattie	beat	Gloria Howell	+14
+8	Claire Bamford	beat	Barbara Hooper	+18
+9	Norma Amey	beat	Pam Hamilton	+12
+10	Kay Chenoweth	beat	Elaine Roomes	+1
+11	M Fletcher & R McAdam	beat	G Schupelius & D Paterson	+20
+12	B Beattie & R Bowles	beat	D McCormick & R Buddle	+1
+13	Gil Schupelius	beat	Rob McAdam	+21
+14	Dwayne McCormick	beat	Malcolm Fletcher	+3
+15	Dean Paterson	beat	Peter Rich	+24
+16	Roger Buddle	beat	Bob Beattie	+25
+17	Malcolm Fletcher	beat	Gil Schupelius	+15TP
+18	Rob McAdam	beat	Dwayne McCormick	+21
+19	Dean Paterson	beat	Bob Beattie	+4
+20	Roger Buddle	beat	Peter Rich	+26
+End
+
+Event AUS Victoria v Western Australia
+Date 26-26.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Wembridge & S Leitinger	beat	J Hawker & S Stevenson	+24
+2	T Devlin & W Dickson	beat	M Reynolds & J McNaught	+4
+3	Judith Wembridge	beat	Helen Collins	+5
+4	Patricia Devlin	beat	Jeanine Hawker	+18
+5	Megan Reynolds	beat	Wendy Dixon	+9
+6	Sue Leitinger	beat	Sandra Stevenson	+19
+7	Judith Wembridge	beat	Jeanine Hawker	+1
+8	Patricia Devlin	beat	Helen Collins	+25
+9	Wendy Dixon	beat	Sandra Stevenson	+21
+10	Megan Reynolds	beat	Sue Leitinger	+3
+11	S Forster &  R Fletcher	beat	J Newcombe & A Sands	+3
+12	K Beard & S Watkins	beat	M Clarke & C McWhirter	+26TP(KB)
+13	Robert Fletcher	beat	Jeff Newcombe	+17TP
+14	Stephen Foster	beat	Martin  Clarke	+26TP
+15	Kevin Beard	beat	Chris McWhirter	+13TP
+16	Alan  Sands	beat	Simon Watkins	+3
+17	Martin  Clarke	beat	Robert Fletcher	+6
+18	Stephen Foster	beat	Jeff Newcombe	+21TP
+19	Kevin Beard	beat	Alan  Sands	+7
+20	Chris McWhirter	beat	Simon Watkins	+5TP
+End
+
+Event AUS New South Wales v Tasmania
+Date 27-27.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Verge	beat	S Beattie & C Bamford	+21
+2	P Hamilton & E Roomes	beat	R Stock & A Sharpe	+2
+3	Rosemary Graham	beat	Claire Bamford	+18
+4	Robyn Stock	beat	Sue Beattie	+2
+5	Alix Verge	beat	Elizabeth Brinsdon	+25
+6	Alison Sharp	beat	Elaine Roomes	+23
+7	Rosemary Graham	beat	Sue Beattie	+25
+8	Robyn Stock	beat	Claire Bamford	+17
+9	Alix Verge	beat	Elaine Roomes	+26
+10	Alison Sharp	beat	Elizabeth Brinsdon	+25
+11	P Landrebe & J Levick	beat	M Fletcher & R McAdam	+16
+12	B Beattie & P Rich	beat	T Murphy & K Edwards	+1
+13	Peter Lambrebe	beat	Rob McAdam	+19
+14	Malcolm Fletcher	beat	John Levick	+10
+15	Tim Murphy	beat	Roger Bowles	+25
+16	Ken Edwards	beat	Bob Beattie	+25
+17	Peter Lambrebe	beat	Malcolm Fletcher	+5
+18	Rob McAdam	beat	John Levick	+6
+19	Tim Murphy	beat	Bob Beattie	+23
+20	Ken Edwards	beat	Roger Bowles	+20
+End
+
+Event AUS South Australia v Western Australia
+Date 27-27.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Morgan & K Chynoweth	beat	J Hawker & S Stevenson	+17
+2	B Hooper & N Amey	beat	M Reynolds & J McNaught	+2
+3	Miranda Morgan	beat	Helen Collins	+16
+4	Barbara Hooper	beat	Jeanine Hawker	+10
+5	Megan Reynolds	beat	Norma Amey	+13
+6	Sandra Stevenson	beat	Kay Chenoweth	+14
+7	Miranda Morgan	beat	Jeanine Hawker	+25
+8	Barbara Hooper	beat	Helen Collins	+12
+9	Sandra Stevenson	beat	Norma Amey	+21
+10	Megan Reynolds	beat	Kay Chenoweth	+15
+11	J Newcombe & A Sands	beat	P Chapman &  R Buddle	+23
+12	D McCOrmick & D Paterson	beat	M Clarke & C McWhirter	+16
+13	Paddy Chapman	beat	Jeff Newcombe	+17TP
+14	Martin  Clarke	beat	Dwayne McCormick	+8TP
+15	Dean Paterson	beat	Chris McWhirter	+5
+16	Alan  Sands	beat	Roger Buddle	+12
+17	Paddy Chapman	beat	Martin  Clarke	+26TP
+18	Jeff Newcombe	beat	Dwayne McCormick	+20
+19	Alan  Sands	beat	Dean Paterson	+26
+20	Chris McWhirter	beat	Roger Buddle	+4
+End
+
+Event AUS Victoria v Queensland
+Date 27-27.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Sutton & M Melville	beat	J Wembridge & S Leitinger	+26
+2	T Devlin & W Dickson	beat	D Hardy & W Silk	+23
+3	Margaret Melville	beat	Judith Wembridge	+18
+4	Jocelyn Sutton	beat	Patricia Devlin	+15
+5	Wendy Dixon	beat	Willi Silk	+15
+6	Sue Leitinger	beat	Deidre Hardy	+21
+7	Jocelyn Sutton	beat	Judith Wembridge	+6
+8	Patricia Devlin	beat	Margaret Melville	+7
+9	Wendy Dixon	beat	Deidre Hardy	+19
+10	Willi Silk	beat	Sue Leitinger	+8
+11	S Forster &  R Fletcher	beat	L Watson & J Hardy	+24TP(RF)
+12	K Beard & S Watkins	beat	G Bury & T Ericson	+16
+13	Robert Fletcher	beat	Greg Bury	+26TP
+14	Stephen Foster	beat	Les Watson	+24TP
+15	Kevin Beard	beat	Terry Ericson	+12
+16	Ernie Melville	beat	Simon Watkins	+3
+17	Robert Fletcher	beat	Les Watson	+26TP
+18	Stephen Foster	beat	Greg Bury	+26
+19	Kevin Beard	beat	Ernie Melville	+2
+20	Simon Watkins	beat	Terry Ericson	+12
+End
+
+Event AUS Queensland v South Australia
+Date 28-28.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Sutton & M Melville	beat	N Amey & K Chynoweth	+20
+2	M Morgan & G Howell	beat	W Silk & D Hardy	+8
+3	Jocelyn Sutton	beat	Gloria Howell	+24
+4	Margaret Melville	beat	Miranda Morgan	+12
+5	Kay Chenoweth	beat	Deidre Hardy	+3
+6	Willi Silk	beat	Norma Amey	+6
+7	Miranda Morgan	beat	Jocelyn Sutton	+17
+8	Gloria Howell	beat	Margaret Melville	+4
+9	Deidre Hardy	beat	Norma Amey	+15
+10	Kay Chenoweth	beat	Willi Silk	+10
+11	P Chapman & D McCormick	beat	G Bury & T Ericson	+4
+12	G Schupelius & D Paterson	beat	L Watson & J Hardy	+12
+13	Gil Schupelius	beat	Les Watson	+24
+14	Paddy Chapman	beat	John Hardy	+26
+15	Greg Bury	beat	Dean Paterson	+18
+16	Terry Ericson	beat	Dwayne McCormick	+18
+17	Paddy Chapman	beat	Les Watson	+8TP
+18	John Hardy	beat	Gil Schupelius	+10
+19	Dwayne McCormick	beat	Greg Bury	+11
+20	Terry Ericson	beat	Dean Paterson	+14
+End
+
+Event AUS Victoria v New South Wales
+Date 28-28.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Wembridge & S Leitinger	beat	R Graham & A Verge	+7
+2	R Stock & A Sharpe	beat	T Devlin & W Dickson	+7
+3	Robyn Stock	beat	Judith Wembridge	+13
+4	Rosemary Graham	beat	Patricia Devlin	+1
+5	Alison Sharp	beat	Wendy Dixon	+18
+6	Alix Verge	beat	Sue Leitinger	+25
+7	Rosemary Graham	beat	Judith Wembridge	+4
+8	Patricia Devlin	beat	Robyn Stock	+17
+9	Wendy Dixon	beat	Alix Verge	+1
+10	Alison Sharp	beat	Sue Leitinger	+10
+11	S Forster &  R Fletcher	beat	P Landrebe & J Levick	+17TP(RF)
+12	K Beard & S Watkins	beat	T Murphy & K Edwards	+4
+13	Robert Fletcher	beat	John Levick	+17TP
+14	Stephen Foster	beat	Peter Lambrebe	+12
+15	Kevin Beard	beat	Ken Edwards	+8
+16	Simon Watkins	beat	Tim Murphy	+12
+17	Peter Lambrebe	beat	Robert Fletcher	+26TP
+18	Stephen Foster	beat	John Levick	+25TP
+19	Tim Murphy	beat	Kevin Beard	+26
+20	Ken Edwards	beat	Simon Watkins	+5
+End
+
+Event AUS Western Australia v Tasmania
+Date 28-28.3.10
+Class 2
+Type single
+Games 20
+Order firstname
+1	S Beattie & C Bamford	beat	J Hawker & S Stevenson	+11
+2	P Hamilton & E Brinsdon	beat	M Reynolds & J McNaught	+12
+3	Jeanine Hawker	beat	Claire Bamford	+4
+4	Sue Beattie	beat	Helen Collins	+1
+5	Sandra Stevenson	beat	Elaine Roomes	+18
+6	Megan Reynolds	beat	Pam Hamilton	+19
+7	Jeanine Hawker	beat	Sue Beattie	+4
+8	Claire Bamford	beat	Helen Collins	+19
+9	Pam Hamilton	beat	Sandra Stevenson	+17
+10	Megan Reynolds	beat	Elaine Roomes	+1
+11	M Fletcher & R McAdam	beat	J Newcombe & A Sands	+7
+12	M Clarke & C McWhirter	beat	B Beattie & R Bowles	+24
+13	Martin  Clarke	beat	Rob McAdam	+17
+14	Malcolm Fletcher	beat	Jeff Newcombe	+10
+15	Alan  Sands	beat	Peter Rich	+24
+16	Chris McWhirter	beat	Bob Beattie	+9
+17	Malcolm Fletcher	beat	Martin  Clarke	+26TP
+18	Jeff Newcombe	beat	Rob McAdam	+22
+19	Alan  Sands	beat	Bob Beattie	+21
+20	Chris McWhirter	beat	Peter Rich	+13TP
+End
+

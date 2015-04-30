@@ -1,0 +1,294 @@
+Event AUS First Ten
+Date 11-14.2.11
+Class 2
+Type single
+Games 90
+Order firstname
+1	Peter Landrebe	beat	John Levick	+1
+2	Joe Dimech	beat	Nick Macoun	+2
+3	Greg Bury	beat	Margaret Melville	+1
+4	John Van Der Touw	beat	Kevin Beard	+1
+5	Chris McWhirter	beat	Terry Ericson	+2
+6	Joe Dimech	beat	Peter Landrebe	+2
+7	Greg Bury	beat	Nick Macoun	+3
+8	Kevin Beard	beat	Margaret Melville	+5
+9	John Van Der Touw	beat	Chris McWhirter	+2
+10	John Levick	beat	Terry Ericson	+3
+11	Peter Landrebe	beat	Greg Bury	+6
+12	Nick Macoun	beat	Kevin Beard	+1
+13	Chris McWhirter	beat	Margaret Melville	+3
+14	Terry Ericson	beat	John Van Der Touw	+4
+15	John Levick	beat	Joe Dimech	+2
+16	Kevin Beard	beat	Peter Landrebe	+1
+17	Nick Macoun	beat	Chris McWhirter	+3
+18	Margaret Melville	beat	Terry Ericson	+2
+19	John Levick	beat	John Van Der Touw	+2
+20	Joe Dimech	beat	Greg Bury	+5
+21	Peter Landrebe	beat	Chris McWhirter	+5
+22	Nick Macoun	beat	Terry Ericson	+3
+23	John Levick	beat	Margaret Melville	+5
+24	Joe Dimech	beat	John Van Der Touw	+1
+25	Kevin Beard	beat	Greg Bury	+2
+26	Peter Landrebe	beat	Terry Ericson	+2
+27	John Levick	beat	Nick Macoun	+5
+28	Joe Dimech	beat	Margaret Melville	+1
+29	Greg Bury	beat	John Van Der Touw	+4
+30	Chris McWhirter	beat	Kevin Beard	+4
+31	Peter Landrebe	beat	John Van Der Touw	+2
+32	Nick Macoun	beat	Margaret Melville	+5
+33	Terry Ericson	beat	Joe Dimech	+2
+34	Greg Bury	beat	Chris McWhirter	+3
+35	John Levick	beat	Kevin Beard	+3
+36	Peter Landrebe	beat	Margaret Melville	+2
+37	John Van Der Touw	beat	Nick Macoun	+4
+38	Terry Ericson	beat	Greg Bury	+2
+39	John Levick	beat	Chris McWhirter	+3
+40	Joe Dimech	beat	Kevin Beard	+4
+41	Terry Ericson	beat	Kevin Beard	+2
+42	Joe Dimech	beat	Chris McWhirter	+6
+43	John Levick	beat	Greg Bury	+2
+44	Peter Landrebe	beat	Nick Macoun	+2
+45	John Van Der Touw	beat	Margaret Melville	+4
+46	Peter Landrebe	beat	John Levick	+2
+47	Joe Dimech	beat	Nick Macoun	+2
+48	Greg Bury	beat	Margaret Melville	+5
+49	Kevin Beard	beat	John Van Der Touw	+1
+50	Chris McWhirter	beat	Terry Ericson	+3
+51	Peter Landrebe	beat	Joe Dimech	+3
+52	Greg Bury	beat	Nick Macoun	+1
+53	Kevin Beard	beat	Margaret Melville	+3
+54	Chris McWhirter	beat	John Van Der Touw	+1
+55	Terry Ericson	beat	John Levick	+2
+56	Peter Landrebe	beat	Greg Bury	+2
+57	Kevin Beard	beat	Nick Macoun	+4
+58	Chris McWhirter	beat	Margaret Melville	+2
+59	Terry Ericson	beat	John Van Der Touw	+2
+60	Joe Dimech	beat	John Levick	+3
+61	Kevin Beard	beat	Peter Landrebe	+3
+62	Nick Macoun	beat	Chris McWhirter	+3
+63	Terry Ericson	beat	Margaret Melville	+2
+64	John Levick	beat	John Van Der Touw	+3
+65	Joe Dimech	beat	Greg Bury	+4
+66	Peter Landrebe	beat	Chris McWhirter	+1
+67	Nick Macoun	beat	Terry Ericson	+1
+68	John Levick	beat	Margaret Melville	+1
+69	Joe Dimech	beat	John Van Der Touw	+3
+70	Greg Bury	beat	Kevin Beard	+4
+71	Terry Ericson	beat	Peter Landrebe	+3
+72	John Levick	beat	Nick Macoun	+4
+73	Margaret Melville	beat	Joe Dimech	+1
+74	John Van Der Touw	beat	Greg Bury	+1
+75	Kevin Beard	beat	Chris McWhirter	+4
+76	John Van Der Touw	beat	Peter Landrebe	+1
+77	Nick Macoun	beat	Margaret Melville	+2
+78	Joe Dimech	beat	Terry Ericson	+1
+79	Greg Bury	beat	Chris McWhirter	+5
+80	Kevin Beard	beat	John Levick	+5
+81	Peter Landrebe	beat	Margaret Melville	+4
+82	John Van Der Touw	beat	Nick Macoun	+3
+83	Terry Ericson	beat	Greg Bury	+1
+84	John Levick	beat	Chris McWhirter	+1
+85	Kevin Beard	beat	Joe Dimech	+3
+86	Peter Landrebe	beat	Nick Macoun	+3
+87	John Van Der Touw	beat	Margaret Melville	+4
+88	Kevin Beard	beat	Terry Ericson	+2
+89	Chris McWhirter	beat	Joe Dimech	+3
+90	John Levick	beat	Greg Bury	+6
+End
+
+Event AUS Second Ten
+Date 11-14.2.11
+Class 2
+Type single
+Games 90
+Order firstname
+1	Snow Evans	beat	Martyn Prins	+2
+2	Kim Reynolds	beat	Tony Hall	+2
+3	Graham Whiteway	beat	Peter Freer	+2
+4	Wendy Dickson	beat	John Compton	+1
+5	Owen Edwards	beat	Rosemary Graham	+1
+6	Martyn Prins	beat	Tony Hall	+3
+7	Graham Whiteway	beat	Kim Reynolds	+2
+8	Peter Freer	beat	Wendy Dickson	+4
+9	John Compton	beat	Owen Edwards	+4
+10	Snow Evans	beat	Rosemary Graham	+1
+11	Martyn Prins	beat	Graham Whiteway	+1
+12	Wendy Dickson	beat	Kim Reynolds	+4
+13	Owen Edwards	beat	Peter Freer	+2
+14	John Compton	beat	Rosemary Graham	+2
+15	Tony Hall	beat	Snow Evans	+1
+16	Martyn Prins	beat	Wendy Dickson	+5
+17	Kim Reynolds	beat	Owen Edwards	+2
+18	Rosemary Graham	beat	Peter Freer	+3
+19	Snow Evans	beat	John Compton	+3
+20	Tony Hall	beat	Graham Whiteway	+1
+21	Owen Edwards	beat	Martyn Prins	+2
+22	Kim Reynolds	beat	Rosemary Graham	+4
+23	Snow Evans	beat	Peter Freer	+1
+24	Tony Hall	beat	John Compton	+4
+25	Graham Whiteway	beat	Wendy Dickson	+2
+26	Martyn Prins	beat	Rosemary Graham	+1
+27	Snow Evans	beat	Kim Reynolds	+1
+28	Tony Hall	beat	Peter Freer	+2
+29	Graham Whiteway	beat	John Compton	+3
+30	Owen Edwards	beat	Wendy Dickson	+2
+31	John Compton	beat	Martyn Prins	+1
+32	Peter Freer	beat	Kim Reynolds	+2
+33	Rosemary Graham	beat	Tony Hall	+4
+34	Owen Edwards	beat	Graham Whiteway	+1
+35	Wendy Dickson	beat	Snow Evans	+2
+36	Martyn Prins	beat	Peter Freer	+4
+37	Kim Reynolds	beat	John Compton	+3
+38	Graham Whiteway	beat	Rosemary Graham	+5
+39	Owen Edwards	beat	Snow Evans	+1
+40	Tony Hall	beat	Wendy Dickson	+3
+41	Martyn Prins	beat	Kim Reynolds	+1
+42	John Compton	beat	Peter Freer	+3
+43	Wendy Dickson	beat	Rosemary Graham	+1
+44	Tony Hall	beat	Owen Edwards	+3
+45	Graham Whiteway	beat	Snow Evans	+5
+46	Martyn Prins	beat	Snow Evans	+3
+47	Tony Hall	beat	Kim Reynolds	+4
+48	Graham Whiteway	beat	Peter Freer	+1
+49	John Compton	beat	Wendy Dickson	+3
+50	Owen Edwards	beat	Rosemary Graham	+3
+51	Martyn Prins	beat	Tony Hall	+4
+52	Graham Whiteway	beat	Kim Reynolds	+3
+53	Peter Freer	beat	Wendy Dickson	+3
+54	Owen Edwards	beat	John Compton	+5
+55	Rosemary Graham	beat	Snow Evans	+3
+56	Martyn Prins	beat	Graham Whiteway	+2
+57	Wendy Dickson	beat	Kim Reynolds	+3
+58	Owen Edwards	beat	Peter Freer	+3
+59	John Compton	beat	Rosemary Graham	+1
+60	Tony Hall	beat	Snow Evans	+4
+61	Martyn Prins	beat	Wendy Dickson	+3
+62	Kim Reynolds	beat	Owen Edwards	+3
+63	Rosemary Graham	beat	Peter Freer	+4
+64	Snow Evans	beat	John Compton	+4
+65	Tony Hall	beat	Graham Whiteway	+1
+66	Owen Edwards	beat	Martyn Prins	+4
+67	Rosemary Graham	beat	Kim Reynolds	+1
+68	Peter Freer	beat	Snow Evans	+1
+69	Tony Hall	beat	John Compton	+4
+70	Graham Whiteway	beat	Wendy Dickson	+3
+71	Martyn Prins	beat	Rosemary Graham	+6
+72	Kim Reynolds	beat	Snow Evans	+1
+73	Tony Hall	beat	Peter Freer	+5
+74	John Compton	beat	Graham Whiteway	+3
+75	Owen Edwards	beat	Wendy Dickson	+1
+76	Martyn Prins	beat	John Compton	+2
+77	Kim Reynolds	beat	Peter Freer	+2
+78	Rosemary Graham	beat	Tony Hall	+3
+79	Owen Edwards	beat	Graham Whiteway	+5
+80	Snow Evans	beat	Wendy Dickson	+2
+81	Peter Freer	beat	Martyn Prins	+2
+82	Graham Whiteway	beat	Rosemary Graham	+3
+83	Snow Evans	beat	Owen Edwards	+1
+84	Tony Hall	beat	Wendy Dickson	+3
+85	John Compton	beat	Kim Reynolds	+1
+86	Peter Freer	beat	John Compton	+3
+87	Rosemary Graham	beat	Wendy Dickson	+2
+88	Tony Hall	beat	Owen Edwards	+7
+89	Martyn Prins	beat	Kim Reynolds	+1
+90	Snow Evans	beat	Graham Whiteway	+2
+End
+
+Event AUS Womens Ten
+Date 11-14.2.11
+Class 2
+Type single
+Games 90
+Order firstname
+1	Elizabeth Allen	beat	Patsy Paine	+1
+2	Genny Vandersluys	beat	Rosemary R	+3
+3	Marga Podnieks	beat	Gaye Pittman	+2
+4	Pam Gentle	beat	Judy Wembridge	+2
+5	Anne Quinn	beat	Bernie Pfitzer	+4
+6	Genny Vandersluys	beat	Elizabeth Allen	+1
+7	Rosemary R	beat	Marga Podnieks	+4
+8	Judy Wembridge	beat	Gaye Pittman	+2
+9	Pam Gentle	beat	Bernie Pfitzer	+1
+10	Anne Quinn	beat	Patsy Paine	+1
+11	Marga Podnieks	beat	Elizabeth Allen	+3
+12	Rosemary R	beat	Judy Wembridge	+1
+13	Bernie Pfitzer	beat	Gaye Pittman	+5
+14	Anne Quinn	beat	Pam Gentle	+2
+15	Genny Vandersluys	beat	Patsy Paine	+2
+16	Judy Wembridge	beat	Elizabeth Allen	+1
+17	Bernie Pfitzer	beat	Rosemary R	+5
+18	Gaye Pittman	beat	Anne Quinn	+1
+19	Pam Gentle	beat	Patsy Paine	+2
+20	Marga Podnieks	beat	Genny Vandersluys	+5
+21	Elizabeth Allen	beat	Bernie Pfitzer	+5
+22	Gaye Pittman	beat	Patsy Paine	+2
+23	Genny Vandersluys	beat	Pam Gentle	+5
+24	Judy Wembridge	beat	Marga Podnieks	+2
+25	Anne Quinn	beat	Rosemary R	+1
+26	Anne Quinn	beat	Elizabeth Allen	+3
+27	Rosemary R	beat	Patsy Paine	+6
+28	Gaye Pittman	beat	Genny Vandersluys	+4
+29	Pam Gentle	beat	Marga Podnieks	+2
+30	Judy Wembridge	beat	Bernie Pfitzer	+4
+31	Pam Gentle	beat	Elizabeth Allen	+2
+32	Gaye Pittman	beat	Rosemary R	+3
+33	Anne Quinn	beat	Genny Vandersluys	+4
+34	Marga Podnieks	beat	Bernie Pfitzer	+3
+35	Judy Wembridge	beat	Patsy Paine	+5
+36	Gaye Pittman	beat	Elizabeth Allen	+2
+37	Pam Gentle	beat	Rosemary R	+3
+38	Anne Quinn	beat	Marga Podnieks	+3
+39	Bernie Pfitzer	beat	Patsy Paine	+3
+40	Judy Wembridge	beat	Genny Vandersluys	+2
+41	Elizabeth Allen	beat	Rosemary R	+1
+42	Gaye Pittman	beat	Pam Gentle	+4
+43	Marga Podnieks	beat	Patsy Paine	+6
+44	Judy Wembridge	beat	Anne Quinn	+2
+45	Bernie Pfitzer	beat	Genny Vandersluys	+4
+46	Patsy Paine	beat	Elizabeth Allen	+2
+47	Rosemary R	beat	Genny Vandersluys	+3
+48	Gaye Pittman	beat	Marga Podnieks	+4
+49	Judy Wembridge	beat	Pam Gentle	+1
+50	Bernie Pfitzer	beat	Anne Quinn	+1
+51	Elizabeth Allen	beat	Genny Vandersluys	+4
+52	Rosemary R	beat	Marga Podnieks	+5
+53	Judy Wembridge	beat	Gaye Pittman	+5
+54	Bernie Pfitzer	beat	Pam Gentle	+1
+55	Anne Quinn	beat	Patsy Paine	+4
+56	Elizabeth Allen	beat	Marga Podnieks	+3
+57	Judy Wembridge	beat	Rosemary R	+4
+58	Bernie Pfitzer	beat	Gaye Pittman	+3
+59	Anne Quinn	beat	Pam Gentle	+3
+60	Genny Vandersluys	beat	Patsy Paine	+6
+61	Elizabeth Allen	beat	Judy Wembridge	+1
+62	Rosemary R	beat	Bernie Pfitzer	+1
+63	Gaye Pittman	beat	Anne Quinn	+2
+64	Patsy Paine	beat	Pam Gentle	+1
+65	Genny Vandersluys	beat	Marga Podnieks	+3
+66	Elizabeth Allen	beat	Bernie Pfitzer	+3
+67	Anne Quinn	beat	Rosemary R	+1
+68	Gaye Pittman	beat	Patsy Paine	+3
+69	Pam Gentle	beat	Genny Vandersluys	+3
+70	Judy Wembridge	beat	Marga Podnieks	+2
+71	Anne Quinn	beat	Elizabeth Allen	+1
+72	Rosemary R	beat	Patsy Paine	+2
+73	Gaye Pittman	beat	Genny Vandersluys	+3
+74	Pam Gentle	beat	Marga Podnieks	+4
+75	Judy Wembridge	beat	Bernie Pfitzer	+3
+76	Pam Gentle	beat	Elizabeth Allen	+3
+77	Gaye Pittman	beat	Rosemary R	+1
+78	Anne Quinn	beat	Genny Vandersluys	+1
+79	Bernie Pfitzer	beat	Marga Podnieks	+4
+80	Judy Wembridge	beat	Patsy Paine	+3
+81	Elizabeth Allen	beat	Gaye Pittman	+3
+82	Rosemary R	beat	Pam Gentle	+3
+83	Anne Quinn	beat	Marga Podnieks	+3
+84	Patsy Paine	beat	Bernie Pfitzer	+2
+85	Judy Wembridge	beat	Genny Vandersluys	+4
+86	Rosemary R	beat	Elizabeth Allen	+5
+87	Pam Gentle	beat	Gaye Pittman	+1
+88	Judy Wembridge	beat	Anne Quinn	+2
+89	Bernie Pfitzer	beat	Genny Vandersluys	+5
+90	Marga Podnieks	beat	Patsy Paine	+1
+End
+

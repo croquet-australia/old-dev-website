@@ -1,0 +1,575 @@
+Event AUS Block A
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Kevin Beard	beat	Carol Piercy	+6
+2	Creina Dawson	beat	Judy Evans	+1
+3	David Wise	beat	Wayne Strong	+1
+4	Peter Freer	beat	Rosie Graham	+2
+5	David Wise	beat	Creina Dawson	+1
+6	Kevin Beard	beat	Peter Freer	+2
+7	Rosie Graham	beat	Carol Piercy	+5
+8	Judy Evans	beat	Wayne Strong	+2
+9	Judy Evans	beat	Rosie Graham	+4
+10	Carol Piercy	beat	Creina Dawson	+1
+11	Peter Freer	beat	Wayne Strong	+2
+12	Kevin Beard	beat	David Wise	+5
+13	Wayne Strong	beat	Carol Piercy	+2
+14	David Wise	beat	Rosie Graham	+3
+15	Kevin Beard	beat	Judy Evans	+3
+16	Peter Freer	beat	Creina Dawson	+3
+17	Kevin Beard	beat	Creina Dawson	+5
+18	Judy Evans	beat	Carol Piercy	+3
+19	Peter Freer	beat	David Wise	+1
+20	Wayne Strong	beat	Rosie Graham	+1
+21	Judy Evans	beat	Peter Freer	+1
+22	Wayne Strong	beat	Kevin Beard	+1
+23	Rosie Graham	beat	Creina Dawson	+3
+24	Carol Piercy	beat	David Wise	+1
+25	Carol Piercy	beat	Peter Freer	+4
+26	Kevin Beard	beat	Rosie Graham	+5
+27	Judy Evans	beat	David Wise	+1
+28	Creina Dawson	beat	Wayne Strong	+2
+End
+
+Event AUS Block B
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Greg Bury 	beat	Eric Miller 	+6
+2	Marga Podnieks	beat	Christine Pont	+2
+3	Sue Leitinger	beat	Noel Reynolds	+1
+4	Nick Macoun	beat	Gavin Bow	+3
+5	Christine Pont	beat	Sue Leitinger	+2
+6	Greg Bury 	beat	Gavin Bow	+2
+7	Nick Macoun	beat	Eric Miller 	+3
+8	Noel Reynolds	beat	Marga Podnieks	+2
+9	Nick Macoun	beat	Marga Podnieks	+1
+10	Christine Pont	beat	Eric Miller 	+2
+11	Noel Reynolds	beat	Gavin Bow	+4
+12	Greg Bury 	beat	Sue Leitinger	+7
+13	Noel Reynolds	beat	Eric Miller 	+5
+14	Nick Macoun	beat	Sue Leitinger	+3
+15	Greg Bury 	beat	Marga Podnieks	+4
+16	Gavin Bow	beat	Christine Pont	+3
+17	Greg Bury 	beat	Christine Pont	+2
+18	Marga Podnieks	beat	Eric Miller 	+1
+19	Sue Leitinger	beat	Gavin Bow	+3
+20	Noel Reynolds	beat	Nick Macoun	+4
+21	Gavin Bow	beat	Marga Podnieks	+3
+22	Greg Bury 	beat	Noel Reynolds	+5
+23	Nick Macoun	beat	Christine Pont	+1
+24	Eric Miller 	beat	Sue Leitinger	+2
+25	Greg Bury 	beat	Nick Macoun	+1
+26	Marga Podnieks	beat	Sue Leitinger	+1
+27	Gavin Bow	beat	Eric Miller 	+4
+28	Noel Reynolds	beat	Christine Pont	+5
+End
+
+Event AUS Block C
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Peter Landrebe	beat	Patrick Moore	+2
+2	Wilma Bonnar 	beat	Anna Miller 	+2
+3	Ron Johnstone	beat	Geoff Kingdon	+3
+4	Graham Whiteway	beat	Rosemary Newsham	+3
+5	Geoff Kingdon	beat	Anna Miller 	+2
+6	Peter Landrebe	beat	Rosemary Newsham	+3
+7	Graham Whiteway	beat	Patrick Moore	+3
+8	Ron Johnstone	beat	Wilma Bonnar 	+1
+9	Graham Whiteway	beat	Wilma Bonnar 	+2
+10	Anna Miller 	beat	Patrick Moore	+1
+11	Ron Johnstone	beat	Rosemary Newsham	+1
+12	Peter Landrebe	beat	Geoff Kingdon	+5
+13	Ron Johnstone	beat	Patrick Moore	+1
+14	Geoff Kingdon	beat	Graham Whiteway	+6
+15	Peter Landrebe	beat	Wilma Bonnar 	+4
+16	Anna Miller 	beat	Rosemary Newsham	+2
+17	Anna Miller 	beat	Peter Landrebe	+1
+18	Wilma Bonnar 	beat	Patrick Moore	+1
+19	Geoff Kingdon	beat	Rosemary Newsham	+4
+20	Ron Johnstone	beat	Graham Whiteway	+2
+21	Wilma Bonnar 	beat	Rosemary Newsham	+3
+22	Peter Landrebe	beat	Ron Johnstone	+1
+23	Graham Whiteway	beat	Anna Miller 	+1
+24	Patrick Moore	beat	Geoff Kingdon	+1
+25	Graham Whiteway	beat	Peter Landrebe	+4
+26	Geoff Kingdon	beat	Wilma Bonnar 	+1
+27	Rosemary Newsham	beat	Patrick Moore	+3
+28	Ron Johnstone	beat	Anna Miller 	+3
+End
+
+Event AUS Block D
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Peter Batchelor	beat	Pam Shepherd	+3
+2	Wendy Dickson	beat	Susan Sands	+4
+3	Howard Wood	beat	John van der Touw	+5
+4	Paula Gardiner	beat	Tony Hall	+2
+5	Howard Wood	beat	Wendy Dickson	+2
+6	Peter Batchelor	beat	Paula Gardiner	+4
+7	Tony Hall	beat	Pam Shepherd	+4
+8	John van der Touw	beat	Susan Sands	+4
+9	Tony Hall	beat	Susan Sands	+3
+10	Wendy Dickson	beat	Pam Shepherd	+3
+11	John van der Touw	beat	Paula Gardiner	+4
+12	Peter Batchelor	beat	Howard Wood	+2
+13	John van der Touw	beat	Pam Shepherd	+7
+14	Tony Hall	beat	Howard Wood	+6
+15	Peter Batchelor	beat	Susan Sands	+5
+16	Wendy Dickson	beat	Paula Gardiner	+6
+17	Peter Batchelor	beat	Wendy Dickson	+5
+18	Susan Sands	beat	Pam Shepherd	+1
+19	Howard Wood	beat	Paula Gardiner	+5
+20	John van der Touw	beat	Tony Hall	+2
+21	Paula Gardiner	beat	Susan Sands	+1
+22	Peter Batchelor	beat	John van der Touw	+2
+23	Tony Hall	beat	Wendy Dickson	+2
+24	Howard Wood	beat	Pam Shepherd	+1
+25	Peter Batchelor	beat	Tony Hall	+2
+26	Howard Wood	beat	Susan Sands	+4
+27	Pam Shepherd	beat	Paula Gardiner	+1
+28	John van der Touw	beat	Wendy Dickson	+1
+End
+
+Event AUS Block E
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Don Reyland	beat	Birgit Schreuder	+6
+2	Liz Fleming	beat	Anne Quinn	+7
+3	Elizabeth Allen 	beat	Neil Bonnar 	+1
+4	John Compton	beat	Kathleen Lines	+6
+5	Liz Fleming	beat	Elizabeth Allen 	+6
+6	Don Reyland	beat	Kathleen Lines	+4
+7	John Compton	beat	Birgit Schreuder	+4
+8	Neil Bonnar 	beat	Anne Quinn	+5
+9	John Compton	beat	Anne Quinn	+3
+10	Birgit Schreuder	beat	Liz Fleming	+2
+11	Neil Bonnar 	beat	Kathleen Lines	+5
+12	Elizabeth Allen 	beat	Don Reyland	+2
+13	Neil Bonnar 	beat	Birgit Schreuder	+2
+14	Elizabeth Allen 	beat	John Compton	+3
+15	Anne Quinn	beat	Don Reyland	+2
+16	Liz Fleming	beat	Kathleen Lines	+6
+17	Don Reyland	beat	Liz Fleming	+1
+18	Anne Quinn	beat	Birgit Schreuder	+2
+19	Elizabeth Allen 	beat	Kathleen Lines	+5
+20	John Compton	beat	Neil Bonnar 	+3
+21	Anne Quinn	beat	Kathleen Lines	+2
+22	Don Reyland	beat	Neil Bonnar 	+1
+23	John Compton	beat	Liz Fleming	+3
+24	Birgit Schreuder	beat	Elizabeth Allen 	+3
+25	Don Reyland	beat	John Compton	+4
+26	Elizabeth Allen 	beat	Anne Quinn	+1
+27	Birgit Schreuder	beat	Kathleen Lines	+1
+28	Liz Fleming	beat	Neil Bonnar 	+4
+End
+
+Event AUS Block F
+Date 29-30.8.09
+Class 2
+Type single
+Games 36
+Order firstname
+1	Mike Jenner	beat	Margaret Brockett	+5
+2	Lynda Davis	beat	Pam Gentle	+3
+3	Jim Saunders	beat	Kay Chynoweth	+1
+4	Ron Schodel	beat	Ian Grant	+3
+5	Chris McWhirter	beat	Margaret Brockett	+3
+6	Mike Jenner	beat	Lynda Davis	+7
+7	Pam Gentle	beat	Jim Saunders	+1
+8	Kay Chynoweth	beat	Ian Grant	+1
+9	Chris McWhirter	beat	Lynda Davis	+4
+10	Mike Jenner	beat	Jim Saunders	+3
+11	Pam Gentle	beat	Ian Grant	+2
+12	Kay Chynoweth	beat	Ron Schodel	+1
+13	Chris McWhirter	beat	Jim Saunders	+2
+14	Mike Jenner	beat	Ian Grant	+3
+15	Ron Schodel	beat	Pam Gentle	+4
+16	Lynda Davis	beat	Margaret Brockett	+3
+17	Chris McWhirter	beat	Ian Grant	+4
+18	Ron Schodel	beat	Mike Jenner	+3
+19	Margaret Brockett	beat	Kay Chynoweth	+1
+20	Jim Saunders	beat	Lynda Davis	+3
+21	Ron Schodel	beat	Chris McWhirter	+3
+22	Pam Gentle	beat	Margaret Brockett	+4
+23	Kay Chynoweth	beat	Lynda Davis	+1
+24	Ian Grant	beat	Jim Saunders	+2
+25	Mike Jenner	beat	Pam Gentle	+3
+26	Ron Schodel	beat	Margaret Brockett	+4
+27	Lynda Davis	beat	Ian Grant	+5
+28	Chris McWhirter	beat	Kay Chynoweth	+2
+29	Chris McWhirter	beat	Pam Gentle	+2
+30	Mike Jenner	beat	Kay Chynoweth	+2
+31	Lynda Davis	beat	Ron Schodel	+3
+32	Jim Saunders	beat	Margaret Brockett	+4
+33	Chris McWhirter	beat	Mike Jenner	+1
+34	Kay Chynoweth	beat	Pam Gentle	+1
+35	Jim Saunders	beat	Ron Schodel	+4
+36	Ian Grant	beat	Margaret Brockett	+7
+End
+
+Event AUS Block G
+Date 29-30.8.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Ros Johnstone	beat	Stephen Piercy	+1
+2	Peter Smith	beat	Margaret Melville	+2
+3	Claire Wilson	beat	Kim Reynolds	+1
+4	Martin Clarke	beat	Snow Evans	+6
+5	Claire Wilson	beat	Peter Smith	+1
+6	Stephen Piercy	beat	Snow Evans	+1
+7	Martin Clarke	beat	Ros Johnstone	+3
+8	Margaret Melville	beat	Kim Reynolds	+3
+9	Margaret Melville	beat	Martin Clarke	+2
+10	Peter Smith	beat	Ros Johnstone	+3
+11	Snow Evans	beat	Kim Reynolds	+1
+12	Stephen Piercy	beat	Claire Wilson	+4
+13	Kim Reynolds	beat	Ros Johnstone	+3
+14	Martin Clarke	beat	Claire Wilson	+5
+15	Stephen Piercy	beat	Margaret Melville	+2
+16	Peter Smith	beat	Snow Evans	+3
+17	Stephen Piercy	beat	Peter Smith	+3
+18	Margaret Melville	beat	Ros Johnstone	+3
+19	Snow Evans	beat	Claire Wilson	+2
+20	Martin Clarke	beat	Kim Reynolds	+5
+21	Margaret Melville	beat	Snow Evans	+1
+22	Kim Reynolds	beat	Stephen Piercy	+2
+23	Martin Clarke	beat	Peter Smith	+2
+24	Claire Wilson	beat	Ros Johnstone	+2
+25	Stephen Piercy	beat	Martin Clarke	+6
+26	Margaret Melville	beat	Claire Wilson	+4
+27	Snow Evans	beat	Ros Johnstone	+3
+28	Peter Smith	beat	Kim Reynolds	+1
+End
+
+Event AUS Block H
+Date 29-30.8.09
+Class 2
+Type single
+Games 36
+Order firstname
+1	Alix Verge	beat	Helen Eagle	+4
+2	Genny Vandersluys	beat	Gwen Newell	+3
+3	Brian Hadley	beat	Patsy Paine	+2
+4	Greg Kerswell	beat	Bernie Pfitzner	+2
+5	John Levick	beat	Helen Eagle	+4
+6	Alix Verge	beat	Gwen Newell	+7
+7	Genny Vandersluys	beat	Patsy Paine	+5
+8	Bernie Pfitzner	beat	Brian Hadley	+6
+9	John Levick	beat	Gwen Newell	+6
+10	Alix Verge	beat	Patsy Paine	+3
+11	Genny Vandersluys	beat	Bernie Pfitzner	+3
+12	Brian Hadley	beat	Greg Kerswell	+1
+13	John Levick	beat	Patsy Paine	+6
+14	Alix Verge	beat	Bernie Pfitzner	+3
+15	Genny Vandersluys	beat	Greg Kerswell	+2
+16	Gwen Newell	beat	Helen Eagle	+2
+17	Bernie Pfitzner	beat	John Levick	+2
+18	Alix Verge	beat	Greg Kerswell	+4
+19	Brian Hadley	beat	Helen Eagle	+5
+20	Patsy Paine	beat	Gwen Newell	+2
+21	John Levick	beat	Greg Kerswell	+4
+22	Genny Vandersluys	beat	Helen Eagle	+2
+23	Brian Hadley	beat	Gwen Newell	+1
+24	Bernie Pfitzner	beat	Patsy Paine	+1
+25	Brian Hadley	beat	John Levick	+5
+26	Genny Vandersluys	beat	Alix Verge	+6
+27	Helen Eagle	beat	Greg Kerswell	+1
+28	Gwen Newell	beat	Bernie Pfitzner	+1
+29	John Levick	beat	Genny Vandersluys	+2
+30	Alix Verge	beat	Brian Hadley	+5
+31	Greg Kerswell	beat	Gwen Newell	+2
+32	Helen Eagle	beat	Patsy Paine	+3
+33	John Levick	beat	Alix Verge	+3
+34	Genny Vandersluys	beat	Brian Hadley	+1
+35	Patsy Paine	beat	Greg Kerswell	+1
+36	Bernie Pfitzner	beat	Helen Eagle	+1
+End
+
+Event AUS Knockout
+Date 30.8-1.9.09
+Class 2
+Type match
+Games 31
+Order firstname
+1		beat		+2, +5
+2		beat		+1, +4
+3		beat		+4, +2
+4		beat		+3, +5
+5		beat		+5, +3
+6		beat		-1, +2, +1
+7		beat		+5, -1, +3
+8		beat		+1, -2, +1
+9		beat		+2, +4
+10		beat		-4, +1, +4
+11		beat		-1, +2, +1
+12		beat		-1, +4, +4
+13		beat		-2, +4, +4
+14		beat		+5, +1
+15		beat		+2, +2
+16		beat		+5, +4
+17		beat		+4, +4
+18		beat		+1, +2
+19		beat		+2, +3
+20		beat		+2, +3
+21		beat		-1, +2, +2
+22		beat		-4, +2, +1
+23		beat		+4, +3
+24		beat		+4, +4
+25		beat		+3, +5
+26		beat		-1, +5, +4
+27		beat		+4, +1
+28		beat		-2, +5, +2
+29		beat		-1, +2, +4
+30		beat		+3, -2, +1
+31		beat		+5, +3, +2
+End
+
+Event AUS Plate Block 1
+Date 30.8-1.9.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Patsy Paine	beat	Marga Podnieks	+1
+2	Rosie Graham	beat	Kay Chynoweth	+3
+3	Anne Quinn	beat	Anna Miller 	+4
+4	Pam Gentle	beat	Neil Bonnar 	+4
+5	Anne Quinn	beat	Kay Chynoweth	+2
+6	Pam Gentle	beat	Marga Podnieks	+3
+7	Neil Bonnar 	beat	Patsy Paine	+3
+8	Rosie Graham	beat	Anna Miller 	+3
+9	Rosie Graham	beat	Neil Bonnar 	+1
+10	Kay Chynoweth	beat	Patsy Paine	+4
+11	Pam Gentle	beat	Anna Miller 	+1
+12	Anne Quinn	beat	Marga Podnieks	+1
+13	Anna Miller 	beat	Patsy Paine	+4
+14	Neil Bonnar 	beat	Anne Quinn	+1
+15	Marga Podnieks	beat	Rosie Graham	+3
+16	Kay Chynoweth	beat	Pam Gentle	+2
+17	Marga Podnieks	beat	Kay Chynoweth	+5
+18	Rosie Graham	beat	Patsy Paine	+5
+19	Anne Quinn	beat	Pam Gentle	+2
+20	Anna Miller 	beat	Neil Bonnar 	+4
+21	Rosie Graham	beat	Pam Gentle	+6
+22	Neil Bonnar 	beat	Kay Chynoweth	+1
+23	Patsy Paine	beat	Anne Quinn	+4
+24	Anna Miller 	beat	Marga Podnieks	+1
+25	Marga Podnieks	beat	Neil Bonnar 	+2
+26	Rosie Graham	beat	Anne Quinn	+2
+27	Pam Gentle	beat	Patsy Paine	+6
+28	Anna Miller 	beat	Kay Chynoweth	+1
+End
+
+Event AUS Plate Block 2
+Date 30.8-1.9.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Gwen Newell	beat	Wendy Dickson	+3
+2	Greg Kerswell	beat	Rosemary Newsham	+4
+3	Kim Reynolds	beat	Carol Piercy	+2
+4	Bernie Pfitzner	beat	Kathleen Lines	+2
+5	Kim Reynolds	beat	Greg Kerswell	+1
+6	Wendy Dickson	beat	Kathleen Lines	+7
+7	Bernie Pfitzner	beat	Gwen Newell	+2
+8	Carol Piercy	beat	Rosemary Newsham	+1
+9	Bernie Pfitzner	beat	Rosemary Newsham	+5
+10	Greg Kerswell	beat	Gwen Newell	+3
+11	Carol Piercy	beat	Kathleen Lines	+1
+12	Kim Reynolds	beat	Wendy Dickson	+3
+13	Gwen Newell	beat	Carol Piercy	+1
+14	Kim Reynolds	beat	Bernie Pfitzner	+1
+15	Wendy Dickson	beat	Rosemary Newsham	+1
+16	Greg Kerswell	beat	Kathleen Lines	+3
+17	Wendy Dickson	beat	Greg Kerswell	+3
+18	Gwen Newell	beat	Rosemary Newsham	+2
+19	Kim Reynolds	beat	Kathleen Lines	+3
+20	Bernie Pfitzner	beat	Carol Piercy	+1
+21	Rosemary Newsham	beat	Kathleen Lines	+3
+22	Wendy Dickson	beat	Carol Piercy	+3
+23	Kim Reynolds	beat	Gwen Newell	+6
+24	Bernie Pfitzner	beat	Greg Kerswell	+1
+25	Wendy Dickson	beat	Bernie Pfitzner	+3
+26	Kim Reynolds	beat	Rosemary Newsham	+1
+27	Gwen Newell	beat	Kathleen Lines	+4
+28	Greg Kerswell	beat	Carol Piercy	+4
+End
+
+Event AUS Plate Block 3
+Date 30.8-1.9.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Wilma Bonnar 	beat	Margaret Brockett	+3
+2	Pam Shepherd	beat	Claire Wilson	+2
+3	Christine Pont	beat	Helen Eagle	+2
+4	Creina Dawson	beat	Snow Evans	+2
+5	Claire Wilson	beat	Helen Eagle	+4
+6	Wilma Bonnar 	beat	Creina Dawson	+4
+7	Snow Evans	beat	Margaret Brockett	+7
+8	Christine Pont	beat	Pam Shepherd	+5
+9	Pam Shepherd	beat	Snow Evans	+1
+10	Claire Wilson	beat	Margaret Brockett	+2
+11	Creina Dawson	beat	Christine Pont	+1
+12	Wilma Bonnar 	beat	Helen Eagle	+3
+13	Christine Pont	beat	Margaret Brockett	+3
+14	Snow Evans	beat	Helen Eagle	+3
+15	Wilma Bonnar 	beat	Pam Shepherd	+1
+16	Claire Wilson	beat	Creina Dawson	+1
+17	Claire Wilson	beat	Wilma Bonnar 	+3
+18	Pam Shepherd	beat	Margaret Brockett	+1
+19	Creina Dawson	beat	Helen Eagle	+1
+20	Snow Evans	beat	Christine Pont	+2
+21	Creina Dawson	beat	Pam Shepherd	+1
+22	Wilma Bonnar 	beat	Christine Pont	+3
+23	Snow Evans	beat	Claire Wilson	+2
+24	Margaret Brockett	beat	Helen Eagle	+1
+25	Snow Evans	beat	Wilma Bonnar 	+1
+26	Helen Eagle	beat	Pam Shepherd	+4
+27	Christine Pont	beat	Claire Wilson	+4
+28	Creina Dawson	beat	Margaret Brockett	+5
+End
+
+Event AUS Plate Block 4
+Date 30.8-1.9.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	David Wise	beat	Ros Johnstone	+6
+2	Sue Leitinger	beat	Birgit Schreuder	+3
+3	Ian Grant	beat	Paula Gardiner	+3
+4	Lynda Davis	beat	Eric Miller 	+4
+5	Ian Grant	beat	Birgit Schreuder	+6
+6	David Wise	beat	Eric Miller 	+5
+7	Lynda Davis	beat	Ros Johnstone	+3
+8	Sue Leitinger	beat	Paula Gardiner	+2
+9	Sue Leitinger	beat	Lynda Davis	+3
+10	Birgit Schreuder	beat	Ros Johnstone	+3
+11	Paula Gardiner	beat	Eric Miller 	+4
+12	David Wise	beat	Ian Grant	+2
+13	Paula Gardiner	beat	Ros Johnstone	+4
+14	Ian Grant	beat	Lynda Davis	+1
+15	David Wise	beat	Sue Leitinger	+4
+16	Birgit Schreuder	beat	Eric Miller 	+4
+17	Birgit Schreuder	beat	David Wise	+2
+18	Sue Leitinger	beat	Ros Johnstone	+1
+19	Ian Grant	beat	Eric Miller 	+5
+20	Lynda Davis	beat	Paula Gardiner	+2
+21	Sue Leitinger	beat	Eric Miller 	+1
+22	David Wise	beat	Paula Gardiner	+1
+23	Birgit Schreuder	beat	Lynda Davis	+2
+24	Ros Johnstone	beat	Ian Grant	+1
+25	David Wise	beat	Lynda Davis	+3
+26	Sue Leitinger	beat	Ian Grant	+3
+27	Ros Johnstone	beat	Eric Miller 	+5
+28	Birgit Schreuder	beat	Paula Gardiner	+4
+End
+
+Event AUS Plate Knockout
+Date 31.8-1.9.09
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		+5
+2		beat		+1
+3		beat		+2
+4		beat		+4
+5		beat		+2, +1
+6		beat		-4, +1, +2
+7		beat		+6, +3
+End
+
+Event AUS W Knockout (25th to 32nd)
+Date 31.8-1.9.09
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		+3, +1
+2		beat		+3, -3, +4
+3		beat		+1, +2
+4		beat		+2, +5
+5		beat		+3, -4, +7
+6		beat		+3, -5, +5
+7		beat		-6, +2, +1
+End
+
+Event AUS Y Knockout (17th to 24th)
+Date 31.8-1.9.09
+Class 2
+Type match
+Games 15
+Order firstname
+1		beat		+6, +2
+2		beat		+3, +1
+3		beat		-3, +1, +1
+4		beat		-3, +1, +2
+5		beat		+2, -2, +1
+6		beat		+3, -4, +3
+7		beat		+3, +1
+8		beat		+2, +3
+9		beat		-1, +4, +3
+10		beat		+1, +3
+11		beat		-4, +3, +2
+12		beat		+2, +2
+13		beat		+6, +2
+14		beat		-1, +5, +1
+15		beat		-2, +5, +3
+End
+
+Event AUS Z Knockout (9th to16th)
+Date 31.8-1.9.09
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		+2, +2
+2		beat		+2, +4
+3		beat		+2, +4
+4		beat		+2, +2
+5		beat		+2, -2, +1
+6		beat		-3, +2, +2
+7		beat		+3, +3
+End
+
+Event AUS 3th & 4th
+Date 1-1.9.09
+Class 2
+Type match
+Games 1
+Order firstname
+1		beat		+4, +1
+End
+
+Event AUS 5th to 8th 
+Date 1-1.9.09
+Class 2
+Type match
+Games 3
+Order firstname
+1		beat		+1, +4
+2		beat		+6, +4
+3		beat		-1, +2, +5
+End
+

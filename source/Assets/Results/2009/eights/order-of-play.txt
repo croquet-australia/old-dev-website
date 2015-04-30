@@ -1,0 +1,256 @@
+Event AUS First Eight (Eddie Hunt Trophy)
+Date 2-5.10.09
+Class 1
+Type single
+Games 56
+Order firstname
+1	Bruce Fleming	beat	Trevor Bassett	+26TP
+2	Robert Fletcher	beat	Stephen Forster	+17TP
+3	Kevin Beard	beat	Ian Dumergue	+23
+4	Harley Watts	beat	Peter Landrebe	+16TP
+5	Robert Fletcher	beat	Peter Landrebe	+7
+6	Trevor Bassett	beat	Ian Dumergue	+24
+7	Harley Watts	beat	Stephen Forster	+10
+8	Bruce Fleming	beat	Kevin Beard	+20TP
+9	Ian Dumergue	beat	Stephen Forster	+6OTP
+10	Harley Watts	beat	Kevin Beard	+4
+11	Peter Landrebe	beat	Bruce Fleming	+3TP
+12	Robert Fletcher	beat	Trevor Bassett	+26
+13	Harley Watts	beat	Robert Fletcher	+9
+14	Bruce Fleming	beat	Ian Dumergue	+26TP
+15	Kevin Beard	beat	Trevor Bassett	+26
+16	Peter Landrebe	beat	Stephen Forster	+5
+17	Peter Landrebe	beat	Ian Dumergue	+11OTP
+18	Trevor Bassett	beat	Harley Watts	+6TP
+19	Stephen Forster	beat	Bruce Fleming	+3
+20	Robert Fletcher	beat	Kevin Beard	+16TP
+21	Harley Watts	beat	Bruce Fleming	+14TP
+22	Peter Landrebe	beat	Kevin Beard	+5
+23	Ian Dumergue	beat	Robert Fletcher	+24TP
+24	Stephen Forster	beat	Trevor Bassett	+10
+25	Kevin Beard	beat	Stephen Forster	+24TP
+26	Robert Fletcher	beat	Bruce Fleming	+9TP
+27	Ian Dumergue	beat	Harley Watts	+17TP
+28	Trevor Bassett	beat	Peter Landrebe	+5
+29	Harley Watts	beat	Peter Landrebe	+12OTP
+30	Ian Dumergue	beat	Kevin Beard	+18TP
+31	Robert Fletcher	beat	Stephen Forster	+13
+32	Bruce Fleming	beat	Trevor Bassett	+26TP
+33	Kevin Beard	beat	Bruce Fleming	+26
+34	Stephen Forster	beat	Harley Watts	+26
+35	Trevor Bassett	beat	Ian Dumergue	+24
+36	Robert Fletcher	beat	Peter Landrebe	+26TP
+37	Trevor Bassett	beat	Robert Fletcher	+3OQP
+38	Bruce Fleming	beat	Peter Landrebe	+17
+39	Kevin Beard	beat	Harley Watts	+22
+40	Stephen Forster	beat	Ian Dumergue	+10TP
+41	Peter Landrebe	beat	Stephen Forster	+17TP
+42	Trevor Bassett	beat	Kevin Beard	+10TP
+43	Ian Dumergue	beat	Bruce Fleming	+11TP
+44	Robert Fletcher	beat	Harley Watts	+26TP
+45	Robert Fletcher	beat	Kevin Beard	+7TP
+46	Bruce Fleming	beat	Stephen Forster	+25
+47	Trevor Bassett	beat	Harley Watts	+25
+48	Peter Landrebe	beat	Ian Dumergue	+26TP
+49	Stephen Forster	beat	Trevor Bassett	+26TP
+50	Robert Fletcher	beat	Ian Dumergue	+7TP
+51	Kevin Beard	beat	Peter Landrebe	+26
+52	Harley Watts	beat	Bruce Fleming	+16
+53	Kevin Beard	beat	Stephen Forster	+26
+54	Peter Landrebe	beat	Trevor Bassett	+15
+55	Ian Dumergue	beat	Harley Watts	+26TP
+56	Bruce Fleming	beat	Robert Fletcher	+8TP
+End
+
+Event AUS Second Eight (Tom Howat Cup)
+Date 2-5.10.09
+Class 2
+Type single
+Games 56
+Order firstname
+1	Ken Bald	beat	Mark Prater	+25TP
+2	Leslie Watson	beat	Tim Murphy	+22TP
+3	Jeff Newcombe	beat	Rod Kirk	+20
+4	Simon Watkins	beat	Martin Clarke	+4
+5	Ken Bald	beat	Rod Kirk	+16
+6	Martin Clarke	beat	Leslie Watson	+20
+7	Mark Prater	beat	Jeff Newcombe	+26
+8	Simon Watkins	beat	Tim Murphy	+2
+9	Leslie Watson	beat	Rod Kirk	+26TP
+10	Martin Clarke	beat	Jeff Newcombe	+24TP
+11	Simon Watkins	beat	Mark Prater	+25TP
+12	Ken Bald	beat	Tim Murphy	+16
+13	Martin Clarke	beat	Tim Murphy	+25
+14	Rod Kirk	beat	Mark Prater	+26TP
+15	Ken Bald	beat	Jeff Newcombe	+15
+16	Simon Watkins	beat	Leslie Watson	+14TP
+17	Rod Kirk	beat	Simon Watkins	+16
+18	Ken Bald	beat	Martin Clarke	+2
+19	Mark Prater	beat	Leslie Watson	+9
+20	Jeff Newcombe	beat	Tim Murphy	+10
+21	Martin Clarke	beat	Mark Prater	+12
+22	Simon Watkins	beat	Jeff Newcombe	+20
+23	Tim Murphy	beat	Rod Kirk	+26
+24	Ken Bald	beat	Leslie Watson	+7
+25	Tim Murphy	beat	Mark Prater	+17TP
+26	Ken Bald	beat	Simon Watkins	+17
+27	Martin Clarke	beat	Rod Kirk	+15
+28	Leslie Watson	beat	Jeff Newcombe	+4
+29	Simon Watkins	beat	Martin Clarke	+17
+30	Jeff Newcombe	beat	Rod Kirk	+3TP
+31	Leslie Watson	beat	Tim Murphy	+14
+32	Mark Prater	beat	Ken Bald	+25TP
+33	Mark Prater	beat	Jeff Newcombe	+11TP
+34	Martin Clarke	beat	Leslie Watson	+26
+35	Ken Bald	beat	Rod Kirk	+7
+36	Tim Murphy	beat	Simon Watkins	+7
+37	Ken Bald	beat	Tim Murphy	+14TP
+38	Mark Prater	beat	Simon Watkins	+3
+39	Martin Clarke	beat	Jeff Newcombe	+24TP
+40	Rod Kirk	beat	Leslie Watson	+11
+41	Leslie Watson	beat	Simon Watkins	+1
+42	Ken Bald	beat	Jeff Newcombe	+17
+43	Mark Prater	beat	Rod Kirk	+26
+44	Martin Clarke	beat	Tim Murphy	+13
+45	Jeff Newcombe	beat	Tim Murphy	+17
+46	Leslie Watson	beat	Mark Prater	+25SXP
+47	Martin Clarke	beat	Ken Bald	+26TP
+48	Simon Watkins	beat	Rod Kirk	+4
+49	Leslie Watson	beat	Ken Bald	+2TP
+50	Tim Murphy	beat	Rod Kirk	+26TP
+51	Simon Watkins	beat	Jeff Newcombe	+17
+52	Martin Clarke	beat	Mark Prater	+3TPO
+53	Martin Clarke	beat	Rod Kirk	+26TP
+54	Leslie Watson	beat	Jeff Newcombe	+26
+55	Ken Bald	beat	Simon Watkins	+17TP
+56	Tim Murphy	beat	Mark Prater	+1
+End
+
+Event AUS Third Eight (The Major Tingey Tray)
+Date 2-5.10.09
+Class 2
+Type single
+Games 56
+Order firstname
+1	Liz Fleming	beat	Ernie Melville	+16
+2	Gil Schupelius	beat	Margaret Melville	+5
+3	Alan Sands	beat	Ken Edwards	+23
+4	Greg Fletcher	beat	John Levick	+5TP
+5	Gil Schupelius	beat	Greg Fletcher	+9
+6	Liz Fleming	beat	Ken Edwards	+13
+7	John Levick	beat	Margaret Melville	+26
+8	Alan Sands	beat	Ernie Melville	+26
+9	Margaret Melville	beat	Ken Edwards	+14
+10	Alan Sands	beat	John Levick	+24
+11	Greg Fletcher	beat	Ernie Melville	+20
+12	Liz Fleming	beat	Gil Schupelius	+3
+13	John Levick	beat	Gil Schupelius	+10
+14	Ken Edwards	beat	Ernie Melville	+17
+15	Alan Sands	beat	Liz Fleming	+16
+16	Greg Fletcher	beat	Margaret Melville	+16
+17	Greg Fletcher	beat	Ken Edwards	+3
+18	Liz Fleming	beat	John Levick	+11TP
+19	Ernie Melville	beat	Margaret Melville	+1
+20	Gil Schupelius	beat	Alan Sands	+15
+21	John Levick	beat	Ernie Melville	+24
+22	Alan Sands	beat	Greg Fletcher	+7TP
+23	Gil Schupelius	beat	Ken Edwards	+3
+24	Margaret Melville	beat	Liz Fleming	+25
+25	Margaret Melville	beat	Alan Sands	+10
+26	Gil Schupelius	beat	Ernie Melville	+9
+27	Liz Fleming	beat	Greg Fletcher	+11
+28	Ken Edwards	beat	John Levick	+19
+29	John Levick	beat	Greg Fletcher	+5
+30	Ken Edwards	beat	Alan Sands	+26
+31	Gil Schupelius	beat	Margaret Melville	+9
+32	Liz Fleming	beat	Ernie Melville	+22
+33	Ernie Melville	beat	Alan Sands	+5
+34	John Levick	beat	Margaret Melville	+24
+35	Liz Fleming	beat	Ken Edwards	+26
+36	Greg Fletcher	beat	Gil Schupelius	+14
+37	Liz Fleming	beat	Gil Schupelius	+16
+38	Greg Fletcher	beat	Ernie Melville	+17
+39	John Levick	beat	Alan Sands	+26TP
+40	Margaret Melville	beat	Ken Edwards	+15
+41	Greg Fletcher	beat	Margaret Melville	+16
+42	Alan Sands	beat	Liz Fleming	+26
+43	Ken Edwards	beat	Ernie Melville	+22
+44	John Levick	beat	Gil Schupelius	+4
+45	Alan Sands	beat	Gil Schupelius	+10
+46	Margaret Melville	beat	Ernie Melville	+13
+47	Liz Fleming	beat	John Levick	+26
+48	Ken Edwards	beat	Greg Fletcher	+5
+49	Margaret Melville	beat	Liz Fleming	+18
+50	Gil Schupelius	beat	Ken Edwards	+25TP
+51	Greg Fletcher	beat	Alan Sands	+24
+52	John Levick	beat	Ernie Melville	+9
+53	Ken Edwards	beat	John Levick	+15
+54	Gil Schupelius	beat	Ernie Melville	+8
+55	Greg Fletcher	beat	Liz Fleming	+2
+56	Margaret Melville	beat	Alan Sands	+4
+End
+
+Event AUS Women's Eight (Jean Armstrong Bowl)
+Date 2-5.10.09
+Class 2
+Type single
+Games 56
+Order firstname
+1	Tricia Devlin	beat	Creina Dawson	+25
+2	Rosemary Graham	beat	Charlotte Morgan	+6
+3	Robyn Stock	beat	Wendy Dickson	+24
+4	Sue Beattie	beat	Alison Sharpe	+5
+5	Robyn Stock	beat	Tricia Devlin	+11
+6	Alison Sharpe	beat	Rosemary Graham	+8
+7	Creina Dawson	beat	Wendy Dickson	+20
+8	Charlotte Morgan	beat	Sue Beattie	+7
+9	Wendy Dickson	beat	Charlotte Morgan	+16
+10	Sue Beattie	beat	Robyn Stock	+13
+11	Tricia Devlin	beat	Alison Sharpe	+25TP
+12	Creina Dawson	beat	Rosemary Graham	+17
+13	Tricia Devlin	beat	Wendy Dickson	+25
+14	Rosemary Graham	beat	Sue Beattie	+15
+15	Robyn Stock	beat	Creina Dawson	+26
+16	Alison Sharpe	beat	Charlotte Morgan	+15
+17	Rosemary Graham	beat	Robyn Stock	+25
+18	Alison Sharpe	beat	Wendy Dickson	+8
+19	Sue Beattie	beat	Creina Dawson	+13
+20	Charlotte Morgan	beat	Tricia Devlin	+3
+21	Wendy Dickson	beat	Sue Beattie	+11
+22	Charlotte Morgan	beat	Robyn Stock	+4
+23	Rosemary Graham	beat	Tricia Devlin	+23
+24	Creina Dawson	beat	Alison Sharpe	+11
+25	Charlotte Morgan	beat	Creina Dawson	+11
+26	Robyn Stock	beat	Alison Sharpe	+16
+27	Rosemary Graham	beat	Wendy Dickson	+23
+28	Tricia Devlin	beat	Sue Beattie	+22
+29	Robyn Stock	beat	Wendy Dickson	+9
+30	Rosemary Graham	beat	Charlotte Morgan	+4
+31	Tricia Devlin	beat	Creina Dawson	+21
+32	Sue Beattie	beat	Alison Sharpe	+12
+33	Charlotte Morgan	beat	Sue Beattie	+10
+34	Creina Dawson	beat	Wendy Dickson	+13
+35	Alison Sharpe	beat	Rosemary Graham	+26
+36	Robyn Stock	beat	Tricia Devlin	+6
+37	Tricia Devlin	beat	Alison Sharpe	+4
+38	Robyn Stock	beat	Sue Beattie	+14
+39	Charlotte Morgan	beat	Wendy Dickson	+11
+40	Creina Dawson	beat	Rosemary Graham	+26
+41	Alison Sharpe	beat	Charlotte Morgan	+17
+42	Sue Beattie	beat	Rosemary Graham	+14
+43	Robyn Stock	beat	Creina Dawson	+12
+44	Tricia Devlin	beat	Wendy Dickson	+22
+45	Tricia Devlin	beat	Charlotte Morgan	+16
+46	Creina Dawson	beat	Sue Beattie	+17
+47	Alison Sharpe	beat	Wendy Dickson	+4
+48	Rosemary Graham	beat	Robyn Stock	+14
+49	Alison Sharpe	beat	Creina Dawson	+20
+50	Rosemary Graham	beat	Tricia Devlin	+24
+51	Robyn Stock	beat	Charlotte Morgan	+3
+52	Sue Beattie	beat	Wendy Dickson	+7
+53	Rosemary Graham	beat	Wendy Dickson	+15
+54	Alison Sharpe	beat	Robyn Stock	+24
+55	Tricia Devlin	beat	Sue Beattie	+10
+56	Charlotte Morgan	beat	Creina Dawson	+11
+End
+

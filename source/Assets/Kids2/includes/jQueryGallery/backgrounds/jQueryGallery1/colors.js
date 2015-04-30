@@ -1,0 +1,1 @@
+{"subtitle_albums_down":"#ffffff","albums_item_over":"#629d00","border_item_over":"#d6d6d6","border_item_down":"#9cfe00","albums_item_up":"#ecffcb","caption":"#ffffff","subtitle_albums_up":"#2f4f00","border_item_up":"#242424","albums_item_down":"#74c200","caption_back":"#000000","subtitle_albums_over":"#ffffff"}

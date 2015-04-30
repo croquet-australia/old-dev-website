@@ -1,0 +1,22 @@
+<albums gallery="jQueryGallery1" imagesFolder="includes/jQueryGallery/images/jQueryGallery1/">
+  <album name="Album 1" folder="Album1" description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam" thumbnail="albums/1.jpg">
+    <image src="1.jpg" title="Title 1" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="#" target="_blank" thumbnail="thumb/1.jpg"/>
+    <image src="2.jpg" title="Title 2" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="#" target="_blank" thumbnail="thumb/2.jpg"/>
+    <image src="3.jpg" title="Title 3" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/3.jpg"/>
+    <image src="4.jpg" title="Title 4" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/4.jpg"/>
+    <image src="5.jpg" title="Title 5" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/5.jpg"/>
+    <image src="6.jpg" title="Title 6" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/6.jpg"/>
+    <image src="7.jpg" title="Title 7" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/7.jpg"/>
+    <image src="8.jpg" title="Title 8" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/8.jpg"/>
+  </album>
+  <album name="Album 2" folder="Album2" description="Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident" thumbnail="albums/9.jpg">
+    <image src="9.jpg" title="Title 9" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/9.jpg"/>
+    <image src="10.jpg" title="Title 10" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/10.jpg"/>
+    <image src="11.jpg" title="Title 11" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/11.jpg"/>
+    <image src="12.jpg" title="Title 12" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/12.jpg"/>
+    <image src="13.jpg" title="Title 13" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/13.jpg"/>
+    <image src="14.jpg" title="Title 14" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/14.jpg"/>
+    <image src="15.jpg" title="Title 15" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/15.jpg"/>
+    <image src="16.jpg" title="Title 16" description="This is just an example text to serve as a placeholder for the subcaption area. Please replace it with your own text" url="" target="_self" thumbnail="thumb/16.jpg"/>
+  </album>
+</albums>

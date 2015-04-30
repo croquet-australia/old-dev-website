@@ -1,0 +1,344 @@
+Event AUS Gold and Silver Medals
+Date 16-18.3.11
+Class 2
+Type single
+Games 30
+Order firstname
+1	Dwayne McCormick	beat	Don Close	+24
+2	Stephen Forster	beat	Jim Nicholls	+23
+3	Bob Bye	beat	Dwayne McCormick	+3
+4	Jim Nicholls	beat	Don Close	+16
+5	Alan Sands	beat	Dwayne McCormick	+25TP
+6	Jim Nicholls	beat	Bob Bye	+9
+7	Stephen Forster	beat	Bob Bye	+23TP
+8	Alan Sands	beat	Stephen Forster	+26
+9	Alan Sands	beat	Don Close	+15
+10	Jim Nicholls	beat	Dwayne McCormick	+24
+11	Stephen Forster	beat	Don Close	+26TP
+12	Alan Sands	beat	Bob Bye	+24
+13	Stephen Forster	beat	Dwayne McCormick	+26TP
+14	Stephen Forster	beat	Bob Bye	+22TP
+15	Alan Sands	beat	Jim Nicholls	+3TP
+16	Don Close	beat	Bob Bye	+3
+17	Alan Sands	beat	Dwayne McCormick	+14TP
+18	Don Close	beat	Jim Nicholls	+17
+19	Stephen Forster	beat	Alan Sands	+26TP
+20	Don Close	beat	Dwayne McCormick	+17
+21	Stephen Forster	beat	Jim Nicholls	+26TP
+22	Jim Nicholls	beat	Bob Bye	+7
+23	Alan Sands	beat	Don Close	+12
+24	Bob Bye	beat	Dwayne McCormick	+2
+25	Jim Nicholls	beat	Dwayne McCormick	+23
+26	Stephen Forster	beat	Dwayne McCormick	+25TP
+27	Stephen Forster	beat	Don Close	+26TP
+28	Don Close	beat	Bob Bye	+21
+29	Jim Nicholls	beat	Alan Sands	+26
+30	Alan Sands	beat	Bob Bye	+10
+End
+
+Event AUS Men's 9th to 16th
+Date 19-22.3.11
+Class 2
+Type match
+Games 7
+Order firstname
+1	Jeff Newcombe	beat	Tim Murphy	+11, +24
+2	Simon Watkins	beat	Trevor Bassett	+25, +2
+3	Malcolm Fletcher	beat	Peter Landrebre	+22TP, +16TP
+4	Greg Fletcher	beat	Ken Edwards	+26TP, +8TPO
+5	Simon Watkins	beat	Jeff Newcombe	+14, -12, +16
+6	Greg Fletcher	beat	Malcolm Fletcher	-21TP, +8OTP, +24TP
+7	Greg Fletcher	beat	Simon Watkins	+17TP, +26TP
+End
+
+Event AUS Men's Open
+Date 19-22.3.11
+Class 2
+Type match
+Games 34
+Order firstname
+1	Jeff Newcombe	beat	Zoran Malceski	+17, +17
+2	Trevor Bassett	beat	Basil Ladyman	+20TP, +23TP
+3	Greg Fletcher	beat	Ian Smith	+5, +23
+4	Robert Fletcher	beat	Gareth Bushill	+25, +13
+5	Jeff Newcombe	beat	Alan Walsh	+17, +17TP
+6	Tim Murphy	beat	Ross Marshall	-1, +1, +7
+7	Alan Sands	beat	Bob Beattie	+26, -8, +14
+8	Kevin Beard	beat	Jock Capobianco	+23, +26
+9	Simon Watkins	beat	Mike Hughes	+15, +16
+10	Trevor Bassett	beat	David Wise	+17TP, +10TPO
+11	Ken Bald	beat	Robert McAdam	+19, +5
+12	Peter Landrebre	beat	Dick Smith	+9, +4
+13	Jim Nicholls	beat	Dean Paterson	+7, +8
+14	Stephen Richards	beat	Alan Honey	+24, +9
+15	Malcolm Fletcher	beat	Tony Hall	+17, -7TP, +8TP
+16	Greg Fletcher	beat	Stephen Howes	+13TP, +5TP
+17	Dwayne McCormick	beat	Martyn Prins	+9, +14
+18	Ken Edwards	beat	Greg Rowberry	+13, -8, +4
+19	Stephen Forster	beat	John Philpot	+20, +20
+20	Robert Fletcher	beat	Jeff Newcombe	+16, +26TP
+21	Alan Sands	beat	Tim Murphy	+26, +20
+22	Kevin Beard	beat	Simon Watkins	+16TP, -17, +1
+23	Ken Bald	beat	Trevor Bassett	+26, +17
+24	Jim Nicholls	beat	Peter Landrebre	+26TP, -26TP, +23TP
+25	Stephen Richards	beat	Malcolm Fletcher	-26, +25, +4
+26	Dwayne McCormick	beat	Greg Fletcher	+20, -22, +25
+27	Stephen Forster	beat	Ken Edwards	+16, +21
+28	Robert Fletcher	beat	Alan Sands	-17, +17, +26TP
+29	Kevin Beard	beat	Ken Bald	+3, +17TP
+30	Jim Nicholls	beat	Stephen Richards	+26, -17, +26
+31	Dwayne McCormick	beat	Stephen Forster	+26TP, -5, +17
+32	Robert Fletcher	beat	Kevin Beard	+17TP, +25TP, +26TP
+33	Jim Nicholls	beat	Dwayne McCormick	+16, +25TP, +3
+34	Robert Fletcher	beat	Jim Nicholls	+20TP, +24TP, -26TP, +17T
+End
+
+Event AUS Men's Plate
+Date 19-22.3.11
+Class 2
+Type single
+Games 54
+Order firstname
+1	Robert McAdam	beat	Basil Ladyman	+14
+2	Gareth Bushill	beat	Alan Honey	+24
+3	Tony Hall	beat	Zoran Malceski	+21
+4	Ian Smith	beat	Jock Capobianco	+15
+5	Mike Hughes	beat	Dick Smith	+16
+6	Dean Paterson	beat	Gareth Bushill	+26
+7	Martyn Prins	beat	Bob Beattie	+23
+8	Basil Ladyman	beat	Zoran Malceski	+3
+9	David Wise	beat	Alan Honey	+17TP
+10	Greg Rowberry	beat	Robert McAdam	+12
+11	Alan Walsh	beat	Stephen Howes	+26
+12	Dick Smith	beat	Ian Smith	+19
+13	Mike Hughes	beat	Tony Hall	+8
+14	Martyn Prins	beat	Robert McAdam	+16
+15	Gareth Bushill	beat	Zoran Malceski	+11
+16	Alan Walsh	beat	Dick Smith	+5
+17	Martyn Prins	beat	Stephen Howes	+22
+18	Ross Marshall	beat	Alan Honey	+12
+19	Dean Paterson	beat	Bob Beattie	+17
+20	Tony Hall	beat	Ian Smith	+25
+21	Mike Hughes	beat	Zoran Malceski	+26
+22	Jock Capobianco	beat	Basil Ladyman	+10
+23	David Wise	beat	Jock Capobianco	+22
+24	Greg Rowberry	beat	David Wise	+2
+25	Dean Paterson	beat	Alan Honey	+1
+26	Robert McAdam	beat	Gareth Bushill	+21
+27	Greg Rowberry	beat	Basil Ladyman	+3
+28	Bob Beattie	beat	Ross Marshall	+25TP
+29	Alan Walsh	beat	Tony Hall	+26
+30	Dean Paterson	beat	Ross Marshall	+24
+31	Alan Honey	beat	Bob Beattie	+13
+32	Stephen Howes	beat	Dick Smith	+9
+33	Alan Walsh	beat	Zoran Malceski	+26TP
+34	Gareth Bushill	beat	Ian Smith	+2
+35	Mike Hughes	beat	Martyn Prins	+1
+36	Tony Hall	beat	Robert McAdam	+17
+37	David Wise	beat	Basil Ladyman	+12
+38	Greg Rowberry	beat	Jock Capobianco	+13OTP
+39	Stephen Howes	beat	Bob Beattie	+17
+40	Greg Rowberry	beat	Tony Hall	+16
+41	Gareth Bushill	beat	Mike Hughes	+17
+42	Alan Honey	beat	Stephen Howes	+20
+43	Dick Smith	beat	Robert McAdam	+18
+44	Alan Walsh	beat	David Wise	+1
+45	Bob Beattie	beat	Basil Ladyman	+11
+46	Zoran Malceski	beat	Jock Capobianco	+2
+47	Martyn Prins	beat	Dean Paterson	+11
+48	Dick Smith	beat	Alan Honey	+17
+49	Robert McAdam	beat	Jock Capobianco	+15
+50	Stephen Howes	beat	Zoran Malceski	+17
+51	David Wise	beat	Tony Hall	+1
+52	Alan Walsh	beat	Greg Rowberry	+4
+53	Gareth Bushill	beat	Martyn Prins	+1
+54	Mike Hughes	beat	Dean Paterson	+3
+End
+
+Event AUS Women's Open
+Date 19-22.3.11
+Class 2
+Type match
+Games 25
+Order firstname
+1	Claire Bassett	beat	Pam Hamilton	+26, +25
+2	Robbie Stock	beat	Elizabeth Allen	-23, +11, +16
+3	Jannine Hawker	beat	Rosemary Newsham	+15, +10
+4	Sue Beattie	beat	Cynthia Tacey	+22, +20
+5	Patricia Devlin	beat	Elizabeth Brinsdon	+9, +26TP
+6	Alison Sharpe	beat	Marie Calthorpe	+26TP, +25
+7	Marga Podnieks	beat	Helen Collins	+1, +4
+8	Judith Wembridge	beat	Pam Gentle	+26, +13
+9	Wendy Dickson	beat	Elaine Roomes	+2, +25
+10	Rosemary Graham	beat	Judy Evans	+26, +17
+11	Claire Bassett	beat	Anne Quinn	+23TP, +18
+12	Jannine Hawker	beat	Robbie Stock	+9, +9
+13	Sue Beattie	beat	Megan Reynolds	+26, +26
+14	Patricia Devlin	beat	Claire Bamford	+16TP, +18
+15	Marga Podnieks	beat	Alison Sharpe	+24, +4
+16	Judith Wembridge	beat	Liz Bassett	+25, +21
+17	Wendy Dickson	beat	Creina Dawson	+20, +6
+18	Rosemary Graham	beat	Sandra Stevenson	+22, +7
+19	Jannine Hawker	beat	Claire Bassett	-9, +10, +21TP
+20	Patricia Devlin	beat	Sue Beattie	+17, -25, +10
+21	Marga Podnieks	beat	Judith Wembridge	-7, +8, +5
+22	Rosemary Graham	beat	Wendy Dickson	+5, +23
+23	Patricia Devlin	beat	Jannine Hawker	+4, -11, +9
+24	Rosemary Graham	beat	Marga Podnieks	+15, +9
+25	Patricia Devlin	beat	Rosemary Graham	-25, +15, +5, +2
+End
+
+Event AUS Women's Plate 1
+Date 19-21.3.11
+Class 2
+Type single
+Games 15
+Order firstname
+1	Pam Hamilton	beat	Elizabeth Brinsdon	+1
+2	Pam Hamilton	beat	Pam Gentle	+21
+3	Pam Hamilton	beat	Rosemary Newsham	+10
+4	Pam Gentle	beat	Elizabeth Brinsdon	+7
+5	Creina Dawson	beat	Elizabeth Brinsdon	+19
+6	Alison Sharpe	beat	Pam Gentle	+10
+7	Rosemary Newsham	beat	Creina Dawson	+3
+8	Alison Sharpe	beat	Rosemary Newsham	+26
+9	Alison Sharpe	beat	Creina Dawson	+4
+10	Alison Sharpe	beat	Pam Hamilton	+26
+11	Rosemary Newsham	beat	Elizabeth Brinsdon	+21
+12	Pam Gentle	beat	Creina Dawson	+17
+13	Creina Dawson	beat	Pam Hamilton	+1
+14	Alison Sharpe	beat	Elizabeth Brinsdon	+9
+15	Pam Gentle	beat	Rosemary Newsham	+21
+End
+
+Event AUS Women's Plate 2
+Date 19-21.3.11
+Class 2
+Type single
+Games 14
+Order firstname
+1	Elizabeth Allen	beat	Marie Calthorpe	+2
+2	Megan Reynolds	beat	Marie Calthorpe	+20
+3	Anne Quinn	beat	Judy Evans	+3
+4	Judy Evans	beat	Elizabeth Allen	+7
+5	Megan Reynolds	beat	Judy Evans	+15
+6	Megan Reynolds	beat	Anne Quinn	+2
+7	Robbie Stock	beat	Anne Quinn	+21
+8	Robbie Stock	beat	Elizabeth Allen	+10
+9	Anne Quinn	beat	Marie Calthorpe	+13
+10	Judy Evans	beat	Robbie Stock	+9
+11	Megan Reynolds	beat	Elizabeth Allen	+20
+12	Judy Evans	beat	Marie Calthorpe	+1
+13	Anne Quinn	beat	Elizabeth Allen	+11
+14	Megan Reynolds	beat	Robbie Stock	+24
+End
+
+Event AUS Women's Plate 3
+Date 19-21.3.11
+Class 2
+Type single
+Games 15
+Order firstname
+1	Claire Bamford	beat	Cynthia Tacey	+9
+2	Liz Bassett	beat	Cynthia Tacey	+10
+3	Sandra Stevenson	beat	Cynthia Tacey	+1
+4	Helen Collins	beat	Elaine Roomes	+1
+5	Elaine Roomes	beat	Liz Bassett	+6
+6	Sandra Stevenson	beat	Elaine Roomes	+12
+7	Claire Bamford	beat	Liz Bassett	+10
+8	Claire Bamford	beat	Helen Collins	+9
+9	Helen Collins	beat	Sandra Stevenson	+26
+10	Cynthia Tacey	beat	Helen Collins	+1
+11	Elaine Roomes	beat	Claire Bamford	+21
+12	Liz Bassett	beat	Sandra Stevenson	+3
+13	Elaine Roomes	beat	Cynthia Tacey	+2
+14	Liz Bassett	beat	Helen Collins	+5
+15	Sandra Stevenson	beat	Claire Bamford	+20
+End
+
+Event AUS Women's 5th to 8th
+Date 20-22.3.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Judith Wembridge	beat	Wendy Dickson	+14, +13
+2	Sue Beattie	beat	Claire Bassett	+17, +12
+3	Judith Wembridge	beat	Sue Beattie	+26
+End
+
+Event AUS Men's 13th to 16th
+Date 21-22.3.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Trevor Bassett	beat	Tim Murphy	+23TP, +26
+2	Peter Landrebre	beat	Ken Edwards	+10TPO, +22TP
+3	Peter Landrebre	beat	Trevor Bassett	+17, +26TP
+End
+
+Event AUS Men's 5th to 8th
+Date 21-22.3.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Stephen Richards	beat	Stephen Forster	+25, +13
+2	Ken Bald	beat	Alan Sands	+26TP, +25TP
+3	Ken Bald	beat	Stephen Richards	+4, +26
+End
+
+Event AUS Men's Plate Final
+Date 21-22.3.11
+Class 2
+Type match
+Games 7
+Order firstname
+1	Dean Paterson	beat	Alan Walsh	+5
+2	Gareth Bushill	beat	Stephen Howes	+18
+3	Greg Rowberry	beat	Martyn Prins	+6
+4	Mike Hughes	beat	David Wise	+5
+5	Gareth Bushill	beat	Dean Paterson	+3
+6	Greg Rowberry	beat	Mike Hughes	+14
+7	Greg Rowberry	beat	Gareth Bushill	+26
+End
+
+Event AUS Men's 3rd & 4th
+Date 22-22.3.11
+Class 2
+Type match
+Games 1
+Order firstname
+1	Kevin Beard	beat	Dwayne McCormick	-7, +26, +26TP
+End
+
+Event AUS Men's 7th & 8th
+Date 22-22.3.11
+Class 2
+Type match
+Games 1
+Order firstname
+1	Alan Sands	beat	Stephen Forster	-21, +23, +26
+End
+
+Event AUS Women's 3rd & 4th
+Date 22-22.3.11
+Class 2
+Type match
+Games 1
+Order firstname
+1	Jannine Hawker	beat	Marga Podnieks	+13, -5, +17
+End
+
+Event AUS Women's Final
+Date 22-22.3.11
+Class 2
+Type single
+Games 3
+Order firstname
+1	Elaine Roomes	beat	Megan Reynolds	+3
+2	Alison Sharpe	beat	Elaine Roomes	+20
+3	Megan Reynolds	beat	Alison Sharpe	+14
+End
+

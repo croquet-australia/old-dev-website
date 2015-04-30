@@ -1,0 +1,694 @@
+.JQueryGallerySlice {
+  display: block;
+  position: absolute;
+  z-index: 5;
+  height: 100%;
+}
+.JQueryGalleryBox {
+  display: block;
+  position: absolute;
+  z-index: 5;
+}
+.JQueryGalleryShow {
+  display: block;
+}
+.JQueryGalleryHide {
+  display: none;
+}
+.JQueryGallery {
+  position: relative;
+  text-align: left;
+}
+/* reset slider inner li*/
+.JQueryGallery li li {
+  width: auto;
+  height: auto;
+  list-style-type: disc;
+  list-style-position: outside;
+  list-style-image: none;
+  display: none;
+}
+/* content style start */
+#jQueryGallery1 .header {
+  border-left: 0px none #0066cc;
+  border-top: 0px none #0066cc;
+  border-bottom: 0px none #0066cc;
+  border-right: 0px none #0066cc;
+  padding: 0px 0px 0px 0px;
+  color: #ff0000;
+  text-align: left;
+  background-color: transparent;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left top;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1;
+}
+#jQueryGallery1 .subheader {
+  border-left: 0px none #0066cc;
+  border-top: 0px none #0066cc;
+  border-bottom: 0px none #0066cc;
+  border-right: 0px none #0066cc;
+  padding: 0px 0px 0px 0px;
+  color: #ff0000;
+  text-align: left;
+  background-color: transparent;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left top;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1;
+}
+#jQueryGallery1 .paragraph {
+  border-left: 0px none #0066cc;
+  border-top: 0px none #0066cc;
+  border-bottom: 0px none #0066cc;
+  border-right: 0px none #0066cc;
+  padding: 0px 0px 0px 0px;
+  color: #ff0000;
+  text-align: left;
+  text-align: left;
+  background-color: transparent;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left top;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 1;
+}
+/* content style end */
+/* content style end */
+#jQueryGallery1Container {
+  border-left: 0px none #0066cc;
+  border-top: 0px none #0066cc;
+  border-bottom: 0px none #0066cc;
+  border-right: 0px none #0066cc;
+  position: relative;
+  width: 845px;
+  height: 350px;
+  color: #000000;
+  background-color: transparent;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+#jQueryGallery1 {
+  background: transparent none no-repeat left top scroll;
+  border-left: 2px solid #333333;
+  border-top: 2px solid #333333;
+  border-bottom: 2px solid #333333;
+  border-right: 2px solid #333333;
+  padding: 0px 0px 0px 0px;
+  position: absolute;
+  color: #000000;
+  width: 570px;
+  height: 344px;
+  top: 0px;
+  left: auto;
+  right: 0px;
+  bottom: auto;
+  display: block;
+}
+#jQueryGallery1 img {
+  border-left: 0 none #000000;
+  border-top: 0 none #000000;
+  border-bottom: 0 none #000000;
+  border-right: 0 none #000000;
+}
+#jQueryGallery1 ul, #jQueryGallery1 li {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: relative;
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+}
+/*	nav bar resets */
+#jQueryGallery1_thumbscroll_in, #jQueryGallery1_thumbscroll_in ul, #jQueryGallery1_thumbscroll_in li {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: relative;
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+  width: auto;
+  height: auto;
+}
+/*	nav bar container */
+#jQueryGallery1_thumbscroll_in {
+  position: absolute;
+  top: auto;
+  left: 0px;
+}
+/*	nav bar container */
+#jQueryGallery1_thumbscroll_in {
+  background: transparent none repeat-x left top scroll;
+  border-left: 0px none transparent;
+  border-top: 0px solid transparent;
+  border-bottom: 0px none transparent;
+  border-right: 0px none transparent;
+  padding: 0px 0px 0px 0px;
+  width: 260px;
+  height: 290px;
+  right: auto;
+  bottom: 0px;
+  overflow: hidden;
+  z-index: 110;
+}
+/*	nav bar ul */
+#jQueryGallery1_thumbscroll_in ul {
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  height: auto;
+}
+/*	nav bar element container */
+#jQueryGallery1_thumbscroll_in li {
+  float: left;
+  padding-bottom: 8px;
+  padding-right: 8px;
+}
+/*	nav bar element normal state */
+#jQueryGallery1_thumbscroll_in li a {
+  background: transparent url(' ') no-repeat left top scroll;
+  font: normal normal normal 0px/0px Arial,Helvetica,sans-serif;
+  border-left: 0px solid #242424;
+  border-top: 0px solid #242424;
+  border-bottom: 0px solid #242424;
+  border-right: 0px solid #242424;
+  padding: 0px 0px 0px 0px;
+  float: left;
+  width: 81px;
+  height: 66px;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+/*	nav bar element hover state */
+#jQueryGallery1_thumbscroll_in li a.hover {
+  background: transparent url(' ') no-repeat left top scroll;
+  font: normal normal normal 0px/0px Arial,Helvetica,sans-serif;
+  border-left: 0px solid #d6d6d6;
+  border-top: 0px solid #d6d6d6;
+  border-bottom: 0px solid #d6d6d6;
+  border-right: 0px solid #d6d6d6;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  float: left;
+  width: 81px;
+  height: 66px;
+  cursor: pointer;
+  color: #00ffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+/*	nav bar element active state */
+#jQueryGallery1_thumbscroll_in li a.active {
+  background: transparent none no-repeat left top scroll;
+  font: normal normal normal 0px/0px Arial,Helvetica,sans-serif;
+  border-left: 0px solid #9cfe00;
+  border-top: 0px solid #9cfe00;
+  border-bottom: 0px solid #9cfe00;
+  border-right: 0px solid #9cfe00;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  float: left;
+  width: 81px;
+  height: 66px;
+  cursor: pointer;
+  color: #0000ff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+#jQueryGallery1_thumbscroll_in li a img {
+  border-left: 2px solid #242424;
+  border-top: 2px solid #242424;
+  border-bottom: 2px solid #242424;
+  border-right: 2px solid #242424;
+  padding: 0px 0px 0px 0px;
+}
+#jQueryGallery1_thumbscroll_in li a.hover img {
+  border-left: 2px solid #d6d6d6;
+  border-top: 2px solid #d6d6d6;
+  border-bottom: 2px solid #d6d6d6;
+  border-right: 2px solid #d6d6d6;
+  padding: 0px 0px 0px 0px;
+}
+#jQueryGallery1_thumbscroll_in li a.active img {
+  border-left: 2px solid #9cfe00;
+  border-top: 2px solid #9cfe00;
+  border-bottom: 2px solid #9cfe00;
+  border-right: 2px solid #9cfe00;
+  padding: 0px 0px 0px 0px;
+}
+#jQueryGallery1_thumbscroll_back_in {
+  background: transparent url('default/default/thumbsback_up.png') no-repeat center center scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  padding: 0px 0px 0px 0px;
+  width: 30px;
+  height: 45px;
+  cursor: pointer;
+  right: auto;
+  bottom: 0px;
+  color: #666666;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+  position: absolute;
+  left: 100px;
+  top: auto;
+  display: block;
+  z-index: 111;
+}
+#jQueryGallery1_thumbscroll_back_in.hover {
+  background: transparent url('default/default/thumbsback_over.png') no-repeat center center scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  padding: 0px 0px 0px 0px;
+  color: #666666;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_thumbscroll_next_in {
+  background: transparent url('default/default/thumbsnext_up.png') no-repeat center center scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  padding: 0px 0px 0px 0px;
+  width: 30px;
+  height: 45px;
+  cursor: pointer;
+  right: 100px;
+  bottom: 0px;
+  color: #666666;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+  position: absolute;
+  left: auto;
+  top: auto;
+  display: block;
+  z-index: 112;
+}
+#jQueryGallery1_thumbscroll_next_in.hover {
+  background: transparent url('default/default/thumbsnext_over.png') no-repeat center center scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  padding: 0px 0px 0px 0px;
+  color: #666666;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_caption_in {
+  position: absolute;
+  top: 2px;
+  left: auto;
+}
+#jQueryGallery1_caption_in {
+  background: #000000 none no-repeat left top scroll;
+  font: italic normal normal 12px/100% Georgia,"Times New Roman",Times,serif;
+  border-left: 0px none #666666;
+  border-top: 0px none #666666;
+  border-bottom: 0px none #666666;
+  border-right: 0px none #666666;
+  padding: 10px 0px 0px 10px;
+  position: absolute;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  width: 560px;
+  height: 27px;
+  z-index: 115;
+  bottom: auto;
+  right: 2px;
+}
+.jQueryGallery1_tooltip_in {
+  border-left: 0px solid #ffffff;
+  border-top: 0px solid #ffffff;
+  border-bottom: 0px solid #ffffff;
+  border-right: 0px solid #ffffff;
+  padding: 0px 0px 0px 0px;
+  display: none;
+  position: absolute;
+  z-index: 160;
+  background-color: transparent;
+  background-position: left top;
+}
+.jQueryGallery1_tooltip_in_preview_wrapper {
+  overflow: hidden;
+  position: relative;
+}
+.jQueryGallery1_tooltip_in_preview {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  list-style-type: none;
+}
+.jQueryGallery1_tooltip_in_preview li {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  float: left;
+}
+.jQueryGallery1_tooltip_in_preview li img {
+  display: block;
+}
+#jQueryGallery1_albumsContainer_in li a span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #003300;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.hover span.subtitle {
+  font: normal normal bold 12px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.active span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+/*	inner back button positioning */
+#jQueryGallery1_back_in {
+  position: absolute;
+  top: auto;
+  left: 5px;
+}
+/*	inner back button normal state */
+#jQueryGallery1_back_in {
+  background: transparent url('default/default/back_default_upstate.png') no-repeat left top scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px none #666666;
+  border-top: 0px none #666666;
+  border-bottom: 0px none #666666;
+  border-right: 0px none #666666;
+  padding: 0px 0px 0px 0px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+  right: auto;
+  bottom: 16px;
+  color: #666666;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  z-index: 120;
+}
+/*	inner back button hover state */
+#jQueryGallery1_back_in.hover {
+  background: transparent url('default/default/back_default_overstate.png') no-repeat left top scroll;
+  font: normal normal normal 12px/100% "Arial Black",Gadget,sans-serif;
+  border-left: 0px none #666666;
+  border-top: 0px none #666666;
+  border-bottom: 0px none #666666;
+  border-right: 0px none #666666;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+}
+#jQueryGallery1_albumsContainer_in li a span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.hover span.subtitle {
+  font: normal normal bold 12px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.active span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+/*	nav bar resets */
+#jQueryGallery1_albumsContainer_in, #jQueryGallery1_albumsContainer_in ul, #jQueryGallery1_albumsContainer_in li {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: relative;
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+  width: auto;
+  height: auto;
+}
+/*	nav bar container */
+#jQueryGallery1_albumsContainer_in {
+  position: absolute;
+  top: -3px;
+  left: 0px;
+}
+/*	nav bar container */
+#jQueryGallery1_albumsContainer_in {
+  background: transparent none no-repeat left top scroll;
+  border-left: 0px none #ffffff;
+  border-top: 0px none #ffffff;
+  border-bottom: 0px none #ffffff;
+  border-right: 0px none #ffffff;
+  padding: 0px 0px 0px 0px;
+  overflow: hidden;
+  width: 270px;
+  height: 70px;
+  left: 0px;
+  bottom: auto;
+  z-index: 140;
+  right: auto;
+  display: block;
+}
+/*	nav bar ul */
+#jQueryGallery1_albumsContainer_in ul {
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  height: auto;
+}
+/*	nav bar element container */
+#jQueryGallery1_albumsContainer_in li {
+  float: left;
+  padding-right: 0px;
+  padding-bottom: 2px;
+}
+/*	nav bar element normal state */
+#jQueryGallery1_albumsContainer_in li a {
+  background: #ccff00 none no-repeat left top scroll;
+  font: normal normal normal 12px/100% Arial,Helvetica,sans-serif;
+  border-left: 0px solid #242424;
+  border-top: 0px solid #242424;
+  border-bottom: 0px solid #242424;
+  border-right: 0px solid #242424;
+  padding: 10px 10px 10px 10px;
+  width: 66px;
+  height: 6px;
+  display: block;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  overflow: hidden;
+}
+#jQueryGallery1_albumsContainer_in li a span.title {
+  font: normal normal normal 11px/1.2 Arial,Helvetica,sans-serif;
+  color: #00354e;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  margin-top: 4px;
+}
+/*	nav bar element hover state */
+#jQueryGallery1_albumsContainer_in li a.hover {
+  background: #005a83 none no-repeat left top scroll;
+  font: normal normal normal 12px/100% Arial,Helvetica,sans-serif;
+  border-left: 0px solid #d4d4d4;
+  border-top: 0px solid #d4d4d4;
+  border-bottom: 0px solid #d4d4d4;
+  border-right: 0px solid #d4d4d4;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 10px 10px 10px;
+  color: #000000;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  width: 66px;
+  height: 6px;
+}
+#jQueryGallery1_albumsContainer_in li a.hover span.title {
+  font: normal normal normal 11px/1.2 Georgia,"Times New Roman",Times,serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.hover span.subtitle {
+  font: normal normal bold 12px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+/*	nav bar element active state */
+#jQueryGallery1_albumsContainer_in li a.active {
+  background: #00aeff none no-repeat left top scroll;
+  font: normal normal normal 12px/100% Arial,Helvetica,sans-serif;
+  border-left: 0px solid #00aeff;
+  border-top: 0px solid #00aeff;
+  border-bottom: 0px solid #00aeff;
+  border-right: 0px solid #00aeff;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 10px 10px 10px;
+  color: #000000;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  width: 66px;
+  height: 6px;
+}
+#jQueryGallery1_albumsContainer_in li a.active span.title {
+  font: normal normal normal 10px/1.2 "Arial Black", Gadget, sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a.active span.subtitle {
+  font: normal normal bold 0px/100% Arial,Helvetica,sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_in li a img {
+  padding: 0px 0px 0px 0px;
+  width: 10px;
+  height: 10px;
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  margin-right: 0px;
+}
+#jQueryGallery1_albumsContainer_next_in {
+  background: #333333 none no-repeat left top scroll;
+  font: normal normal normal 12px/100% Arial,Helvetica,sans-serif;
+  border-left: 0px none #000000;
+  border-top: 0px none #000000;
+  border-bottom: 0px none #000000;
+  border-right: 0px none #000000;
+  padding: 10px 0px 0px 0px;
+  width: 384px;
+  height: 25px;
+  cursor: pointer;
+  right: auto;
+  bottom: auto;
+  color: #cccccc;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+  position: absolute;
+  left: 405px;
+  top: 371px;
+  display: none;
+  z-index: 145;
+}
+#jQueryGallery1_albumsContainer_next_in.hover {
+  background: #666666 none no-repeat left top scroll;
+  font: normal normal normal 12px/1 Arial,Helvetica,sans-serif;
+  border-left: 0px none #000000;
+  border-top: 0px none #000000;
+  border-bottom: 0px none #000000;
+  border-right: 0px none #000000;
+  padding: 10px 0px 0px 0px;
+  width: 384px;
+  height: 25px;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}
+#jQueryGallery1_albumsContainer_back_in {
+  background: #333333 none no-repeat left top scroll;
+  font: normal normal normal 12px/100% Arial,Helvetica,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  padding: 10px 0px 0px 0px;
+  width: 384px;
+  height: 25px;
+  cursor: pointer;
+  right: auto;
+  bottom: auto;
+  color: #cccccc;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+  position: absolute;
+  left: 10px;
+  top: 371px;
+  display: none;
+  z-index: 146;
+}
+#jQueryGallery1_albumsContainer_back_in.hover {
+  background: #666666 none no-repeat left top scroll;
+  font: normal normal normal 12px/1 Arial,Helvetica,sans-serif;
+  border-left: 0px solid #000000;
+  border-top: 0px solid #000000;
+  border-bottom: 0px solid #000000;
+  border-right: 0px solid #000000;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  text-transform: none;
+}

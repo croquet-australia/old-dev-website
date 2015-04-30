@@ -1,0 +1,720 @@
+Event AUS New South Wales v Tasmania
+Date 1-1.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	M Jenner & Jenner	beat	G Kingdon & P Hamilton	+4
+2	M Jenner & Jenner	beat	G Kingdon & P Hamilton	+3
+3	J Levick & P Gentle	beat	H Burbury &  J Parrot	+2
+4	J Levick & P Gentle	beat	H Burbury &  J Parrot	+4
+5	N Macoun & C Pont	beat	I Somervaille & L Turner	+6
+6	N Macoun & C Pont	beat	I Somervaille & L Turner	+6
+7	R Johnstone &  R Johnstone	beat	J Jacob & G Denehey	+6
+8	J Jacob & G Denehey	beat	R Johnstone &  R Johnstone	+2
+9	Pam Hamilton	beat	Pam Gentle	+3
+10	Pam Hamilton	beat	Pam Gentle	+2
+11	Ros Johnstone	beat	Patsy Paine	+6
+12	Ros Johnstone	beat	Patsy Paine	+3
+13	Alix Verge	beat	Lee Turner	+4
+14	Alix Verge	beat	Lee Turner	+2
+15	Christine Pont	beat	Gwen Denehey	+3
+16	Christine Pont	beat	Gwen Denehey	+3
+17	Pam Gentle	beat	Lee Turner	+3
+18	Lee Turner	beat	Pam Gentle	+2
+19	Gwen Denehey	beat	Ros Johnstone	+1
+20	Ros Johnstone	beat	Gwen Denehey	+5
+21	Alix Verge	beat	Pam Hamilton	+5
+22	Alix Verge	beat	Pam Hamilton	+6
+23	Christine Pont	beat	Patsy Paine	+4
+24	Patsy Paine	beat	Christine Pont	+2
+25	John Levick	beat	Henry Burbury	+5
+26	John Levick	beat	Henry Burbury	+6
+27	Nick Macoun	beat	John Jacob	+4
+28	Nick Macoun	beat	John Jacob	+7
+29	Nick Macoun	beat	Geoff Kingdon	+2
+30	Nick Macoun	beat	Geoff Kingdon	+3
+31	Ron Johnstone	beat	Graeme Denehey	+5
+32	Ron Johnstone	beat	Graeme Denehey	+4
+33	Henry Burbury	beat	M Jenner & A Verge	+5
+34	M Jenner & A Verge	beat	Henry Burbury	+3
+35	Ron Johnstone	beat	John Jacob	+6
+36	Ron Johnstone	beat	John Jacob	+5
+37	John Levick	beat	Geoff Kingdon	+4
+38	John Levick	beat	Geoff Kingdon	+1
+39	Nick Macoun	beat	Graeme Denehey	+3
+40	Nick Macoun	beat	Graeme Denehey	+3
+End
+
+Event AUS Victoria v Queensland
+Date 1-1.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Freeman & J Evans	beat	T Ericson & L Davis	+2
+2	G Freeman & J Evans	beat	T Ericson & L Davis	+3
+3	J  Van der Touw & E Allen	beat	W Silk &  G Bury	+1
+4	J  Van der Touw & E Allen	beat	W Silk &  G Bury	+1
+5	W Strong & G Pitman	beat	J Saunders & E Allen	+3
+6	J Saunders & E Allen	beat	W Strong & G Pitman	+2
+7	R Schodel & M Melville	beat	K Boal & R Keddie	+3
+8	K Boal & R Keddie	beat	R Schodel & M Melville	+1
+9	Margaret Melville	beat	Genny Vandersluys	+3
+10	Genny Vandersluys	beat	Margaret Melville	+1
+11	Ria Keddie	beat	Lynda Davis	+2
+12	Ria Keddie	beat	Lynda Davis	+2
+13	Elizabeth Allen	beat	Gaye Pitman	+4
+14	Elizabeth Allen	beat	Gaye Pitman	+2
+15	Willy Silk	beat	Judy Evans	+2
+16	Willy Silk	beat	Judy Evans	+1
+17	Genny Vandersluys	beat	Gaye Pitman	+2
+18	Genny Vandersluys	beat	Gaye Pitman	+3
+19	Willy Silk	beat	Ria Keddie	+3
+20	Willy Silk	beat	Ria Keddie	+4
+21	Margaret Melville	beat	Elizabeth Allen	+3
+22	Margaret Melville	beat	Elizabeth Allen	+4
+23	Lynda Davis	beat	Judy Evans	+1
+24	Judy Evans	beat	Lynda Davis	+3
+25	Terry Ericson	beat	Greg Freeman	+5
+26	Terry Ericson	beat	Greg Freeman	+4
+27	Jim Saunders	beat	Ron Schodel	+1
+28	Jim Saunders	beat	Ron Schodel	+3
+29	Greg Bury	beat	John  van der Touw	+7
+30	Greg Bury	beat	John  van der Touw	+1
+31	Kenn Boal	beat	Wayne Strong	+2
+32	Kenn Boal	beat	Wayne Strong	+5
+33	Terry Ericson	beat	John  van der Touw	+4
+34	Terry Ericson	beat	John  van der Touw	+3
+35	Kenn Boal	beat	Ron Schodel	+4
+36	Kenn Boal	beat	Ron Schodel	+4
+37	Greg Bury	beat	Greg Freeman	+4
+38	Greg Freeman	beat	Greg Bury	+2
+39	Wayne Strong	beat	Jim Saunders	+1
+40	Wayne Strong	beat	Jim Saunders	+4
+End
+
+Event AUS Western Australia v South Australia
+Date 1-1.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	N Reynolds & M Garrod	beat	G Whiteway & M Ponieks	+2
+2	N Reynolds & M Garrod	beat	G Whiteway & M Ponieks	+5
+3	A Sands & S Sands	beat	N Bonnar & B Pfitzner	+4
+4	N Bonnar & B Pfitzner	beat	A Sands & S Sands	+1
+5	H Wood & C Dawson	beat	C McWhirter & S Boon	+3
+6	H Wood & C Dawson	beat	C McWhirter & S Boon	+5
+7	M Shanahan & H White	beat	B Hadley & W Prendiville	+2
+8	M Shanahan & H White	beat	B Hadley & W Prendiville	+3
+9	Marga Podnieks	beat	Susan Sands	+1
+10	Susan Sands	beat	Marga Podnieks	+3
+11	Heather White	beat	Sandy Boon	+3
+12	Sandy Boon	beat	Heather White	+5
+13	Bernie Pfitzner	beat	Merryl Garrod	+6
+14	Merryl Garrod	beat	Bernie Pfitzner	+4
+15	Wendy Prendiville	beat	Creina Dawson	+1
+16	Creina Dawson	beat	Wendy Prendiville	+3
+17	Susan Sands	beat	Bernie Pfitzner	+6
+18	Bernie Pfitzner	beat	Susan Sands	+2
+19	Sandy Boon	beat	Creina Dawson	+2
+20	Creina Dawson	beat	Sandy Boon	+2
+21	Merryl Garrod	beat	Marga Podnieks	+5
+22	Merryl Garrod	beat	Marga Podnieks	+2
+23	Wendy Prendiville	beat	Heather White	+5
+24	Heather White	beat	Wendy Prendiville	+1
+25	Chris McWhirter	beat	Howard Wood	+2
+26	Chris McWhirter	beat	Howard Wood	+1
+27	Noel Reynolds	beat	Michael Shanahan	+3
+28	Michael Shanahan	beat	Noel Reynolds	+4
+29	Graham Whiteway	beat	Kim Reynolds	+4
+30	Kim Reynolds	beat	Graham Whiteway	+4
+31	Alan Sands	beat	Neil Bonnar	+1
+32	Neil Bonnar	beat	Alan Sands	+1
+33	Kim Reynolds	beat	Howard Wood	+3
+34	Kim Reynolds	beat	Howard Wood	+5
+35	Alan Sands	beat	Michael Shanahan	+1
+36	Alan Sands	beat	Michael Shanahan	+2
+37	Graham Whiteway	beat	Chris McWhirter	+2
+38	Graham Whiteway	beat	Chris McWhirter	+3
+39	Neil Bonnar	beat	Noel Reynolds	+1
+40	Noel Reynolds	beat	Neil Bonnar	+4
+End
+
+Event AUS New South Wales v Queensland
+Date 2-2.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	M Jenner & Jenner	beat	L Davis & T Ericson	+3
+2	M Jenner & Jenner	beat	L Davis & T Ericson	+4
+3	J Levick & P Gentle	beat	W Silk &  G Bury	+2
+4	J Levick & P Gentle	beat	W Silk &  G Bury	+2
+5	W Strong & G Pitman	beat	N Macoun & C Pont	+3
+6	N Macoun & C Pont	beat	W Strong & G Pitman	+7
+7	R Schodel & M Melville	beat	R Johnstone &  R Johnstone	+5
+8	R Schodel & M Melville	beat	R Johnstone &  R Johnstone	+2
+9	Pam Gentle	beat	Margaret Melville	+6
+10	Margaret Melville	beat	Pam Gentle	+2
+11	Ros Johnstone	beat	Lynda Davis	+3
+12	Lynda Davis	beat	Ros Johnstone	+3
+13	Alix Verge	beat	Gaye Pitman	+5
+14	Alix Verge	beat	Gaye Pitman	+4
+15	Willy Silk	beat	Christine Pont	+1
+16	Willy Silk	beat	Christine Pont	+2
+17	Pam Gentle	beat	Gaye Pitman	+2
+18	Gaye Pitman	beat	Pam Gentle	+3
+19	Willy Silk	beat	Ros Johnstone	+2
+20	Ros Johnstone	beat	Willy Silk	+3
+21	Alix Verge	beat	Margaret Melville	+3
+22	Margaret Melville	beat	Alix Verge	+1
+23	Lynda Davis	beat	Christine Pont	+2
+24	Lynda Davis	beat	Christine Pont	+1
+25	John Levick	beat	Terry Ericson	+2
+26	Terry Ericson	beat	John Levick	+1
+27	Nick Macoun	beat	Ron Schodel	+3
+28	Nick Macoun	beat	Ron Schodel	+1
+29	Greg Bury	beat	M Jenner & A Verge	+2
+30	Greg Bury	beat	M Jenner & A Verge	+1
+31	Ron Johnstone	beat	Wayne Strong	+2
+32	Wayne Strong	beat	Ron Johnstone	+1
+33	Terry Ericson	beat	M Jenner & A Verge	+2
+34	Terry Ericson	beat	M Jenner & A Verge	+1
+35	Ron Johnstone	beat	Ron Schodel	+2
+36	Ron Schodel	beat	Ron Johnstone	+2
+37	Greg Bury	beat	John Levick	+2
+38	Greg Bury	beat	John Levick	+2
+39	Nick Macoun	beat	Wayne Strong	+6
+40	Nick Macoun	beat	Wayne Strong	+2
+End
+
+Event AUS Victoria v South Australia
+Date 2-2.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Freeman & J Evans	beat	G Whiteway & M Ponieks	+2
+2	G Whiteway & M Ponieks	beat	G Freeman & J Evans	+2
+3	B Pfitzner & M Ponieks	beat	J  Van der Touw & E Allen	+2
+4	B Pfitzner & M Ponieks	beat	J  Van der Touw & E Allen	+6
+5	J Saunders & E Allen	beat	D Wise & C Wilson	+2
+6	D Wise & C Wilson	beat	J Saunders & E Allen	+2
+7	H Wood & C Dawson	beat	K Boal & R Keddie	+1
+8	H Wood & C Dawson	beat	K Boal & R Keddie	+3
+9	Marga Podnieks	beat	Genny Vandersluys	+1
+10	Marga Podnieks	beat	Genny Vandersluys	+5
+11	Creina Dawson	beat	Ria Keddie	+3
+12	Ria Keddie	beat	Creina Dawson	+1
+13	Elizabeth Allen	beat	Bernie Pfitzner	+2
+14	Elizabeth Allen	beat	Bernie Pfitzner	+2
+15	Claire Wilson	beat	Judy Evans	+3
+16	Claire Wilson	beat	Judy Evans	+1
+17	Genny Vandersluys	beat	Bernie Pfitzner	+2
+18	Genny Vandersluys	beat	Bernie Pfitzner	+1
+19	Ria Keddie	beat	Claire Wilson	+1
+20	Claire Wilson	beat	Ria Keddie	+2
+21	Elizabeth Allen	beat	Marga Podnieks	+2
+22	Marga Podnieks	beat	Elizabeth Allen	+1
+23	Judy Evans	beat	Creina Dawson	+2
+24	Creina Dawson	beat	Judy Evans	+2
+25	Greg Freeman	beat	David Wise	+2
+26	Greg Freeman	beat	David Wise	+1
+27	Neil Bonnar	beat	Jim Saunders	+3
+28	Neil Bonnar	beat	Jim Saunders	+2
+29	John  van der Touw	beat	Graham Whiteway	+3
+30	John  van der Touw	beat	Graham Whiteway	+3
+31	Kenn Boal	beat	Howard Wood	+5
+32	Kenn Boal	beat	Howard Wood	+6
+33	John  van der Touw	beat	David Wise	+2
+34	John  van der Touw	beat	David Wise	+1
+35	Neil Bonnar	beat	Kenn Boal	+3
+36	Kenn Boal	beat	Neil Bonnar	+3
+37	Greg Freeman	beat	Graham Whiteway	+1
+38	Graham Whiteway	beat	Greg Freeman	+3
+39	Howard Wood	beat	Jim Saunders	+4
+40	Jim Saunders	beat	Howard Wood	+2
+End
+
+Event AUS Western Australia v Tasmania
+Date 2-2.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Kingdon & P Hamilton	beat	K Reynolds & M Garrod	+4
+2	G Kingdon & P Hamilton	beat	K Reynolds & M Garrod	+3
+3	A Sands & S Sands	beat	H Burbury & L Turner	+3
+4	A Sands & S Sands	beat	H Burbury & L Turner	+3
+5	C McWhirter & S Boon	beat	I Somervaille & J Parrott	+3
+6	C McWhirter & S Boon	beat	I Somervaille & J Parrott	+2
+7	B Hadley & W Prendiville	beat	P Paine & J Jacobs	+4
+8	B Hadley & W Prendiville	beat	P Paine & J Jacobs	+6
+9	Susan Sands	beat	Pam Hamilton	+3
+10	Susan Sands	beat	Pam Hamilton	+1
+11	Jenny Parrott	beat	Sandy Boon	+1
+12	Jenny Parrott	beat	Sandy Boon	+2
+13	Merryl Garrod	beat	Lee Turner	+3
+14	Merryl Garrod	beat	Lee Turner	+3
+15	Wendy Prendiville	beat	Gwen Denehey	+5
+16	Wendy Prendiville	beat	Gwen Denehey	+4
+17	Susan Sands	beat	Lee Turner	+1
+18	Lee Turner	beat	Susan Sands	+2
+19	Sandy Boon	beat	Gwen Denehey	+5
+20	Gwen Denehey	beat	Sandy Boon	+2
+21	Merryl Garrod	beat	Pam Hamilton	+3
+22	Pam Hamilton	beat	Merryl Garrod	+1
+23	Wendy Prendiville	beat	Jenny Parrott	+1
+24	Wendy Prendiville	beat	Jenny Parrott	+2
+25	Chris McWhirter	beat	Henry Burbury	+4
+26	Chris McWhirter	beat	Henry Burbury	+2
+27	Alan Sands	beat	Graeme Denehey	+6
+28	Alan Sands	beat	Graeme Denehey	+2
+29	Geoff Kingdon	beat	Kim Reynolds	+2
+30	Kim Reynolds	beat	Geoff Kingdon	+5
+31	Brian Hadley	beat	Ian Somervaille	+3
+32	Brian Hadley	beat	Ian Somervaille	+6
+33	Kim Reynolds	beat	Henry Burbury	+5
+34	Kim Reynolds	beat	Henry Burbury	+2
+35	Brian Hadley	beat	Graeme Denehey	+3
+36	Brian Hadley	beat	Graeme Denehey	+5
+37	Chris McWhirter	beat	Geoff Kingdon	+4
+38	Chris McWhirter	beat	Geoff Kingdon	+3
+39	Alan Sands	beat	Ian Somervaille	+6
+40	Alan Sands	beat	Ian Somervaille	+3
+End
+
+Event AUS New South Wales v South Australia
+Date 3-3.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Whiteway & M Ponieks	beat	M Jenner & Jenner	+1
+2	M Jenner & Jenner	beat	G Whiteway & M Ponieks	+6
+3	J Levick & P Gentle	beat	D Wise & C Wilson	+1
+4	D Wise & C Wilson	beat	J Levick & P Gentle	+2
+5	H Wood & C Dawson	beat	N Macoun & C Pont	+1
+6	H Wood & C Dawson	beat	N Macoun & C Pont	+1
+7	R Johnstone &  R Johnstone	beat	M Shanahan & H White	+4
+8	R Johnstone &  R Johnstone	beat	M Shanahan & H White	+1
+9	Pam Gentle	beat	Marga Podnieks	+4
+10	Marga Podnieks	beat	Pam Gentle	+1
+11	Ros Johnstone	beat	Heather White	+5
+12	Ros Johnstone	beat	Heather White	+3
+13	Alix Verge	beat	Bernie Pfitzner	+4
+14	Alix Verge	beat	Bernie Pfitzner	+5
+15	Christine Pont	beat	Creina Dawson	+1
+16	Christine Pont	beat	Creina Dawson	+3
+17	Pam Gentle	beat	Bernie Pfitzner	+1
+18	Bernie Pfitzner	beat	Pam Gentle	+1
+19	Creina Dawson	beat	Ros Johnstone	+4
+20	Creina Dawson	beat	Ros Johnstone	+2
+21	Alix Verge	beat	Marga Podnieks	+3
+22	Alix Verge	beat	Marga Podnieks	+6
+23	Christine Pont	beat	Heather White	+4
+24	Christine Pont	beat	Heather White	+6
+25	John Levick	beat	David Wise	+3
+26	John Levick	beat	David Wise	+3
+27	Nick Macoun	beat	Michael Shanahan	+3
+28	Nick Macoun	beat	Michael Shanahan	+2
+29	M Jenner & A Verge	beat	Graham Whiteway	+4
+30	M Jenner & A Verge	beat	Graham Whiteway	+3
+31	Ron Johnstone	beat	Howard Wood	+4
+32	Ron Johnstone	beat	Howard Wood	+1
+33	M Jenner & A Verge	beat	David Wise	+5
+34	M Jenner & A Verge	beat	David Wise	+1
+35	Ron Johnstone	beat	Michael Shanahan	+2
+36	Ron Johnstone	beat	Michael Shanahan	+2
+37	John Levick	beat	Graham Whiteway	+1
+38	Graham Whiteway	beat	John Levick	+3
+39	Nick Macoun	beat	Howard Wood	+3
+40	Nick Macoun	beat	Howard Wood	+1
+End
+
+Event AUS Queensland v Tasmania
+Date 3-3.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Kingdon & P Hamilton	beat	L Davis & T Ericson	+1
+2	G Kingdon & P Hamilton	beat	L Davis & T Ericson	+4
+3	W Silk &  G Bury	beat	P Paine & H Burbury	+3
+4	W Silk &  G Bury	beat	P Paine & H Burbury	+5
+5	W Strong & G Pitman	beat	J Parrott & G Denehey	+2
+6	W Strong & G Pitman	beat	J Parrott & G Denehey	+5
+7	M Melville & R Schodel	beat	I Somervaille & Gw Denehey	+4
+8	M Melville & R Schodel	beat	I Somervaille & Gw Denehey	+2
+9	Gaye Pitman	beat	Pam Hamilton	+1
+10	Gaye Pitman	beat	Pam Hamilton	+4
+11	Willy Silk	beat	Jenny Parrott	+6
+12	Willy Silk	beat	Jenny Parrott	+1
+13	Margaret Melville	beat	Lee Turner	+3
+14	Margaret Melville	beat	Lee Turner	+6
+15	Lynda Davis	beat	Patsy Paine	+1
+16	Lynda Davis	beat	Patsy Paine	+2
+17	Gaye Pitman	beat	Lee Turner	+2
+18	Gaye Pitman	beat	Lee Turner	+2
+19	Willy Silk	beat	Patsy Paine	+4
+20	Willy Silk	beat	Patsy Paine	+2
+21	Margaret Melville	beat	Pam Hamilton	+6
+22	Margaret Melville	beat	Pam Hamilton	+5
+23	Lynda Davis	beat	Jenny Parrott	+4
+24	Lynda Davis	beat	Jenny Parrott	+2
+25	Greg Bury	beat	Henry Burbury	+3
+26	Greg Bury	beat	Henry Burbury	+3
+27	Wayne Strong	beat	John Jacob	+6
+28	Wayne Strong	beat	John Jacob	+6
+29	Geoff Kingdon	beat	Terry Ericson	+3
+30	Terry Ericson	beat	Geoff Kingdon	+5
+31	Ron Schodel	beat	Ian Somervaille	+4
+32	Ron Schodel	beat	Ian Somervaille	+5
+33	Terry Ericson	beat	Henry Burbury	+5
+34	Terry Ericson	beat	Henry Burbury	+5
+35	John Jacob	beat	Ron Schodel	+1
+36	Ron Schodel	beat	John Jacob	+4
+37	Greg Bury	beat	Geoff Kingdon	+2
+38	Geoff Kingdon	beat	Greg Bury	+2
+39	Ian Somervaille	beat	Wayne Strong	+1
+40	Wayne Strong	beat	Ian Somervaille	+4
+End
+
+Event AUS Victoria v Western Australia
+Date 3-3.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	N Reynolds & M Garrod	beat	G Freeman & J Evans	+1
+2	G Freeman & J Evans	beat	N Reynolds & M Garrod	+3
+3	A Sands & S Sands	beat	J  Van der Touw & E Allen	+3
+4	A Sands & S Sands	beat	J  Van der Touw & E Allen	+3
+5	C McWhirter & S Boon	beat	J Saunders & E Allen	+3
+6	C McWhirter & S Boon	beat	J Saunders & E Allen	+3
+7	K Boal & R Keddie	beat	B Hadley & W Prendiville	+1
+8	K Boal & R Keddie	beat	B Hadley & W Prendiville	+5
+9	Merryl Garrod	beat	Genny Vandersluys	+3
+10	Genny Vandersluys	beat	Merryl Garrod	+1
+11	Wendy Prendiville	beat	Ria Keddie	+1
+12	Ria Keddie	beat	Wendy Prendiville	+2
+13	Susan Sands	beat	Elizabeth Allen	+2
+14	Elizabeth Allen	beat	Susan Sands	+4
+15	Judy Evans	beat	Sandy Boon	+3
+16	Sandy Boon	beat	Judy Evans	+3
+17	Genny Vandersluys	beat	Susan Sands	+2
+18	Genny Vandersluys	beat	Susan Sands	+1
+19	Sandy Boon	beat	Ria Keddie	+2
+20	Sandy Boon	beat	Ria Keddie	+4
+21	Merryl Garrod	beat	Elizabeth Allen	+4
+22	Merryl Garrod	beat	Elizabeth Allen	+1
+23	Judy Evans	beat	Wendy Prendiville	+1
+24	Wendy Prendiville	beat	Judy Evans	+3
+25	Kim Reynolds	beat	Greg Freeman	+2
+26	Kim Reynolds	beat	Greg Freeman	+2
+27	Alan Sands	beat	Jim Saunders	+5
+28	Jim Saunders	beat	Alan Sands	+1
+29	John  van der Touw	beat	Chris McWhirter	+2
+30	John  van der Touw	beat	Chris McWhirter	+5
+31	Noel Reynolds	beat	Kenn Boal	+4
+32	Kenn Boal	beat	Noel Reynolds	+2
+33	John  van der Touw	beat	Kim Reynolds	+3
+34	John  van der Touw	beat	Kim Reynolds	+2
+35	Kenn Boal	beat	Alan Sands	+4
+36	Alan Sands	beat	Kenn Boal	+7
+37	Chris McWhirter	beat	Greg Freeman	+5
+38	Chris McWhirter	beat	Greg Freeman	+3
+39	Noel Reynolds	beat	Jim Saunders	+3
+40	Noel Reynolds	beat	Jim Saunders	+4
+End
+
+Event AUS New South Wales v Western Australia
+Date 4-4.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	M Jenner & Jenner	beat	N Reynolds & M Garrod	+3
+2	M Jenner & Jenner	beat	N Reynolds & M Garrod	+6
+3	J Levick & P Gentle	beat	A Sands & S Sands	+3
+4	A Sands & S Sands	beat	J Levick & P Gentle	+1
+5	N Macoun & C Pont	beat	C McWhirter & S Boon	+2
+6	C McWhirter & S Boon	beat	N Macoun & C Pont	+4
+7	R Johnstone &  R Johnstone	beat	B Hadley & W Prendiville	+3
+8	R Johnstone &  R Johnstone	beat	B Hadley & W Prendiville	+3
+9	Pam Gentle	beat	Merryl Garrod	+5
+10	Merryl Garrod	beat	Pam Gentle	+4
+11	Wendy Prendiville	beat	Ros Johnstone	+2
+12	Wendy Prendiville	beat	Ros Johnstone	+4
+13	Alix Verge	beat	Susan Sands	+2
+14	Alix Verge	beat	Susan Sands	+4
+15	Christine Pont	beat	Sandy Boon	+1
+16	Christine Pont	beat	Sandy Boon	+3
+17	Pam Gentle	beat	Susan Sands	+2
+18	Susan Sands	beat	Pam Gentle	+3
+19	Sandy Boon	beat	Ros Johnstone	+3
+20	Ros Johnstone	beat	Sandy Boon	+3
+21	Merryl Garrod	beat	Alix Verge	+1
+22	Alix Verge	beat	Merryl Garrod	+5
+23	Christine Pont	beat	Wendy Prendiville	+4
+24	Christine Pont	beat	Wendy Prendiville	+5
+25	John Levick	beat	Kim Reynolds	+2
+26	John Levick	beat	Kim Reynolds	+2
+27	Alan Sands	beat	Nick Macoun	+4
+28	Alan Sands	beat	Nick Macoun	+1
+29	Chris McWhirter	beat	M Jenner & A Verge	+5
+30	Chris McWhirter	beat	M Jenner & A Verge	+1
+31	Noel Reynolds	beat	Ron Johnstone	+4
+32	Noel Reynolds	beat	Ron Johnstone	+1
+33	M Jenner & A Verge	beat	Kim Reynolds	+4
+34	M Jenner & A Verge	beat	Kim Reynolds	+3
+35	Alan Sands	beat	Ron Johnstone	+4
+36	Ron Johnstone	beat	Alan Sands	+3
+37	John Levick	beat	Chris McWhirter	+1
+38	Chris McWhirter	beat	John Levick	+2
+39	Nick Macoun	beat	Noel Reynolds	+3
+40	Noel Reynolds	beat	Nick Macoun	+1
+End
+
+Event AUS Queensland v South Australia
+Date 4-4.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Whiteway & M Ponieks	beat	L Davis & T Ericson	+4
+2	L Davis & T Ericson	beat	G Whiteway & M Ponieks	+1
+3	W Silk &  G Bury	beat	B Pfitzner & M Ponieks	+5
+4	W Silk &  G Bury	beat	B Pfitzner & M Ponieks	+2
+5	W Strong & G Pitman	beat	D Wise & C Wilson	+5
+6	D Wise & C Wilson	beat	W Strong & G Pitman	+1
+7	M Shanahan & H White	beat	R Schodel & M Melville	+1
+8	R Schodel & M Melville	beat	M Shanahan & H White	+2
+9	Gaye Pitman	beat	Marga Podnieks	+1
+10	Marga Podnieks	beat	Gaye Pitman	+5
+11	Willy Silk	beat	Heather White	+5
+12	Willy Silk	beat	Heather White	+3
+13	Bernie Pfitzner	beat	Margaret Melville	+3
+14	Margaret Melville	beat	Bernie Pfitzner	+1
+15	Claire Wilson	beat	Lynda Davis	+3
+16	Lynda Davis	beat	Claire Wilson	+2
+17	Gaye Pitman	beat	Bernie Pfitzner	+2
+18	Gaye Pitman	beat	Bernie Pfitzner	+4
+19	Willy Silk	beat	Claire Wilson	+3
+20	Claire Wilson	beat	Willy Silk	+2
+21	Margaret Melville	beat	Marga Podnieks	+1
+22	Margaret Melville	beat	Marga Podnieks	+2
+23	Lynda Davis	beat	Heather White	+3
+24	Lynda Davis	beat	Heather White	+3
+25	Greg Bury	beat	David Wise	+4
+26	Greg Bury	beat	David Wise	+2
+27	Wayne Strong	beat	Michael Shanahan	+5
+28	Wayne Strong	beat	Michael Shanahan	+2
+29	Terry Ericson	beat	Graham Whiteway	+5
+30	Terry Ericson	beat	Graham Whiteway	+3
+31	Ron Schodel	beat	Neil Bonnar	+4
+32	Ron Schodel	beat	Neil Bonnar	+1
+33	Terry Ericson	beat	David Wise	+5
+34	Terry Ericson	beat	David Wise	+7
+35	Michael Shanahan	beat	Ron Schodel	+4
+36	Ron Schodel	beat	Michael Shanahan	+2
+37	Graham Whiteway	beat	Greg Bury	+3
+38	Greg Bury	beat	Graham Whiteway	+1
+39	Neil Bonnar	beat	Wayne Strong	+5
+40	Neil Bonnar	beat	Wayne Strong	+2
+End
+
+Event AUS Victoria v Tasmania
+Date 4-4.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Freeman & J Evans	beat	G Kingdon & P Hamilton	+4
+2	G Freeman & J Evans	beat	G Kingdon & P Hamilton	+1
+3	H Burbury & L Turner	beat	J Saunders & E Allen	+1
+4	J Saunders & E Allen	beat	H Burbury & L Turner	+2
+5	J  Van der Touw & E Allen	beat	P Paine & I Sommervaille	+3
+6	J  Van der Touw & E Allen	beat	P Paine & I Sommervaille	+6
+7	K Boal & R Keddie	beat	J Parrott & J Jacobs	+6
+8	K Boal & R Keddie	beat	J Parrott & J Jacobs	+4
+9	Genny Vandersluys	beat	Pam Hamilton	+5
+10	Genny Vandersluys	beat	Pam Hamilton	+3
+11	Patsy Paine	beat	Ria Keddie	+3
+12	Ria Keddie	beat	Patsy Paine	+2
+13	Elizabeth Allen	beat	Lee Turner	+2
+14	Elizabeth Allen	beat	Lee Turner	+1
+15	Judy Evans	beat	Gwen Denehey	+5
+16	Judy Evans	beat	Gwen Denehey	+4
+17	Genny Vandersluys	beat	Lee Turner	+4
+18	Lee Turner	beat	Genny Vandersluys	+2
+19	Ria Keddie	beat	Gwen Denehey	+2
+20	Ria Keddie	beat	Gwen Denehey	+3
+21	Elizabeth Allen	beat	Pam Hamilton	+1
+22	Elizabeth Allen	beat	Pam Hamilton	+5
+23	Judy Evans	beat	Patsy Paine	+4
+24	Judy Evans	beat	Patsy Paine	+2
+25	Henry Burbury	beat	Greg Freeman	+1
+26	Henry Burbury	beat	Greg Freeman	+2
+27	Jim Saunders	beat	Graeme Denehey	+4
+28	Jim Saunders	beat	Graeme Denehey	+3
+29	John  van der Touw	beat	Geoff Kingdon	+1
+30	John  van der Touw	beat	Geoff Kingdon	+1
+31	Kenn Boal	beat	Ian Somervaille	+5
+32	Kenn Boal	beat	Ian Somervaille	+1
+33	John  van der Touw	beat	Henry Burbury	+5
+34	John  van der Touw	beat	Henry Burbury	+5
+35	Kenn Boal	beat	Graeme Denehey	+5
+36	Kenn Boal	beat	Graeme Denehey	+5
+37	Geoff Kingdon	beat	Greg Freeman	+7
+38	Geoff Kingdon	beat	Greg Freeman	+1
+39	Ian Somervaille	beat	Jim Saunders	+2
+40	Jim Saunders	beat	Ian Somervaille	+1
+End
+
+Event AUS New South Wales v Victoria
+Date 5-5.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	G Freeman & J Evans	beat	M Jenner & Jenner	+1
+2	M Jenner & Jenner	beat	G Freeman & J Evans	+1
+3	J Levick & P Gentle	beat	J Saunders & E Allen	+5
+4	J Saunders & E Allen	beat	J Levick & P Gentle	+2
+5	J Van Der Touw & A Miller	beat	N Macoun & C Pont	+1
+6	N Macoun & C Pont	beat	J Van Der Touw & A Miller	+2
+7	R Johnstone &  R Johnstone	beat	K Boal & R Keddie	+6
+8	R Johnstone &  R Johnstone	beat	K Boal & R Keddie	+4
+9	Elizabeth Allen	beat	Pam Gentle	+1
+10	Elizabeth Allen	beat	Pam Gentle	+2
+11	Judy Evans	beat	Ros Johnstone	+2
+12	Ros Johnstone	beat	Judy Evans	+3
+13	Alix Verge	beat	Anna Miller	+2
+14	Alix Verge	beat	Anna Miller	+3
+15	Christine Pont	beat	Ria Keddie	+3
+16	Christine Pont	beat	Ria Keddie	+3
+17	Anna Miller	beat	Pam Gentle	+2
+18	Anna Miller	beat	Pam Gentle	+5
+19	Ros Johnstone	beat	Ria Keddie	+1
+20	Ros Johnstone	beat	Ria Keddie	+5
+21	Alix Verge	beat	Elizabeth Allen	+6
+22	Elizabeth Allen	beat	Alix Verge	+1
+23	Christine Pont	beat	Judy Evans	+1
+24	Christine Pont	beat	Judy Evans	+1
+25	John Levick	beat	John  van der Touw	+6
+26	John Levick	beat	John  van der Touw	+1
+27	Nick Macoun	beat	Kenn Boal	+1
+28	Nick Macoun	beat	Kenn Boal	+2
+29	Greg Freeman	beat	M Jenner & A Verge	+2
+30	Greg Freeman	beat	M Jenner & A Verge	+5
+31	Jim Saunders	beat	Ron Johnstone	+1
+32	Ron Johnstone	beat	Jim Saunders	+2
+33	John  van der Touw	beat	M Jenner & A Verge	+4
+34	M Jenner & A Verge	beat	John  van der Touw	+3
+35	Kenn Boal	beat	Ron Johnstone	+4
+36	Kenn Boal	beat	Ron Johnstone	+3
+37	John Levick	beat	Greg Freeman	+6
+38	John Levick	beat	Greg Freeman	+2
+39	Jim Saunders	beat	Nick Macoun	+2
+40	Nick Macoun	beat	Jim Saunders	+5
+End
+
+Event AUS South Australia v Tasmania
+Date 5-5.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	B Pfitzner & M Ponieks	beat	G Kingdon & P Hamilton	+5
+2	B Pfitzner & M Ponieks	beat	G Kingdon & P Hamilton	+4
+3	D Wise & C Wilson	beat	H Burbury & L Turner	+6
+4	D Wise & C Wilson	beat	H Burbury & L Turner	+2
+5	H Wood & C Dawson	beat	P Paine & I Sommervaille	+4
+6	H Wood & C Dawson	beat	P Paine & I Sommervaille	+4
+7	M Shanahan & H White	beat	G & G Denehey	+6
+8	G & G Denehey	beat	M Shanahan & H White	+3
+9	Heather White	beat	Pam Hamilton	+4
+10	Pam Hamilton	beat	Heather White	+1
+11	Claire Wilson	beat	Jenny Parrott	+4
+12	Claire Wilson	beat	Jenny Parrott	+4
+13	Bernie Pfitzner	beat	Lee Turner	+4
+14	Bernie Pfitzner	beat	Lee Turner	+4
+15	Creina Dawson	beat	Gwen Denehey	+4
+16	Creina Dawson	beat	Gwen Denehey	+5
+17	Heather White	beat	Lee Turner	+3
+18	Heather White	beat	Lee Turner	+2
+19	Gwen Denehey	beat	Claire Wilson	+1
+20	Gwen Denehey	beat	Claire Wilson	+2
+21	Bernie Pfitzner	beat	Pam Hamilton	+5
+22	Pam Hamilton	beat	Bernie Pfitzner	+1
+23	Creina Dawson	beat	Jenny Parrott	+4
+24	Creina Dawson	beat	Jenny Parrott	+2
+25	David Wise	beat	Henry Burbury	+6
+26	David Wise	beat	Henry Burbury	+4
+27	Neil Bonnar	beat	John Jacob	+3
+28	Neil Bonnar	beat	John Jacob	+4
+29	Geoff Kingdon	beat	Howard Wood	+2
+30	Geoff Kingdon	beat	Howard Wood	+2
+31	Michael Shanahan	beat	Ian Somervaille	+4
+32	Michael Shanahan	beat	Ian Somervaille	+4
+33	Howard Wood	beat	Henry Burbury	+3
+34	Howard Wood	beat	Henry Burbury	+4
+35	Michael Shanahan	beat	John Jacob	+4
+36	Michael Shanahan	beat	John Jacob	+5
+37	Geoff Kingdon	beat	David Wise	+1
+38	Geoff Kingdon	beat	David Wise	+1
+39	Neil Bonnar	beat	Ian Somervaille	+4
+40	Neil Bonnar	beat	Ian Somervaille	+5
+End
+
+Event AUS Western Australia v Queensland
+Date 5-5.9.10
+Class 2
+Type match
+Games 40
+Order firstname
+1	L Davis & T Ericson	beat	N Reynolds & M Garrod	+2
+2	N Reynolds & M Garrod	beat	L Davis & T Ericson	+1
+3	W Silk &  G Bury	beat	A Sands & S Sands	+3
+4	W Silk &  G Bury	beat	A Sands & S Sands	+2
+5	W Strong & G Pitman	beat	C McWhirter & S Boon	+3
+6	C McWhirter & S Boon	beat	W Strong & G Pitman	+1
+7	W Prendiville & K Reynolds	beat	M Melville & R Schodel	+1
+8	M Melville & R Schodel	beat	W Prendiville & K Reynolds	+2
+9	Merryl Garrod	beat	Gaye Pitman	+3
+10	Merryl Garrod	beat	Gaye Pitman	+4
+11	Willy Silk	beat	Wendy Prendiville	+1
+12	Wendy Prendiville	beat	Willy Silk	+4
+13	Susan Sands	beat	Margaret Melville	+3
+14	Margaret Melville	beat	Susan Sands	+2
+15	Lynda Davis	beat	Sandy Boon	+3
+16	Lynda Davis	beat	Sandy Boon	+2
+17	Susan Sands	beat	Gaye Pitman	+4
+18	Gaye Pitman	beat	Susan Sands	+2
+19	Willy Silk	beat	Sandy Boon	+3
+20	Sandy Boon	beat	Willy Silk	+4
+21	Margaret Melville	beat	Merryl Garrod	+4
+22	Margaret Melville	beat	Merryl Garrod	+4
+23	Wendy Prendiville	beat	Lynda Davis	+2
+24	Lynda Davis	beat	Wendy Prendiville	+3
+25	Greg Bury	beat	Kim Reynolds	+3
+26	Kim Reynolds	beat	Greg Bury	+2
+27	Alan Sands	beat	Wayne Strong	+1
+28	Wayne Strong	beat	Alan Sands	+4
+29	Terry Ericson	beat	Chris McWhirter	+3
+30	Chris McWhirter	beat	Terry Ericson	+5
+31	Noel Reynolds	beat	Ron Schodel	+6
+32	Noel Reynolds	beat	Ron Schodel	+2
+33	Terry Ericson	beat	Kim Reynolds	+6
+34	Kim Reynolds	beat	Terry Ericson	+2
+35	Alan Sands	beat	Ron Schodel	+3
+36	Alan Sands	beat	Ron Schodel	+4
+37	Greg Bury	beat	Chris McWhirter	+1
+38	Chris McWhirter	beat	Greg Bury	+2
+39	Noel Reynolds	beat	Wayne Strong	+4
+40	Noel Reynolds	beat	Wayne Strong	+2
+End
+

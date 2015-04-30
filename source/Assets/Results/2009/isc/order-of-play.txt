@@ -1,0 +1,420 @@
+Event AUS New South Wales v Western Australia
+Date 25-25.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Sharpe	beat	H Collins & J Hawker	+25
+2	N Taylor & A Verge	beat	M Reynolds & S Stevenson	+17
+3	Alison Sharpe	beat	Helen Collins	+12
+4	Rosemary Graham	beat	Jannine Hawker	+26
+5	Megan Reynolds	beat	Alix Verge	+6
+6	Sandra Stevenson	beat	Nerida Taylor	+4
+7	Alison Sharpe	beat	Jannine Hawker	+7
+8	Rosemary Graham	beat	Helen Collins	+12
+9	Alix Verge	beat	Sandra Stevenson	+16
+10	Nerida Taylor	beat	Megan Reynolds	+24
+11	J Newcombe & A Sands	beat	M Jenner & P Landrebe	+25TP(AS)
+12	K Edwards & T Murphy	beat	E Ayling & C Perrin	+15
+13	Alan Sands	beat	Peter Landrebe	+25TP
+14	Jeff Newcombe	beat	Tim Murphy	+12
+15	Mike Jenner	beat	Carl Perrin	+4
+16	Ken Edwards	beat	Eric Ayling	+26
+17	Jeff Newcombe	beat	Peter Landrebe	+8TP
+18	Tim Murphy	beat	Alan Sands	+6
+19	Mike Jenner	beat	Eric Ayling	+7
+20	Ken Edwards	beat	Carl Perrin	+12
+End
+
+Event AUS Queensland v South Australia
+Date 25-25.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	W Silk & J Sutton	beat	M Morgan & C Morgan	+8
+2	D Hardy & M Melville	beat	W Bonnar & M Podnieks	+16
+3	Margaret Melville	beat	Miranda Morgan	+5
+4	Jocelyn Sutton	beat	Charlotte Morgan	+4TP
+5	Deirdre Hardy	beat	Wilma Bonnar	+9
+6	Willi Silk	beat	Barbara Hooper	+6
+7	Miranda Morgan	beat	Jocelyn Sutton	+9
+8	Margaret Melville	beat	Charlotte Morgan	+23
+9	Deirdre Hardy	beat	Barbara Hooper	+9
+10	Willi Silk	beat	Wilma Bonnar	+2
+11	N Bonnar & A Rutten	beat	J Hardy & L Harvey	+4
+12	D Close & J Philpott	beat	G Schupelius & D Wise	+3
+13	Neil Bonnar	beat	John Hardy	+6
+14	Albert Rutten	beat	John Philpott	+6
+15	Leigh Harvey	beat	Dwayne McCormick	+1
+16	Gil Schupelius	beat	Don Close	+18
+17	John Hardy	beat	Albert Rutten	+6
+18	John Philpott	beat	Neil Bonnar	+5
+19	Gil Schupelius	beat	Leigh Harvey	+11
+20	Dwayne McCormick	beat	Don Close	+15
+End
+
+Event AUS Victoria v Tasmania
+Date 25-25.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	C Bassett & P Devlin	beat	C Bamford & E Roomes	+22
+2	S Beattie & P Hamilton	beat	A Miller & J Wembridge	+9
+3	Claire Bamford	beat	Claire Bassett	+3
+4	Sue Beattie	beat	Judy Wembridge	+22
+5	Tricia Devlin	beat	Elaine Roomes	+25
+6	Anna Miller	beat	Pam Hamilton	+26
+7	Sue Beattie	beat	Claire Bassett	+9
+8	Claire Bamford	beat	Judy Wembridge	+14
+9	Tricia Devlin	beat	Pam Hamilton	+12
+10	Anna Miller	beat	Elaine Roomes	+11
+11	R Fletcher & S Forster	beat	B Beattie & R McAdam	+17
+12	R Kirk & S Watkins	beat	N Macoun & A Walsh	+5
+13	Stephen Forster	beat	Alan Walsh	+26TP
+14	Robert Fletcher	beat	Nick Macoun	+25TP
+15	Rod Kirk	beat	Bob Beattie	+26TP
+16	Simon Watkins	beat	Rob McAdam	+12
+17	Stephen Forster	beat	Nick Macoun	+18TP
+18	Robert Fletcher	beat	Alan Walsh	+17TP
+19	Rod Kirk	beat	Rob McAdam	+13
+20	Simon Watkins	beat	Bob Beattie	+26TP
+End
+
+Event AUS New South Wales v Tasmania
+Date 26-26.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Sharpe	beat	C Bamford & E Roomes	+6
+2	S Beattie & P Hamilton	beat	N Taylor & A Verge	+3
+3	Alison Sharpe	beat	Claire Bamford	+26
+4	Rosemary Graham	beat	Sue Beattie	+22
+5	Alix Verge	beat	Elaine Roomes	+9
+6	Pam Hamilton	beat	Nerida Taylor	+11
+7	Sue Beattie	beat	Alison Sharpe	+24
+8	Rosemary Graham	beat	Claire Bamford	+22
+9	Alix Verge	beat	Pam Hamilton	+24
+10	Nerida Taylor	beat	Elaine Roomes	+1
+11	M Jenner & P Landrebe	beat	B Beattie & R McAdam	+16
+12	K Edwards & T Murphy	beat	N Macoun & A Walsh	+8
+13	Peter Landrebe	beat	Alan Walsh	+24
+14	Nick Macoun	beat	Tim Murphy	+1
+15	Mike Jenner	beat	Bob Beattie	+26STP
+16	Ken Edwards	beat	Rob McAdam	+14
+17	Peter Landrebe	beat	Nick Macoun	+19
+18	Tim Murphy	beat	Alan Walsh	+15
+19	Mike Jenner	beat	Rob McAdam	+1
+20	Ken Edwards	beat	Bob Beattie	+22
+End
+
+Event AUS Queensland v Western Australia
+Date 26-26.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	W Silk & J Sutton	beat	H Collins & J Hawker	+6
+2	D Hardy & M Melville	beat	M Reynolds & S Stevenson	+17
+3	Jocelyn Sutton	beat	Helen Collins	+22TP
+4	Margaret Melville	beat	Jannine Hawker	+15
+5	Deirdre Hardy	beat	Megan Reynolds	+5
+6	Willi Silk	beat	Sandra Stevenson	+3
+7	Jocelyn Sutton	beat	Jannine Hawker	+15QP
+8	Margaret Melville	beat	Helen Collins	+4
+9	Sandra Stevenson	beat	Deirdre Hardy	+5
+10	Willi Silk	beat	Megan Reynolds	+12
+11	J Newcombe & A Sands	beat	J Hardy & L Harvey	+7
+12	D Close & J Philpott	beat	E Ayling & C Perrin	+25
+13	Alan Sands	beat	John Hardy	+22
+14	Jeff Newcombe	beat	John Philpott	+17
+15	Leigh Harvey	beat	Carl Perrin	+12
+16	Don Close	beat	Eric Ayling	+18
+17	Jeff Newcombe	beat	John Hardy	+7
+18	Alan Sands	beat	John Philpott	+21
+19	Eric Ayling	beat	Leigh Harvey	+1
+20	Carl Perrin	beat	Don Close	+6
+End
+
+Event AUS Victoria v South Australia
+Date 26-26.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Morgan & C Morgan	beat	C Bassett & P Devlin	+24
+2	W Bonnar & B Hooper	beat	A Miller & J Wembridge	+2
+3	Claire Bassett	beat	Charlotte Morgan	+10
+4	Miranda Morgan	beat	Judy Wembridge	+17
+5	Tricia Devlin	beat	Marga Podnieks	+26
+6	Anna Miller	beat	Wilma Bonnar	+1
+7	Claire Bassett	beat	Miranda Morgan	+5
+8	Charlotte Morgan	beat	Judy Wembridge	+4
+9	Wilma Bonnar	beat	Tricia Devlin	+10
+10	Anna Miller	beat	Marga Podnieks	+1
+11	R Fletcher & S Forster	beat	N Bonnar & A Rutten	+26TP(SF)
+12	R Kirk & S Watkins	beat	D McCormack & G Schupelius	+26
+13	Stephen Forster	beat	Neil Bonnar	+26TP
+14	Robert Fletcher	beat	Albert Rutten	+26TP
+15	Rod Kirk	beat	David Wise	+26TP
+16	Simon Watkins	beat	Gil Schupelius	+16
+17	Stephen Forster	beat	Albert Rutten	+26TP
+18	Robert Fletcher	beat	Neil Bonnar	+12TP
+19	Gil Schupelius	beat	Rod Kirk	+26
+20	Simon Watkins	beat	David Wise	+8
+End
+
+Event AUS Queensland v New South Wales
+Date 27-27.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham & A Sharpe	beat	W Silk & J Sutton	+14OTP(JS)
+2	N Taylor & A Verge	beat	D Hardy & M Melville	+2
+3	Rosemary Graham	beat	Jocelyn Sutton	+8
+4	Margaret Melville	beat	Alison Sharpe	+5
+5	Deirdre Hardy	beat	Nerida Taylor	+16
+6	Alix Verge	beat	Willi Silk	+14
+7	Jocelyn Sutton	beat	Alison Sharpe	+25
+8	Margaret Melville	beat	Rosemary Graham	+10
+9	Alix Verge	beat	Deirdre Hardy	+1
+10	Nerida Taylor	beat	Willi Silk	+18
+11	M Jenner & P Landrebe	beat	J Hardy & L Harvey	+23
+12	K Edwards & T Murphy	beat	D Close & J Philpott	+14TP(TM)
+13	Tim Murphy	beat	John Hardy	+26
+14	Peter Landrebe	beat	John Philpott	+12
+15	Ken Edwards	beat	Leigh Harvey	+4
+16	Mike Jenner	beat	Don Close	+14
+17	Peter Landrebe	beat	John Hardy	+23
+18	Tim Murphy	beat	John Philpott	+18
+19	Mike Jenner	beat	Leigh Harvey	+13
+20	Ken Edwards	beat	Don Close	+15
+End
+
+Event AUS South Australia v Tasmania
+Date 27-27.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Morgan & C Morgan	beat	C Bamford & E Roomes	+26
+2	S Beattie & P Hamilton	beat	W Bonnar & B Hooper	+7
+3	Miranda Morgan	beat	Claire Bamford	+24TP
+4	Sue Beattie	beat	Charlotte Morgan	+17
+5	Wilma Bonnar	beat	Elaine Roomes	+1
+6	Pam Hamilton	beat	Marga Podnieks	+2
+7	Miranda Morgan	beat	Sue Beattie	+3
+8	Claire Bamford	beat	Charlotte Morgan	+11
+9	Wilma Bonnar	beat	Pam Hamilton	+2
+10	Marga Podnieks	beat	Elaine Roomes	+13
+11	N Bonnar & A Rutten	beat	B Beattie & R McAdam	+15
+12	N Macoun & A Walsh	beat	D McCormack & G Schupelius	+17
+13	Alan Walsh	beat	Albert Rutten	+17TP
+14	Nick Macoun	beat	Neil Bonnar	+17TP
+15	Gil Schupelius	beat	Bob Beattie	+23
+16	David Wise	beat	Rob McAdam	+17
+17	Albert Rutten	beat	Nick Macoun	+2
+18	Neil Bonnar	beat	Alan Walsh	+6
+19	Gil Schupelius	beat	Rob McAdam	+10
+20	Bob Beattie	beat	David Wise	+11
+End
+
+Event AUS Victoria v Western Australia
+Date 27-27.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	C Bassett & P Devlin	beat	H Collins & J Hawker	+18
+2	A Miller & J Wembridge	beat	M Reynolds & S Stevenson	+22
+3	Claire Bassett	beat	Helen Collins	+26
+4	Jannine Hawker	beat	Judy Wembridge	+13
+5	Tricia Devlin	beat	Megan Reynolds	+1
+6	Anna Miller	beat	Sandra Stevenson	+13
+7	Claire Bassett	beat	Jannine Hawker	+2
+8	Judy Wembridge	beat	Helen Collins	+16
+9	Tricia Devlin	beat	Sandra Stevenson	+19
+10	Anna Miller	beat	Megan Reynolds	+25
+11	R Fletcher & S Forster	beat	J Newcombe & A Sands	+17
+12	R Kirk & S Watkins	beat	C McWhirter & C Perrin	+9
+13	Alan Sands	beat	Stephen Forster	+17
+14	Robert Fletcher	beat	Jeff Newcombe	+26TP
+15	Rod Kirk	beat	Chris McWhirter	+17
+16	Simon Watkins	beat	Carl Perrin	+15
+17	Stephen Forster	beat	Jeff Newcombe	+17
+18	Robert Fletcher	beat	Alan Sands	+21QP
+19	Rod Kirk	beat	Carl Perrin	+26
+20	Simon Watkins	beat	Chris McWhirter	+14
+End
+
+Event AUS Queensland v Tasmania
+Date 28-28.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	C Bamford & E Roomes	beat	W Silk & J Sutton	+1
+2	D Hardy & M Melville	beat	S Beattie & P Hamilton	+7
+3	Jocelyn Sutton	beat	Claire Bamford	+10
+4	Margaret Melville	beat	Sue Beattie	+1
+5	Deirdre Hardy	beat	Elaine Roomes	+13
+6	Willi Silk	beat	Pam Hamilton	+7
+7	Jocelyn Sutton	beat	Sue Beattie	+24
+8	Margaret Melville	beat	Claire Bamford	+25
+9	Deirdre Hardy	beat	Pam Hamilton	+18
+10	Willi Silk	beat	Elaine Roomes	+9
+11	B Beattie & R McAdam	beat	D Close & J Philpott	+16
+12	N Macoun & A Walsh	beat	J Hardy & L Harvey	+3
+13	Alan Walsh	beat	John Hardy	+21
+14	Nick Macoun	beat	John Philpott	+26TP
+15	Leigh Harvey	beat	Bob Beattie	+25
+16	Don Close	beat	Rob McAdam	+24
+17	John Hardy	beat	Nick Macoun	+1
+18	Alan Walsh	beat	John Philpott	+5
+19	Leigh Harvey	beat	Rob McAdam	+3
+20	Don Close	beat	Bob Beattie	+19
+End
+
+Event AUS South Australia v Western Australia
+Date 28-28.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Morgan & C Morgan	beat	M Reynolds & S Stevenson	+26
+2	H Collins & J Hawker	beat	W Bonnar & M Podnieks	+1
+3	Miranda Morgan	beat	Helen Collins	+9
+4	Jannine Hawker	beat	Charlotte Morgan	+17
+5	Barbara Hooper	beat	Megan Reynolds	+5
+6	Sandra Stevenson	beat	Wilma Bonnar	+1
+7	Miranda Morgan	beat	Jannine Hawker	+25
+8	Charlotte Morgan	beat	Helen Collins	+15
+9	Sandra Stevenson	beat	Barbara Hooper	+9
+10	Wilma Bonnar	beat	Megan Reynolds	+8
+11	J Newcombe & A Sands	beat	N Bonnar & A Rutten	+5TP(JN)
+12	G Schupelius & D Wise	beat	E Ayling & C McWhirter	+26
+13	Alan Sands	beat	Albert Rutten	+13
+14	Jeff Newcombe	beat	Neil Bonnar	+24
+15	Gil Schupelius	beat	Chris McWhirter	+17
+16	Eric Ayling	beat	Dwayne McCormick	+26
+17	Albert Rutten	beat	Jeff Newcombe	+14
+18	Neil Bonnar	beat	Alan Sands	+12
+19	Gil Schupelius	beat	Eric Ayling	+3
+20	Chris McWhirter	beat	Dwayne McCormick	+23TP
+End
+
+Event AUS Victoria v New South Wales
+Date 28-28.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	C Bassett & P Devlin	beat	N Taylor & A Verge	+24
+2	A Miller & J Wembridge	beat	R Graham & A Sharpe	+5
+3	Claire Bassett	beat	Rosemary Graham	+26
+4	Judy Wembridge	beat	Alison Sharpe	+17
+5	Tricia Devlin	beat	Nerida Taylor	+16
+6	Alix Verge	beat	Anna Miller	+13
+7	Claire Bassett	beat	Alison Sharpe	+26
+8	Rosemary Graham	beat	Judy Wembridge	+10
+9	Tricia Devlin	beat	Alix Verge	+15
+10	Nerida Taylor	beat	Anna Miller	+17
+11	M Jenner & P Landrebe	beat	R Fletcher & S Forster	+11
+12	K Edwards & T Murphy	beat	R Kirk & S Watkins	+26
+13	Robert Fletcher	beat	Peter Landrebe	+9
+14	Tim Murphy	beat	Stephen Forster	+3
+15	Rod Kirk	beat	Ken Edwards	+21
+16	Mike Jenner	beat	Simon Watkins	+4
+17	Peter Landrebe	beat	Stephen Forster	+26
+18	Tim Murphy	beat	Robert Fletcher	+17
+19	Mike Jenner	beat	Rod Kirk	+24
+20	Simon Watkins	beat	Ken Edwards	+16
+End
+
+Event AUS New South Wales v South Australia
+Date 29-29.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Morgan & C Morgan	beat	R Graham & A Sharpe	+5
+2	N Taylor & A Verge	beat	W Bonnar & M Podnieks	+19
+3	Alison Sharpe	beat	Charlotte Morgan	+10
+4	Miranda Morgan	beat	Rosemary Graham	+25
+5	Alix Verge	beat	Wilma Bonnar	+19
+6	Barbara Hooper	beat	Nerida Taylor	+5
+7	Miranda Morgan	beat	Alison Sharpe	+13
+8	Rosemary Graham	beat	Charlotte Morgan	+15
+9	Alix Verge	beat	Barbara Hooper	+26
+10	Wilma Bonnar	beat	Nerida Taylor	+1
+11	M Jenner & P Landrebe	beat	N Bonnar & A Rutten	+2
+12	K Edwards & T Murphy	beat	G Schupelius & D Wise	+24
+13	Peter Landrebe	beat	Neil Bonnar	+17TP
+14	Tim Murphy	beat	Albert Rutten	+21
+15	Mike Jenner	beat	Dwayne McCormick	+25
+16	Gil Schupelius	beat	Ken Edwards	+6
+17	Peter Landrebe	beat	Albert Rutten	+1
+18	Tim Murphy	beat	Neil Bonnar	+17
+19	Mike Jenner	beat	Gil Schupelius	+2
+20	Ken Edwards	beat	Dwayne McCormick	+22
+End
+
+Event AUS Victoria v Queensland
+Date 29-29.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Melville & J Sutton	beat	C Bassett & P Devlin	+15
+2	A Miller & J Wembridge	beat	D Hardy & W Silk	+1
+3	Claire Bassett	beat	Margaret Melville	+5
+4	Judy Wembridge	beat	Jocelyn Sutton	+7
+5	Willi Silk	beat	Tricia Devlin	+22
+6	Anna Miller	beat	Deirdre Hardy	+12
+7	Jocelyn Sutton	beat	Claire Bassett	+26TP
+8	Margaret Melville	beat	Judy Wembridge	+15
+9	Tricia Devlin	beat	Deirdre Hardy	+21
+10	Anna Miller	beat	Willi Silk	+11
+11	R Fletcher & S Forster	beat	J Hardy & J Philpott	+26TP(RF)
+12	R Kirk & S Watkins	beat	D Close & L Harvey	+19
+13	Stephen Forster	beat	John Philpott	+26TP
+14	Robert Fletcher	beat	John Hardy	+25TP
+15	Rod Kirk	beat	Don Close	+11
+16	Simon Watkins	beat	Leigh Harvey	+15
+17	Stephen Forster	beat	John Hardy	+26TP
+18	Robert Fletcher	beat	John Philpott	+16TP
+19	Rod Kirk	beat	Leigh Harvey	+6TP
+20	Simon Watkins	beat	Don Close	+13
+End
+
+Event AUS Western Australia v Tasmania
+Date 29-29.3.09
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Reynolds & S Stevenson	beat	S Beattie & P Hamilton	+20
+2	H Collins & J Hawker	beat	C Bamford & E Roomes	+14
+3	Jannine Hawker	beat	Claire Bamford	+25
+4	Helen Collins	beat	Sue Beattie	+7
+5	Elaine Roomes	beat	Sandra Stevenson	+6
+6	Megan Reynolds	beat	Pam Hamilton	+1
+7	Jannine Hawker	beat	Sue Beattie	+4
+8	Helen Collins	beat	Claire Bamford	+2
+9	Sandra Stevenson	beat	Pam Hamilton	+4
+10	Elaine Roomes	beat	Megan Reynolds	+17
+11	J Newcombe & A Sands	beat	B Beattie & R McAdam	+24
+12	E Ayling & C Perrin	beat	N Macoun & A Walsh	+3
+13	Jeff Newcombe	beat	Alan Walsh	+26
+14	Nick Macoun	beat	Alan Sands	+25
+15	Eric Ayling	beat	Bob Beattie	+2
+16	Carl Perrin	beat	Rob McAdam	+15
+17	Jeff Newcombe	beat	Nick Macoun	+6
+18	Alan Sands	beat	Alan Walsh	+25
+19	Eric Ayling	beat	Rob McAdam	+14
+20	Carl Perrin	beat	Bob Beattie	+26
+End
+

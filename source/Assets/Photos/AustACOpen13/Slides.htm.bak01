@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>PAGE TITLE</title>
+
+
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/CSS/ACA.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE 7]><style type="text/css">.menu li {float:left;}</style><![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="100%" border="0">
+  <tr> 
+    <td width="150" valign="middle" align="center">
+    	<a href="http://www.croquet-australia.com.au/"><img src="/small_ACA_Pocket_Logo.jpg" width="93" height="70" /></a>
+    </td>
+	<td colspan="3" align="center" valign="middle" class="tdback"><!-- #BeginEditable "Title%20Banner" -->
+	<h1><strong>2013 AC Open Championships</strong></h1>                           
+	<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td valign="top"> 
+      <script type="text/javascript" src="/Templates/LH_Nav_Bar.js">  </script>
+	</td>
+    <td colspan="3" valign="top"><!-- #BeginEditable "Main%20Text%20Body" -->
+      <table width="1168" border="0">
+        <tr>
+          <td width="1162" align="center"><h3>Held during16-24 Nov 2013 at the 
+          Victorian Croquet Centre, Cairnlea, VIC</h3></td>
+        </tr>
+      </table>
+    <!-- #EndEditable -->
+      <p>.</p>
+    <p>&nbsp;</p></td>
+  </tr>
+
+  <script type="text/javascript" src="/Templates/Footer.js">  </script>
+
+</table>
+</body>
+</html>

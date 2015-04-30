@@ -1,0 +1,215 @@
+Event AUS Doubles Block
+Date 15-16.10.11
+Class 2
+Type single
+Games 28
+Order firstname
+1	N Pope & M Pope	beat	D Leabeater & J Clements	+2
+2	M Bertram & P Paine	beat	G Vandersluys & G Kirkland	+3
+3	V Saunders & M Street	beat	J Saunders & M Roberts	+4
+4	S Bertram & E Kelly	beat	A Quinn & C Quinn	+3
+5	M Bertram & P Paine	beat	V Saunders & M Street	+2
+6	N Pope & M Pope	beat	S Bertram & E Kelly	+2
+7	A Quinn & C Quinn	beat	D Leabeater & J Clements	+4
+8	G Vandersluys & G Kirkland	beat	J Saunders & M Roberts	+4
+9	A Quinn & C Quinn	beat	G Vandersluys & G Kirkland	+4
+10	M Bertram & P Paine	beat	D Leabeater & J Clements	+2
+11	S Bertram & E Kelly	beat	J Saunders & M Roberts	+3
+12	V Saunders & M Street	beat	N Pope & M Pope	+1
+13	D Leabeater & J Clements	beat	J Saunders & M Roberts	+3
+14	A Quinn & C Quinn	beat	V Saunders & M Street	+2
+15	G Vandersluys & G Kirkland	beat	N Pope & M Pope	+3
+16	S Bertram & E Kelly	beat	M Bertram & P Paine	+3
+17	N Pope & M Pope	beat	M Bertram & P Paine	+6
+18	G Vandersluys & G Kirkland	beat	D Leabeater & J Clements	+1
+19	S Bertram & E Kelly	beat	V Saunders & M Street	+2
+20	A Quinn & C Quinn	beat	J Saunders & M Roberts	+1
+21	S Bertram & E Kelly	beat	G Vandersluys & G Kirkland	+2
+22	J Saunders & M Roberts	beat	N Pope & M Pope	+4
+23	A Quinn & C Quinn	beat	M Bertram & P Paine	+3
+24	V Saunders & M Street	beat	D Leabeater & J Clements	+1
+25	A Quinn & C Quinn	beat	N Pope & M Pope	+4
+26	V Saunders & M Street	beat	G Vandersluys & G Kirkland	+4
+27	D Leabeater & J Clements	beat	S Bertram & E Kelly	+2
+28	M Bertram & P Paine	beat	J Saunders & M Roberts	+3
+End
+
+Event AUS Doubles Knockout
+Date 16-16.10.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	A Quinn & C Quinn	beat	M Bertram & P Paine	-2, +2, +6
+2	V Saunders & M Street	beat	S Bertram & E Kelly	+2, -5, +3
+3	V Saunders & M Street	beat	A Quinn & C Quinn	-3, +2, +1
+End
+
+Event AUS Doubles Plate Knockout
+Date 16-16.10.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	N Pope & M Pope	beat	J Saunders & M Roberts	+5, +2
+2	D Leabeater & J Clements	beat	G Vandersluys & G Kirkland	+1, +2
+3	N Pope & M Pope	beat	D Leabeater & J Clements	+1, -3, +4
+End
+
+Event AUS Singles Block
+Date 17-18.10.11
+Class 2
+Type single
+Games 105
+Order firstname
+1	Gina Kirkland	beat	Eric E	+4
+2	Jim Saunders	beat	Margaret Brockett	+7
+3	Michael Bertram	beat	Patsy Paine	+2
+4	Edna Kelly	beat	Nerida Taylor	+2
+5	Doug Leabeater	beat	Susan Bertram	+1
+6	Vic Gleeson	beat	Shirley Price	+1
+7	Val Saunders	beat	Glenn Price	+3
+8	Gina Kirkland	beat	Neville Pope	+4
+9	Eric E	beat	Patsy Paine	+4
+10	Jim Saunders	beat	Edna Kelly	+4
+11	Susan Bertram	beat	Michael Bertram	+2
+12	Vic Gleeson	beat	Nerida Taylor	+2
+13	Doug Leabeater	beat	Glenn Price	+3
+14	Val Saunders	beat	Shirley Price	+4
+15	Patsy Paine	beat	Gina Kirkland	+1
+16	Margaret Brockett	beat	Neville Pope	+2
+17	Susan Bertram	beat	Eric E	+5
+18	Vic Gleeson	beat	Jim Saunders	+1
+19	Michael Bertram	beat	Glenn Price	+3
+20	Nerida Taylor	beat	Val Saunders	+3
+21	Shirley Price	beat	Doug Leabeater	+2
+22	Margaret Brockett	beat	Edna Kelly	+1
+23	Neville Pope	beat	Patsy Paine	+4
+24	Eric E	beat	Glenn Price	+2
+25	Nerida Taylor	beat	Doug Leabeater	+2
+26	Val Saunders	beat	Jim Saunders	+3
+27	Susan Bertram	beat	Gina Kirkland	+5
+28	Shirley Price	beat	Michael Bertram	+1
+29	Patsy Paine	beat	Susan Bertram	+1
+30	Margaret Brockett	beat	Vic Gleeson	+2
+31	Glenn Price	beat	Gina Kirkland	+1
+32	Neville Pope	beat	Edna Kelly	+3
+33	Eric E	beat	Shirley Price	+2
+34	Doug Leabeater	beat	Jim Saunders	+2
+35	Nerida Taylor	beat	Michael Bertram	+1
+36	Vic Gleeson	beat	Edna Kelly	+5
+37	Patsy Paine	beat	Glenn Price	+5
+38	Gina Kirkland	beat	Shirley Price	+4
+39	Susan Bertram	beat	Neville Pope	+4
+40	Eric E	beat	Nerida Taylor	+1
+41	Michael Bertram	beat	Jim Saunders	+1
+42	Glenn Price	beat	Susan Bertram	+5
+43	Val Saunders	beat	Edna Kelly	+2
+44	Shirley Price	beat	Patsy Paine	+2
+45	Doug Leabeater	beat	Margaret Brockett	+4
+46	Gina Kirkland	beat	Nerida Taylor	+6
+47	Vic Gleeson	beat	Neville Pope	+3
+48	Eric E	beat	Jim Saunders	+1
+49	Margaret Brockett	beat	Val Saunders	+2
+50	Susan Bertram	beat	Shirley Price	+2
+51	Doug Leabeater	beat	Edna Kelly	+3
+52	Nerida Taylor	beat	Patsy Paine	+2
+53	Val Saunders	beat	Vic Gleeson	+3
+54	Michael Bertram	beat	Margaret Brockett	+3
+55	Neville Pope	beat	Glenn Price	+4
+56	Jim Saunders	beat	Gina Kirkland	+1
+57	Val Saunders	beat	Neville Pope	+4
+58	Glenn Price	beat	Shirley Price	+1
+59	Doug Leabeater	beat	Vic Gleeson	+3
+60	Susan Bertram	beat	Nerida Taylor	+2
+61	Michael Bertram	beat	Edna Kelly	+3
+62	Jim Saunders	beat	Patsy Paine	+1
+63	Margaret Brockett	beat	Eric E	+1
+64	Doug Leabeater	beat	Val Saunders	+6
+65	Neville Pope	beat	Shirley Price	+2
+66	Nerida Taylor	beat	Glenn Price	+6
+67	Vic Gleeson	beat	Michael Bertram	+5
+68	Jim Saunders	beat	Susan Bertram	+2
+69	Edna Kelly	beat	Eric E	+1
+70	Margaret Brockett	beat	Gina Kirkland	+2
+71	Shirley Price	beat	Nerida Taylor	+2
+72	Michael Bertram	beat	Val Saunders	+3
+73	Neville Pope	beat	Doug Leabeater	+4
+74	Glenn Price	beat	Jim Saunders	+1
+75	Vic Gleeson	beat	Eric E	+3
+76	Edna Kelly	beat	Gina Kirkland	+2
+77	Patsy Paine	beat	Margaret Brockett	+1
+78	Doug Leabeater	beat	Michael Bertram	+4
+79	Shirley Price	beat	Jim Saunders	+3
+80	Val Saunders	beat	Eric E	+2
+81	Neville Pope	beat	Nerida Taylor	+1
+82	Gina Kirkland	beat	Vic Gleeson	+5
+83	Susan Bertram	beat	Margaret Brockett	+3
+84	Patsy Paine	beat	Edna Kelly	+3
+85	Jim Saunders	beat	Nerida Taylor	+1
+86	Doug Leabeater	beat	Eric E	+2
+87	Val Saunders	beat	Gina Kirkland	+4
+88	Margaret Brockett	beat	Glenn Price	+2
+89	Neville Pope	beat	Michael Bertram	+4
+90	Vic Gleeson	beat	Patsy Paine	+5
+91	Susan Bertram	beat	Edna Kelly	+1
+92	Michael Bertram	beat	Eric E	+4
+93	Doug Leabeater	beat	Gina Kirkland	+3
+94	Margaret Brockett	beat	Shirley Price	+3
+95	Val Saunders	beat	Patsy Paine	+3
+96	Glenn Price	beat	Edna Kelly	+2
+97	Susan Bertram	beat	Vic Gleeson	+1
+98	Neville Pope	beat	Jim Saunders	+1
+99	Margaret Brockett	beat	Nerida Taylor	+3
+100	Glenn Price	beat	Vic Gleeson	+4
+101	Shirley Price	beat	Edna Kelly	+2
+102	Val Saunders	beat	Susan Bertram	+2
+103	Doug Leabeater	beat	Patsy Paine	+3
+104	Neville Pope	beat	Eric E	+2
+105	Michael Bertram	beat	Gina Kirkland	+1
+End
+
+Event AUS Singles 3rd & 4th
+Date 19-19.10.11
+Class 2
+Type match
+Games 1
+Order firstname
+1	Neville Pope	beat	Val Saunders	+2, +5
+End
+
+Event AUS Singles Knockout
+Date 19-19.10.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Margaret Brockett	beat	Val Saunders	+2, -3, +4
+2	Susan Bertram	beat	Neville Pope	-3, +4, +7
+3	Susan Bertram	beat	Margaret Brockett	-5, +2, +1
+End
+
+Event AUS Singles Plate B
+Date 19-19.10.11
+Class 2
+Type single
+Games 16
+Order firstname
+1	Patsy Paine	beat	Doug Leabeater	+1
+2	Gina Kirkland	beat	Shirley Price	+3
+3	Eric E	beat	Glenn Price	+1
+4	Michael Bertram	beat	Jim Saunders	+1
+5	Gina Kirkland	beat	Patsy Paine	+2
+6	Doug Leabeater	beat	Shirley Price	+3
+7	Glenn Price	beat	Jim Saunders	+2
+8	Michael Bertram	beat	Eric E	+1
+9	Eric E	beat	Shirley Price	+5
+10	Glenn Price	beat	Gina Kirkland	+5
+11	Michael Bertram	beat	Doug Leabeater	+6
+12	Jim Saunders	beat	Patsy Paine	+1
+13	Eric E	beat	Jim Saunders	+3
+14	Doug Leabeater	beat	Gina Kirkland	+3
+15	Patsy Paine	beat	Shirley Price	+2
+16	Michael Bertram	beat	Glenn Price	+5
+End
+

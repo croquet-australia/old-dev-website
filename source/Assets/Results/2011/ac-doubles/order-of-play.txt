@@ -1,0 +1,109 @@
+Event AUS Block A
+Date 5-6.11.11
+Class 2
+Type single
+Games 28
+Order firstname
+1	Robert Fletcher &  Greg Fletcher	beat	Michael Bertram & Susan Bertram	+23TPRF
+2	Kevin Beard &  Wendy Dickson	beat	Ken Edwards & R McAdam	+21
+3	Bruce Fleming & Liz Fleming	beat	John McInnes & Marion McInnes	+15
+4	Jim Nicholls & Dwayne McCormick	beat	Colin Eagle & Helen Eagle	+21
+5	Kevin Beard &  Wendy Dickson	beat	John McInnes & Marion McInnes	+23
+6	Robert Fletcher &  Greg Fletcher	beat	Colin Eagle & Helen Eagle	+25TPGF
+7	Jim Nicholls & Dwayne McCormick	beat	Michael Bertram & Susan Bertram	+22
+8	Bruce Fleming & Liz Fleming	beat	Ken Edwards & R McAdam	+25
+9	Jim Nicholls & Dwayne McCormick	beat	Ken Edwards & R McAdam	+26TP(M)
+10	Kevin Beard &  Wendy Dickson	beat	Michael Bertram & Susan Bertram	+13
+11	Bruce Fleming & Liz Fleming	beat	Colin Eagle & Helen Eagle	+24
+12	Robert Fletcher &  Greg Fletcher	beat	John McInnes & Marion McInnes	+26TPGF
+13	Bruce Fleming & Liz Fleming	beat	Michael Bertram & Susan Bertram	+7
+14	Jim Nicholls & Dwayne McCormick	beat	John McInnes & Marion McInnes	+20
+15	Robert Fletcher &  Greg Fletcher	beat	Ken Edwards & R McAdam	+4
+16	Kevin Beard &  Wendy Dickson	beat	Colin Eagle & Helen Eagle	+25TP(B)
+17	Robert Fletcher &  Greg Fletcher	beat	Kevin Beard &  Wendy Dickson	+5
+18	Ken Edwards & R McAdam	beat	Michael Bertram & Susan Bertram	+5
+19	Colin Eagle & Helen Eagle	beat	John McInnes & Marion McInnes	+1
+20	Bruce Fleming & Liz Fleming	beat	Jim Nicholls & Dwayne McCormick	+26
+21	Robert Fletcher &  Greg Fletcher	beat	Bruce Fleming & Liz Fleming	+11
+22	Ken Edwards & R McAdam	beat	Colin Eagle & Helen Eagle	+5
+23	Jim Nicholls & Dwayne McCormick	beat	Kevin Beard &  Wendy Dickson	+4OTP(B)
+24	Michael Bertram & Susan Bertram	beat	John McInnes & Marion McInnes	+8
+25	Robert Fletcher &  Greg Fletcher	beat	Jim Nicholls & Dwayne McCormick	+13
+26	Ken Edwards & R McAdam	beat	John McInnes & Marion McInnes	+26
+27	Kevin Beard &  Wendy Dickson	beat	Bruce Fleming & Liz Fleming	+4TP(B)
+28	Michael Bertram & Susan Bertram	beat	Colin Eagle & Helen Eagle	+4
+End
+
+Event AUS Block B
+Date 5-6.11.11
+Class 2
+Type single
+Games 28
+Order firstname
+1	K Bald & M Fletcher	beat	Elizabeth Allen & Basil Ladyman	+26TP(F)
+2	Adrian Palmer & Martyn Prins	beat	T Murphy & C Morgen	+23
+3	Ian Bassett & Liz Bassett	beat	G Rowberry &  D Wise	+3
+4	T Basset & J Clarke	beat	Anne Quinn & Rosemary Newsham	+26TP(B)
+5	T Murphy & C Morgen	beat	Ian Bassett & Liz Bassett	+4
+6	K Bald & M Fletcher	beat	Anne Quinn & Rosemary Newsham	+26TP(F)
+7	T Basset & J Clarke	beat	Elizabeth Allen & Basil Ladyman	+25
+8	Adrian Palmer & Martyn Prins	beat	G Rowberry &  D Wise	+11
+9	Adrian Palmer & Martyn Prins	beat	T Basset & J Clarke	+15
+10	Elizabeth Allen & Basil Ladyman	beat	T Murphy & C Morgen	+2
+11	G Rowberry &  D Wise	beat	Anne Quinn & Rosemary Newsham	+21TP(W)
+12	Ian Bassett & Liz Bassett	beat	K Bald & M Fletcher	+8
+13	G Rowberry &  D Wise	beat	Elizabeth Allen & Basil Ladyman	+21
+14	Ian Bassett & Liz Bassett	beat	T Basset & J Clarke	+17
+15	K Bald & M Fletcher	beat	Adrian Palmer & Martyn Prins	+17
+16	T Murphy & C Morgen	beat	Anne Quinn & Rosemary Newsham	+24
+17	K Bald & M Fletcher	beat	T Murphy & C Morgen	+23TP(F)
+18	Adrian Palmer & Martyn Prins	beat	Elizabeth Allen & Basil Ladyman	+20
+19	Ian Bassett & Liz Bassett	beat	Anne Quinn & Rosemary Newsham	+13
+20	T Basset & J Clarke	beat	G Rowberry &  D Wise	+15
+21	K Bald & M Fletcher	beat	G Rowberry &  D Wise	+12
+22	T Murphy & C Morgen	beat	T Basset & J Clarke	+10
+23	Anne Quinn & Rosemary Newsham	beat	Adrian Palmer & Martyn Prins	+3
+24	Ian Bassett & Liz Bassett	beat	Elizabeth Allen & Basil Ladyman	+18
+25	K Bald & M Fletcher	beat	T Basset & J Clarke	+24TP(B)
+26	T Murphy & C Morgen	beat	G Rowberry &  D Wise	+13
+27	Adrian Palmer & Martyn Prins	beat	Ian Bassett & Liz Bassett	+2
+28	Anne Quinn & Rosemary Newsham	beat	Elizabeth Allen & Basil Ladyman	+14
+End
+
+Event AUS Knockout
+Date 6-7.11.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Robert Fletcher &  Greg Fletcher	beat	Ian Bassett & Liz Bassett	+20TP(R), +17TP(G)
+2	K Bald & M Fletcher	beat	Bruce Fleming & Liz Fleming	+17, -23, +3TP(F)
+3	Robert Fletcher &  Greg Fletcher	beat	K Bald & M Fletcher	+25, -3, +26TP(R)
+End
+
+Event AUS Swiss
+Date 6-7.11.11
+Class 2
+Type single
+Games 18
+Order firstname
+1	John McInnes & Marion McInnes	beat	Elizabeth Allen & Basil Ladyman	+8
+2	Colin Eagle & Helen Eagle	beat	Anne Quinn & Rosemary Newsham	+1
+3	Ken Edwards & R McAdam	beat	G Rowberry &  D Wise	+25
+4	T Basset & J Clarke	beat	Adrian Palmer & Martyn Prins	+13
+5	Michael Bertram & Susan Bertram	beat	Jim Nicholls & Dwayne McCormick	+1
+6	G Rowberry &  D Wise	beat	Elizabeth Allen & Basil Ladyman	+11
+7	Ken Edwards & R McAdam	beat	Anne Quinn & Rosemary Newsham	+3
+8	John McInnes & Marion McInnes	beat	Colin Eagle & Helen Eagle	+14
+9	John McInnes & Marion McInnes	beat	Ken Edwards & R McAdam	+7
+10	Elizabeth Allen & Basil Ladyman	beat	Anne Quinn & Rosemary Newsham	+6
+11	G Rowberry &  D Wise	beat	Colin Eagle & Helen Eagle	+23
+12	T Basset & J Clarke	beat	Michael Bertram & Susan Bertram	+5
+13	Adrian Palmer & Martyn Prins	beat	Jim Nicholls & Dwayne McCormick	+11
+14	John McInnes & Marion McInnes	beat	G Rowberry &  D Wise	+4
+15	T Basset & J Clarke	beat	Ken Edwards & R McAdam	+21
+16	Colin Eagle & Helen Eagle	beat	Elizabeth Allen & Basil Ladyman	+6
+17	Adrian Palmer & Martyn Prins	beat	Michael Bertram & Susan Bertram	+11
+18	Jim Nicholls & Dwayne McCormick	beat	Anne Quinn & Rosemary Newsham	+2
+End
+

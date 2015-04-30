@@ -1,0 +1,420 @@
+Event AUS New South Wales v Tasmania
+Date 23-23.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	S Beattie C Bamford	beat	R Graham A Sharpe	+6
+2	C Bassett R Stock	beat	P Hamilton E Brinsdon	+4
+3	Rosemary Graham	beat	Claire Bamford	+18
+4	Claire Bassett	beat	Sue Beattie	+26
+5	Alison Sharpe	beat	Elaine Roomes	+23
+6	Robbie Stock	beat	Pam Hamilton	+22
+7	Sue Beattie	beat	Rosemary Graham	+2
+8	Claire Bassett	beat	Claire Bamford	+23
+9	Alison Sharpe	beat	Pam Hamilton	+26
+10	Elaine Roomes	beat	Robbie Stock	+4
+11	P Landrebe T Murphy	beat	R McAdam B Bye	+3TPL
+12	S Richards K Edwards	beat	B Beattie C Hyland	+20
+13	Peter Landrebe	beat	Bob Bye	+10
+14	Stephen Richards	beat	Rob McAdam	+4
+15	Tim Murphy	beat	Ian Smith	+15
+16	Ken Edwards	beat	Bob Beattie	+11
+17	Rob McAdam	beat	Peter Landrebe	+17
+18	Stephen Richards	beat	Bob Bye	+26
+19	Tim Murphy	beat	Bob Beattie	+11
+20	Ken Edwards	beat	Ian Smith	+20
+End
+
+Event AUS Queensland v Western Australia
+Date 23-23.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Hawker S Stevenson	beat	D Hardy W Silk	+24
+2	M Melville C Tacey	beat	M Reynolds H Collins	+12
+3	Margaret Melville	beat	Megan Reynolds	+16
+4	Jannine Hawker	beat	Willi Silk	+13
+5	Deidre Hardy	beat	Helen Collins	+13
+6	Sandra Stevenson	beat	Cynthia Tacey	+5
+7	Jannine Hawker	beat	Margaret Melville	+19
+8	Megan Reynolds	beat	Willi Silk	+16
+9	Deidre Hardy	beat	Sandra Stevenson	+19
+10	Helen Collins	beat	Cynthia Tacey	+24
+11	A Sands J Newecombe	beat	J Hardy D Close	+15TPS
+12	G Bury T Knight	beat	A Marshall J Capabianco	+26
+13	Jeff Newcombe	beat	John Hardy	+16
+14	Greg Bury	beat	Alan Sands	+26
+15	Jock Capobianco	beat	Don Close	+8
+16	Tom Knight	beat	Ross Marshall	+6
+17	Alan Sands	beat	John Hardy	+19
+18	Jeff Newcombe	beat	Greg Bury	+15
+19	Ross Marshall	beat	Don Close	+6
+20	Tom Knight	beat	Jock Capobianco	+26
+End
+
+Event AUS Victoria v South Australia
+Date 23-23.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	T Devlin W Dickson	beat	B Hooper G Howell	+21
+2	J Wembridge J Evans	beat	K Chynoweth W Bonnar	+1
+3	Tricia Devlin	beat	Gloria Howell	+23
+4	Judith Wembridge	beat	Barbara Hooper	+26
+5	Wendy Dickson	beat	Wilma Bonnar	+21
+6	Kay Chynoweth	beat	Judy Evans	+22
+7	Tricia Devlin	beat	Barbara Hooper	+21
+8	Judith Wembridge	beat	Gloria Howell	+25
+9	Kay Chynoweth	beat	Wendy Dickson	+1
+10	Wilma Bonnar	beat	Judy Evans	+9
+11	R. Fletcher K Beard	beat	D Mc Cormick N Bonnar	+2
+12	S Forster G Fletcher	beat	B Dawson G Rowberry	+9
+13	Robert Fletcher	beat	Bryan Dawson	+26TP
+14	Dwayne McCormick	beat	Stephen Forster	+19
+15	Neil Bonnar	beat	Kevin Beard	+17
+16	Greg Fletcher	beat	Greg Rowberry	+24TP
+17	Robert Fletcher	beat	Dwayne McCormick	+25TP
+18	Stephen Forster	beat	Bryan Dawson	+25TP
+19	Greg Rowberry	beat	Kevin Beard	+25
+20	Neil Bonnar	beat	Greg Fletcher	+10
+End
+
+Event AUS New South Wales v South Australia
+Date 24-24.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham A Sharpe	beat	B. Hooper & M. Podnieks	+7
+2	K Chynoweth W Bonnar	beat	C Bassett R Stock	+2
+3	Rosemary Graham	beat	Marga Podnieks	+17
+4	Claire Bassett	beat	Barbara Hooper	+16
+5	Alison Sharpe	beat	Wilma Bonnar	+25
+6	Robbie Stock	beat	Kay Chynoweth	+4
+7	Barbara Hooper	beat	Rosemary Graham	+14
+8	Claire Bassett	beat	Marga Podnieks	+5
+9	Alison Sharpe	beat	Kay Chynoweth	+26
+10	Wilma Bonnar	beat	Robbie Stock	+15
+11	D. McCormick & B. Dawson	beat	P Landrebe T Murphy	+1
+12	S Richards K Edwards	beat	D. Wise & N. Bonnar	+3
+13	Peter Landrebe	beat	Bryan Dawson	+17
+14	Stephen Richards	beat	Dwayne McCormick	+25
+15	Tim Murphy	beat	David Wise	+20
+16	Ken Edwards	beat	Neil Bonnar	+23
+17	Dwayne McCormick	beat	Peter Landrebe	+26tp
+18	Stephen Richards	beat	Bryan Dawson	+19
+19	Neil Bonnar	beat	Tim Murphy	+17
+20	David Wise	beat	Ken Edwards	+16tp
+End
+
+Event AUS Queensland v Tasmania
+Date 24-24.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	M Melville C Tacey	beat	E. Roomes & E. Brinsdon	+1
+2	D Hardy W Silk	beat	S Beattie C Bamford	+5
+3	Margaret Melville	beat	Claire Bamford	+23
+4	Sue Beattie	beat	Deidre Hardy	+1
+5	Elaine Roomes	beat	Willi Silk	+6
+6	Cynthia Tacey	beat	Pam Hamilton	+1
+7	Margaret Melville	beat	Sue Beattie	+16
+8	Claire Bamford	beat	Deidre Hardy	+8
+9	Willi Silk	beat	Pam Hamilton	+6
+10	Elaine Roomes	beat	Cynthia Tacey	+6
+11	G Bury T Knight	beat	R McAdam B Bye	+6
+12	J Hardy D Close	beat	B Beattie Ian Smith	+16
+13	Bob Bye	beat	John Hardy	+1
+14	Greg Bury	beat	Rob McAdam	+7
+15	Don Close	beat	Callum Hyland	+21
+16	Tom Knight	beat	Bob Beattie	+3
+17	Rob McAdam	beat	John Hardy	+4
+18	Greg Bury	beat	Bob Bye	+6
+19	Don Close	beat	Bob Beattie	+26tp
+20	Tom Knight	beat	Callum Hyland	+1
+End
+
+Event AUS Victoria v Western Australia
+Date 24-24.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Hawker S Stevenson	beat	T Devlin W Dickson	+5
+2	J Wembridge J Evans	beat	M Reynolds H Collins	+13
+3	Tricia Devlin	beat	Megan Reynolds	+14
+4	Jannine Hawker	beat	Judith Wembridge	+26tp
+5	Helen Collins	beat	Wendy Dickson	+10
+6	Sandra Stevenson	beat	Judy Evans	+8
+7	Jannine Hawker	beat	Tricia Devlin	+17
+8	Judith Wembridge	beat	Megan Reynolds	+12
+9	Wendy Dickson	beat	Sandra Stevenson	+17
+10	Judy Evans	beat	Helen Collins	+17
+11	A Sands J Newecombe	beat	R. Fletcher K Beard	+25
+12	S Forster G Fletcher	beat	A Marshall J Capabianco	+23
+13	Robert Fletcher	beat	Jeff Newcombe	+17tp
+14	Stephen Forster	beat	Alan Sands	+26tp
+15	Kevin Beard	beat	Jock Capobianco	+26tp
+16	Greg Fletcher	beat	Ross Marshall	+26
+17	Robert Fletcher	beat	Alan Sands	+26tp
+18	Jeff Newcombe	beat	Stephen Forster	+17tp
+19	Kevin Beard	beat	Ross Marshall	+22tp
+20	Greg Fletcher	beat	Jock Capobianco	+19
+End
+
+Event AUS New South Wales v Western Australia
+Date 25-25.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham A Sharpe	beat	J Hawker S Stevenson	+23
+2	C Bassett R Stock	beat	M Reynolds H Collins	+2
+3	Rosemary Graham	beat	Megan Reynolds	+18
+4	Claire Bassett	beat	Jannine Hawker	+26
+5	Alison Sharpe	beat	Helen Collins	+23
+6	Sandra Stevenson	beat	Robbie Stock	+23
+7	Rosemary Graham	beat	Jannine Hawker	+4
+8	Megan Reynolds	beat	Claire Bassett	+12
+9	Alison Sharpe	beat	Sandra Stevenson	+2
+10	Robbie Stock	beat	Helen Collins	+21
+11	A Sands J Newecombe	beat	P Landrebe T Murphy	+24TPN
+12	S Richards K Edwards	beat	A Marshall J Capabianco	+23
+13	Peter Landrebe	beat	Jeff Newcombe	+26TP
+14	Stephen Richards	beat	Alan Sands	+26
+15	Tim Murphy	beat	Jock Capobianco	+19
+16	Ken Edwards	beat	Ross Marshall	+23
+17	Peter Landrebe	beat	Alan Sands	+17tp
+18	Stephen Richards	beat	Jeff Newcombe	+4
+19	Tim Murphy	beat	Ross Marshall	+25
+20	Ken Edwards	beat	Jock Capobianco	+3
+End
+
+Event AUS South Australia v Tasmania
+Date 25-25.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	B Hooper G Howell	beat	S. Beattie & E. Roomes	+7
+2	C. Bamford & P. Hamilton	beat	M. Pondieks & K. Chenoweth	+6
+3	Barbara Hooper	beat	Claire Bamford	+4
+4	Sue Beattie	beat	Gloria Howell	+19
+5	Marga Podnieks	beat	Elaine Roomes	+9
+6	Kay Chynoweth	beat	Pam Hamilton	+17
+7	Sue Beattie	beat	Barbara Hooper	+16
+8	Gloria Howell	beat	Claire Bamford	+17
+9	Marga Podnieks	beat	Pam Hamilton	+9
+10	Kay Chynoweth	beat	Elaine Roomes	+18
+11	D Mc Cormick N Bonnar	beat	R McAdam B Bye	+11
+12	G. Rowberry & D. Wise	beat	B Beattie C Hyland	+7
+13	Dwayne McCormick	beat	Bob Bye	+26TP
+14	Greg Rowberry	beat	Rob McAdam	+2
+15	Neil Bonnar	beat	Ian Smith	+26
+16	David Wise	beat	Bob Beattie	+6
+17	Rob McAdam	beat	Dwayne McCormick	+15
+18	Greg Rowberry	beat	Bob Bye	+2
+19	Neil Bonnar	beat	Bob Beattie	+25
+20	David Wise	beat	Ian Smith	+9
+End
+
+Event AUS Victoria v Queensland
+Date 25-25.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	D Hardy W Silk	beat	T Devlin W Dickson	+10
+2	M Melville C Tacey	beat	J Wembridge J Evans	+14
+3	Tricia Devlin	beat	Deidre Hardy	+24
+4	Margaret Melville	beat	Judith Wembridge	+10
+5	Wendy Dickson	beat	Cynthia Tacey	+1
+6	Willi Silk	beat	Judy Evans	+2
+7	Tricia Devlin	beat	Margaret Melville	+9
+8	Judith Wembridge	beat	Deidre Hardy	+19
+9	Willi Silk	beat	Wendy Dickson	+10
+10	Judy Evans	beat	Cynthia Tacey	+3
+11	R. Fletcher K Beard	beat	J Hardy D Close	+7
+12	S Forster G Fletcher	beat	G Bury T Knight	+26TP Fo
+13	Robert Fletcher	beat	Greg Bury	+26tp
+14	Stephen Forster	beat	John Hardy	+24tp
+15	Kevin Beard	beat	Tom Knight	+17TP
+16	Greg Fletcher	beat	Don Close	+14TP
+17	Robert Fletcher	beat	John Hardy	+26TP
+18	Stephen Forster	beat	Greg Bury	+26TP
+19	Kevin Beard	beat	Don Close	+6tp
+20	Greg Fletcher	beat	Tom Knight	+26tp
+End
+
+Event AUS New South Wales v Queensland
+Date 26-26.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	R Graham A Sharpe	beat	D Hardy W Silk	+15
+2	M Melville C Tacey	beat	C Bassett R Stock	+2
+3	Deidre Hardy	beat	Rosemary Graham	+11
+4	Margaret Melville	beat	Claire Bassett	+14
+5	Alison Sharpe	beat	Cynthia Tacey	+26
+6	Robbie Stock	beat	Willi Silk	+16
+7	Margaret Melville	beat	Rosemary Graham	+16
+8	Deidre Hardy	beat	Claire Bassett	+15
+9	Alison Sharpe	beat	Willi Silk	+16
+10	Robbie Stock	beat	Cynthia Tacey	+23
+11	P Landrebe T Murphy	beat	J Hardy D Close	+17
+12	G Bury T Knight	beat	S Richards K Edwards	+1
+13	Peter Landrebe	beat	Greg Bury	+17
+14	Stephen Richards	beat	John Hardy	+26
+15	Tim Murphy	beat	Tom Knight	+17tp
+16	Ken Edwards	beat	Don Close	+15
+17	Peter Landrebe	beat	John Hardy	+26tp
+18	Greg Bury	beat	Stephen Richards	+26tp
+19	Tim Murphy	beat	Don Close	+17
+20	Tom Knight	beat	Ken Edwards	+16
+End
+
+Event AUS South Australia v Western Australia
+Date 26-26.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	B Hooper G Howell	beat	J Hawker S Stevenson	+21
+2	M Reynolds H Collins	beat	M. Podnieks  W. Bonnar	+16
+3	Megan Reynolds	beat	Barbara Hooper	+11
+4	Gloria Howell	beat	Jannine Hawker	+12
+5	Marga Podnieks	beat	Helen Collins	+13
+6	Wilma Bonnar	beat	Sandra Stevenson	+6
+7	Jannine Hawker	beat	Barbara Hooper	+23
+8	Megan Reynolds	beat	Gloria Howell	+25
+9	Marga Podnieks	beat	Sandra Stevenson	+7
+10	Helen Collins	beat	Wilma Bonnar	+10
+11	A Sands J Newecombe	beat	D. McCormick & B. Dawson	+14
+12	G. Rowberry & D. Wise	beat	A Marshall J Capabianco	+26
+13	Dwayne McCormick	beat	Jeff Newcombe	+17
+14	Alan Sands	beat	Bryan Dawson	+26tp
+15	Greg Rowberry	beat	Jock Capobianco	+24
+16	Ross Marshall	beat	David Wise	+12
+17	Dwayne McCormick	beat	Alan Sands	+3
+18	Jeff Newcombe	beat	Bryan Dawson	+5
+19	Greg Rowberry	beat	Ross Marshall	+5
+20	David Wise	beat	Jock Capobianco	+19
+End
+
+Event AUS Victoria v Tasmania
+Date 26-26.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	T Devlin W Dickson	beat	S. Beattie & E. Roomes	+7
+2	J Wembridge J Evans	beat	C. Bamford & P. Hamilton	+15
+3	Tricia Devlin	beat	Claire Bamford	+13
+4	Sue Beattie	beat	Judith Wembridge	+6
+5	Wendy Dickson	beat	Elizabeth Brinsdon	+18
+6	Elaine Roomes	beat	Judy Evans	+22
+7	Sue Beattie	beat	Tricia Devlin	+8
+8	Judith Wembridge	beat	Claire Bamford	+25
+9	Wendy Dickson	beat	Elaine Roomes	+2
+10	Judy Evans	beat	Elizabeth Brinsdon	+5
+11	R. Fletcher K Beard	beat	R McAdam B Bye	+17
+12	S Forster G Fletcher	beat	B Beattie C Hyland	+11tp SF
+13	Robert Fletcher	beat	Bob Bye	+24tp
+14	Stephen Forster	beat	Rob McAdam	+25tp
+15	Kevin Beard	beat	Callum Hyland	+20tp
+16	Greg Fletcher	beat	Bob Beattie	+17
+17	Robert Fletcher	beat	Rob McAdam	+23
+18	Stephen Forster	beat	Bob Bye	+17tp
+19	Bob Beattie	beat	Kevin Beard	+17
+20	Greg Fletcher	beat	Callum Hyland	+9
+End
+
+Event AUS New South Wales v Victoria
+Date 27-27.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	T.Devlin & J. Wembridge	beat	R Graham A Sharpe	+17
+2	C Bassett R Stock	beat	J. Evan & W. Dickson	+5
+3	Rosemary Graham	beat	Judith Wembridge	+21
+4	Claire Bassett	beat	Tricia Devlin	+25
+5	Alison Sharpe	beat	Judy Evans	+25
+6	Wendy Dickson	beat	Robbie Stock	+14
+7	Peter Landrebe	beat	Tricia Devlin	+24
+8	Claire Bassett	beat	Judith Wembridge	+24
+9	Alison Sharpe	beat	Wendy Dickson	+25
+10	Robbie Stock	beat	Judy Evans	+12
+11	S. Forster & K. Beard	beat	P Landrebe T Murphy	+25TP F
+12	R. Fletcher & G. Fletcher	beat	S Richards K Edwards	+14
+13	Stephen Forster	beat	Peter Landrebe	+8TP
+14	Stephen Richards	beat	Robert Fletcher	+17
+15	Greg Fletcher	beat	Tim Murphy	+3
+16	Kevin Beard	beat	Jim Nicholls	+15
+17	Robert Fletcher	beat	Peter Landrebe	+4
+18	Stephen Richards	beat	Stephen Forster	+4
+19	Kevin Beard	beat	Tim Murphy	+5
+20	Greg Fletcher	beat	Ken Edwards	+16TP
+End
+
+Event AUS Queensland v South Australia
+Date 27-27.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	D Hardy W Silk	beat	J. Howell & W. Bonnar	+3
+2	M Melville C Tacey	beat	M. Pondieks & K. Chenoweth	+15
+3	Margaret Melville	beat	Marga Podnieks	+25
+4	Deidre Hardy	beat	Gloria Howell	+14
+5	Willi Silk	beat	Wilma Bonnar	+21
+6	Kay Chynoweth	beat	Cynthia Tacey	+12
+7	Gloria Howell	beat	Margaret Melville	+5
+8	Deidre Hardy	beat	Marga Podnieks	+20
+9	Kay Chynoweth	beat	Willi Silk	+14
+10	Cynthia Tacey	beat	Wilma Bonnar	+9
+11	B. Dawson &  N. Bonnar	beat	J Hardy D Close	+16
+12	G Bury T Knight	beat	G. Rowberry & D. Wise	+1
+13	John Hardy	beat	Greg Rowberry	+9
+14	Greg Bury	beat	Bryan Dawson	+2
+15	Don Close	beat	David Wise	+17
+16	Tom Knight	beat	Neil Bonnar	+21
+17	John Hardy	beat	Bryan Dawson	+5
+18	Greg Bury	beat	Greg Rowberry	+3
+19	Neil Bonnar	beat	Don Close	+15
+20	David Wise	beat	Tom Knight	+1
+End
+
+Event AUS Western Australia v Tasmania
+Date 27-27.3.11
+Class 2
+Type single
+Games 20
+Order firstname
+1	J Hawker S Stevenson	beat	C. Bamford & P. Hamilton	+13
+2	S. Beattie & E. Roomes	beat	M Reynolds H Collins	+6
+3	Jannine Hawker	beat	Claire Bamford	+24TP
+4	Sue Beattie	beat	Megan Reynolds	+4
+5	Sandra Stevenson	beat	Elaine Roomes	+4
+6	Helen Collins	beat	Pam Hamilton	+7
+7	Sue Beattie	beat	Jannine Hawker	+17
+8	Claire Bamford	beat	Megan Reynolds	+19
+9	Sandra Stevenson	beat	Pam Hamilton	+24
+10	Elaine Roomes	beat	Helen Collins	+9
+11	A Sands J Newecombe	beat	B Beattie Ian Smith	+18TP S
+12	R McAdam B Bye	beat	A Marshall J Capabianco	+17
+13	Alan Sands	beat	Bob Bye	+22
+14	Jeff Newcombe	beat	Rob McAdam	+8
+15	Ross Marshall	beat	Callum Hyland	+18
+16	Jock Capobianco	beat	Bob Beattie	+17
+17	Alan Sands	beat	Rob McAdam	+22
+18	Jeff Newcombe	beat	Bob Bye	+12
+19	Ross Marshall	beat	Bob Beattie	+15
+20	Jock Capobianco	beat	Callum Hyland	+6
+End
+

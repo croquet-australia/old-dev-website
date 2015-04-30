@@ -1,0 +1,156 @@
+Event AUS Block A
+Date 31.10-1.11.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Harley Watts	beat	Ray Nottage	+25
+2	Kevin Beard	beat	Creina Dawson	+25
+3	Liz Fleming	beat	Malcolm Fletcher	+22tp (BF)
+4	Kevin Beard	beat	Malcolm Fletcher	+17tp (KB)
+5	Harley Watts	beat	Marga Podnieks	+26tp (HW)
+6	Liz Fleming	beat	Creina Dawson	+15
+7	Kevin Beard	beat	Ray Nottage	+23
+8	Liz Fleming	beat	Marga Podnieks	+19tp (BF)
+9	Harley Watts	beat	Malcolm Fletcher	+26th (HW)
+10	Liz Fleming	beat	Ray Nottage	+25
+11	Harley Watts	beat	Creina Dawson	+26
+12	Kevin Beard	beat	Marga Podnieks	+19
+13	Harley Watts	beat	Kevin Beard	+12tpo (ID)
+14	Creina Dawson	beat	Ray Nottage	+17
+15	Marga Podnieks	beat	Malcolm Fletcher	+5
+16	Marga Podnieks	beat	Creina Dawson	+8
+17	Harley Watts	beat	Liz Fleming	+26tp (HW)
+18	Malcolm Fletcher	beat	Ray Nottage	+14
+19	Kevin Beard	beat	Liz Fleming	+23
+20	Creina Dawson	beat	Malcolm Fletcher	+15
+21	Marga Podnieks	beat	Ray Nottage	+9
+End
+
+Event AUS Block B
+Date 31.10-1.11.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Ken Bald	beat	Greg Rowberry	+16
+2	Peter Landrebe	beat	Gavin Bow	+16
+3	Adrian Palmer	beat	Dick Smith	+5
+4	Ken Bald	beat	Dick Smith	+26
+5	Greg Rowberry	beat	Adrian Palmer	+8
+6	Graham Whiteway	beat	Peter Landrebe	+6
+7	Ken Bald	beat	Graham Whiteway	+20
+8	Adrian Palmer	beat	Gavin Bow	+18
+9	Greg Rowberry	beat	Peter Landrebe	+3
+10	Adrian Palmer	beat	Graham Whiteway	+20
+11	Peter Landrebe	beat	Dick Smith	+10tp (TB)
+12	Ken Bald	beat	Gavin Bow	+7
+13	Peter Landrebe	beat	Adrian Palmer	+6
+14	Greg Rowberry	beat	Graham Whiteway	+2
+15	Dick Smith	beat	Gavin Bow	+6
+16	Greg Rowberry	beat	Gavin Bow	+21
+17	Dick Smith	beat	Graham Whiteway	+1
+18	Peter Landrebe	beat	Ken Bald	+1
+19	Ken Bald	beat	Adrian Palmer	+16
+20	Greg Rowberry	beat	Dick Smith	+8
+21	Graham Whiteway	beat	Gavin Bow	+3
+End
+
+Event AUS Block C
+Date 31.10-1.11.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Albert Rutten	beat	Gil Schupelius	+16
+2	Ian Bassett	beat	Claire Bassett	+5
+3	Paddy Chapman	beat	Ross Preston	+11
+4	Gil Schupelius	beat	Ian Bassett	+9
+5	Paddy Chapman	beat	Ken Edwards	+2
+6	Albert Rutten	beat	Claire Bassett	+1
+7	Gil Schupelius	beat	Ross Preston	+21
+8	Paddy Chapman	beat	Ian Bassett	+18
+9	Ken Edwards	beat	Claire Bassett	+1
+10	Paddy Chapman	beat	Albert Rutten	+3tpo (PC)
+11	Gil Schupelius	beat	Ken Edwards	+15
+12	Claire Bassett	beat	Ross Preston	+16
+13	Paddy Chapman	beat	Gil Schupelius	+26
+14	Albert Rutten	beat	Ross Preston	+6
+15	Ken Edwards	beat	Ian Bassett	+6
+16	Paddy Chapman	beat	Claire Bassett	+26
+17	Ken Edwards	beat	Albert Rutten	+5
+18	Ian Bassett	beat	Ross Preston	+9
+19	Claire Bassett	beat	Gil Schupelius	+14
+20	Albert Rutten	beat	Ian Bassett	+9
+21	Ross Preston	beat	Ken Edwards	+6
+End
+
+Event AUS Block D
+Date 31.10-1.11.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Martin Clarke	beat	Margaret Strickland	+19
+2	Tony Hall	beat	Chris Prater	+4
+3	Tim Murphy	beat	Wayne Davies	+4tpo (RF)
+4	Chris Prater	beat	Wayne Davies	+9
+5	Martin Clarke	beat	Geoff Kingdon	+16
+6	Tony Hall	beat	Tim Murphy	+20tp (AH)
+7	Chris Prater	beat	Margaret Strickland	+25
+8	Geoff Kingdon	beat	Tim Murphy	+14
+9	Martin Clarke	beat	Wayne Davies	+1
+10	Tim Murphy	beat	Margaret Strickland	+26tp (RF)
+11	Tony Hall	beat	Martin Clarke	+16
+12	Chris Prater	beat	Geoff Kingdon	+1
+13	Martin Clarke	beat	Chris Prater	+17tp (SF)
+14	Tony Hall	beat	Margaret Strickland	+26tp (TH)
+15	Wayne Davies	beat	Geoff Kingdon	+15
+16	Tony Hall	beat	Geoff Kingdon	+19tp (AH)
+17	Martin Clarke	beat	Tim Murphy	+20
+18	Wayne Davies	beat	Margaret Strickland	+6
+19	Wayne Davies	beat	Tony Hall	+6
+20	Geoff Kingdon	beat	Margaret Strickland	+18
+21	Tim Murphy	beat	Chris Prater	+13
+End
+
+Event AUS Knockout
+Date 1-2.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Harley Watts	beat	Tony Hall	-19tp (AH), +19, +24tp (ID)
+2	Paddy Chapman	beat	Ken Bald	+21, +4
+3	Paddy Chapman	beat	Harley Watts	+24tp, -9, +26
+End
+
+Event AUS 5th to 8th Knockout
+Date 1-2.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Kevin Beard	beat	Martin Clarke	-10, +15, +4tp (AS)
+2	Greg Rowberry	beat	Albert Rutten	-18, +5, +16
+3	Greg Rowberry	beat	Kevin Beard	+14
+End
+
+Event AUS 3rd & 4th Playoff
+Date 2-2.11.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	Tony Hall	beat	Ken Bald	-2, +26, +26
+End
+
+Event AUS 7th & 8th Playoff
+Date 2-2.11.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	Martin Clarke	beat	Albert Rutten	+13
+End
+

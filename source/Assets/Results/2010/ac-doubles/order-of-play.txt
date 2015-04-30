@@ -1,0 +1,82 @@
+Event AUS Block A
+Date 20-21.11.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	K Beard & W Dickson	beat	A Sharpe & S Jones	+1
+2	R Fletcher & G Fletcher	beat	R Irlam & E Irlam	+26TP(RF)
+3	K Edwards & J Levick	beat	D Wise & G Kingdon	+23
+4	J Clarke & T Bassett	beat	J Nicholls & B Ladyman	+14
+5	K Beard & W Dickson	beat	D Wise & G Kingdon	+10
+6	R Fletcher & G Fletcher	beat	J Nicholls & B Ladyman	+26TP(RF)
+7	J Clarke & T Bassett	beat	R Irlam & E Irlam	+25
+8	A Sharpe & S Jones	beat	K Edwards & J Levick	+7TP(SJ)
+9	J Clarke & T Bassett	beat	A Sharpe & S Jones	+3
+10	K Beard & W Dickson	beat	R Irlam & E Irlam	+25
+11	K Edwards & J Levick	beat	J Nicholls & B Ladyman	+19
+12	R Fletcher & G Fletcher	beat	D Wise & G Kingdon	+26TP(RF)
+13	K Edwards & J Levick	beat	R Irlam & E Irlam	+21
+14	J Clarke & T Bassett	beat	D Wise & G Kingdon	+26TP(TB)
+15	J Nicholls & B Ladyman	beat	K Beard & W Dickson	+12
+16	R Fletcher & G Fletcher	beat	A Sharpe & S Jones	+10QPO(RF)
+17	R Fletcher & G Fletcher	beat	K Beard & W Dickson	+1
+18	A Sharpe & S Jones	beat	R Irlam & E Irlam	+22
+19	D Wise & G Kingdon	beat	J Nicholls & B Ladyman	+6
+20	J Clarke & T Bassett	beat	K Edwards & J Levick	+10TPO(JC)
+21	A Sharpe & S Jones	beat	J Nicholls & B Ladyman	+26
+22	R Fletcher & G Fletcher	beat	K Edwards & J Levick	+26TP(RF)
+23	J Clarke & T Bassett	beat	K Beard & W Dickson	+17TP(TB)
+24	D Wise & G Kingdon	beat	R Irlam & E Irlam	+26
+25	R Fletcher & G Fletcher	beat	J Clarke & T Bassett	+5
+26	K Beard & W Dickson	beat	K Edwards & J Levick	+9
+27	A Sharpe & S Jones	beat	D Wise & G Kingdon	+6
+28	J Nicholls & B Ladyman	beat	R Irlam & E Irlam	+6
+End
+
+Event AUS Block B
+Date 20-21.11.10
+Class 2
+Type single
+Games 28
+Order firstname
+1	K Bald & M Fletcher	beat	A Quinn & R Newsham	+25
+2	A Rutten & C Morgan	beat	D Bulloch & T Hall	+24
+3	T Devlin & J Wembridge	beat	T Murphy & C Bassett	+18
+4	B Fleming & L Fleming	beat	M Prins & G Bushill	+17
+5	T Devlin & J Wembridge	beat	D Bulloch & T Hall	+17
+6	K Bald & M Fletcher	beat	M Prins & G Bushill	+13
+7	B Fleming & L Fleming	beat	A Quinn & R Newsham	+18
+8	A Rutten & C Morgan	beat	T Murphy & C Bassett	+14
+9	B Fleming & L Fleming	beat	A Rutten & C Morgan	+5
+10	D Bulloch & T Hall	beat	A Quinn & R Newsham	+17TP(DB)
+11	T Murphy & C Bassett	beat	M Prins & G Bushill	+11
+12	T Devlin & J Wembridge	beat	K Bald & M Fletcher	+11
+13	T Murphy & C Bassett	beat	A Quinn & R Newsham	+17(TP)TM
+14	K Bald & M Fletcher	beat	A Rutten & C Morgan	+12
+15	D Bulloch & T Hall	beat	M Prins & G Bushill	+22TP(TH)
+16	B Fleming & L Fleming	beat	T Devlin & J Wembridge	+10
+17	K Bald & M Fletcher	beat	D Bulloch & T Hall	+14
+18	A Rutten & C Morgan	beat	A Quinn & R Newsham	+23
+19	M Prins & G Bushill	beat	T Devlin & J Wembridge	+2
+20	T Murphy & C Bassett	beat	B Fleming & L Fleming	+6
+21	A Rutten & C Morgan	beat	M Prins & G Bushill	+18
+22	K Bald & M Fletcher	beat	T Murphy & C Bassett	+1
+23	B Fleming & L Fleming	beat	D Bulloch & T Hall	+15
+24	T Devlin & J Wembridge	beat	A Quinn & R Newsham	+8
+25	D Bulloch & T Hall	beat	T Murphy & C Bassett	+6
+26	K Bald & M Fletcher	beat	B Fleming & L Fleming	+15
+27	M Prins & G Bushill	beat	A Quinn & R Newsham	+8
+28	T Devlin & J Wembridge	beat	A Rutten & C Morgan	+11
+End
+
+Event AUS Finals
+Date 21-22.11.10
+Class 2
+Type match
+Games 2
+Order firstname
+1		beat		+22QP(RF), +21TP(RF)
+2		beat		+12, +26TP(KP)
+End
+

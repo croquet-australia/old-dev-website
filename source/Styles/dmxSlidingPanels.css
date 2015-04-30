@@ -1,0 +1,250 @@
+﻿/* Sliding Panels Default Stylesheet */
+
+.dmxSlidingPanels {
+	overflow: hidden;
+}
+
+.dmxSlidingPanelsHeader {
+	zoom: 1; /* IE Fix */
+	overflow: hidden;
+}
+
+.dmxSlidingPanelsHeader:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.dmxSlidingPanelsView {
+	min-height: 500px;
+	overflow: hidden;
+}
+
+.dmxSlidingPanelsFooter {
+	zoom: 1; /* IE Fix */
+	overflow: hidden;
+}
+
+.dmxSlidingPanelsFooter:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.dmxSlidingPanelsPage {
+	background-color: #fff;
+	overflow: hidden;
+	padding: 10px;
+}
+
+.dmxSlidingPanelsScrollbar {
+	background-color: #ccc;
+    -webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	opacity: 0.9;
+}
+
+.dmxSlidingPanelsTitle {
+	text-align: center;
+}
+
+.dmxSlidingPanelsPrev {
+	float: left;
+}
+
+.dmxSlidingPanelsPrev a {
+}
+
+.dmxSlidingPanelsPrev a.disabled {
+	visibility: hidden;
+}
+
+.dmxSlidingPanelsNext {
+	float: right;
+}
+
+.dmxSlidingPanelsNext a {
+}
+
+.dmxSlidingPanelsNext a.disabled {
+	visibility: hidden;
+}
+
+.dmxSlidingPanelsNav {
+	zoom: 1; /* IE Fix */
+	overflow: hidden;
+	clear: both;
+}
+
+.dmxSlidingPanelsNav:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.dmxSlidingPanelsNav ul {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.dmxSlidingPanelsNav li {
+	display: block;
+	float: left;
+	list-style: none;
+}
+
+.dmxSlidingPanelsNav a {
+	display: block;
+	padding: 5px;
+	white-space: nowrap;
+}
+
+.dmxSlidingPanelsNav a.selected {
+
+}
+
+.dmxSlidingPanelsStatus {
+	text-align: center;
+}
+
+.dmxSlidingPanelsCurrentPage {
+
+}
+
+.dmxSlidingPanelsTotalPages {
+
+}
+
+/*
+
+.dmxSlidingPanels {
+    position: absolute;
+    width: 500px;
+}
+
+.dmxSlidingPanelsHeader {
+    background: #124601 url(http://www.dmxzone.com/demo/php/slidingBilboard1/Styles/dmxSlidingBillboard/dark_green/header.png) repeat-x;
+    position: relative;
+    overflow: auto;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    -moz-border-radius-topLeft: 10px;
+    -moz-border-radius-topRight: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+}
+
+.dmxSlidingPanelsHeader h3 {
+    text-align: center;
+    margin: 0;
+    font-size: 16px;
+    color: #fff;
+    text-shadow: 0 -1px 0 #000;
+}
+
+.dmxSlidingPanelsNav {
+	display: block;
+    padding: 0;
+    margin: 5px;
+    z-index: 1;
+    background: #000 url(http://www.dmxzone.com/demo/php/slidingBilboard1/Styles/dmxSlidingBillboard/dark_green/button.png);
+    border: 1px solid #000;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    height: 25px;
+    float: left;
+	list-style: none;
+}
+
+.dmxSlidingPanelsNav li {
+    display: block;
+    float: left;
+	white-space: nowrap;
+}
+
+.dmxSlidingPanelsNav li a {
+    display: block;
+    color: #fff;
+	white-space: nowrap;
+    padding: 0 5px;
+    line-height: 24px;
+    border-right: 1px solid #000;
+    text-shadow: 0 -1px 0 #000;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    outline: none;
+}
+
+.dmxSlidingPanelsNav li a.selected {
+    text-shadow: 0 0 5px #fff;
+}
+
+.dmxSlidingPanelsView {
+	width: 498px;
+    height: 400px;
+	overflow: hidden;
+    background-color: #333;
+    padding: 0px;
+    border: 1px solid #000;
+}
+
+.dmxSlidingPanelsView > div {
+	background: #fff;
+	padding: 10px;
+}
+
+.dmxSlidingPanelsScrollbar {
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    opacity: .8;
+    background-color: #363 !important;
+}
+
+.dmxSlidingPanelsPage {
+	background: #fff;
+	padding: 10px;
+}
+
+.dmxSlidingPanelsFooter {
+    background: #000 url(http://www.dmxzone.com/demo/php/slidingBilboard1/Styles/dmxSlidingBillboard/dark_green/footer.png) repeat-x;
+    overflow: auto;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    -moz-border-radius-bottomLeft: 10px;
+    -moz-border-radius-bottomRight: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    min-height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0 1px #ccc;
+    color: #fff;
+}
+
+.dmxSlidingPanelsNav2 {
+    float: right;
+    margin-right: 5px;
+}
+
+.dmxSlidingPanelsNav2 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.dmxSlidingPanelsNav2 a.disabled {
+    visibility: hidden;
+}
+*/

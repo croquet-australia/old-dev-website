@@ -1,0 +1,279 @@
+Event AUS Block A
+Date 8-10.11.11
+Class 2
+Type single
+Games 36
+Order firstname
+1	Trevor  Bassett	beat	Robin Shenton	+26TP
+2	Dwayne  McCormack	beat	Michael Bertram	+3
+3	Alan  Walsh	beat	Gareth  Bushill	+26TP
+4	Tony  Chew	beat	Marion  McInnes	+12
+5	Robert Fletcher	beat	Robin Shenton	+17
+6	Trevor  Bassett	beat	Michael Bertram	+21TP
+7	Dwayne  McCormack	beat	Gareth  Bushill	+10
+8	Tony  Chew	beat	Alan  Walsh	+21
+9	Robert Fletcher	beat	Michael Bertram	+26TP
+10	Trevor  Bassett	beat	Gareth  Bushill	+26TP
+11	Dwayne  McCormack	beat	Tony  Chew	+2
+12	Alan  Walsh	beat	Marion  McInnes	+3
+13	Robert Fletcher	beat	Gareth  Bushill	+23TP
+14	Trevor  Bassett	beat	Tony  Chew	+26TP
+15	Michael Bertram	beat	Robin Shenton	+19
+16	Dwayne  McCormack	beat	Marion  McInnes	+16
+17	Robert Fletcher	beat	Tony  Chew	+26TP
+18	Trevor  Bassett	beat	Marion  McInnes	+26TP
+19	Alan  Walsh	beat	Robin Shenton	+12
+20	Michael Bertram	beat	Gareth  Bushill	+7
+21	Robert Fletcher	beat	Marion  McInnes	+16TP
+22	Alan  Walsh	beat	Michael Bertram	+23
+23	Robin Shenton	beat	Dwayne  McCormack	+1
+24	Tony  Chew	beat	Gareth  Bushill	+10
+25	Robert Fletcher	beat	Alan  Walsh	+25TP
+26	Trevor  Bassett	beat	Dwayne  McCormack	+6
+27	Marion  McInnes	beat	Robin Shenton	+15
+28	Tony  Chew	beat	Michael Bertram	+1
+29	Trevor  Bassett	beat	Alan  Walsh	+26TP
+30	Dwayne  McCormack	beat	Robert Fletcher	+1
+31	Marion  McInnes	beat	Gareth  Bushill	+8
+32	Tony  Chew	beat	Robin Shenton	+5
+33	Robert Fletcher	beat	Trevor  Bassett	+21
+34	Gareth  Bushill	beat	Robin Shenton	+6
+35	Dwayne  McCormack	beat	Alan  Walsh	+1
+36	Michael Bertram	beat	Marion  McInnes	+2
+End
+
+Event AUS Block B
+Date 8-10.11.11
+Class 2
+Type single
+Games 36
+Order firstname
+1	Malcolm Fletcher	beat	Basil Ladyman	+17
+2	Greg Rowberry	beat	Judy Evans	+25
+3	Charlotte Morgan	beat	John McInnes	+25
+4	Alan Honey	beat	Mike Hughes	+5
+5	Ken  Bald	beat	Basil Ladyman	+26
+6	Malcolm Fletcher	beat	Judy Evans	+20
+7	Greg Rowberry	beat	John McInnes	+25
+8	Charlotte Morgan	beat	Alan Honey	+17TP
+9	Ken  Bald	beat	Judy Evans	+22TP
+10	Malcolm Fletcher	beat	John McInnes	+21TP
+11	Greg Rowberry	beat	Alan Honey	+14
+12	Charlotte Morgan	beat	Mike Hughes	+26
+13	Ken  Bald	beat	John McInnes	+26QP
+14	Malcolm Fletcher	beat	Alan Honey	+25
+15	Greg Rowberry	beat	Mike Hughes	+6
+16	Basil Ladyman	beat	Judy Evans	+1
+17	Ken  Bald	beat	Alan Honey	+1
+18	Judy Evans	beat	John McInnes	+8
+19	Charlotte Morgan	beat	Basil Ladyman	+9
+20	Greg Rowberry	beat	Basil Ladyman	+15
+21	Alan Honey	beat	John McInnes	+11
+22	Malcolm Fletcher	beat	Mike Hughes	+2
+23	Ken  Bald	beat	Mike Hughes	+26
+24	Charlotte Morgan	beat	Judy Evans	+8
+25	Malcolm Fletcher	beat	Greg Rowberry	+6
+26	Alan Honey	beat	Judy Evans	+15
+27	Ken  Bald	beat	Charlotte Morgan	+17
+28	Basil Ladyman	beat	Mike Hughes	+7
+29	Ken  Bald	beat	Greg Rowberry	+25
+30	Malcolm Fletcher	beat	Charlotte Morgan	+1
+31	Mike Hughes	beat	Judy Evans	+24
+32	Basil Ladyman	beat	John McInnes	+12
+33	Malcolm Fletcher	beat	Ken  Bald	+6TP
+34	Alan Honey	beat	Basil Ladyman	+25
+35	Charlotte Morgan	beat	Greg Rowberry	+3
+36	Mike Hughes	beat	John McInnes	+16
+End
+
+Event AUS Block C
+Date 8-10.11.11
+Class 2
+Type single
+Games 28
+Order firstname
+1	Jenny Clarke	beat	Snow Evans	+26TP
+2	Ken Edwards	beat	Rob McAdam	+19
+3	Ian Bassett	beat	Greg Diprose	+13
+4	Bruce Fleming	beat	Liz Bassett	+26TP
+5	Ken Edwards	beat	Greg Diprose	+23
+6	Jenny Clarke	beat	Liz Bassett	+17TP
+7	Bruce Fleming	beat	Snow Evans	+25TP
+8	Ian Bassett	beat	Rob McAdam	+10
+9	Bruce Fleming	beat	Rob McAdam	+26TP
+10	Ken Edwards	beat	Snow Evans	+24
+11	Ian Bassett	beat	Liz Bassett	+25TP
+12	Jenny Clarke	beat	Greg Diprose	+25
+13	Ian Bassett	beat	Snow Evans	+24
+14	Jenny Clarke	beat	Rob McAdam	+13
+15	Ken Edwards	beat	Liz Bassett	+19
+16	Bruce Fleming	beat	Greg Diprose	+13
+17	Jenny Clarke	beat	Ken Edwards	+24TP
+18	Bruce Fleming	beat	Ian Bassett	+22TP
+19	Rob McAdam	beat	Snow Evans	+10
+20	Greg Diprose	beat	Liz Bassett	+2
+21	Jenny Clarke	beat	Ian Bassett	+17
+22	Ken Edwards	beat	Bruce Fleming	+15
+23	Rob McAdam	beat	Liz Bassett	+1
+24	Snow Evans	beat	Greg Diprose	+7
+25	Jenny Clarke	beat	Bruce Fleming	+16TP
+26	Greg Diprose	beat	Rob McAdam	+20
+27	Snow Evans	beat	Liz Bassett	+25
+28	Ian Bassett	beat	Ken Edwards	+2
+End
+
+Event AUS Block D
+Date 8-10.11.11
+Class 2
+Type single
+Games 21
+Order firstname
+1	Greg Fletcher	beat	Stephen Howes	+21
+2	David Wise	beat	Liz  Fleming	+26
+3	Tim Murphy	beat	Martyn Prins	+4
+4	Kevin Beard	beat	Stephen Howes	+19
+5	Tim Murphy	beat	Liz  Fleming	+25
+6	David Wise	beat	Martyn Prins	+17
+7	Kevin Beard	beat	Liz  Fleming	+7
+8	David Wise	beat	Stephen Howes	+1
+9	Greg Fletcher	beat	Martyn Prins	+19
+10	Tim Murphy	beat	Stephen Howes	+26TP
+11	Kevin Beard	beat	Martyn Prins	+26TP
+12	Greg Fletcher	beat	Liz  Fleming	+3
+13	Greg Fletcher	beat	David Wise	+12
+14	Liz  Fleming	beat	Stephen Howes	+16
+15	Kevin Beard	beat	Tim Murphy	+13TPO
+16	Greg Fletcher	beat	Tim Murphy	+17TP
+17	Martyn Prins	beat	Stephen Howes	+14
+18	Kevin Beard	beat	David Wise	+16
+19	Kevin Beard	beat	Greg Fletcher	+11
+20	Martyn Prins	beat	Liz  Fleming	+6
+21	Tim Murphy	beat	David Wise	+1
+End
+
+Event AUS Knockout
+Date 10-13.11.11
+Class 2
+Type match
+Games 15
+Order firstname
+1	Robert Fletcher	beat	Tony  Chew	+11TPO, +10TPO
+2	Trevor  Bassett	beat	Ken Edwards	-11OTP, +21, +26TP
+3	Greg Fletcher	beat	Dwayne  McCormack	-17TP, +24TP, +18
+4	Malcolm Fletcher	beat	David Wise	+21, +14
+5	Kevin Beard	beat	Ian Bassett	+26TP, +23
+6	Tim Murphy	beat	Ken  Bald	+17TP, +26
+7	Bruce Fleming	beat	Charlotte Morgan	+14, +19
+8	Jenny Clarke	beat	Greg Rowberry	+11TP, +24
+9	Robert Fletcher	beat	Trevor  Bassett	+16TP, +25TP, -17TP, +25TP
+10	Malcolm Fletcher	beat	Greg Fletcher	+5TP, +26TP, -16, +26TP
+11	Kevin Beard	beat	Tim Murphy	-1TPO, +9, +25TP, +26
+12	Jenny Clarke	beat	Bruce Fleming	+22TP, +4, +26TP
+13	Robert Fletcher	beat	Malcolm Fletcher	+26TP, +25TP, -26TP, -6OTP, +17TP
+14	Jenny Clarke	beat	Kevin Beard	+8, +10TPO, -17TP, +5
+15	Robert Fletcher	beat	Jenny Clarke	+2TP, -26TP, +26TP, +8TPO
+End
+
+Event AUS Plate
+Date 10-13.11.11
+Class 2
+Type single
+Games 26
+Order firstname
+1	Marion  McInnes	beat	Judy Evans	+8
+2	Rob McAdam	beat	Stephen Howes	+24
+3	Michael Bertram	beat	Liz Bassett	+16
+4	John McInnes	beat	Robin Shenton	+19
+5	Adrian Palmer	beat	Gareth  Bushill	+12
+6	Adrian Palmer	beat	Judy Evans	+26TP
+7	Stephen Howes	beat	Liz Bassett	+18
+8	Robin Shenton	beat	Gareth  Bushill	+6
+9	Marion  McInnes	beat	Rob McAdam	+2
+10	John McInnes	beat	Michael Bertram	+1
+11	Adrian Palmer	beat	Stephen Howes	+4
+12	Michael Bertram	beat	Judy Evans	+11
+13	Gareth  Bushill	beat	Liz Bassett	+5
+14	Marion  McInnes	beat	John McInnes	+17
+15	Marion  McInnes	beat	Adrian Palmer	+3
+16	Rob McAdam	beat	Judy Evans	+1
+17	Michael Bertram	beat	Robin Shenton	+18
+18	John McInnes	beat	Stephen Howes	+1
+19	Greg Diprose	beat	Gareth  Bushill	+19
+20	Marion  McInnes	beat	Michael Bertram	+8
+21	Rob McAdam	beat	Adrian Palmer	+10
+22	Stephen Howes	beat	Robin Shenton	+14
+23	John McInnes	beat	Judy Evans	+6
+24	Rob McAdam	beat	John McInnes	+26
+25	Stephen Howes	beat	Judy Evans	+14
+26	Adrian Palmer	beat	Michael Bertram	+16
+End
+
+Event AUS W Knockout
+Date 10-13.11.11
+Class 2
+Type match
+Games 15
+Order firstname
+1	Alan  Walsh	beat	John McInnes	+17TP, +25TP
+2	Liz  Fleming	beat	Marion  McInnes	+14, +21
+3	Mike Hughes	beat	Rob McAdam	+13, +19
+4	Greg Diprose	beat	Robin Shenton	+1, +8
+5	Alan Honey	beat	Gareth  Bushill	-3, +16, +18
+6	Snow Evans	beat	Michael Bertram	+21, +18
+7	Basil Ladyman	beat	Stephen Howes	+12, +4
+8	Martyn Prins	beat	Judy Evans	+26, +25
+9	Alan  Walsh	beat	Liz  Fleming	+24, +26
+10	Mike Hughes	beat	Greg Diprose	-1, +24, +26
+11	Alan Honey	beat	Snow Evans	+20, +14
+12	Martyn Prins	beat	Basil Ladyman	+5, +13
+13	Alan  Walsh	beat	Mike Hughes	-8, +2, +1
+14	Martyn Prins	beat	Alan Honey	-23, +18, +25
+15	Alan  Walsh	beat	Martyn Prins	+17, -26, +5
+End
+
+Event AUS 13TH - 16TH
+Date 11-13.11.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	David Wise	beat	Ken  Bald	+3
+2	Charlotte Morgan	beat	Greg Rowberry	+25
+3	David Wise	beat	Charlotte Morgan	-11, +1, +26
+End
+
+Event AUS Y Knockout
+Date 11-13.11.11
+Class 2
+Type match
+Games 7
+Order firstname
+1	Tony  Chew	beat	Greg Rowberry	+9, +25
+2	Ken Edwards	beat	Charlotte Morgan	+15, -25, +17
+3	Dwayne  McCormack	beat	Ken  Bald	-26TP, +26, +24
+4	Ian Bassett	beat	David Wise	+1, +26
+5	Tony  Chew	beat	Ken Edwards	-6, +8, +26TP
+6	Ian Bassett	beat	Dwayne  McCormack	-17, +2, +3
+7	Ian Bassett	beat	Tony  Chew	+1, +9
+End
+
+Event AUS Z Knockout
+Date 12-13.11.11
+Class 2
+Type match
+Games 3
+Order firstname
+1	Trevor  Bassett	beat	Bruce Fleming	+15TP, -5, +8
+2	Greg Fletcher	beat	Tim Murphy	+5, -5, +17TP
+3	Greg Fletcher	beat	Trevor  Bassett	+16, +13TP
+End
+
+Event AUS 3RD - 4TH
+Date 13-13.11.11
+Class 2
+Type match
+Games 1
+Order firstname
+1	Malcolm Fletcher	beat	Kevin Beard	+3, +23TP
+End
+

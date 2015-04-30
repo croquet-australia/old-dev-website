@@ -1,0 +1,137 @@
+/* Sliding Panels iPad Stylesheet */
+
+.dmxSlidingPanels.ipad {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #000;
+    -webkit-text-size-adjust: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -moz-box-shadow: 0 0 3px #555;
+}
+
+.ipad .dmxSlidingPanelsHeader {
+    position: relative;
+    min-height: 44px;
+    background: url('header.png') top repeat-x;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ipad .dmxSlidingPanelsFooter {
+    position: relative;
+    min-height: 44px;
+    background-color: #d5d8de;
+    -webkit-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.ipad .dmxSlidingPanelsView {
+    background-color: #d5d8de;
+}
+
+.ipad .dmxSlidingPanelsScrollbar {
+    background-color: #999;
+}
+
+.ipad .dmxSlidingPanelsTitle {
+    line-height: 44px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #717880;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.6), 0 1px 0 rgba(255,255,255,0.6);
+    text-overflow: ellipsis;
+}
+
+.ipad .dmxSlidingPanelsStatus {
+    line-height: 44px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #717880;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+    text-overflow: ellipsis;
+}
+
+.ipad .dmxSlidingPanelsNav {
+    height: 44px;
+    background: #000 url('nav.png') top repeat-x;
+    text-align: center;
+}
+
+.ipad .dmxSlidingPanelsNav ul {
+    float: none;
+	position: relative;
+	white-space: nowrap;
+	overflow: hidden;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+.ipad .dmxSlidingPanelsNav li {
+    float: none;
+    display: inline;
+    zoom: 1;
+	-webkit-transform: translate3d(0,0,0);
+}
+
+.ipad .dmxSlidingPanelsNav a {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    padding: 0 15px;
+    margin: 7px 0 0 10px;
+    background-image: url('button.png');
+    line-height: 27px;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.6);
+    color: #fff;
+    border: 1px solid #000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.ipad .dmxSlidingPanelsNav a.selected {
+    background-image: url('button_sel.png');
+}
+
+.ipad .dmxSlidingPanelsPrev,
+.ipad .dmxSlidingPanelsNext {
+    height: 43px;
+}
+
+.ipad .dmxSlidingPanelsPrev a,
+.ipad .dmxSlidingPanelsNext a {
+    display: block;
+    width: 60px;
+    height: 31px;
+    margin: 6px;
+    line-height: 31px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.6);
+    text-decoration: none;
+    outline: none;
+}
+
+.ipad .dmxSlidingPanelsPrev a {
+    padding-left: 5px;
+    background-image: url('prev.png');
+}
+
+.ipad .dmxSlidingPanelsNext a {
+    padding-right: 5px;
+    background-image: url('next.png');
+}

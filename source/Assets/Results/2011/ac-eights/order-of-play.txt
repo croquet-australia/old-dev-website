@@ -1,0 +1,256 @@
+Event AUS First Eight (Eddie Hunt Trophy)
+Date 23-26.9.11
+Class 2
+Type single
+Games 56
+Order firstname
+1	Robert fletcher	beat	Stephen Forster	+4
+2	Peter Landrebe	beat	Stephen Richards	+8
+3	Ken  Bald	beat	Malcolm Fletcher	+14
+4	Greg Fletcher	beat	Kevin Beard	+4
+5	Ken  Bald	beat	Greg Fletcher	+17
+6	Stephen Forster	beat	Peter Landrebe	+10TPO
+7	Robert fletcher	beat	Stephen Richards	+26TP
+8	Kevin Beard	beat	Malcolm Fletcher	+3TP
+9	Stephen Richards	beat	Ken  Bald	+26TP
+10	Peter Landrebe	beat	Greg Fletcher	+26
+11	Robert fletcher	beat	Malcolm Fletcher	+12TP
+12	Stephen Forster	beat	Kevin Beard	+21TP
+13	Kevin Beard	beat	Ken  Bald	+17TP
+14	Robert fletcher	beat	Peter Landrebe	+26TP
+15	Malcolm Fletcher	beat	Greg Fletcher	+4
+16	Stephen Forster	beat	Stephen Richards	+7
+17	Ken  Bald	beat	Stephen Forster	+4TP
+18	Robert fletcher	beat	Greg Fletcher	+13TPO
+19	Peter Landrebe	beat	Malcolm Fletcher	+13
+20	Kevin Beard	beat	Stephen Richards	+4
+21	Robert fletcher	beat	Kevin Beard	+8
+22	Stephen Forster	beat	Malcolm Fletcher	+22TP
+23	Greg Fletcher	beat	Stephen Richards	+15
+24	Ken  Bald	beat	Peter Landrebe	+18
+25	Greg Fletcher	beat	Stephen Forster	+26
+26	Stephen Richards	beat	Malcolm Fletcher	+16
+27	Kevin Beard	beat	Peter Landrebe	+16
+28	Robert fletcher	beat	Ken  Bald	+17TP
+29	Robert fletcher	beat	Stephen Forster	+7TPO
+30	Peter Landrebe	beat	Stephen Richards	+26TP
+31	Ken  Bald	beat	Malcolm Fletcher	+22TP
+32	Kevin Beard	beat	Greg Fletcher	+26TP
+33	Ken  Bald	beat	Greg Fletcher	+7
+34	Peter Landrebe	beat	Stephen Forster	+4
+35	Robert fletcher	beat	Stephen Richards	+4
+36	Kevin Beard	beat	Malcolm Fletcher	+14
+37	Greg Fletcher	beat	Peter Landrebe	+20
+38	Robert fletcher	beat	Malcolm Fletcher	+22TP
+39	Stephen Richards	beat	Ken  Bald	+14
+40	Stephen Forster	beat	Kevin Beard	+5
+41	Greg Fletcher	beat	Malcolm Fletcher	+4
+42	Stephen Forster	beat	Stephen Richards	+12TPO
+43	Ken  Bald	beat	Kevin Beard	+1
+44	Robert fletcher	beat	Peter Landrebe	+17
+45	Ken  Bald	beat	Stephen Forster	+1
+46	Robert fletcher	beat	Greg Fletcher	+24TP
+47	Malcolm Fletcher	beat	Peter Landrebe	+3
+48	Stephen Richards	beat	Kevin Beard	+10
+49	Robert fletcher	beat	Kevin Beard	+26TP
+50	Stephen Forster	beat	Malcolm Fletcher	+5
+51	Peter Landrebe	beat	Ken  Bald	+17
+52	Greg Fletcher	beat	Stephen Richards	+11
+53	Peter Landrebe	beat	Kevin Beard	+26TP
+54	Robert fletcher	beat	Ken  Bald	+26TP
+55	Greg Fletcher	beat	Stephen Forster	+14
+56	Stephen Richards	beat	Malcolm Fletcher	+12
+End
+
+Event AUS Second Eight (Tom Howat Cup)
+Date 23-26.9.11
+Class 2
+Type single
+Games 56
+Order firstname
+1	Trevor Bassett	beat	Ian Bassett	+9TPO
+2	Dwayne McCormick	beat	Bruce Fleming	+7
+3	Jim Nicholls	beat	Greg Rowberry	+16
+4	Terry Ericson	beat	Tricia Devlin	+9
+5	Terry Ericson	beat	Greg Rowberry	+17
+6	Bruce Fleming	beat	Trevor Bassett	+26
+7	Ian Bassett	beat	Dwayne McCormick	+14
+8	Jim Nicholls	beat	Tricia Devlin	+19TP
+9	Greg Rowberry	beat	Dwayne McCormick	+8
+10	Bruce Fleming	beat	Terry Ericson	+26
+11	Jim Nicholls	beat	Ian Bassett	+3
+12	Trevor Bassett	beat	Tricia Devlin	+20TP
+13	Trevor Bassett	beat	Dwayne McCormick	+26TP
+14	Jim Nicholls	beat	Terry Ericson	+5
+15	Greg Rowberry	beat	Tricia Devlin	+17
+16	Ian Bassett	beat	Bruce Fleming	+3
+17	Trevor Bassett	beat	Greg Rowberry	+17TP
+18	Dwayne McCormick	beat	Tricia Devlin	+22
+19	Terry Ericson	beat	Ian Bassett	+6
+20	Bruce Fleming	beat	Jim Nicholls	+9
+21	Ian Bassett	beat	Tricia Devlin	+23
+22	Trevor Bassett	beat	Jim Nicholls	+16TP
+23	Terry Ericson	beat	Dwayne McCormick	+5
+24	Bruce Fleming	beat	Greg Rowberry	+1
+25	Trevor Bassett	beat	Terry Ericson	+16
+26	Greg Rowberry	beat	Ian Bassett	+17
+27	Tricia Devlin	beat	Bruce Fleming	+13
+28	Jim Nicholls	beat	Dwayne McCormick	+1
+29	Trevor Bassett	beat	Ian Bassett	+11
+30	Bruce Fleming	beat	Dwayne McCormick	+13TP
+31	Jim Nicholls	beat	Greg Rowberry	+26
+32	Terry Ericson	beat	Tricia Devlin	+5
+33	Terry Ericson	beat	Greg Rowberry	+17
+34	Bruce Fleming	beat	Trevor Bassett	+5
+35	Dwayne McCormick	beat	Ian Bassett	+12
+36	Jim Nicholls	beat	Tricia Devlin	+11
+37	Dwayne McCormick	beat	Greg Rowberry	+20
+38	Bruce Fleming	beat	Terry Ericson	+17
+39	Ian Bassett	beat	Jim Nicholls	+6
+40	Trevor Bassett	beat	Tricia Devlin	+10
+41	Jim Nicholls	beat	Terry Ericson	+14
+42	Dwayne McCormick	beat	Trevor Bassett	+22
+43	Ian Bassett	beat	Bruce Fleming	+26
+44	Greg Rowberry	beat	Tricia Devlin	+23
+45	Greg Rowberry	beat	Trevor Bassett	+17
+46	Terry Ericson	beat	Ian Bassett	+5
+47	Dwayne McCormick	beat	Tricia Devlin	+10
+48	Bruce Fleming	beat	Jim Nicholls	+8
+49	Trevor Bassett	beat	Jim Nicholls	+24
+50	Dwayne McCormick	beat	Terry Ericson	+18
+51	Tricia Devlin	beat	Ian Bassett	+5
+52	Bruce Fleming	beat	Greg Rowberry	+14
+53	Trevor Bassett	beat	Terry Ericson	+26
+54	Dwayne McCormick	beat	Jim Nicholls	+14
+55	Greg Rowberry	beat	Ian Bassett	+12
+56	Tricia Devlin	beat	Bruce Fleming	+12
+End
+
+Event AUS Third Eight (The Major Tingey Tray)
+Date 23-26.9.11
+Class 2
+Type single
+Games 56
+Order firstname
+1	Mark  Prater	beat	John Hardy	+3
+2	Ken Edwards	beat	Rosemary Graham	+3
+3	Tim Murphy	beat	Alan Walsh	+16
+4	Charlotte Morgan	beat	Mike Hughes	+18
+5	Mike Hughes	beat	Alan Walsh	+25
+6	John Hardy	beat	Ken Edwards	+1
+7	Mark  Prater	beat	Rosemary Graham	+11
+8	Tim Murphy	beat	Charlotte Morgan	+26
+9	Rosemary Graham	beat	Alan Walsh	+19
+10	Ken Edwards	beat	Mike Hughes	+17
+11	Mark  Prater	beat	Tim Murphy	+10
+12	Charlotte Morgan	beat	John Hardy	+10
+13	Tim Murphy	beat	Mike Hughes	+24
+14	Ken Edwards	beat	Mark  Prater	+25
+15	Rosemary Graham	beat	John Hardy	+5
+16	Alan Walsh	beat	Charlotte Morgan	+14
+17	Mark  Prater	beat	Mike Hughes	+23
+18	Ken Edwards	beat	Tim Murphy	+14
+19	John Hardy	beat	Alan Walsh	+4
+20	Rosemary Graham	beat	Charlotte Morgan	+21
+21	Mark  Prater	beat	Charlotte Morgan	+2
+22	Tim Murphy	beat	John Hardy	+4
+23	Rosemary Graham	beat	Mike Hughes	+9
+24	Alan Walsh	beat	Ken Edwards	+17
+25	John Hardy	beat	Mike Hughes	+5
+26	Ken Edwards	beat	Charlotte Morgan	+24
+27	Rosemary Graham	beat	Tim Murphy	+13
+28	Alan Walsh	beat	Mark  Prater	+3
+29	John Hardy	beat	Mark  Prater	+20
+30	Ken Edwards	beat	Rosemary Graham	+13
+31	Alan Walsh	beat	Tim Murphy	+12
+32	Charlotte Morgan	beat	Mike Hughes	+21
+33	Mike Hughes	beat	Alan Walsh	+1
+34	John Hardy	beat	Ken Edwards	+25
+35	Mark  Prater	beat	Rosemary Graham	+12
+36	Tim Murphy	beat	Charlotte Morgan	+1
+37	Alan Walsh	beat	Rosemary Graham	+1
+38	Ken Edwards	beat	Mike Hughes	+15
+39	Tim Murphy	beat	Mark  Prater	+3
+40	John Hardy	beat	Charlotte Morgan	+3
+41	Tim Murphy	beat	Mike Hughes	+26
+42	John Hardy	beat	Rosemary Graham	+17
+43	Mark  Prater	beat	Ken Edwards	+1
+44	Alan Walsh	beat	John Hardy	+3
+45	Mark  Prater	beat	Mike Hughes	+8
+46	Ken Edwards	beat	Tim Murphy	+17
+47	Charlotte Morgan	beat	Rosemary Graham	+7
+48	Tim Murphy	beat	John Hardy	+5
+49	Alan Walsh	beat	Ken Edwards	+19
+50	Charlotte Morgan	beat	Mark  Prater	+5
+51	Tim Murphy	beat	Rosemary Graham	+17TP
+52	Rosemary Graham	beat	Mike Hughes	+1
+53	Charlotte Morgan	beat	Alan Walsh	+22
+54	Mark  Prater	beat	Alan Walsh	+18
+55	John Hardy	beat	Mike Hughes	+12
+56	Charlotte Morgan	beat	Ken Edwards	+24
+End
+
+Event AUS Women's Eight (Jean Armstrong Bowl)
+Date 23-26.9.11
+Class 2
+Type single
+Games 56
+Order firstname
+1	Megan Reynolds	beat	Elizabeth Bassett	+20
+2	Marga Podnicks	beat	Creina Dawson	+4
+3	Wendy Dickson	beat	Deidre Hardy	+1
+4	Sue Beattie	beat	Alison Sharpe	+1
+5	Sue Beattie	beat	Wendy Dickson	+14
+6	Elizabeth Bassett	beat	Marga Podnicks	+5
+7	Megan Reynolds	beat	Creina Dawson	+4
+8	Deidre Hardy	beat	Alison Sharpe	+1
+9	Wendy Dickson	beat	Creina Dawson	+5
+10	Marga Podnicks	beat	Sue Beattie	+1
+11	Megan Reynolds	beat	Deidre Hardy	+15
+12	Alison Sharpe	beat	Elizabeth Bassett	+22
+13	Sue Beattie	beat	Deidre Hardy	+16
+14	Creina Dawson	beat	Elizabeth Bassett	+8
+15	Alison Sharpe	beat	Wendy Dickson	+3
+16	Megan Reynolds	beat	Marga Podnicks	+3
+17	Elizabeth Bassett	beat	Wendy Dickson	+3
+18	Alison Sharpe	beat	Creina Dawson	+21
+19	Sue Beattie	beat	Megan Reynolds	+11
+20	Marga Podnicks	beat	Deidre Hardy	+1
+21	Megan Reynolds	beat	Alison Sharpe	+6.
+22	Elizabeth Bassett	beat	Deidre Hardy	+5
+23	Sue Beattie	beat	Creina Dawson	+6
+24	Marga Podnicks	beat	Wendy Dickson	+14
+25	Sue Beattie	beat	Elizabeth Bassett	+16
+26	Alison Sharpe	beat	Marga Podnicks	+24
+27	Deidre Hardy	beat	Creina Dawson	+23
+28	Megan Reynolds	beat	Wendy Dickson	+4
+29	Elizabeth Bassett	beat	Megan Reynolds	+1
+30	Creina Dawson	beat	Marga Podnicks	+23
+31	Deidre Hardy	beat	Wendy Dickson	+2
+32	Alison Sharpe	beat	Sue Beattie	+3
+33	Wendy Dickson	beat	Sue Beattie	+25
+34	Marga Podnicks	beat	Elizabeth Bassett	+1
+35	Creina Dawson	beat	Megan Reynolds	+4
+36	Alison Sharpe	beat	Deidre Hardy	+26
+37	Creina Dawson	beat	Wendy Dickson	+1
+38	Sue Beattie	beat	Marga Podnicks	+1
+39	Megan Reynolds	beat	Deidre Hardy	+11
+40	Elizabeth Bassett	beat	Alison Sharpe	+3
+41	Sue Beattie	beat	Deidre Hardy	+15
+42	Creina Dawson	beat	Elizabeth Bassett	+10
+43	Alison Sharpe	beat	Wendy Dickson	+1
+44	Megan Reynolds	beat	Marga Podnicks	+7
+45	Elizabeth Bassett	beat	Wendy Dickson	+5
+46	Alison Sharpe	beat	Creina Dawson	+15
+47	Megan Reynolds	beat	Sue Beattie	+5
+48	Deidre Hardy	beat	Marga Podnicks	+12
+49	Alison Sharpe	beat	Megan Reynolds	+14
+50	Deidre Hardy	beat	Elizabeth Bassett	+12
+51	Creina Dawson	beat	Sue Beattie	+2
+52	Wendy Dickson	beat	Marga Podnicks	+15
+53	Sue Beattie	beat	Elizabeth Bassett	+24
+54	Alison Sharpe	beat	Marga Podnicks	+14
+55	Megan Reynolds	beat	Wendy Dickson	+22
+56	Deidre Hardy	beat	Creina Dawson	+12
+End
+

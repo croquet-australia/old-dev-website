@@ -1,0 +1,369 @@
+Event AUS Block A
+Date 3-4.11.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Martyn Prins	beat	Malcolm Fletcher	+14
+2	Liz Fleming	beat	Philip Bateman	+16
+3	Miranda Morgan	beat	Gavin Bow	+13
+4	Stephen Mulliner	beat	Gavin Bow	+23tp
+5	Liz Fleming	beat	Malcolm Fletcher	+5
+6	Philip Bateman	beat	Martyn Prins	+12
+7	Liz Fleming	beat	Gavin Bow	+26
+8	Stephen Mulliner	beat	Philip Bateman	+26tp
+9	Malcolm Fletcher	beat	Miranda Morgan	+6
+10	Stephen Mulliner	beat	Malcolm Fletcher	+17tp
+11	Martyn Prins	beat	Gavin Bow	+21
+12	Miranda Morgan	beat	Philip Bateman	+21
+13	Stephen Mulliner	beat	Martyn Prins	+20
+14	Miranda Morgan	beat	Liz Fleming	+14
+15	Philip Bateman	beat	Gavin Bow	+17
+16	Miranda Morgan	beat	Martyn Prins	+26
+17	Stephen Mulliner	beat	Liz Fleming	+16
+18	Malcolm Fletcher	beat	Gavin Bow	+25
+19	Stephen Mulliner	beat	Miranda Morgan	+26sxp
+20	Malcolm Fletcher	beat	Philip Bateman	+11
+21	Liz Fleming	beat	Martyn Prins	+20
+End
+
+Event AUS Block B
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Mike Hughes	beat	Aiken Hakes	+8
+2	Paddy Chapman	beat	Basil Ladyman	+26tp
+3	Tim Murphy	beat	Liz Bassett	+6
+4	Paddy Chapman	beat	Mike Hughes	+26tp
+5	Aiken Hakes	beat	Liz Bassett	+20stp
+6	Basil Ladyman	beat	Tim Murphy	+7
+7	Paddy Chapman	beat	Liz Bassett	+26tp
+8	Tim Murphy	beat	Aiken Hakes	+13
+9	Basil Ladyman	beat	Mike Hughes	+2
+10	Paddy Chapman	beat	Tim Murphy	+3
+11	Aiken Hakes	beat	Basil Ladyman	+5
+12	Mike Hughes	beat	Liz Bassett	+17
+13	Tim Murphy	beat	Mike Hughes	+26
+14	Paddy Chapman	beat	Aiken Hakes	+4
+15	Basil Ladyman	beat	Liz Bassett	+21
+End
+
+Event AUS Block C
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Claire Bassett	beat	Geoff Kingdon	+1
+2	Robert Fletcher	beat	Graham Whiteway	+13
+3	Tony Hall	beat	Mark Prater	+16
+4	Robert Fletcher	beat	Tony Hall	+26tp
+5	Mark Prater	beat	Geoff Kingdon	+11
+6	Graham Whiteway	beat	Claire Bassett	+17
+7	Tony Hall	beat	Graham Whiteway	+5
+8	Mark Prater	beat	Claire Bassett	+7
+9	Robert Fletcher	beat	Geoff Kingdon	+22
+10	Mark Prater	beat	Graham Whiteway	+12
+11	Tony Hall	beat	Geoff Kingdon	+13
+12	Robert Fletcher	beat	Claire Bassett	+12
+13	Robert Fletcher	beat	Mark Prater	+16tp
+14	Tony Hall	beat	Claire Bassett	+26
+15	Graham Whiteway	beat	Geoff Kingdon	+9
+End
+
+Event AUS Block D
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Gil Schupelius	beat	Alison Sharpe	+12
+2	Paul Skinley	beat	Gareth Bushill	+25
+3	Dwayne McCormick	beat	Simon Watkins	+4
+4	Paul Skinley	beat	Dwayne McCormick	+17tp
+5	Simon Watkins	beat	Alison Sharpe	+15
+6	Gil Schupelius	beat	Gareth Bushill	+2
+7	Dwayne McCormick	beat	Gareth Bushill	+17
+8	Gil Schupelius	beat	Simon Watkins	+18
+9	Paul Skinley	beat	Alison Sharpe	+5tp
+10	Simon Watkins	beat	Gareth Bushill	+22
+11	Dwayne McCormick	beat	Alison Sharpe	+1
+12	Paul Skinley	beat	Gil Schupelius	+26
+13	Paul Skinley	beat	Simon Watkins	+11
+14	Dwayne McCormick	beat	Gil Schupelius	+8
+15	Alison Sharpe	beat	Gareth Bushill	+17
+End
+
+Event AUS Block E
+Date 3-4.11.09
+Class 2
+Type single
+Games 14
+Order firstname
+1	Ian Bassett	beat	Creina Dawson	+4
+2	Peter Landrebe	beat	Marga Podnieks	+22tp
+3	Martin Clarke	beat	Dick Smith	+22
+4	Peter Landrebe	beat	Dick Smith	+9
+5	Martin Clarke	beat	Creina Dawson	+21
+6	Ian Bassett	beat	Marga Podnieks	+4
+7	Dick Smith	beat	Marga Podnieks	+4
+8	Martin Clarke	beat	Ian Bassett	+25
+9	Peter Landrebe	beat	Creina Dawson	+23
+10	Martin Clarke	beat	Marga Podnieks	+26tp
+11	Dick Smith	beat	Creina Dawson	+24
+12	Peter Landrebe	beat	Ian Bassett	+10tpo
+13	Martin Clarke	beat	Peter Landrebe	+25
+14	Ian Bassett	beat	Dick Smith	+4
+End
+
+Event AUS Block F
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Roger Buddle	beat	Adrian Palmer	+22
+2	Ian Dumergue	beat	Robert Fenwick Elliott	+23qp
+3	Trevor Bassett	beat	Wayne Davies	+14qnp
+4	Ian Dumergue	beat	Wayne Davies	+24tp
+5	Trevor Bassett	beat	Adrian Palmer	+26tp
+6	Roger Buddle	beat	Robert Fenwick Elliott	+24
+7	Wayne Davies	beat	Robert Fenwick Elliott	+25
+8	Trevor Bassett	beat	Roger Buddle	+11tpo
+9	Ian Dumergue	beat	Adrian Palmer	+7tpo
+10	Trevor Bassett	beat	Robert Fenwick Elliott	+26
+11	Wayne Davies	beat	Adrian Palmer	+19
+12	Ian Dumergue	beat	Roger Buddle	+23tp
+13	Ian Dumergue	beat	Trevor Bassett	+17tp
+14	Wayne Davies	beat	Roger Buddle	+16
+15	Adrian Palmer	beat	Robert Fenwick Elliott	+22
+End
+
+Event AUS Block G
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Alan Walsh	beat	Jim Nicholls	+16
+2	Harley Watts	beat	Rob McAdam	+17
+3	Charlotte Morgan	beat	Ken Bald	+7
+4	Charlotte Morgan	beat	Harley Watts	+23
+5	Ken Bald	beat	Jim Nicholls	+7
+6	Alan Walsh	beat	Rob McAdam	+14
+7	Rob McAdam	beat	Charlotte Morgan	+15
+8	Ken Bald	beat	Alan Walsh	+26
+9	Harley Watts	beat	Jim Nicholls	+24tp
+10	Ken Bald	beat	Rob McAdam	+24tp
+11	Charlotte Morgan	beat	Jim Nicholls	+12
+12	Harley Watts	beat	Alan Walsh	+11
+13	Harley Watts	beat	Ken Bald	+25tp
+14	Alan Walsh	beat	Charlotte Morgan	+2
+15	Jim Nicholls	beat	Rob McAdam	+8
+End
+
+Event AUS Block H
+Date 3-4.11.09
+Class 2
+Type single
+Games 15
+Order firstname
+1	Ken Edwards	beat	David Wise	+26
+2	Bruce Fleming	beat	Kay Chynoweth	+24
+3	Kevin Beard	beat	Alan Honey	+16tp
+4	Bruce Fleming	beat	Alan Honey	+26tp
+5	Kevin Beard	beat	David Wise	+23
+6	Ken Edwards	beat	Kay Chynoweth	+26
+7	Alan Honey	beat	Kay Chynoweth	+23
+8	Kevin Beard	beat	Ken Edwards	+1
+9	Bruce Fleming	beat	David Wise	+25tp
+10	Kevin Beard	beat	Kay Chynoweth	+1
+11	Alan Honey	beat	David Wise	+23
+12	Bruce Fleming	beat	Ken Edwards	+16
+13	Bruce Fleming	beat	Kevin Beard	+1
+14	Ken Edwards	beat	Alan Honey	+7
+15	David Wise	beat	Kay Chynoweth	+2
+End
+
+Event AUS Knockout
+Date 5-8.11.09
+Class 2
+Type match
+Games 31
+Order firstname
+1	Stephen Mulliner	beat	Aiken Hakes	+26tp, -26tp, +6
+2	Mark Prater	beat	Tim Murphy	+16, +26tp
+3	Kevin Beard	beat	Liz Fleming	+26tp, +13
+4	Ian Dumergue	beat	Graham Whiteway	+26tp, +12tp
+5	Bruce Fleming	beat	Roger Buddle	+26tp, +24
+6	Miranda Morgan	beat	Wayne Davies	+5, -15, +17
+7	Gil Schupelius	beat	Tony Hall	-23, +3, +19
+8	Paul Skinley	beat	Malcolm Fletcher	+25tp, -26, +12
+9	Robert Fletcher	beat	Dick Smith	+21, +4
+10	Charlotte Morgan	beat	Ken Edwards	+11, +3
+11	Trevor Bassett	beat	Ken Bald	+8tp, +15tp
+12	Harley Watts	beat	Alan Honey	+11tpo, +23tp
+13	Martin Clarke	beat	Alan Walsh	+3, +23
+14	Peter Landrebe	beat	Basil Ladyman	+19, +26tp
+15	Ian Bassett	beat	Dwayne McCormick	+6, +1
+16	Paddy Chapman	beat	Simon Watkins	-10, +16tp, +26tp
+17	Stephen Mulliner	beat	Mark Prater	+26, +16tp
+18	Ian Dumergue	beat	Kevin Beard	+17tp, +25tp
+19	Bruce Fleming	beat	Miranda Morgan	+25, +6
+20	Paul Skinley	beat	Gil Schupelius	-15, +25tp, +24
+21	Robert Fletcher	beat	Charlotte Morgan	+18tp, +26tp
+22	Trevor Bassett	beat	Harley Watts	+4, -25tp, +17tp
+23	Martin Clarke	beat	Peter Landrebe	+8, +17
+24	Paddy Chapman	beat	Ian Bassett	+17tp, +26tp
+25	Stephen Mulliner	beat	Ian Dumergue	-7, +19, +12tp
+26	Bruce Fleming	beat	Paul Skinley	+26tp, +23
+27	Trevor Bassett	beat	Robert Fletcher	-24, +26, +11tp
+28	Martin Clarke	beat	Paddy Chapman	+2tpo, -5, +14otp
+29	Stephen Mulliner	beat	Bruce Fleming	+6, +26, +26
+30	Martin Clarke	beat	Trevor Bassett	+8, -26tp, +3, +17
+31	Stephen Mulliner	beat	Martin Clarke	+4, +21, +26tp
+End
+
+Event AUS Plate Block 1
+Date 5-7.11.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Martyn Prins	beat	Robert Fenwick Elliott	+24
+2	Jim Nicholls	beat	David Wise	+5
+3	Geoff Kingdon	beat	Liz Bassett	+8
+4	Alison Sharpe	beat	Marga Podnieks	+20
+5	Jim Nicholls	beat	Liz Bassett	+9
+6	Martyn Prins	beat	Marga Podnieks	+5
+7	Alison Sharpe	beat	Robert Fenwick Elliott	+26
+8	David Wise	beat	Geoff Kingdon	+26
+9	David Wise	beat	Alison Sharpe	+5
+10	Jim Nicholls	beat	Robert Fenwick Elliott	+26
+11	Geoff Kingdon	beat	Marga Podnieks	+13
+12	Martyn Prins	beat	Liz Bassett	+8
+13	Geoff Kingdon	beat	Robert Fenwick Elliott	+14
+14	Alison Sharpe	beat	Liz Bassett	+25
+15	Marga Podnieks	beat	Jim Nicholls	+11
+16	David Wise	beat	Martyn Prins	+17
+17	Martyn Prins	beat	Jim Nicholls	+17
+18	David Wise	beat	Robert Fenwick Elliott	+18
+19	Liz Bassett	beat	Marga Podnieks	+18
+20	Alison Sharpe	beat	Geoff Kingdon	+7
+21	David Wise	beat	Marga Podnieks	+22
+22	Martyn Prins	beat	Geoff Kingdon	+20
+23	Jim Nicholls	beat	Alison Sharpe	+23
+24	Liz Bassett	beat	Robert Fenwick Elliott	+23
+25	Liz Bassett	beat	David Wise	+18
+26	Marga Podnieks	beat	Robert Fenwick Elliott	+25
+27	Jim Nicholls	beat	Geoff Kingdon	+13
+28	Alison Sharpe	beat	Martyn Prins	+14
+End
+
+Event AUS Plate Block 2
+Date 5-7.11.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Rob McAdam	beat	Kay Chynoweth	+26
+2	Creina Dawson	beat	Gareth Bushill	+13
+3	Philip Bateman	beat	Adrian Palmer	+7
+4	Gavin Bow	beat	John Riches	+25
+5	John Riches	beat	Philip Bateman	+21
+6	Creina Dawson	beat	Kay Chynoweth	+14
+7	Adrian Palmer	beat	Gareth Bushill	+8
+8	Adrian Palmer	beat	Kay Chynoweth	+21
+9	John Riches	beat	Gareth Bushill	+24
+10	Rob McAdam	beat	Creina Dawson	+24
+11	Rob McAdam	beat	Adrian Palmer	+19
+12	Kay Chynoweth	beat	John Riches	+5
+13	Gavin Bow	beat	Philip Bateman	+9
+14	Gareth Bushill	beat	Philip Bateman	+21
+15	Gavin Bow	beat	Creina Dawson	+4
+16	John Riches	beat	Rob McAdam	+4
+17	Gareth Bushill	beat	Kay Chynoweth	+3
+18	Creina Dawson	beat	Philip Bateman	+9
+19	Adrian Palmer	beat	Gavin Bow	+20
+20	Adrian Palmer	beat	John Riches	+26tp
+21	Rob McAdam	beat	Gavin Bow	+8
+22	Kay Chynoweth	beat	Philip Bateman	+21
+23	John Riches	beat	Creina Dawson	+17
+24	Rob McAdam	beat	Philip Bateman	+15
+25	Gareth Bushill	beat	Gavin Bow	+20
+26	Kay Chynoweth	beat	Gavin Bow	+26
+27	Rob McAdam	beat	Gareth Bushill	+18
+28	Adrian Palmer	beat	Creina Dawson	+15
+End
+
+Event AUS Y Knockout (17th to 32nd)
+Date 5-8.11.09
+Class 2
+Type match
+Games 15
+Order firstname
+1	Tim Murphy	beat	Aiken Hakes	+25
+2	Liz Fleming	beat	Graham Whiteway	+26, +14
+3	Roger Buddle	beat	Wayne Davies	+26, +3
+4	Malcolm Fletcher	beat	Tony Hall	+20, -5tp, +25
+5	Ken Edwards	beat	Dick Smith	+6, +20
+6	Ken Bald	beat	Alan Honey	+3, -14, +25
+7	Alan Walsh	beat	Basil Ladyman	+18, +22
+8	Simon Watkins	beat	Dwayne McCormick	+17, +24
+9	Liz Fleming	beat	Tim Murphy	+1, +3
+10	Malcolm Fletcher	beat	Roger Buddle	-13, +10, +22
+11	Ken Edwards	beat	Ken Bald	-16, +5, +13
+12	Simon Watkins	beat	Alan Walsh	-17, +15, +23
+13	Malcolm Fletcher	beat	Liz Fleming	+17
+14	Simon Watkins	beat	Ken Edwards	-18, +2, +17
+15	Simon Watkins	beat	Malcolm Fletcher	+26, +17
+End
+
+Event AUS Z Knockout (9th to 16th)
+Date 6-8.11.09
+Class 2
+Type match
+Games 7
+Order firstname
+1	Kevin Beard	beat	Mark Prater	+25, +2
+2	Gil Schupelius	beat	Miranda Morgan	+21, +4
+3	Harley Watts	beat	Charlotte Morgan	+3, +1
+4	Peter Landrebe	beat	Ian Bassett	+24, +4tp
+5	Kevin Beard	beat	Gil Schupelius	+5tp, +3
+6	Harley Watts	beat	Peter Landrebe	+12tpo, +18
+7	Kevin Beard	beat	Harley Watts	-22tp, +8, +10otp
+End
+
+Event AUS 5th to 8th
+Date 6-8.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Ian Dumergue	beat	Paul Skinley	+26
+2	Paddy Chapman	beat	Robert Fletcher	+20tp, -4tp, +26tp
+3	Ian Dumergue	beat	Paddy Chapman	+5, +25tp
+End
+
+Event AUS 3rd & 4th
+Date 7-8.11.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	Bruce Fleming	beat	Trevor Bassett	+15, +2
+End
+
+Event AUS Plate Knockout
+Date 8-8.11.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	David Wise	beat	Adrian Palmer	+21
+2	Rob McAdam	beat	Alison Sharpe	+11
+3	David Wise	beat	Rob McAdam	+2
+End
+

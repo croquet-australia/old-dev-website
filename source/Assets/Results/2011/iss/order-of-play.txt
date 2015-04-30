@@ -1,0 +1,720 @@
+Event AUS New South Wales v Tasmania
+Date 31-31.8.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	J.Levick & C.Pont	beat	B.Beattie & S.Beattie	+4
+2	J.Levick & C.Pont	beat	B.Beattie & S.Beattie	+5
+3	M.Jenner & P.Gentle	beat	B.Godfrey & P.Paine	+6
+4	M.Jenner & P.Gentle	beat	B.Godfrey & P.Paine	+6
+5	R.Johnstone & R.Johnstone	beat	D.Jacobs & J.Pongratz	+5
+6	R.Johnstone & R.Johnstone	beat	D.Jacobs & J.Pongratz	+1
+7	M.Prins & B.Piggott	beat	C.West & G.Kirkland	+4
+8	M.Prins & B.Piggott	beat	C.West & G.Kirkland	+2
+9	Christine Pont	beat	June Pongratz	+3
+10	Christine Pont	beat	June Pongratz	+5
+11	Sue Beattie	beat	Ros Johnstone	+3
+12	Sue Beattie	beat	Ros Johnstone	+3
+13	Pam Gentle	beat	Gina Kirkland	+6
+14	Gina Kirkland	beat	Pam Gentle	+4
+15	Barb Piggott	beat	Jenny Parrott	+2
+16	Barb Piggott	beat	Jenny Parrott	+2
+17	Sue Beattie	beat	Christine Pont	+4
+18	Sue Beattie	beat	Christine Pont	+1
+19	June Pongratz	beat	Ros Johnstone	+2
+20	June Pongratz	beat	Ros Johnstone	+4
+21	Pam Gentle	beat	Jenny Parrott	+1
+22	Pam Gentle	beat	Jenny Parrott	+6
+23	Barb Piggott	beat	Gina Kirkland	+4
+24	Barb Piggott	beat	Gina Kirkland	+1
+25	Martyn Prins	beat	Bob Beattie	+6
+26	Martyn Prins	beat	Bob Beattie	+7
+27	Mike Jenner	beat	Bob Godfrey	+6
+28	Mike Jenner	beat	Bob Godfrey	+6
+29	John Levick	beat	Chris West	+3
+30	John Levick	beat	Chris West	+2
+31	Joe Dimech	beat	Daryl Jacobs	+3
+32	Joe Dimech	beat	Daryl Jacobs	+2
+33	Martyn Prins	beat	Bob Godfrey	+3
+34	Martyn Prins	beat	Bob Godfrey	+3
+35	Mike Jenner	beat	Bob Beattie	+4
+36	Mike Jenner	beat	Bob Beattie	+3
+37	John Levick	beat	Daryl Jacobs	+1
+38	John Levick	beat	Daryl Jacobs	+6
+39	Joe Dimech	beat	Chris West	+5
+40	Joe Dimech	beat	Chris West	+4
+End
+
+Event AUS Queensland v South Australia
+Date 31-31.8.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	G.Whiteway & M.Podnieks	beat	T.Ericson & D.Hardy	+1
+2	G.Whiteway & M.Podnieks	beat	T.Ericson & D.Hardy	+2
+3	Tom Knight & Gaye Pitman	beat	N.Bonnar & W.Bonnar	+4
+4	N.Bonnar & W.Bonnar	beat	Tom Knight & Gaye Pitman	+2
+5	Gavin Bow & Bernie Pfitzner	beat	J.Hardy & K.Colclough	+1
+6	J.Hardy & K.Colclough	beat	Gavin Bow & Bernie Pfitzner	+4
+7	M.Melville & W.Strong	beat	Michael Shanahan & Kay Chynoweth	+1
+8	M.Melville & W.Strong	beat	Michael Shanahan & Kay Chynoweth	+3
+9	Kay Chynoweth	beat	Margaret Melville	+1
+10	Margaret Melville	beat	Kay Chynoweth	+2
+11	Bernie Pfitzner	beat	Kathleen Colclough	+1
+12	Kathleen Colclough	beat	Bernie Pfitzner	+3
+13	Deirdre Hardy	beat	Marga Podnieks	+4
+14	Marga Podnieks	beat	Deirdre Hardy	+4
+15	Marga Podnieks	beat	Gaye Pitman	+3
+16	Marga Podnieks	beat	Gaye Pitman	+6
+17	Margaret Melville	beat	Bernie Pfitzner	+1
+18	Margaret Melville	beat	Bernie Pfitzner	+5
+19	Kathleen Colclough	beat	Kay Chynoweth	+6
+20	Kathleen Colclough	beat	Kay Chynoweth	+2
+21	Deirdre Hardy	beat	Wilma Bonnar	+4
+22	Wilma Bonnar	beat	Deirdre Hardy	+4
+23	Wilma Bonnar	beat	Gaye Pitman	+1
+24	Gaye Pitman	beat	Wilma Bonnar	+6
+25	Terry Ericson	beat	Neil Bonnar	+5
+26	Terry Ericson	beat	Neil Bonnar	+2
+27	Graham Whiteway	beat	John Hardy	+2
+28	Graham Whiteway	beat	John Hardy	+4
+29	Gavin Bow	beat	Tom Knight	+2
+30	Tom Knight	beat	Gavin Bow	+4
+31	Wayne Strong	beat	Michael Shanahan	+3
+32	Wayne Strong	beat	Michael Shanahan	+1
+33	Terry Ericson	beat	Graham Whiteway	+4
+34	Terry Ericson	beat	Graham Whiteway	+1
+35	Neil Bonnar	beat	John Hardy	+2
+36	Neil Bonnar	beat	John Hardy	+2
+37	Tom Knight	beat	Michael Shanahan	+3
+38	Tom Knight	beat	Michael Shanahan	+3
+39	Wayne Strong	beat	Gavin Bow	+1
+40	Gavin Bow	beat	Wayne Strong	+2
+End
+
+Event AUS Western Australia v Victoria
+Date 31-31.8.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	K.Beard & J.Wembridge	beat	R.Marshall & M.Garrod	+2
+2	K.Beard & J.Wembridge	beat	R.Marshall & M.Garrod	+5
+3	J.van der Touw & A.Quinn	beat	A.Sands & B.Schreuder	+5
+4	A.Sands & B.Schreuder	beat	J.van der Touw & A.Quinn	+5
+5	C.McWhirter & S.Boon	beat	N.Pope & W.Dickson	+1
+6	C.McWhirter & S.Boon	beat	N.Pope & W.Dickson	+1
+7	E.Miller & E.Allen	beat	P.Hopgood & S.Anderson	+1
+8	P.Hopgood & S.Anderson	beat	E.Miller & E.Allen	+1
+9	Merryl Garrod	beat	Anne Quinn	+1
+10	Anne Quinn	beat	Merryl Garrod	+3
+11	Judy Wembridge	beat	Susan Anderson	+6
+12	Judy Wembridge	beat	Susan Anderson	+1
+13	Wendy Dickson	beat	Birgit Schreuder	+5
+14	Wendy Dickson	beat	Birgit Schreuder	+7
+15	Elizabeth Allen	beat	Sandra Boon	+2
+16	Elizabeth Allen	beat	Sandra Boon	+2
+17	Judy Wembridge	beat	Merryl Garrod	+5
+18	Judy Wembridge	beat	Merryl Garrod	+1
+19	Susan Anderson	beat	Anne Quinn	+2
+20	Anne Quinn	beat	Susan Anderson	+3
+21	Birgit Schreuder	beat	Elizabeth Allen	+2
+22	Birgit Schreuder	beat	Elizabeth Allen	+1
+23	Sandra Boon	beat	Wendy Dickson	+2
+24	Wendy Dickson	beat	Sandra Boon	+7
+25	Kevin Beard	beat	Chris McWhirter	+3
+26	Kevin Beard	beat	Chris McWhirter	+1
+27	Alan Sands	beat	John van der Touw	+5
+28	John van der Touw	beat	Alan Sands	+1
+29	Eric Miller	beat	Ross Marshall	+3
+30	Eric Miller	beat	Ross Marshall	+2
+31	Neville Pope	beat	Western Australia	+5
+32	Neville Pope	beat	Western Australia	+3
+33	John van der Touw	beat	Chris McWhirter	+1
+34	Chris McWhirter	beat	John van der Touw	+1
+35	Kevin Beard	beat	Alan Sands	+3
+36	Kevin Beard	beat	Alan Sands	+4
+37	Neville Pope	beat	Ross Marshall	+1
+38	Ross Marshall	beat	Neville Pope	+1
+39	Western Australia	beat	Eric Miller	+2
+40	Eric Miller	beat	Western Australia	+2
+End
+
+Event AUS New South Wales v Victoria
+Date 1-1.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	J.Levick & C.Pont	beat	K.Beard & J.Wembridge	+2
+2	K.Beard & J.Wembridge	beat	J.Levick & C.Pont	+2
+3	J.van der Touw & A.Quinn	beat	M.Jenner & P.Gentle	+2
+4	J.van der Touw & A.Quinn	beat	M.Jenner & P.Gentle	+3
+5	R.Johnstone & R.Johnstone	beat	N.Pope & W.Dickson	+2
+6	R.Johnstone & R.Johnstone	beat	N.Pope & W.Dickson	+2
+7	M.Prins & B.Piggott	beat	E.Miller & E.Allen	+1
+8	M.Prins & B.Piggott	beat	E.Miller & E.Allen	+2
+9	Christine Pont	beat	Anne Quinn	+4
+10	Anne Quinn	beat	Christine Pont	+3
+11	Judy Wembridge	beat	Ros Johnstone	+4
+12	Judy Wembridge	beat	Ros Johnstone	+5
+13	Pam Gentle	beat	Wendy Dickson	+4
+14	Pam Gentle	beat	Wendy Dickson	+3
+15	Barb Piggott	beat	Elizabeth Allen	+3
+16	Barb Piggott	beat	Elizabeth Allen	+1
+17	Christine Pont	beat	Judy Wembridge	+1
+18	Judy Wembridge	beat	Christine Pont	+2
+19	Anne Quinn	beat	Ros Johnstone	+2
+20	Anne Quinn	beat	Ros Johnstone	+1
+21	Pam Gentle	beat	Elizabeth Allen	+2
+22	Pam Gentle	beat	Elizabeth Allen	+2
+23	Wendy Dickson	beat	Barb Piggott	+6
+24	Barb Piggott	beat	Wendy Dickson	+1
+25	Martyn Prins	beat	Kevin Beard	+4
+26	Kevin Beard	beat	Martyn Prins	+1
+27	Mike Jenner	beat	John van der Touw	+1
+28	Mike Jenner	beat	John van der Touw	+2
+29	John Levick	beat	Eric Miller	+2
+30	John Levick	beat	Eric Miller	+7
+31	Joe Dimech	beat	Neville Pope	+3
+32	Neville Pope	beat	Joe Dimech	+1
+33	John van der Touw	beat	Martyn Prins	+3
+34	John van der Touw	beat	Martyn Prins	+1
+35	Kevin Beard	beat	Mike Jenner	+1
+36	Kevin Beard	beat	Mike Jenner	+4
+37	John Levick	beat	Neville Pope	+3
+38	John Levick	beat	Neville Pope	+2
+39	Joe Dimech	beat	Eric Miller	+3
+40	Eric Miller	beat	Joe Dimech	+3
+End
+
+Event AUS Queensland v Tasmania
+Date 1-1.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	T.Ericson & D.Hardy	beat	Henry Burbery & Sue Beattie	+2
+2	T.Ericson & D.Hardy	beat	Henry Burbery & Sue Beattie	+2
+3	Tom Knight & Gaye Pitman	beat	Patsy Paine & Bob Godfrey	+4
+4	Tom Knight & Gaye Pitman	beat	Patsy Paine & Bob Godfrey	+6
+5	J.Hardy & K.Colclough	beat	 Jenny Parrott & Daryl Jacobs	+5
+6	J.Hardy & K.Colclough	beat	 Jenny Parrott & Daryl Jacobs	+5
+7	Wayne Strong & Margaret Melville	beat	C.West & G.Kirkland	+3
+8	Wayne Strong & Margaret Melville	beat	C.West & G.Kirkland	+1
+9	Margaret Melville	beat	Patsy Paine	+5
+10	Margaret Melville	beat	Patsy Paine	+7
+11	Kathleen Colclough	beat	Sue Beattie	+3
+12	Kathleen Colclough	beat	Sue Beattie	+4
+13	Deirdre Hardy	beat	Gina Kirkland	+4
+14	Gina Kirkland	beat	Deirdre Hardy	+3
+15	Gaye Pitman	beat	Jenny Parrott	+1
+16	Jenny Parrott	beat	Gaye Pitman	+1
+17	Sue Beattie	beat	Margaret Melville	+1
+18	Margaret Melville	beat	Sue Beattie	+2
+19	Kathleen Colclough	beat	Patsy Paine	+3
+20	Kathleen Colclough	beat	Patsy Paine	+6
+21	Deirdre Hardy	beat	Jenny Parrott	+6
+22	Deirdre Hardy	beat	Jenny Parrott	+4
+23	Gaye Pitman	beat	Gina Kirkland	+3
+24	Gaye Pitman	beat	Gina Kirkland	+2
+25	Terry Ericson	beat	Bob Godfrey	+4
+26	Terry Ericson	beat	Bob Godfrey	+5
+27	John Hardy	beat	Henry Burbury	+3
+28	Henry Burbury	beat	John Hardy	+1
+29	Tom Knight	beat	Chris West	+4
+30	Tom Knight	beat	Chris West	+3
+31	Wayne Strong	beat	Daryl Jacobs	+4
+32	Wayne Strong	beat	Daryl Jacobs	+2
+33	Henry Burbury	beat	Terry Ericson	+1
+34	Terry Ericson	beat	Henry Burbury	+3
+35	John Hardy	beat	Bob Godfrey	+4
+36	John Hardy	beat	Bob Godfrey	+5
+37	Tom Knight	beat	Daryl Jacobs	+5
+38	Tom Knight	beat	Daryl Jacobs	+1
+39	Wayne Strong	beat	Chris West	+4
+40	Wayne Strong	beat	Chris West	+1
+End
+
+Event AUS Western Australia v South Australia
+Date 1-1.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	G.Whiteway & M.Podnieks	beat	R.Marshall & M.Garrod	+4
+2	R.Marshall & M.Garrod	beat	G.Whiteway & M.Podnieks	+2
+3	David Wise & Creina Dawson	beat	A.Sands & B.Schreuder	+5
+4	David Wise & Creina Dawson	beat	A.Sands & B.Schreuder	+3
+5	N.Bonnar & W.Bonnar	beat	C.McWhirter & S.Boon	+3
+6	N.Bonnar & W.Bonnar	beat	C.McWhirter & S.Boon	+3
+7	Gavin Bow & Bernie Pfitzner	beat	P.Hopgood & S.Anderson	+1
+8	Gavin Bow & Bernie Pfitzner	beat	P.Hopgood & S.Anderson	+2
+9	Merryl Garrod	beat	Wilma Bonnar	+4
+10	Merryl Garrod	beat	Wilma Bonnar	+3
+11	Bernie Pfitzner	beat	Susan Anderson	+2
+12	Bernie Pfitzner	beat	Susan Anderson	+4
+13	Marga Podnieks	beat	Birgit Schreuder	+7
+14	Marga Podnieks	beat	Birgit Schreuder	+5
+15	Sandra Boon	beat	Creina Dawson	+1
+16	Creina Dawson	beat	Sandra Boon	+3
+17	Merryl Garrod	beat	Bernie Pfitzner	+5
+18	Bernie Pfitzner	beat	Merryl Garrod	+2
+19	Susan Anderson	beat	Wilma Bonnar	+2
+20	Susan Anderson	beat	Wilma Bonnar	+1
+21	Creina Dawson	beat	Birgit Schreuder	+4
+22	Creina Dawson	beat	Birgit Schreuder	+6
+23	Marga Podnieks	beat	Sandra Boon	+5
+24	Marga Podnieks	beat	Sandra Boon	+5
+25	Chris McWhirter	beat	Graham Whiteway	+1
+26	Chris McWhirter	beat	Graham Whiteway	+5
+27	David Wise	beat	Alan Sands	+2
+28	David Wise	beat	Alan Sands	+1
+29	Ross Marshall	beat	Gavin Bow	+3
+30	Ross Marshall	beat	Gavin Bow	+3
+31	Neil Bonnar	beat	Western Australia	+2
+32	Western Australia	beat	Neil Bonnar	+5
+33	David Wise	beat	Chris McWhirter	+4
+34	Chris McWhirter	beat	David Wise	+2
+35	Alan Sands	beat	Graham Whiteway	+1
+36	Alan Sands	beat	Graham Whiteway	+3
+37	Ross Marshall	beat	Neil Bonnar	+1
+38	Neil Bonnar	beat	Ross Marshall	+3
+39	Western Australia	beat	Gavin Bow	+3
+40	Western Australia	beat	Gavin Bow	+1
+End
+
+Event AUS New South Wales v South Australia
+Date 2-2.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	J.Levick & C.Pont	beat	G.Whiteway & M.Podnieks	+5
+2	J.Levick & C.Pont	beat	G.Whiteway & M.Podnieks	+2
+3	M.Jenner & P.Gentle	beat	David Wise & Creina Dawson	+4
+4	M.Jenner & P.Gentle	beat	David Wise & Creina Dawson	+6
+5	R.Johnstone & R.Johnstone	beat	Gavin Bow & Bernie Pfitzner	+3
+6	R.Johnstone & R.Johnstone	beat	Gavin Bow & Bernie Pfitzner	+4
+7	Michael Shanahan & Kay Chynoweth	beat	M.Prins & B.Piggott	+4
+8	Michael Shanahan & Kay Chynoweth	beat	M.Prins & B.Piggott	+4
+9	Christine Pont	beat	Kay Chynoweth	+2
+10	Christine Pont	beat	Kay Chynoweth	+1
+11	Bernie Pfitzner	beat	Ros Johnstone	+2
+12	Bernie Pfitzner	beat	Ros Johnstone	+4
+13	Pam Gentle	beat	Marga Podnieks	+3
+14	Marga Podnieks	beat	Pam Gentle	+6
+15	Barb Piggott	beat	Creina Dawson	+4
+16	Creina Dawson	beat	Barb Piggott	+1
+17	Bernie Pfitzner	beat	Christine Pont	+1
+18	Christine Pont	beat	Bernie Pfitzner	+3
+19	Ros Johnstone	beat	Kay Chynoweth	+1
+20	Kay Chynoweth	beat	Ros Johnstone	+2
+21	Pam Gentle	beat	Creina Dawson	+3
+22	Pam Gentle	beat	Creina Dawson	+3
+23	Marga Podnieks	beat	Barb Piggott	+4
+24	Marga Podnieks	beat	Barb Piggott	+2
+25	Martyn Prins	beat	Graham Whiteway	+3
+26	Graham Whiteway	beat	Martyn Prins	+3
+27	David Wise	beat	Mike Jenner	+3
+28	Mike Jenner	beat	David Wise	+6
+29	John Levick	beat	Gavin Bow	+4
+30	Gavin Bow	beat	John Levick	+3
+31	Joe Dimech	beat	Michael Shanahan	+1
+32	Joe Dimech	beat	Michael Shanahan	+3
+33	David Wise	beat	Martyn Prins	+1
+34	Martyn Prins	beat	David Wise	+4
+35	Mike Jenner	beat	Graham Whiteway	+1
+36	Mike Jenner	beat	Graham Whiteway	+5
+37	Michael Shanahan	beat	John Levick	+4
+38	John Levick	beat	Michael Shanahan	+1
+39	Gavin Bow	beat	Joe Dimech	+3
+40	Joe Dimech	beat	Gavin Bow	+5
+End
+
+Event AUS Victoria v Tasmania
+Date 2-2.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	K.Beard & J.Wembridge	beat	Henry Burbury & Sue Beattie	+2
+2	Henry Burbury & Sue Beattie	beat	K.Beard & J.Wembridge	+2
+3	J.van der Touw & A.Quinn	beat	Bob Beattie & Jenny Parrott	+3
+4	J.van der Touw & A.Quinn	beat	Bob Beattie & Jenny Parrott	+4
+5	D.Jacobs & J.Pongratz	beat	N.Pope & W.Dickson	+4
+6	D.Jacobs & J.Pongratz	beat	N.Pope & W.Dickson	+1
+7	E.Miller & E.Allen	beat	C.West & G.Kirkland	+4
+8	E.Miller & E.Allen	beat	C.West & G.Kirkland	+4
+9	Judy Wembridge	beat	June Pongratz	+4
+10	Judy Wembridge	beat	June Pongratz	+4
+11	Sue Beattie	beat	Anne Quinn	+3
+12	Sue Beattie	beat	Anne Quinn	+2
+13	Elizabeth Allen	beat	Gina Kirkland	+2
+14	Gina Kirkland	beat	Elizabeth Allen	+1
+15	Wendy Dickson	beat	Jenny Parrott	+5
+16	Wendy Dickson	beat	Jenny Parrott	+3
+17	Sue Beattie	beat	Judy Wembridge	+3
+18	Judy Wembridge	beat	Sue Beattie	+4
+19	Anne Quinn	beat	June Pongratz	+5
+20	Anne Quinn	beat	June Pongratz	+3
+21	Elizabeth Allen	beat	Jenny Parrott	+4
+22	Elizabeth Allen	beat	Jenny Parrott	+3
+23	Gina Kirkland	beat	Wendy Dickson	+1
+24	Wendy Dickson	beat	Gina Kirkland	+3
+25	John van der Touw	beat	Bob Beattie	+4
+26	John van der Touw	beat	Bob Beattie	+1
+27	Kevin Beard	beat	Henry Burbury	+5
+28	Kevin Beard	beat	Henry Burbury	+5
+29	Neville Pope	beat	Chris West	+6
+30	Neville Pope	beat	Chris West	+3
+31	Eric Miller	beat	Daryl Jacobs	+2
+32	Daryl Jacobs	beat	Eric Miller	+1
+33	John van der Touw	beat	Henry Burbury	+5
+34	John van der Touw	beat	Henry Burbury	+3
+35	Kevin Beard	beat	Bob Beattie	+4
+36	Kevin Beard	beat	Bob Beattie	+3
+37	Neville Pope	beat	Daryl Jacobs	+2
+38	Neville Pope	beat	Daryl Jacobs	+4
+39	Eric Miller	beat	Chris West	+3
+40	Eric Miller	beat	Chris West	+6
+End
+
+Event AUS Western Australia v Queensland
+Date 2-2.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	R.Marshall & M.Garrod	beat	T.Ericson & D.Hardy	+2
+2	R.Marshall & M.Garrod	beat	T.Ericson & D.Hardy	+5
+3	Tom Knight & Gaye Pitman	beat	A.Sands & B.Schreuder	+2
+4	Tom Knight & Gaye Pitman	beat	A.Sands & B.Schreuder	+1
+5	J.Hardy & K.Colclough	beat	C.McWhirter & S.Boon	+1
+6	J.Hardy & K.Colclough	beat	C.McWhirter & S.Boon	+4
+7	P.Hopgood & S.Anderson	beat	Greg Bury & Margaret Melville	+2
+8	Greg Bury & Margaret Melville	beat	P.Hopgood & S.Anderson	+1
+9	Merryl Garrod	beat	Kathleen Colclough	+1
+10	Kathleen Colclough	beat	Merryl Garrod	+2
+11	Margaret Melville	beat	Susan Anderson	+5
+12	Susan Anderson	beat	Margaret Melville	+3
+13	Gaye Pitman	beat	Birgit Schreuder	+4
+14	Gaye Pitman	beat	Birgit Schreuder	+4
+15	Sandra Boon	beat	Deirdre Hardy	+5
+16	Deirdre Hardy	beat	Sandra Boon	+2
+17	Margaret Melville	beat	Merryl Garrod	+3
+18	Merryl Garrod	beat	Margaret Melville	+2
+19	Kathleen Colclough	beat	Susan Anderson	+6
+20	Kathleen Colclough	beat	Susan Anderson	+5
+21	Birgit Schreuder	beat	Deirdre Hardy	+2
+22	Deirdre Hardy	beat	Birgit Schreuder	+3
+23	Sandra Boon	beat	Gaye Pitman	+2
+24	Gaye Pitman	beat	Sandra Boon	+2
+25	John Hardy	beat	Chris McWhirter	+5
+26	Chris McWhirter	beat	John Hardy	+4
+27	Alan Sands	beat	Terry Ericson	+3
+28	Terry Ericson	beat	Alan Sands	+1
+29	Ross Marshall	beat	Wayne Strong	+1
+30	Wayne Strong	beat	Ross Marshall	+4
+31	Western Australia	beat	Tom Knight	+1
+32	Tom Knight	beat	Western Australia	+5
+33	Terry Ericson	beat	Chris McWhirter	+2
+34	Chris McWhirter	beat	Terry Ericson	+1
+35	John Hardy	beat	Alan Sands	+4
+36	Alan Sands	beat	John Hardy	+4
+37	Tom Knight	beat	Ross Marshall	+2
+38	Tom Knight	beat	Ross Marshall	+5
+39	Western Australia	beat	Wayne Strong	+3
+40	Western Australia	beat	Wayne Strong	+4
+End
+
+Event AUS New South Wales v Queensland
+Date 3-3.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	J.Levick & C.Pont	beat	Greg Bury & Margaret Melville	+1
+2	J.Levick & C.Pont	beat	Greg Bury & Margaret Melville	+2
+3	T.Ericson & D.Hardy	beat	M.Jenner & P.Gentle	+2
+4	T.Ericson & D.Hardy	beat	M.Jenner & P.Gentle	+1
+5	J.Hardy & K.Colclough	beat	R.Johnstone & R.Johnstone	+3
+6	J.Hardy & K.Colclough	beat	R.Johnstone & R.Johnstone	+2
+7	Tom Knight & Gaye Pitman	beat	M.Prins & B.Piggott	+5
+8	Tom Knight & Gaye Pitman	beat	M.Prins & B.Piggott	+6
+9	Christine Pont	beat	Kathleen Colclough	+5
+10	Christine Pont	beat	Kathleen Colclough	+4
+11	Margaret Melville	beat	Ros Johnstone	+2
+12	Margaret Melville	beat	Ros Johnstone	+1
+13	Pam Gentle	beat	Gaye Pitman	+5
+14	Gaye Pitman	beat	Pam Gentle	+5
+15	Barb Piggott	beat	Deirdre Hardy	+4
+16	Barb Piggott	beat	Deirdre Hardy	+4
+17	Christine Pont	beat	Margaret Melville	+3
+18	Christine Pont	beat	Margaret Melville	+2
+19	Kathleen Colclough	beat	Ros Johnstone	+5
+20	Kathleen Colclough	beat	Ros Johnstone	+2
+21	Pam Gentle	beat	Deirdre Hardy	+6
+22	Pam Gentle	beat	Deirdre Hardy	+4
+23	Barb Piggott	beat	Gaye Pitman	+3
+24	Barb Piggott	beat	Gaye Pitman	+3
+25	Terry Ericson	beat	Martyn Prins	+2
+26	Terry Ericson	beat	Martyn Prins	+2
+27	Mike Jenner	beat	Greg Bury	+2
+28	Mike Jenner	beat	Greg Bury	+2
+29	John Levick	beat	Tom Knight	+1
+30	John Levick	beat	Tom Knight	+3
+31	Joe Dimech	beat	John Hardy	+3
+32	Joe Dimech	beat	John Hardy	+1
+33	Greg Bury	beat	Martyn Prins	+1
+34	Greg Bury	beat	Martyn Prins	+1
+35	Mike Jenner	beat	Terry Ericson	+2
+36	Mike Jenner	beat	Terry Ericson	+3
+37	John Levick	beat	John Hardy	+2
+38	John Hardy	beat	John Levick	+3
+39	Tom Knight	beat	Joe Dimech	+4
+40	Tom Knight	beat	Joe Dimech	+2
+End
+
+Event AUS Victoria v South Australia
+Date 3-3.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	G.Whiteway & M.Podnieks	beat	K.Beard & J.Wembridge	+1
+2	K.Beard & J.Wembridge	beat	G.Whiteway & M.Podnieks	+6
+3	David Wise & Creina Dawson	beat	J.van der Touw & A.Quinn	+1
+4	J.van der Touw & A.Quinn	beat	David Wise & Creina Dawson	+3
+5	N.Bonnar & W.Bonnar	beat	N.Pope & W.Dickson	+2
+6	N.Bonnar & W.Bonnar	beat	N.Pope & W.Dickson	+1
+7	Michael Shanahan & Kay Chynoweth	beat	E.Miller & E.Allen	+2
+8	Michael Shanahan & Kay Chynoweth	beat	E.Miller & E.Allen	+1
+9	Judy Wembridge	beat	Wilma Bonnar	+2
+10	Wilma Bonnar	beat	Judy Wembridge	+1
+11	Anne Quinn	beat	Kay Chynoweth	+3
+12	Anne Quinn	beat	Kay Chynoweth	+1
+13	Marga Podnieks	beat	Elizabeth Allen	+5
+14	Elizabeth Allen	beat	Marga Podnieks	+2
+15	Wendy Dickson	beat	Creina Dawson	+3
+16	Creina Dawson	beat	Wendy Dickson	+3
+17	Kay Chynoweth	beat	Judy Wembridge	+5
+18	Judy Wembridge	beat	Kay Chynoweth	+5
+19	Anne Quinn	beat	Wilma Bonnar	+3
+20	Anne Quinn	beat	Wilma Bonnar	+2
+21	Elizabeth Allen	beat	Creina Dawson	+1
+22	Creina Dawson	beat	Elizabeth Allen	+2
+23	Wendy Dickson	beat	Marga Podnieks	+6
+24	Wendy Dickson	beat	Marga Podnieks	+1
+25	Graham Whiteway	beat	John van der Touw	+1
+26	John van der Touw	beat	Graham Whiteway	+2
+27	Kevin Beard	beat	David Wise	+3
+28	David Wise	beat	Kevin Beard	+1
+29	Neville Pope	beat	Michael Shanahan	+4
+30	Neville Pope	beat	Michael Shanahan	+4
+31	Eric Miller	beat	Neil Bonnar	+2
+32	Eric Miller	beat	Neil Bonnar	+2
+33	David Wise	beat	John van der Touw	+1
+34	John van der Touw	beat	David Wise	+4
+35	Kevin Beard	beat	Graham Whiteway	+4
+36	Graham Whiteway	beat	Kevin Beard	+4
+37	Neil Bonnar	beat	Neville Pope	+4
+38	Neil Bonnar	beat	Neville Pope	+4
+39	Eric Miller	beat	Michael Shanahan	+1
+40	Michael Shanahan	beat	Eric Miller	+3
+End
+
+Event AUS Western Australia v Tasmania
+Date 3-3.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	R.Marshall & M.Garrod	beat	Henry Burbery & Sue Beattie	+3
+2	R.Marshall & M.Garrod	beat	Henry Burbery & Sue Beattie	+4
+3	A.Sands & B.Schreuder	beat	B.Godfrey & P.Paine	+5
+4	A.Sands & B.Schreuder	beat	B.Godfrey & P.Paine	+4
+5	C.McWhirter & S.Boon	beat	Bob Beattie & Jenny Parrott	+4
+6	C.McWhirter & S.Boon	beat	Bob Beattie & Jenny Parrott	+3
+7	P.Hopgood & S.Anderson	beat	Daryl Jacobs & June Pongratz	+6
+8	Daryl Jacobs & June Pongratz	beat	P.Hopgood & S.Anderson	+4
+9	Merryl Garrod	beat	Patsy Paine	+3
+10	Merryl Garrod	beat	Patsy Paine	+2
+11	Susan Anderson	beat	Sue Beattie	+3
+12	Susan Anderson	beat	Sue Beattie	+1
+13	Birgit Schreuder	beat	Jenny Parrott	+2
+14	Birgit Schreuder	beat	Jenny Parrott	+3
+15	Sandra Boon	beat	June Pongratz	+2
+16	June Pongratz	beat	Sandra Boon	+2
+17	Sue Beattie	beat	Merryl Garrod	+2
+18	Merryl Garrod	beat	Sue Beattie	+1
+19	Susan Anderson	beat	Patsy Paine	+4
+20	Susan Anderson	beat	Patsy Paine	+3
+21	Birgit Schreuder	beat	June Pongratz	+2
+22	June Pongratz	beat	Birgit Schreuder	+4
+23	Sandra Boon	beat	Jenny Parrott	+1
+24	Sandra Boon	beat	Jenny Parrott	+1
+25	Chris McWhirter	beat	Bob Godfrey	+2
+26	Chris McWhirter	beat	Bob Godfrey	+4
+27	Alan Sands	beat	Henry Burbury	+5
+28	Alan Sands	beat	Henry Burbury	+4
+29	Ross Marshall	beat	Daryl Jacobs	+3
+30	Ross Marshall	beat	Daryl Jacobs	+2
+31	Western Australia	beat	Bob Beattie	+1
+32	Western Australia	beat	Bob Beattie	+3
+33	Chris McWhirter	beat	Henry Burbury	+5
+34	Chris McWhirter	beat	Henry Burbury	+4
+35	Alan Sands	beat	Bob Godfrey	+3
+36	Alan Sands	beat	Bob Godfrey	+5
+37	Ross Marshall	beat	Bob Beattie	+2
+38	Ross Marshall	beat	Bob Beattie	+3
+39	Daryl Jacobs	beat	Western Australia	+4
+40	Western Australia	beat	Daryl Jacobs	+2
+End
+
+Event AUS New South Wales v Western Australia
+Date 4-4.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	R.Marshall & M.Garrod	beat	J.Levick & C.Pont	+2
+2	J.Levick & C.Pont	beat	R.Marshall & M.Garrod	+4
+3	M.Jenner & P.Gentle	beat	A.Sands & B.Schreuder	+3
+4	M.Jenner & P.Gentle	beat	A.Sands & B.Schreuder	+4
+5	R.Johnstone & R.Johnstone	beat	C.McWhirter & S.Boon	+1
+6	C.McWhirter & S.Boon	beat	R.Johnstone & R.Johnstone	+2
+7	P.Hopgood & S.Anderson	beat	M.Prins & B.Piggott	+3
+8	P.Hopgood & S.Anderson	beat	M.Prins & B.Piggott	+4
+9	Christine Pont	beat	Susan Anderson	+3
+10	Christine Pont	beat	Susan Anderson	+1
+11	Merryl Garrod	beat	Ros Johnstone	+3
+12	Ros Johnstone	beat	Merryl Garrod	+4
+13	Pam Gentle	beat	Sandra Boon	+1
+14	Pam Gentle	beat	Sandra Boon	+2
+15	Barb Piggott	beat	Birgit Schreuder	+2
+16	Birgit Schreuder	beat	Barb Piggott	+1
+17	Merryl Garrod	beat	Christine Pont	+3
+18	Christine Pont	beat	Merryl Garrod	+3
+19	Ros Johnstone	beat	Susan Anderson	+2
+20	Susan Anderson	beat	Ros Johnstone	+3
+21	Birgit Schreuder	beat	Pam Gentle	+2
+22	Pam Gentle	beat	Birgit Schreuder	+3
+23	Sandra Boon	beat	Barb Piggott	+2
+24	Barb Piggott	beat	Sandra Boon	+2
+25	Martyn Prins	beat	Alan Sands	+3
+26	Alan Sands	beat	Martyn Prins	+2
+27	Chris McWhirter	beat	Mike Jenner	+2
+28	Mike Jenner	beat	Chris McWhirter	+1
+29	John Levick	beat	Western Australia	+5
+30	John Levick	beat	Western Australia	+2
+31	Ross Marshall	beat	Joe Dimech	+2
+32	Joe Dimech	beat	Ross Marshall	+2
+33	Chris McWhirter	beat	Martyn Prins	+1
+34	Chris McWhirter	beat	Martyn Prins	+2
+35	Alan Sands	beat	Mike Jenner	+3
+36	Mike Jenner	beat	Alan Sands	+6
+37	Ross Marshall	beat	John Levick	+2
+38	John Levick	beat	Ross Marshall	+3
+39	Joe Dimech	beat	Western Australia	+3
+40	Western Australia	beat	Joe Dimech	+4
+End
+
+Event AUS Queensland v Victoria
+Date 4-4.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	K.Beard & J.Wembridge	beat	T.Ericson & D.Hardy	+4
+2	K.Beard & J.Wembridge	beat	T.Ericson & D.Hardy	+2
+3	Greg Bury & Margaret Melville	beat	J.van der Touw & A.Quinn	+4
+4	Greg Bury & Margaret Melville	beat	J.van der Touw & A.Quinn	+3
+5	N.Pope & W.Dickson	beat	J.Hardy & K.Colclough	+2
+6	N.Pope & W.Dickson	beat	J.Hardy & K.Colclough	+2
+7	Tom Knight & Gaye Pitman	beat	E.Miller & E.Allen	+1
+8	Tom Knight & Gaye Pitman	beat	E.Miller & E.Allen	+4
+9	Margaret Melville	beat	Anne Quinn	+2
+10	Margaret Melville	beat	Anne Quinn	+1
+11	Judy Wembridge	beat	Kathleen Colclough	+2
+12	Kathleen Colclough	beat	Judy Wembridge	+2
+13	Deirdre Hardy	beat	Wendy Dickson	+1
+14	Wendy Dickson	beat	Deirdre Hardy	+6
+15	Gaye Pitman	beat	Elizabeth Allen	+2
+16	Gaye Pitman	beat	Elizabeth Allen	+3
+17	Judy Wembridge	beat	Margaret Melville	+4
+18	Margaret Melville	beat	Judy Wembridge	+2
+19	Kathleen Colclough	beat	Anne Quinn	+5
+20	Anne Quinn	beat	Kathleen Colclough	+5
+21	Elizabeth Allen	beat	Deirdre Hardy	+7
+22	Deirdre Hardy	beat	Elizabeth Allen	+1
+23	Wendy Dickson	beat	Gaye Pitman	+4
+24	Wendy Dickson	beat	Gaye Pitman	+1
+25	Kevin Beard	beat	Greg Bury	+4
+26	Kevin Beard	beat	Greg Bury	+2
+27	John van der Touw	beat	Terry Ericson	+1
+28	John van der Touw	beat	Terry Ericson	+3
+29	John Hardy	beat	Eric Miller	+3
+30	Eric Miller	beat	John Hardy	+4
+31	Neville Pope	beat	Tom Knight	+1
+32	Neville Pope	beat	Tom Knight	+3
+33	John van der Touw	beat	Greg Bury	+5
+34	Greg Bury	beat	John van der Touw	+4
+35	Terry Ericson	beat	Kevin Beard	+1
+36	Terry Ericson	beat	Kevin Beard	+1
+37	John Hardy	beat	Neville Pope	+3
+38	John Hardy	beat	Neville Pope	+1
+39	Eric Miller	beat	Tom Knight	+2
+40	Eric Miller	beat	Tom Knight	+4
+End
+
+Event AUS South Australia v Tasmania
+Date 4-4.9.11
+Class 2
+Type match
+Games 40
+Order firstname
+1	Henry Burbery & Sue Beattie	beat	David Wise & Creina Dawson	+4
+2	Henry Burbery & Sue Beattie	beat	David Wise & Creina Dawson	+3
+3	N.Bonnar & W.Bonnar	beat	B.Godfrey & P.Paine	+1
+4	B.Godfrey & P.Paine	beat	N.Bonnar & W.Bonnar	+1
+5	Gavin Bow & Bernie Pfitzner	beat	Bob Beattie & Jenny Parrott	+3
+6	Gavin Bow & Bernie Pfitzner	beat	Bob Beattie & Jenny Parrott	+6
+7	Michael Shanahan & Kay Chynoweth	beat	C.West & G.Kirkland	+3
+8	Michael Shanahan & Kay Chynoweth	beat	C.West & G.Kirkland	+5
+9	Patsy Paine	beat	Bernie Pfitzner	+4
+10	Bernie Pfitzner	beat	Patsy Paine	+6
+11	Sue Beattie	beat	Kay Chynoweth	+1
+12	Kay Chynoweth	beat	Sue Beattie	+1
+13	Wilma Bonnar	beat	Gina Kirkland	+3
+14	Wilma Bonnar	beat	Gina Kirkland	+4
+15	Creina Dawson	beat	June Pongratz	+6
+16	June Pongratz	beat	Creina Dawson	+3
+17	Sue Beattie	beat	Bernie Pfitzner	+1
+18	Bernie Pfitzner	beat	Sue Beattie	+2
+19	Patsy Paine	beat	Kay Chynoweth	+2
+20	Kay Chynoweth	beat	Patsy Paine	+1
+21	Wilma Bonnar	beat	June Pongratz	+4
+22	Wilma Bonnar	beat	June Pongratz	+6
+23	Creina Dawson	beat	Gina Kirkland	+3
+24	Creina Dawson	beat	Gina Kirkland	+5
+25	David Wise	beat	Bob Godfrey	+3
+26	David Wise	beat	Bob Godfrey	+3
+27	Neil Bonnar	beat	Henry Burbury	+3
+28	Neil Bonnar	beat	Henry Burbury	+2
+29	Michael Shanahan	beat	Chris West	+4
+30	Michael Shanahan	beat	Chris West	+2
+31	Gavin Bow	beat	Bob Beattie	+2
+32	Gavin Bow	beat	Bob Beattie	+4
+33	David Wise	beat	Henry Burbury	+7
+34	David Wise	beat	Henry Burbury	+2
+35	Neil Bonnar	beat	Bob Godfrey	+4
+36	Neil Bonnar	beat	Bob Godfrey	+5
+37	Bob Beattie	beat	Michael Shanahan	+1
+38	Michael Shanahan	beat	Bob Beattie	+2
+39	Chris West	beat	Gavin Bow	+6
+40	Gavin Bow	beat	Chris West	+2
+End
+

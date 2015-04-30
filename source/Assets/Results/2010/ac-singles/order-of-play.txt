@@ -1,0 +1,342 @@
+Event AUS Block A
+Date 23-25.11.10
+Class 1
+Type single
+Games 28
+Order firstname
+1	Robert Fletcher	beat	Rosemary Newsham	+26TP
+2	Liz Fleming	beat	Greg Rowberry	+5
+3	Martyn Prins	beat	Jim Nicholls	+17
+4	Stephen Richards	beat	Basil Ladyman	+25
+5	Liz Fleming	beat	Martyn Prins	+9
+6	Robert Fletcher	beat	Basil Ladyman	+25TP
+7	Stephen Richards	beat	Rosemary Newsham	+26TP
+8	Jim Nicholls	beat	Greg Rowberry	+1
+9	Stephen Richards	beat	Greg Rowberry	+1
+10	Liz Fleming	beat	Rosemary Newsham	+22
+11	Jim Nicholls	beat	Basil Ladyman	+19TP
+12	Robert Fletcher	beat	Martyn Prins	+17TP
+13	Jim Nicholls	beat	Rosemary Newsham	+17
+14	Robert Fletcher	beat	Greg Rowberry	+14TP
+15	Liz Fleming	beat	Basil Ladyman	+21
+16	Stephen Richards	beat	Martyn Prins	+7
+17	Robert Fletcher	beat	Liz Fleming	+11
+18	Greg Rowberry	beat	Rosemary Newsham	+12
+19	Martyn Prins	beat	Basil Ladyman	+25TP
+20	Stephen Richards	beat	Jim Nicholls	+1
+21	Greg Rowberry	beat	Basil Ladyman	+25TP
+22	Robert Fletcher	beat	Jim Nicholls	+16
+23	Liz Fleming	beat	Stephen Richards	+20
+24	Martyn Prins	beat	Rosemary Newsham	+13
+25	Robert Fletcher	beat	Stephen Richards	+16
+26	Liz Fleming	beat	Jim Nicholls	+26
+27	Martyn Prins	beat	Greg Rowberry	+1
+28	Basil Ladyman	beat	Rosemary Newsham	+11
+End
+
+Event AUS Block B
+Date 23-25.11.10
+Class 1
+Type single
+Games 36
+Order firstname
+1	Dennis Bulloch	beat	Ray Vize	+23
+2	Trevor Bassett	beat	Ray Irlam	+6
+3	Judy Wembridge	beat	Alan Walsh	+19
+4	Alan Honey	beat	Charlotte Morgan	+16
+5	Bruce Fleming	beat	Ray Irlam	+21
+6	Trevor Bassett	beat	Ray Vize	+18
+7	Dennis Bulloch	beat	Judy Wembridge	+1
+8	Alan Walsh	beat	Charlotte Morgan	+24
+9	Bruce Fleming	beat	Ray Vize	+11
+10	Trevor Bassett	beat	Judy Wembridge	+5
+11	Charlotte Morgan	beat	Dennis Bulloch	+7
+12	Alan Honey	beat	Alan Walsh	+13
+13	Bruce Fleming	beat	Judy Wembridge	+23
+14	Dennis Bulloch	beat	Alan Honey	+16
+15	Ray Vize	beat	Ray Irlam	+23
+16	Charlotte Morgan	beat	Trevor Bassett	+8
+17	Charlotte Morgan	beat	Bruce Fleming	+22
+18	Alan Honey	beat	Trevor Bassett	+4
+19	Alan Walsh	beat	Ray Irlam	+7
+20	Judy Wembridge	beat	Ray Vize	+22
+21	Bruce Fleming	beat	Alan Honey	+21
+22	Dennis Bulloch	beat	Ray Irlam	+24TP
+23	Alan Walsh	beat	Ray Vize	+20
+24	Judy Wembridge	beat	Charlotte Morgan	+18
+25	Alan Walsh	beat	Bruce Fleming	+1
+26	Dennis Bulloch	beat	Trevor Bassett	+20
+27	Alan Honey	beat	Ray Irlam	+15
+28	Charlotte Morgan	beat	Ray Vize	+14
+29	Judy Wembridge	beat	Ray Irlam	+25
+30	Alan Honey	beat	Ray Vize	+1
+31	Alan Walsh	beat	Trevor Bassett	+3
+32	Dennis Bulloch	beat	Bruce Fleming	+15
+33	Trevor Bassett	beat	Bruce Fleming	+26TP
+34	Alan Walsh	beat	Dennis Bulloch	+5
+35	Alan Honey	beat	Judy Wembridge	+3
+36	Charlotte Morgan	beat	Ray Irlam	+17
+End
+
+Event AUS Block C
+Date 23-25.11.10
+Class 1
+Type single
+Games 28
+Order firstname
+1	Ken Bald	beat	Stephen Howes	+24
+2	Rosemary Graham	beat	Albert Rutten	+14
+3	Tim Murphy	beat	Steve Jones	+26
+4	Mike Hughes	beat	Kevin Beard	+10
+5	Albert Rutten	beat	Steve Jones	+3
+6	Mike Hughes	beat	Ken Bald	+16
+7	Kevin Beard	beat	Stephen Howes	+20
+8	Rosemary Graham	beat	Tim Murphy	+16
+9	Kevin Beard	beat	Rosemary Graham	+16
+10	Stephen Howes	beat	Albert Rutten	+12
+11	Tim Murphy	beat	Mike Hughes	+9
+12	Steve Jones	beat	Ken Bald	+1
+13	Tim Murphy	beat	Stephen Howes	+7TPO
+14	Kevin Beard	beat	Steve Jones	+20
+15	Ken Bald	beat	Rosemary Graham	+26
+16	Albert Rutten	beat	Mike Hughes	+4
+17	Ken Bald	beat	Albert Rutten	+17
+18	Rosemary Graham	beat	Stephen Howes	+26
+19	Mike Hughes	beat	Steve Jones	+15
+20	Kevin Beard	beat	Tim Murphy	+16
+21	Mike Hughes	beat	Rosemary Graham	+13
+22	Ken Bald	beat	Tim Murphy	+22
+23	Kevin Beard	beat	Albert Rutten	+26TP
+24	Steve Jones	beat	Stephen Howes	+2
+25	Ken Bald	beat	Kevin Beard	+24TP
+26	Rosemary Graham	beat	Steve Jones	+26
+27	Tim Murphy	beat	Albert Rutten	+14
+28	Mike Hughes	beat	Stephen Howes	+10
+End
+
+Event AUS Block D
+Date 23-25.11.10
+Class 1
+Type single
+Games 28
+Order firstname
+1	Jenny Clarke	beat	Geoff Kingdon	+26TP
+2	Greg Fletcher	beat	Gareth Bushill	+17TP
+3	Alison Sharpe	beat	Tom Knight	+6
+4	Ken Edwards	beat	Tricia Devlin	+6
+5	Alison Sharpe	beat	Tricia Devlin	+16
+6	Greg Fletcher	beat	Geoff Kingdon	+18
+7	Jenny Clarke	beat	Gareth Bushill	+3
+8	Ken Edwards	beat	Tom Knight	+26
+9	Jenny Clarke	beat	Tom Knight	+1
+10	Alison Sharpe	beat	Gareth Bushill	+18
+11	Ken Edwards	beat	Geoff Kingdon	+5
+12	Tricia Devlin	beat	Greg Fletcher	+19
+13	Ken Edwards	beat	Gareth Bushill	+26
+14	Jenny Clarke	beat	Tricia Devlin	+25
+15	Greg Fletcher	beat	Tom Knight	+26TP
+16	Alison Sharpe	beat	Geoff Kingdon	+4
+17	Greg Fletcher	beat	Alison Sharpe	+14
+18	Gareth Bushill	beat	Tom Knight	+1
+19	Tricia Devlin	beat	Geoff Kingdon	+22
+20	Jenny Clarke	beat	Ken Edwards	+1
+21	Tom Knight	beat	Geoff Kingdon	+12
+22	Greg Fletcher	beat	Ken Edwards	+18
+23	Jenny Clarke	beat	Alison Sharpe	+1
+24	Gareth Bushill	beat	Tricia Devlin	+1
+25	Greg Fletcher	beat	Jenny Clarke	+25
+26	Tom Knight	beat	Tricia Devlin	+9
+27	Geoff Kingdon	beat	Gareth Bushill	+10
+28	Ken Edwards	beat	Alison Sharpe	+24
+End
+
+Event AUS Block E
+Date 23-25.11.10
+Class 1
+Type single
+Games 28
+Order firstname
+1	John Levick	beat	Tony Hall	+25
+2	Malcolm Fletcher	beat	Dick Smith	+18
+3	Peter Landrebe	beat	Judy Evans	+25
+4	Claire Bassett	beat	David Wise	+24
+5	Malcolm Fletcher	beat	Judy Evans	+26SXP
+6	Claire Bassett	beat	Tony Hall	+24
+7	Peter Landrebe	beat	Dick Smith	+19
+8	John Levick	beat	David Wise	+8
+9	Malcolm Fletcher	beat	David Wise	+21
+10	Claire Bassett	beat	Judy Evans	+21
+11	Peter Landrebe	beat	Tony Hall	+6
+12	John Levick	beat	Dick Smith	+3
+13	John Levick	beat	Judy Evans	+3
+14	Tony Hall	beat	Malcolm Fletcher	+14
+15	Peter Landrebe	beat	David Wise	+17TP
+16	Dick Smith	beat	Claire Bassett	+16
+17	Claire Bassett	beat	Peter Landrebe	+14
+18	David Wise	beat	Judy Evans	+15
+19	Dick Smith	beat	Tony Hall	+6
+20	Malcolm Fletcher	beat	John Levick	+7
+21	David Wise	beat	Dick Smith	+13
+22	Peter Landrebe	beat	John Levick	+15
+23	Claire Bassett	beat	Malcolm Fletcher	+5
+24	Tony Hall	beat	Judy Evans	+4
+25	Peter Landrebe	beat	Malcolm Fletcher	+1
+26	John Levick	beat	Claire Bassett	+16
+27	Tony Hall	beat	David Wise	+3
+28	Dick Smith	beat	Judy Evans	+3
+End
+
+Event AUS 32nd Playoff
+Date 24-25.11.10
+Class 2
+Type match
+Games 2
+Order firstname
+1	Steve Jones	beat	Gareth Bushill	+13
+2	Steve Jones	beat	David Wise	+17TP
+End
+
+Event AUS Knockout
+Date 25-28.11.10
+Class 1
+Type match
+Games 31
+Order firstname
+1	Robert Fletcher	beat	Albert Rutten	+26TP, +26SXP
+2	Tricia Devlin	beat	Alan Honey	+24, +23
+3	Stephen Richards	beat	Charlotte Morgan	-6, +23, +16
+4	Claire Bassett	beat	Greg Rowberry	+25, +21
+5	Dennis Bulloch	beat	Tom Knight	+26TP, +26
+6	Ken Edwards	beat	Tim Murphy	+15, +15
+7	Martyn Prins	beat	John Levick	+26, +17
+8	Peter Landrebe	beat	Bruce Fleming	+3, +17
+9	Ken Bald	beat	Tony Hall	+26, +25TP
+10	Malcolm Fletcher	beat	Rosemary Graham	+4TPO, +9TP
+11	Alison Sharpe	beat	Liz Fleming	+24, +24
+12	Jenny Clarke	beat	Trevor Bassett	+26TP, +26TP
+13	Kevin Beard	beat	Dick Smith	-6, +14, +16
+14	Alan Walsh	beat	Judy Wembridge	+4, +24
+15	Mike Hughes	beat	Jim Nicholls	+2, +2
+16	Greg Fletcher	beat	Steve Jones	-25, +26, +14OTP
+17	Robert Fletcher	beat	Tricia Devlin	+15TP, +20TP
+18	Stephen Richards	beat	Claire Bassett	+3, +3
+19	Dennis Bulloch	beat	Ken Edwards	-14, +17, +24
+20	Peter Landrebe	beat	Martyn Prins	+26TP, +25
+21	Ken Bald	beat	Malcolm Fletcher	+23, +13
+22	Jenny Clarke	beat	Alison Sharpe	+17TP, +3TP
+23	Kevin Beard	beat	Alan Walsh	+25, +21TP
+24	Greg Fletcher	beat	Mike Hughes	+14, -12, +26
+25	Robert Fletcher	beat	Stephen Richards	+26TP, +21TP
+26	Peter Landrebe	beat	Dennis Bulloch	+17, +3
+27	Jenny Clarke	beat	Ken Bald	+18, -17, +4TP
+28	Kevin Beard	beat	Greg Fletcher	+3TP, +17TP
+29	Peter Landrebe	beat	Robert Fletcher	-20TP, +26TP, -3, +20, +17
+30	Jenny Clarke	beat	Kevin Beard	+5, -26TP, +17TP, -26TP, +26TP
+31	Jenny Clarke	beat	Peter Landrebe	-26TP, +2, +26, +25
+End
+
+Event AUS Plate Swiss
+Date 25-28.11.10
+Class 3
+Type single
+Games 40
+Order firstname
+1	Gareth Bushill	beat	Eileen Irlam	+25
+2	Robyn Stock	beat	Basil Ladyman	+2
+3	Rosemary Newsham	beat	Stephen Howes	+4
+4	Ray Vize	beat	Judy Evans	+1
+5	Jock  Capobianco	beat	Marie Calthorpe	+4
+6	David Wise	beat	Ray Irlam	+20
+7	Ray Vize	beat	Gareth Bushill	+23
+8	Stephen Howes	beat	Basil Ladyman	+23
+9	Robyn Stock	beat	Rosemary Newsham	+14
+10	Judy Evans	beat	Eileen Irlam	+20
+11	David Wise	beat	Jock  Capobianco	+26TP
+12	Marie Calthorpe	beat	Ray Irlam	+12
+13	Robyn Stock	beat	Ray Vize	+23
+14	David Wise	beat	Stephen Howes	+17
+15	Judy Evans	beat	Gareth Bushill	+17
+16	Basil Ladyman	beat	Rosemary Newsham	+23
+17	Jock  Capobianco	beat	Ray Irlam	+24
+18	Marie Calthorpe	beat	Eileen Irlam	+14
+19	Judy Evans	beat	Jock  Capobianco	+17
+20	Gareth Bushill	beat	Rosemary Newsham	+13
+21	Stephen Howes	beat	Ray Irlam	+16
+22	David Wise	beat	Robyn Stock	+4
+23	David Wise	beat	Judy Evans	+18
+24	Ray Vize	beat	Marie Calthorpe	+2
+25	Gareth Bushill	beat	Marie Calthorpe	+1
+26	Ray Vize	beat	Stephen Howes	+6
+27	Robyn Stock	beat	Jock  Capobianco	+1
+28	Rosemary Newsham	beat	Ray Irlam	+16
+29	David Wise	beat	Ray Vize	+20
+30	Robyn Stock	beat	Judy Evans	+20
+31	Gareth Bushill	beat	Jock  Capobianco	+7
+32	Marie Calthorpe	beat	Rosemary Newsham	+6
+33	Stephen Howes	beat	Ray Irlam	+12
+34	David Wise	beat	Marie Calthorpe	+14
+35	Gareth Bushill	beat	Robyn Stock	+1
+36	Ray Irlam	beat	Judy Evans	+5
+37	Rosemary Newsham	beat	Jock  Capobianco	+5
+38	David Wise	beat	Robyn Stock	+17
+39	Jock  Capobianco	beat	Ray Irlam	+19
+40	Marie Calthorpe	beat	Judy Evans	+3
+End
+
+Event AUS Y Knockout
+Date 26-28.11.10
+Class 2
+Type match
+Games 15
+Order firstname
+1	Alan Honey	beat	Albert Rutten	-5, +11, +3
+2	Greg Rowberry	beat	Charlotte Morgan	+26TP, +26
+3	Tim Murphy	beat	Tom Knight	+1, +26TP
+4	Bruce Fleming	beat	John Levick	-17TP, +10TP, +12
+5	Rosemary Graham	beat	Tony Hall	-12, +8, +14
+6	Trevor Bassett	beat	Liz Fleming	-16, +24TP, +26
+7	Judy Wembridge	beat	Dick Smith	+9, +5
+8	Jim Nicholls	beat	Steve Jones	-17, +2, +18
+9	Alan Honey	beat	Greg Rowberry	+13, +8
+10	Tim Murphy	beat	Bruce Fleming	+2, -16TP, +15TP
+11	Rosemary Graham	beat	Trevor Bassett	+2, +22
+12	Jim Nicholls	beat	Judy Wembridge	+26, +23
+13	Tim Murphy	beat	Alan Honey	+17, +6TPO
+14	Jim Nicholls	beat	Rosemary Graham	+16, -9, +18
+15	Tim Murphy	beat	Jim Nicholls	+26, +2
+End
+
+Event AUS Z Knockout
+Date 26-28.11.10
+Class 2
+Type match
+Games 6
+Order firstname
+1	Ken Edwards	beat	Martyn Prins	+19, +16
+2	Malcolm Fletcher	beat	Alison Sharpe	-4, +6TP, +25TP
+3	Mike Hughes	beat	Alan Walsh	+4, -12, +26
+4	Ken Edwards	beat	Tricia Devlin	+10, +26
+5	Malcolm Fletcher	beat	Mike Hughes	+6TP, +19
+6	Malcolm Fletcher	beat	Ken Edwards	+15TP, +10
+End
+
+Event AUS 5th - 8th Playoff
+Date 27-28.11.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Stephen Richards	beat	Dennis Bulloch	+26, -4, +22
+2	Ken Bald	beat	Greg Fletcher	+26TP, +17
+3	Ken Bald	beat	Stephen Richards	+17, +1
+End
+
+Event AUS 3rd - 4th Playoff
+Date 28-28.11.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Robert Fletcher	beat	Kevin Beard	+2, +6OTP
+End
+

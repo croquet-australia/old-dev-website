@@ -1,0 +1,155 @@
+Event AUS Doubles Block 1
+Date 25-26.10.10
+Class 2
+Type single
+Games 10
+Order firstname
+1	J Parrot & R Barrett	beat	P Hamilton M Cummins	+5
+2	J Parrot & R Barrett	beat	C Bamford & M Woolf	+5
+3	C Bamford & M Woolf	beat	P Hamilton M Cummins	+8
+4	C Bamford & M Woolf	beat	B Beattie & P Paine	+4
+5	D Wise & E Brindson	beat	B Beattie & P Paine	+1
+6	D Wise & E Brindson	beat	J Parrot & R Barrett	+6
+7	D Wise & E Brindson	beat	P Hamilton M Cummins	+16
+8	B Beattie & P Paine	beat	J Parrot & R Barrett	+2
+9	B Beattie & P Paine	beat	P Hamilton M Cummins	+3
+10	D Wise & E Brindson	beat	C Bamford & M Woolf	+1
+End
+
+Event AUS Doubles Block 2
+Date 25-26.10.10
+Class 2
+Type single
+Games 6
+Order firstname
+1	T Hall & K Lines	beat	E Roomes & P Rich	+20
+2	T Hall & K Lines	beat	O Marston & I Scott	+18
+3	I Smith & E Smith	beat	O Marston & I Scott	+22
+4	I Smith & E Smith	beat	E Roomes & P Rich	+9
+5	T Hall & K Lines	beat	I Smith & E Smith	+5
+6	E Roomes & P Rich	beat	O Marston & I Scott	+6
+End
+
+Event AUS Doubles Final
+Date 26-26.10.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	T Hall & K Lines	beat	D Wise & E Brindson	+5
+End
+
+Event AUS Singles Block 1
+Date 27-31.10.10
+Class 2
+Type single
+Games 36
+Order firstname
+1	Ian Smith	beat	Jenny Parrott	+20
+2	Max Woolf	beat	Pam Hamilton	+9
+3	Ian Scott	beat	Patsy Paine	+1
+4	Kathleen Lines	beat	Bob Beattie	+14
+5	Kathleen Lines	beat	Tony Hall	+8
+6	Pam Hamilton	beat	Jenny Parrott	+1
+7	Patsy Paine	beat	Bob Beattie	+9
+8	Max Woolf	beat	Ian Scott	+26
+9	Ian Smith	beat	Pam Hamilton	+21
+10	Tony Hall	beat	Patsy Paine	+5
+11	Ian Scott	beat	Jenny Parrott	+3
+12	Max Woolf	beat	Bob Beattie	+13
+13	Ian Smith	beat	Ian Scott	+15
+14	Max Woolf	beat	Tony Hall	+1
+15	Bob Beattie	beat	Jenny Parrott	+20
+16	Patsy Paine	beat	Kathleen Lines	+3
+17	Jenny Parrott	beat	Tony Hall	+11
+18	Bob Beattie	beat	Ian Smith	+7
+19	Kathleen Lines	beat	Pam Hamilton	+9
+20	Max Woolf	beat	Patsy Paine	+4
+21	Ian Smith	beat	Tony Hall	+13
+22	Patsy Paine	beat	Pam Hamilton	+7
+23	Max Woolf	beat	Jenny Parrott	+19
+24	Ian Scott	beat	Kathleen Lines	+2
+25	Patsy Paine	beat	Jenny Parrott	+10
+26	Bob Beattie	beat	Ian Scott	+12
+27	Pam Hamilton	beat	Tony Hall	+26
+28	Kathleen Lines	beat	Ian Smith	+6
+29	Ian Scott	beat	Tony Hall	+23
+30	Patsy Paine	beat	Ian Smith	+1
+31	Max Woolf	beat	Kathleen Lines	+13
+32	Bob Beattie	beat	Pam Hamilton	+16
+33	Bob Beattie	beat	Tony Hall	+7
+34	Pam Hamilton	beat	Ian Scott	+5
+35	Max Woolf	beat	Ian Smith	+18
+36	Jenny Parrott	beat	Kathleen Lines	+2
+End
+
+Event AUS Singles Block 2
+Date 27-31.10.10
+Class 2
+Type single
+Games 36
+Order firstname
+1	Elizabeth Smith	beat	Peter Rich	+24
+2	Zoran Malceski	beat	Elizabeth Brinsdon	+23
+3	Elaine Roomes	beat	Ricki Barrett	+3
+4	William Neilsen	beat	Greg Diprose	+19
+5	David Wise	beat	William Neilsen	+1
+6	Greg Diprose	beat	Ricki Barrett	+1
+7	Zoran Malceski	beat	Peter Rich	+1
+8	Elizabeth Smith	beat	Elaine Roomes	+1
+9	Elizabeth Smith	beat	Greg Diprose	+14
+10	Zoran Malceski	beat	Elaine Roomes	+10
+11	Ricki Barrett	beat	David Wise	+26
+12	Elizabeth Brinsdon	beat	Peter Rich	+7
+13	Elizabeth Brinsdon	beat	Elaine Roomes	+4
+14	Zoran Malceski	beat	David Wise	+11
+15	William Neilsen	beat	Elaine Roomes	+11
+16	Elizabeth Smith	beat	David Wise	+17
+17	William Neilsen	beat	Peter Rich	+11
+18	Zoran Malceski	beat	Elizabeth Smith	+12
+19	Zoran Malceski	beat	Greg Diprose	+15
+20	Elizabeth Smith	beat	Ricki Barrett	+6
+21	Ricki Barrett	beat	Peter Rich	+10
+22	William Neilsen	beat	Ricki Barrett	+16
+23	Elizabeth Brinsdon	beat	Greg Diprose	+11
+24	David Wise	beat	Elizabeth Brinsdon	+1
+25	Zoran Malceski	beat	Ricki Barrett	+3
+26	Elaine Roomes	beat	Greg Diprose	+16
+27	David Wise	beat	Peter Rich	+10
+28	William Neilsen	beat	Elizabeth Brinsdon	+3
+29	Elaine Roomes	beat	David Wise	+26
+30	Ricki Barrett	beat	Elizabeth Brinsdon	+3
+31	Elizabeth Smith	beat	William Neilsen	+6
+32	Peter Rich	beat	Greg Diprose	+23
+33	Zoran Malceski	beat	William Neilsen	+14
+34	Peter Rich	beat	Elaine Roomes	+26
+35	David Wise	beat	Greg Diprose	+19
+36	Elizabeth Smith	beat	Elizabeth Brinsdon	+8
+End
+
+Event AUS Singles Finals
+Date 30-31.10.10
+Class 2
+Type match
+Games 7
+Order firstname
+1	Max Woolf	beat	David Wise	+10
+2	Patsy Paine	beat	Elizabeth Smith	+26
+3	Bob Beattie	beat	William Neilsen	+3
+4	Zoran Malceski	beat	Ian Smith	+2
+5	Patsy Paine	beat	Max Woolf	+5
+6	Bob Beattie	beat	Zoran Malceski	+15
+7	Bob Beattie	beat	Patsy Paine	+10, +5
+End
+
+Event AUS Plate Finals
+Date 31-31.10.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Ricki Barrett	beat	Elizabeth Brinsdon	+19
+2	Jenny Parrott	beat	Greg Diprose	+7
+3	Ricki Barrett	beat	Jenny Parrott	+4
+End
+

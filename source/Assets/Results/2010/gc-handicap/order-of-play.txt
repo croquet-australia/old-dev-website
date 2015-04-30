@@ -1,0 +1,302 @@
+Event AUS Doubles Block
+Date 9-10.10.10
+Class 2
+Type single
+Games 66
+Order firstname
+1	Michael & M Lennon	beat	T Hall & C Dawson	+5
+2	J Hocking & G Foley	beat	C McWhirter & M Murphy	+5
+3	P Brown & P McGovern	beat	M Garrod & S Anderson	+6
+4	B Ladyman  R Lee	beat	M Muirhead & C Nigg	+6
+5	F Schreuder & P Warner	beat	D Leabeater & E Kelly	+1
+6	C Faulkner & D Fortescue	beat	I Tarling & B Boehm	+5
+7	J Hocking & G Foley	beat	T Hall & C Dawson	+4
+8	C McWhirter & M Murphy	beat	M Muirhead & C Nigg	+1
+9	M Garrod & S Anderson	beat	F Schreuder & P Warner	+3
+10	I Tarling & B Boehm	beat	B Ladyman  R Lee	+1
+11	C Faulkner & D Fortescue	beat	D Leabeater & E Kelly	+2
+12	P Brown & P McGovern	beat	Michael & M Lennon	+1
+13	P Brown & P McGovern	beat	T Hall & C Dawson	+6
+14	I Tarling & B Boehm	beat	C McWhirter & M Murphy	+4
+15	C Faulkner & D Fortescue	beat	M Garrod & S Anderson	+4
+16	B Ladyman  R Lee	beat	D Leabeater & E Kelly	+1
+17	Michael & M Lennon	beat	F Schreuder & P Warner	+1
+18	M Muirhead & C Nigg	beat	J Hocking & G Foley	+2
+19	M Muirhead & C Nigg	beat	T Hall & C Dawson	+4
+20	C McWhirter & M Murphy	beat	D Leabeater & E Kelly	+2
+21	B Ladyman  R Lee	beat	M Garrod & S Anderson	+2
+22	C Faulkner & D Fortescue	beat	Michael & M Lennon	+2
+23	J Hocking & G Foley	beat	I Tarling & B Boehm	+1
+24	P Brown & P McGovern	beat	F Schreuder & P Warner	+2
+25	F Schreuder & P Warner	beat	T Hall & C Dawson	+2
+26	M Garrod & S Anderson	beat	C McWhirter & M Murphy	+3
+27	B Ladyman  R Lee	beat	Michael & M Lennon	+1
+28	J Hocking & G Foley	beat	D Leabeater & E Kelly	+2
+29	P Brown & P McGovern	beat	C Faulkner & D Fortescue	+3
+30	M Muirhead & C Nigg	beat	I Tarling & B Boehm	+4
+31	I Tarling & B Boehm	beat	T Hall & C Dawson	+6
+32	Michael & M Lennon	beat	C McWhirter & M Murphy	+3
+33	M Garrod & S Anderson	beat	J Hocking & G Foley	+1
+34	P Brown & P McGovern	beat	B Ladyman  R Lee	+3
+35	D Leabeater & E Kelly	beat	M Muirhead & C Nigg	+2
+36	C Faulkner & D Fortescue	beat	F Schreuder & P Warner	+4
+37	C Faulkner & D Fortescue	beat	T Hall & C Dawson	+1
+38	P Brown & P McGovern	beat	C McWhirter & M Murphy	+4
+39	M Garrod & S Anderson	beat	M Muirhead & C Nigg	+1
+40	B Ladyman  R Lee	beat	F Schreuder & P Warner	+3
+41	I Tarling & B Boehm	beat	D Leabeater & E Kelly	+5
+42	J Hocking & G Foley	beat	Michael & M Lennon	+4
+43	D Leabeater & E Kelly	beat	T Hall & C Dawson	+1
+44	F Schreuder & P Warner	beat	C McWhirter & M Murphy	+4
+45	I Tarling & B Boehm	beat	M Garrod & S Anderson	+1
+46	B Ladyman  R Lee	beat	C Faulkner & D Fortescue	+1
+47	Michael & M Lennon	beat	M Muirhead & C Nigg	+2
+48	P Brown & P McGovern	beat	J Hocking & G Foley	+4
+49	B Ladyman  R Lee	beat	T Hall & C Dawson	+4
+50	C Faulkner & D Fortescue	beat	C McWhirter & M Murphy	+5
+51	M Garrod & S Anderson	beat	D Leabeater & E Kelly	+3
+52	I Tarling & B Boehm	beat	Michael & M Lennon	+4
+53	J Hocking & G Foley	beat	F Schreuder & P Warner	+2
+54	P Brown & P McGovern	beat	M Muirhead & C Nigg	+4
+55	M Garrod & S Anderson	beat	T Hall & C Dawson	+4
+56	B Ladyman  R Lee	beat	C McWhirter & M Murphy	+2
+57	J Hocking & G Foley	beat	C Faulkner & D Fortescue	+2
+58	D Leabeater & E Kelly	beat	Michael & M Lennon	+1
+59	I Tarling & B Boehm	beat	P Brown & P McGovern	+2
+60	F Schreuder & P Warner	beat	M Muirhead & C Nigg	+2
+61	T Hall & C Dawson	beat	C McWhirter & M Murphy	+1
+62	Michael & M Lennon	beat	M Garrod & S Anderson	+4
+63	B Ladyman  R Lee	beat	J Hocking & G Foley	+1
+64	P Brown & P McGovern	beat	D Leabeater & E Kelly	+6
+65	C Faulkner & D Fortescue	beat	M Muirhead & C Nigg	+2
+66	F Schreuder & P Warner	beat	I Tarling & B Boehm	0
+End
+
+Event AUS Doubles Finals
+Date 10-10.10.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	P Brown & P McGovern	beat	J Hocking & G Foley	+5
+2	C Faulkner & D Fortescue	beat	B Ladyman  R Lee	+1
+3	C Faulkner & D Fortescue	beat	P Brown & P McGovern	-5, +1, +1
+End
+
+Event AUS Plate A
+Date 11-12.10.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	Edna Kelly	beat	Basil Ladyman	+2
+2	Jeff Bell	beat	Murray Fisher	+4
+3	Terry Spears	beat	Sue Anderson	+2
+4	Murray Fisher	beat	Basil Ladyman	+2
+5	Sue Anderson	beat	Edna Kelly	+4
+6	Terry Spears	beat	Jeff Bell	+1
+7	Basil Ladyman	beat	Sue Anderson	+1
+8	Murray Fisher	beat	Terry Spears	+3
+9	Jeff Bell	beat	Edna Kelly	+2
+10	Basil Ladyman	beat	Terry Spears	+2
+11	Sue Anderson	beat	Jeff Bell	+4
+12	Edna Kelly	beat	Murray Fisher	+3
+13	Basil Ladyman	beat	Jeff Bell	+1
+14	Edna Kelly	beat	Terry Spears	+2
+15	Sue Anderson	beat	Murray Fisher	+6
+End
+
+Event AUS Plate B
+Date 11-12.10.10
+Class 2
+Type single
+Games 21
+Order firstname
+1	Tony Hall	beat	Bethwyn Johnson	+1
+2	Bill Turner	beat	Clive Faulkner	+5
+3	Doug Leabeater	beat	Creina Dawson	+2
+4	Doug Fortescue	beat	Tony Hall	+3
+5	Bethwyn Johnson	beat	Doug Leabeater	+3
+6	Clive Faulkner	beat	Creina Dawson	+1
+7	Doug Fortescue	beat	Bill Turner	+6
+8	Doug Leabeater	beat	Tony Hall	+4
+9	Clive Faulkner	beat	Bethwyn Johnson	+4
+10	Doug Fortescue	beat	Doug Leabeater	+2
+11	Creina Dawson	beat	Bill Turner	+1
+12	Tony Hall	beat	Clive Faulkner	+1
+13	Creina Dawson	beat	Doug Fortescue	+1
+14	Doug Leabeater	beat	Clive Faulkner	+5
+15	Bethwyn Johnson	beat	Bill Turner	+3
+16	Doug Fortescue	beat	Clive Faulkner	+3
+17	Bethwyn Johnson	beat	Creina Dawson	+5
+18	Tony Hall	beat	Bill Turner	+1
+19	Bethwyn Johnson	beat	Doug Fortescue	+2
+20	Creina Dawson	beat	Tony Hall	+3
+21	Bill Turner	beat	Doug Leabeater	+4
+End
+
+Event AUS Singles Block A
+Date 11-12.10.10
+Class 2
+Type single
+Games 55
+Order firstname
+1	Clive Faulkner	beat	Aurel Bican	+1
+2	Doug Fortescue	beat	Doug Leabeater	+2
+3	Joan Hocking	beat	Jeff Bell	+4
+4	Henry Smith	beat	Sue Anderson	+2
+5	Ian Tarling	beat	Edna Kelly	+4
+6	Aurel Bican	beat	Tony Hall	+4
+7	Joan Hocking	beat	Clive Faulkner	+4
+8	Doug Leabeater	beat	Sue Anderson	+1
+9	Ian Tarling	beat	Jeff Bell	+5
+10	Henry Smith	beat	Edna Kelly	+1
+11	Doug Fortescue	beat	Tony Hall	+2
+12	Ian Tarling	beat	Clive Faulkner	+4
+13	Doug Leabeater	beat	Edna Kelly	+3
+14	Jeff Bell	beat	Henry Smith	+2
+15	Joan Hocking	beat	Aurel Bican	+1
+16	Joan Hocking	beat	Tony Hall	+5
+17	Henry Smith	beat	Clive Faulkner	+3
+18	Jeff Bell	beat	Doug Leabeater	+1
+19	Aurel Bican	beat	Ian Tarling	+4
+20	Doug Fortescue	beat	Sue Anderson	+2
+21	Sue Anderson	beat	Tony Hall	+4
+22	Clive Faulkner	beat	Doug Leabeater	+4
+23	Aurel Bican	beat	Henry Smith	+3
+24	Doug Fortescue	beat	Edna Kelly	+4
+25	Ian Tarling	beat	Joan Hocking	+2
+26	Ian Tarling	beat	Tony Hall	+4
+27	Aurel Bican	beat	Doug Leabeater	+1
+28	Jeff Bell	beat	Doug Fortescue	+2
+29	Joan Hocking	beat	Henry Smith	+2
+30	Sue Anderson	beat	Edna Kelly	+1
+31	Edna Kelly	beat	Tony Hall	+5
+32	Doug Fortescue	beat	Clive Faulkner	+3
+33	Joan Hocking	beat	Doug Leabeater	+3
+34	Jeff Bell	beat	Sue Anderson	+4
+35	Henry Smith	beat	Ian Tarling	+2
+36	Henry Smith	beat	Tony Hall	+4
+37	Clive Faulkner	beat	Sue Anderson	+2
+38	Ian Tarling	beat	Doug Leabeater	+4
+39	Jeff Bell	beat	Edna Kelly	+3
+40	Aurel Bican	beat	Doug Fortescue	+3
+41	Jeff Bell	beat	Tony Hall	+3
+42	Clive Faulkner	beat	Edna Kelly	+2
+43	Henry Smith	beat	Doug Leabeater	+5
+44	Sue Anderson	beat	Aurel Bican	+2
+45	Doug Fortescue	beat	Joan Hocking	+1
+46	Doug Leabeater	beat	Tony Hall	+3
+47	Jeff Bell	beat	Clive Faulkner	+6
+48	Aurel Bican	beat	Edna Kelly	+1
+49	Doug Fortescue	beat	Ian Tarling	+1
+50	Sue Anderson	beat	Joan Hocking	+1
+51	Clive Faulkner	beat	Tony Hall	+3
+52	Aurel Bican	beat	Jeff Bell	+7
+53	Henry Smith	beat	Doug Fortescue	+4
+54	Joan Hocking	beat	Edna Kelly	+2
+55	Ian Tarling	beat	Sue Anderson	+1
+End
+
+Event AUS Singles Block B
+Date 11-12.10.10
+Class 2
+Type single
+Games 45
+Order firstname
+1	Glenn Foley	beat	Creina Dawson	+5
+2	Basil Ladyman	beat	Bethwyn Johnson	+1
+3	Anne Titley	beat	Terry Spears	+3
+4	Richard Lee	beat	Bill Turner	+3
+5	Fritz Schreuder	beat	Murray Fisher	+2
+6	Creina Dawson	beat	Bethwyn Johnson	+3
+7	Basil Ladyman	beat	Anne Titley	+1
+8	Richard Lee	beat	Terry Spears	+2
+9	Fritz Schreuder	beat	Bill Turner	+2
+10	Glenn Foley	beat	Murray Fisher	+4
+11	Anne Titley	beat	Creina Dawson	+5
+12	Richard Lee	beat	Basil Ladyman	+3
+13	Fritz Schreuder	beat	Terry Spears	+1
+14	Bill Turner	beat	Murray Fisher	+1
+15	Bethwyn Johnson	beat	Glenn Foley	+1
+16	Richard Lee	beat	Creina Dawson	+4
+17	Basil Ladyman	beat	Fritz Schreuder	+2
+18	Terry Spears	beat	Murray Fisher	+2
+19	Glenn Foley	beat	Bill Turner	+4
+20	Anne Titley	beat	Bethwyn Johnson	+3
+21	Fritz Schreuder	beat	Creina Dawson	+1
+22	Murray Fisher	beat	Basil Ladyman	+4
+23	Glenn Foley	beat	Terry Spears	+4
+24	Bethwyn Johnson	beat	Bill Turner	+5
+25	Richard Lee	beat	Anne Titley	+6
+26	Murray Fisher	beat	Creina Dawson	+4
+27	Glenn Foley	beat	Basil Ladyman	+6
+28	Terry Spears	beat	Bethwyn Johnson	+2
+29	Anne Titley	beat	Bill Turner	+5
+30	Richard Lee	beat	Fritz Schreuder	+1
+31	Bill Turner	beat	Creina Dawson	+4
+32	Basil Ladyman	beat	Terry Spears	+1
+33	Bethwyn Johnson	beat	Murray Fisher	+4
+34	Anne Titley	beat	Fritz Schreuder	+6
+35	Glenn Foley	beat	Richard Lee	+5
+36	Creina Dawson	beat	Terry Spears	+2
+37	Basil Ladyman	beat	Bill Turner	+1
+38	Anne Titley	beat	Murray Fisher	+2
+39	Glenn Foley	beat	Fritz Schreuder	+2
+40	Richard Lee	beat	Bethwyn Johnson	+1
+41	Creina Dawson	beat	Basil Ladyman	+3
+42	Terry Spears	beat	Bill Turner	+1
+43	Richard Lee	beat	Murray Fisher	+3
+44	Fritz Schreuder	beat	Bethwyn Johnson	+2
+45	Glenn Foley	beat	Anne Titley	+2
+End
+
+Event AUS Singles Finals
+Date 12-12.10.10
+Class 2
+Type match
+Games 7
+Order firstname
+1	Aurel Bican	beat	Fritz Schreuder	+3, +3
+2	Joan Hocking	beat	Richard Lee	-3, +1, +3
+3	Ian Tarling	beat	Anne Titley	+5, +3
+4	Glenn Foley	beat	Henry Smith	+5, +3
+5	Aurel Bican	beat	Joan Hocking	+1, -3, +4
+6	Glenn Foley	beat	Ian Tarling	+1, +1
+7	Glenn Foley	beat	Aurel Bican	+3, +2
+End
+
+Event AUS  5-8 Play Offs
+Date 13-13.10.10
+Class 2
+Type single
+Games 6
+Order firstname
+1	Anne Titley	beat	Henry Smith	+3
+2	Richard Lee	beat	Henry Smith	+1
+3	Anne Titley	beat	Fritz Schreuder	+3
+4	Fritz Schreuder	beat	Henry Smith	+1
+5	Richard Lee	beat	Anne Titley	+3
+6	Richard Lee	beat	Fritz Schreuder	+4
+End
+
+Event AUS 3-4 Play Offs
+Date 13-13.10.10
+Class 2
+Type match
+Games 1
+Order firstname
+1	Ian Tarling	beat	Joan Hocking	+2, +1
+End
+
+Event AUS Plate Finals
+Date 13-13.10.10
+Class 2
+Type match
+Games 3
+Order firstname
+1	Sue Anderson	beat	Bethwyn Johnson	+3
+2	Doug Fortescue	beat	Edna Kelly	+1
+3	Sue Anderson	beat	Doug Fortescue	+1
+End
+

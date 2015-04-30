@@ -1,0 +1,113 @@
+Event AUS Doubles Block 1
+Date 11-17.10.09
+Class 2
+Type single
+Games 6
+Order firstname
+1	C Grant & I Grant	beat	L Bassett & I Bassett	+3
+2	R Buddle & B Buddle	beat	D Gunzburg & J Gunzburg	+6
+3	C Grant & I Grant	beat	D Gunzburg & J Gunzburg	+7
+4	L Bassett & I Bassett	beat	R Buddle & B Buddle	+6
+5	C Grant & I Grant	beat	R Buddle & B Buddle	+12
+6	L Bassett & I Bassett	beat	D Gunzburg & J Gunzburg	+1
+End
+
+Event AUS Doubles Block 2
+Date 11-17.10.09
+Class 2
+Type single
+Games 6
+Order firstname
+1	D Wise & P Wise	beat	K Boal & P Freer	+10
+2	T Hall & M Grant	beat	R Irlam & E Irlam	+5
+3	R Irlam & E Irlam	beat	K Boal & P Freer	+4
+4	D Wise & P Wise	beat	T Hall & M Grant	+4
+5	T Hall & M Grant	beat	K Boal & P Freer	+5
+6	D Wise & P Wise	beat	R Irlam & E Irlam	+26
+End
+
+Event AUS Singles Block 1
+Date 11-17.10.09
+Class 2
+Type single
+Games 28
+Order firstname
+1	Betty Buddle	beat	Tony Hall	+24
+2	Eileen Irlam	beat	Doron Gunzburg	+12
+3	Ian Grant	beat	David Wise	+11
+4	Ian Bassett	beat	Chris Grant	+8
+5	David Wise	beat	Ian Bassett	+15
+6	Betty Buddle	beat	Doron Gunzburg	+25
+7	Chris Grant	beat	Tony Hall	+15
+8	Eileen Irlam	beat	Ian Grant	+1
+9	Eileen Irlam	beat	Ian Bassett	+26
+10	Tony Hall	beat	Doron Gunzburg	+13
+11	Ian Grant	beat	Betty Buddle	+19
+12	David Wise	beat	Chris Grant	+10
+13	David Wise	beat	Eileen Irlam	+14
+14	Ian Grant	beat	Tony Hall	+4
+15	Ian Bassett	beat	Betty Buddle	+12
+16	Chris Grant	beat	Doron Gunzburg	+12
+17	Betty Buddle	beat	David Wise	+22
+18	Ian Grant	beat	Doron Gunzburg	+26
+19	Ian Bassett	beat	Tony Hall	+23
+20	Chris Grant	beat	Eileen Irlam	+6
+21	Tony Hall	beat	David Wise	+13
+22	Chris Grant	beat	Ian Grant	+11
+23	Doron Gunzburg	beat	Ian Bassett	+5
+24	Betty Buddle	beat	Eileen Irlam	+8
+25	Ian Bassett	beat	Ian Grant	+6
+26	Chris Grant	beat	Betty Buddle	+15
+27	David Wise	beat	Doron Gunzburg	+12
+28	Tony Hall	beat	Eileen Irlam	+10
+End
+
+Event AUS Singles Block 2
+Date 11-17.10.09
+Class 2
+Type single
+Games 21
+Order firstname
+1	Ray Irlam	beat	Peter Freer	+17
+2	Philip Wise	beat	Roger Buddle	+26
+3	Ken Boal	beat	Marjorie Grant	+5
+4	Peter Freer	beat	Jan Gunzburg	+15
+5	Philip Wise	beat	Ken Boal	+12
+6	Ray Irlam	beat	Marjorie Grant	+13
+7	Peter Freer	beat	Roger Buddle	+18
+8	Ken Boal	beat	Ray Irlam	+3
+9	Marjorie Grant	beat	Jan Gunzburg	+6
+10	Roger Buddle	beat	Marjorie Grant	+15
+11	Jan Gunzburg	beat	Ken Boal	+5
+12	Philip Wise	beat	Ray Irlam	+2
+13	Peter Freer	beat	Philip Wise	+14
+14	Roger Buddle	beat	Ken Boal	+13
+15	Jan Gunzburg	beat	Ray Irlam	+8
+16	Peter Freer	beat	Marjorie Grant	+8
+17	Philip Wise	beat	Jan Gunzburg	+1
+18	Roger Buddle	beat	Ray Irlam	+11
+19	Peter Freer	beat	Ken Boal	+26
+20	Jan Gunzburg	beat	Roger Buddle	+24
+21	Philip Wise	beat	Marjorie Grant	+6
+End
+
+Event AUS Doubles Finals
+Date 17-17.10.09
+Class 2
+Type match
+Games 1
+Order firstname
+1	C Grant & I Grant	beat	D Wise & P Wise	+1
+End
+
+Event AUS Singles Finals
+Date 17-17.10.09
+Class 2
+Type match
+Games 3
+Order firstname
+1	Chris Grant	beat	Ian Grant	+7
+2	Ian Grant	beat	Peter Freer	+23
+3	Chris Grant	beat	Ian Grant	+21, +2
+End
+

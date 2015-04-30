@@ -1,0 +1,477 @@
+Event AUS New South Wales v South Australia
+Date 2-2.9.09
+Class 2
+Type match
+Games 27
+Order firstname
+1	M Podneiks & B Pfitzner	beat	A Verge & P Gentle	+1
+2	A Verge & P Gentle	beat	M Podneiks & B Pfitzner	+2
+3	A Verge & P Gentle	beat	M Podneiks & B Pfitzner	+3
+4	J Levick & R Johnstone	beat	G Whiteway & G Bow	+3
+5	G Whiteway & G Bow	beat	J Levick & R Johnstone	+1
+6	J Levick & R Johnstone	beat	G Whiteway & G Bow	+5
+7	Alix Verge	beat	Wilma Bonnar	+5
+8	Alix Verge	beat	Wilma Bonnar	+4
+9	Pam Gentle	beat	Creina Dawson	+4
+10	Pam Gentle	beat	Creina Dawson	+5
+11	Creina Dawson	beat	Alix Verge	+3
+12	Alix Verge	beat	Creina Dawson	+3
+13	Alix Verge	beat	Creina Dawson	+3
+14	Pam Gentle	beat	Wilma Bonnar	+1
+15	Wilma Bonnar	beat	Pam Gentle	+1
+16	Wilma Bonnar	beat	Pam Gentle	+5
+17	Howard Wood	beat	John Levick	+1
+18	Howard Wood	beat	John Levick	+1
+19	Ron Johnstone	beat	David Wise	+2
+20	David Wise	beat	Ron Johnstone	+1
+21	David Wise	beat	Ron Johnstone	+1
+22	John Levick	beat	David Wise	+6
+23	David Wise	beat	John Levick	+1
+24	John Levick	beat	David Wise	+5
+25	Ron Johnstone	beat	Howard Wood	+4
+26	Howard Wood	beat	Ron Johnstone	+4
+27	Howard Wood	beat	Ron Johnstone	+1
+End
+
+Event AUS Queensland v Western Australia
+Date 2-2.9.09
+Class 2
+Type match
+Games 22
+Order firstname
+1	M Melville & G Pitman	beat	K Chynoweth & S Sands	+1
+2	M Melville & G Pitman	beat	K Chynoweth & S Sands	+1
+3	C McWhirter & M Clarke	beat	R Schodel & G Kerswell	+4
+4	C McWhirter & M Clarke	beat	R Schodel & G Kerswell	+3
+5	Susan Sands	beat	Liz Fleming	+5
+6	Susan Sands	beat	Liz Fleming	+4
+7	Kay Chynoweth	beat	Lynda Davis	+2
+8	Kay Chynoweth	beat	Lynda Davis	+5
+9	Kay Chynoweth	beat	Liz Fleming	+1
+10	Kay Chynoweth	beat	Liz Fleming	+3
+11	Susan Sands	beat	Lynda Davis	+2
+12	Susan Sands	beat	Lynda Davis	+2
+13	Greg Bury	beat	Martin Clarke	+6
+14	Martin Clarke	beat	Greg Bury	+3
+15	Greg Bury	beat	Martin Clarke	+2
+16	Chris McWhirter	beat	Wayne Strong	+6
+17	Chris McWhirter	beat	Wayne Strong	+5
+18	Greg Bury	beat	Chris McWhirter	+2
+19	Chris McWhirter	beat	Greg Bury	+5
+20	Greg Bury	beat	Chris McWhirter	+5
+21	Martin Clarke	beat	Wayne Strong	+2
+22	Martin Clarke	beat	Wayne Strong	+3
+End
+
+Event AUS Victoria v Tasmania
+Date 2-2.9.09
+Class 2
+Type match
+Games 22
+Order firstname
+1	W Dickson & S Leitinger	beat	J Parrott & K Lines	+5
+2	W Dickson & S Leitinger	beat	J Parrott & K Lines	+5
+3	K Beard & O Edwards	beat	C West & R Ardley	+5
+4	K Beard & O Edwards	beat	C West & R Ardley	+5
+5	Wendy Dickson	beat	Patsy Paine	+4
+6	Wendy Dickson	beat	Patsy Paine	+6
+7	Margaret Brockett	beat	Sue Leitinher	+3
+8	Sue Leitinher	beat	Margaret Brockett	+3
+9	Sue Leitinher	beat	Margaret Brockett	+4
+10	Wendy Dickson	beat	Margaret Brockett	+7
+11	Wendy Dickson	beat	Margaret Brockett	+1
+12	Patsy Paine	beat	Sue Leitinher	+3
+13	Sue Leitinher	beat	Patsy Paine	+5
+14	Patsy Paine	beat	Sue Leitinher	+3
+15	Kevin Beard	beat	Ken Newham	+6
+16	Kevin Beard	beat	Ken Newham	+5
+17	Owen Edwards	beat	John Jacob	+3
+18	Owen Edwards	beat	John Jacob	+5
+19	Kevin Beard	beat	John Jacob	+6
+20	Kevin Beard	beat	John Jacob	+1
+21	Owen Edwards	beat	Ken Newham	+5
+22	Owen Edwards	beat	Ken Newham	+5
+End
+
+Event AUS New South Wales v Tasmania
+Date 3-3.9.09
+Class 2
+Type match
+Games 20
+Order firstname
+1	P Gentle & C Pont	beat	M Brockett & P Paine	+6
+2	P Gentle & C Pont	beat	M Brockett & P Paine	+2
+3	J Levick & N Macoun	beat	J Jacob & K Newham	+5
+4	J Levick & N Macoun	beat	J Jacob & K Newham	+4
+5	Pam Gentle	beat	Kathleen Lines	+5
+6	Pam Gentle	beat	Kathleen Lines	+7
+7	Christine Pont	beat	Jenny Parrott	+4
+8	Christine Pont	beat	Jenny Parrott	+6
+9	Pam Gentle	beat	Jenny Parrott	+4
+10	Pam Gentle	beat	Jenny Parrott	+6
+11	Christine Pont	beat	Kathleen Lines	+3
+12	Christine Pont	beat	Kathleen Lines	+5
+13	Ron Johnstone	beat	Roger Ardley	+5
+14	Ron Johnstone	beat	Roger Ardley	+5
+15	Nick Macoun	beat	Chris West	+5
+16	Nick Macoun	beat	Chris West	+5
+17	Ron Johnstone	beat	Chris West	+4
+18	Ron Johnstone	beat	Chris West	+3
+19	Nick Macoun	beat	Roger Ardley	+7
+20	Nick Macoun	beat	Roger Ardley	+6
+End
+
+Event AUS Queensland v South Australia
+Date 3-3.9.09
+Class 2
+Type match
+Games 26
+Order firstname
+1	C Dawson & W Bonnar	beat	L Fleming & L Davis	+3
+2	L Fleming & L Davis	beat	C Dawson & W Bonnar	+1
+3	C Dawson & W Bonnar	beat	L Fleming & L Davis	+2
+4	W Strong & G Kerswell	beat	H Wood & D Wise	+5
+5	H Wood & D Wise	beat	W Strong & G Kerswell	+5
+6	H Wood & D Wise	beat	W Strong & G Kerswell	+2
+7	Margaret Melville	beat	Bernie Pfitzner	+4
+8	Margaret Melville	beat	Bernie Pfitzner	+1
+9	Marga Podneiks	beat	Gaye Pitman	+3
+10	Marga Podneiks	beat	Gaye Pitman	+1
+11	Margaret Melville	beat	Marga Podneiks	+1
+12	Margaret Melville	beat	Marga Podneiks	+5
+13	Gaye Pitman	beat	Bernie Pfitzner	+2
+14	Bernie Pfitzner	beat	Gaye Pitman	+6
+15	Bernie Pfitzner	beat	Gaye Pitman	+1
+16	Greg Bury	beat	Gavin Bow	+2
+17	Greg Bury	beat	Gavin Bow	+4
+18	Graham Whiteway	beat	Ron Schodel	+3
+19	Ron Schodel	beat	Graham Whiteway	+3
+20	Ron Schodel	beat	Graham Whiteway	+3
+21	Greg Bury	beat	Graham Whiteway	+1
+22	Graham Whiteway	beat	Greg Bury	+2
+23	Graham Whiteway	beat	Greg Bury	+2
+24	Ron Schodel	beat	Gavin Bow	+3
+25	Gavin Bow	beat	Ron Schodel	+1
+26	Ron Schodel	beat	Gavin Bow	+1
+End
+
+Event AUS Victoria v Western Australia
+Date 3-3.9.09
+Class 2
+Type match
+Games 25
+Order firstname
+1	W Dickson & S Leitinger	beat	K Chynoweth & S Sands	+4
+2	W Dickson & S Leitinger	beat	K Chynoweth & S Sands	+4
+3	C McWhirter & M Clarke	beat	K Beard & O Edwards	+1
+4	C McWhirter & M Clarke	beat	K Beard & O Edwards	+2
+5	Wendy Dickson	beat	Susan Sands	+2
+6	Wendy Dickson	beat	Susan Sands	+4
+7	Sue Leitinher	beat	Kay Chynoweth	+2
+8	Sue Leitinher	beat	Kay Chynoweth	+2
+9	Wendy Dickson	beat	Kay Chynoweth	+3
+10	Kay Chynoweth	beat	Wendy Dickson	+2
+11	Wendy Dickson	beat	Kay Chynoweth	+2
+12	Sue Leitinher	beat	Susan Sands	+1
+13	Susan Sands	beat	Sue Leitinher	+2
+14	Sue Leitinher	beat	Susan Sands	+5
+15	Martin Clarke	beat	Kevin Beard	+1
+16	Kevin Beard	beat	Martin Clarke	+5
+17	Kevin Beard	beat	Martin Clarke	+3
+18	Chris McWhirter	beat	Owen Edwards	+1
+19	Owen Edwards	beat	Chris McWhirter	+5
+20	Owen Edwards	beat	Chris McWhirter	+3
+21	Kevin Beard	beat	Chris McWhirter	+3
+22	Kevin Beard	beat	Chris McWhirter	+2
+23	Martin Clarke	beat	Owen Edwards	+1
+24	Owen Edwards	beat	Martin Clarke	+1
+25	Owen Edwards	beat	Martin Clarke	+1
+End
+
+Event AUS Queensland v New South Wales
+Date 4-4.9.09
+Class 2
+Type match
+Games 27
+Order firstname
+1	A Verge & P Gentle	beat	M Melville & G Pitman	+4
+2	A Verge & P Gentle	beat	M Melville & G Pitman	+1
+3	G Bury & R Schodel	beat	N Macoun & R Johnstone	+5
+4	N Macoun & R Johnstone	beat	G Bury & R Schodel	+4
+5	G Bury & R Schodel	beat	N Macoun & R Johnstone	+2
+6	Christine Pont	beat	Margaret Melville	+4
+7	Christine Pont	beat	Margaret Melville	+2
+8	Gaye Pitman	beat	Alix Verge	+4
+9	Alix Verge	beat	Gaye Pitman	+6
+10	Alix Verge	beat	Gaye Pitman	+2
+11	Alix Verge	beat	Margaret Melville	+4
+12	Margaret Melville	beat	Alix Verge	+1
+13	Alix Verge	beat	Margaret Melville	+3
+14	Christine Pont	beat	Gaye Pitman	+1
+15	Gaye Pitman	beat	Christine Pont	+2
+16	Christine Pont	beat	Gaye Pitman	+2
+17	Nick Macoun	beat	Greg Bury	+1
+18	Greg Bury	beat	Nick Macoun	+2
+19	Greg Bury	beat	Nick Macoun	+4
+20	John Levick	beat	Wayne Strong	+6
+21	John Levick	beat	Wayne Strong	+3
+22	Greg Bury	beat	John Levick	+4
+23	John Levick	beat	Greg Bury	+2
+24	Greg Bury	beat	John Levick	+4
+25	Wayne Strong	beat	Nick Macoun	+2
+26	Nick Macoun	beat	Wayne Strong	+2
+27	Nick Macoun	beat	Wayne Strong	+2
+End
+
+Event AUS Victoria v South Australia
+Date 4-4.9.09
+Class 2
+Type match
+Games 23
+Order firstname
+1	W Dickson & S Leitinger	beat	M Podneiks & B Pfitzner	+3
+2	M Podneiks & B Pfitzner	beat	W Dickson & S Leitinger	+1
+3	W Dickson & S Leitinger	beat	M Podneiks & B Pfitzner	+1
+4	H Wood & D Wise	beat	K Beard & O Edwards	+3
+5	H Wood & D Wise	beat	K Beard & O Edwards	+3
+6	Wendy Dickson	beat	Wilma Bonnar	+3
+7	Wendy Dickson	beat	Wilma Bonnar	+2
+8	Sue Leitinher	beat	Creina Dawson	+2
+9	Creina Dawson	beat	Sue Leitinher	+2
+10	Creina Dawson	beat	Sue Leitinher	+3
+11	Wendy Dickson	beat	Creina Dawson	+2
+12	Wendy Dickson	beat	Creina Dawson	+1
+13	Wilma Bonnar	beat	Sue Leitinher	+5
+14	Wilma Bonnar	beat	Sue Leitinher	+4
+15	Kevin Beard	beat	Gavin Bow	+2
+16	Kevin Beard	beat	Gavin Bow	+5
+17	Owen Edwards	beat	Graham Whiteway	+3
+18	Graham Whiteway	beat	Owen Edwards	+2
+19	Owen Edwards	beat	Graham Whiteway	+1
+20	Kevin Beard	beat	Graham Whiteway	+3
+21	Kevin Beard	beat	Graham Whiteway	+2
+22	Owen Edwards	beat	Gavin Bow	+3
+23	Owen Edwards	beat	Gavin Bow	+6
+End
+
+Event AUS Western Australia v Tasmania
+Date 4-4.9.09
+Class 2
+Type match
+Games 23
+Order firstname
+1	B Schreuder & H Eagle	beat	M Brockett & K Lines	+2
+2	B Schreuder & H Eagle	beat	M Brockett & K Lines	+1
+3	K Reynolds & B Hadley	beat	C West & R Ardley	+5
+4	K Reynolds & B Hadley	beat	C West & R Ardley	+7
+5	Birgit Schreuder	beat	Patsy Paine	+2
+6	Birgit Schreuder	beat	Patsy Paine	+4
+7	Helen Eagle	beat	Jenny Parrott	+1
+8	Helen Eagle	beat	Jenny Parrott	+4
+9	Birgit Schreuder	beat	Jenny Parrott	+1
+10	Birgit Schreuder	beat	Jenny Parrott	+2
+11	Patsy Paine	beat	Helen Eagle	+2
+12	Helen Eagle	beat	Patsy Paine	+2
+13	Helen Eagle	beat	Patsy Paine	+5
+14	Brian Hadley	beat	Ken Newham	+5
+15	Brian Hadley	beat	Ken Newham	+4
+16	Kim Reynolds	beat	John Jacob	+3
+17	Kim Reynolds	beat	John Jacob	+1
+18	John Jacob	beat	Brian Hadley	+1
+19	Brian Hadley	beat	John Jacob	+4
+20	Brian Hadley	beat	John Jacob	+1
+21	Ken Newham	beat	Kim Reynolds	0
+22	Kim Reynolds	beat	Ken Newham	+6
+23	Kim Reynolds	beat	Ken Newham	+4
+End
+
+Event AUS Queensland v Tasmania
+Date 5-5.9.09
+Class 2
+Type match
+Games 22
+Order firstname
+1	L Fleming & L Davis	beat	K Lines & P Paine	+5
+2	L Fleming & L Davis	beat	K Lines & P Paine	+1
+3	W Strong & G Kerswell	beat	J Jacob & K Newham	+3
+4	W Strong & G Kerswell	beat	J Jacob & K Newham	+5
+5	Liz Fleming	beat	Margaret Brockett	+2
+6	Liz Fleming	beat	Margaret Brockett	+7
+7	Lynda Davis	beat	Jenny Parrott	+5
+8	Lynda Davis	beat	Jenny Parrott	+5
+9	Jenny Parrott	beat	Liz Fleming	+3
+10	Liz Fleming	beat	Jenny Parrott	+3
+11	Jenny Parrott	beat	Liz Fleming	+5
+12	Lynda Davis	beat	Margaret Brockett	+6
+13	Lynda Davis	beat	Margaret Brockett	+1
+14	Wayne Strong	beat	Roger Ardley	+3
+15	Roger Ardley	beat	Wayne Strong	+1
+16	Wayne Strong	beat	Roger Ardley	+4
+17	Greg Kerswell	beat	Chris West	+3
+18	Greg Kerswell	beat	Chris West	+5
+19	Wayne Strong	beat	Chris West	+5
+20	Wayne Strong	beat	Chris West	+4
+21	Roger Ardley	beat	Greg Kerswell	+1
+22	Roger Ardley	beat	Greg Kerswell	+1
+End
+
+Event AUS Victoria v New South Wales
+Date 5-5.9.09
+Class 2
+Type match
+Games 24
+Order firstname
+1	A Verge & P Gentle	beat	W Dickson & S Leitinger	+4
+2	W Dickson & S Leitinger	beat	A Verge & P Gentle	+6
+3	A Verge & P Gentle	beat	W Dickson & S Leitinger	+1
+4	J Levick & R Johnstone	beat	K Beard & O Edwards	+3
+5	J Levick & R Johnstone	beat	K Beard & O Edwards	+1
+6	Pam Gentle	beat	Wendy Dickson	+2
+7	Wendy Dickson	beat	Pam Gentle	+2
+8	Wendy Dickson	beat	Pam Gentle	+1
+9	Alix Verge	beat	Sue Leitinher	+2
+10	Alix Verge	beat	Sue Leitinher	+1
+11	Alix Verge	beat	Wendy Dickson	+2
+12	Alix Verge	beat	Wendy Dickson	+2
+13	Sue Leitinher	beat	Pam Gentle	+4
+14	Sue Leitinher	beat	Pam Gentle	+5
+15	Nick Macoun	beat	Kevin Beard	+1
+16	Kevin Beard	beat	Nick Macoun	+5
+17	Nick Macoun	beat	Kevin Beard	+2
+18	John Levick	beat	Owen Edwards	+1
+19	John Levick	beat	Owen Edwards	+1
+20	Kevin Beard	beat	John Levick	+2
+21	John Levick	beat	Kevin Beard	+2
+22	Kevin Beard	beat	John Levick	+3
+23	Nick Macoun	beat	Owen Edwards	+1
+24	Nick Macoun	beat	Owen Edwards	+3
+End
+
+Event AUS Western Australia v South Australia
+Date 5-5.9.09
+Class 2
+Type match
+Games 25
+Order firstname
+1	K Chynoweth & B Schreuder	beat	C Dawson & W Bonnar	+2
+2	K Chynoweth & B Schreuder	beat	C Dawson & W Bonnar	+1
+3	C McWhirter & M Clarke	beat	G Whiteway & G Bow	+3
+4	C McWhirter & M Clarke	beat	G Whiteway & G Bow	+4
+5	Kay Chynoweth	beat	Bernie Pfitzner	+4
+6	Bernie Pfitzner	beat	Kay Chynoweth	+2
+7	Bernie Pfitzner	beat	Kay Chynoweth	+4
+8	Marga Podneiks	beat	Susan Sands	+1
+9	Marga Podneiks	beat	Susan Sands	+4
+10	Marga Podneiks	beat	Kay Chynoweth	+4
+11	Kay Chynoweth	beat	Marga Podneiks	+6
+12	Kay Chynoweth	beat	Marga Podneiks	+1
+13	Bernie Pfitzner	beat	Susan Sands	+3
+14	Susan Sands	beat	Bernie Pfitzner	+1
+15	Bernie Pfitzner	beat	Susan Sands	+3
+16	David Wise	beat	Chris McWhirter	+5
+17	Chris McWhirter	beat	David Wise	+1
+18	Chris McWhirter	beat	David Wise	+1
+19	Martin Clarke	beat	Howard Wood	+4
+20	Martin Clarke	beat	Howard Wood	+4
+21	Chris McWhirter	beat	Howard Wood	+6
+22	Howard Wood	beat	Chris McWhirter	+4
+23	Howard Wood	beat	Chris McWhirter	+2
+24	Martin Clarke	beat	David Wise	+6
+25	Martin Clarke	beat	David Wise	+6
+End
+
+Event AUS New South Wales v Western Australia
+Date 6-6.9.09
+Class 2
+Type match
+Games 23
+Order firstname
+1	A Verge & P Gentle	beat	K Chynoweth & B Schreuder	+5
+2	A Verge & P Gentle	beat	K Chynoweth & B Schreuder	+1
+3	J Levick & R Johnstone	beat	C McWhirter & M Clarke	+2
+4	J Levick & R Johnstone	beat	C McWhirter & M Clarke	+3
+5	Susan Sands	beat	Alix Verge	+2
+6	Alix Verge	beat	Susan Sands	+4
+7	Alix Verge	beat	Susan Sands	+2
+8	Christine Pont	beat	Kay Chynoweth	+3
+9	Christine Pont	beat	Kay Chynoweth	+1
+10	Alix Verge	beat	Kay Chynoweth	+1
+11	Alix Verge	beat	Kay Chynoweth	+2
+12	Christine Pont	beat	Susan Sands	+4
+13	Susan Sands	beat	Christine Pont	+2
+14	Christine Pont	beat	Susan Sands	+4
+15	John Levick	beat	Martin Clarke	+1
+16	John Levick	beat	Martin Clarke	+4
+17	Nick Macoun	beat	Chris McWhirter	+3
+18	Nick Macoun	beat	Chris McWhirter	+1
+19	John Levick	beat	Chris McWhirter	+3
+20	John Levick	beat	Chris McWhirter	+5
+21	Nick Macoun	beat	Martin Clarke	+4
+22	Martin Clarke	beat	Nick Macoun	+1
+23	Nick Macoun	beat	Martin Clarke	+2
+End
+
+Event AUS South Australia v Tasmania
+Date 6-6.9.09
+Class 2
+Type match
+Games 24
+Order firstname
+1	M Podneiks & B Pfitzner	beat	M Brockett & J Parrott	+1
+2	M Podneiks & B Pfitzner	beat	M Brockett & J Parrott	+4
+3	G Whiteway & H Wood	beat	K Newham & R Ardley	+6
+4	G Whiteway & H Wood	beat	K Newham & R Ardley	+3
+5	Creina Dawson	beat	Kathleen Lines	+3
+6	Kathleen Lines	beat	Creina Dawson	+3
+7	Creina Dawson	beat	Kathleen Lines	+3
+8	Wilma Bonnar	beat	Patsy Paine	+5
+9	Wilma Bonnar	beat	Patsy Paine	+6
+10	Creina Dawson	beat	Patsy Paine	+3
+11	Creina Dawson	beat	Patsy Paine	+3
+12	Wilma Bonnar	beat	Kathleen Lines	+1
+13	Wilma Bonnar	beat	Kathleen Lines	+5
+14	David Wise	beat	Chris West	+5
+15	David Wise	beat	Chris West	+5
+16	Gavin Bow	beat	John Jacob	+3
+17	John Jacob	beat	Gavin Bow	+3
+18	Gavin Bow	beat	John Jacob	+2
+19	John Jacob	beat	David Wise	+1
+20	David Wise	beat	John Jacob	+5
+21	David Wise	beat	John Jacob	+3
+22	Chris West	beat	Gavin Bow	+1
+23	Gavin Bow	beat	Chris West	+5
+24	Gavin Bow	beat	Chris West	+5
+End
+
+Event AUS Victoria v Queensland
+Date 6-6.9.09
+Class 2
+Type match
+Games 24
+Order firstname
+1	L Fleming & M Melville	beat	W Dickson & S Leitinger	+1
+2	W Dickson & S Leitinger	beat	L Fleming & M Melville	+1
+3	L Fleming & M Melville	beat	W Dickson & S Leitinger	+1
+4	K Beard & O Edwards	beat	G Bury & R Schodel	+1
+5	G Bury & R Schodel	beat	K Beard & O Edwards	+1
+6	K Beard & O Edwards	beat	G Bury & R Schodel	+2
+7	Gaye Pitman	beat	Wendy Dickson	+3
+8	Wendy Dickson	beat	Gaye Pitman	+3
+9	Wendy Dickson	beat	Gaye Pitman	+6
+10	Sue Leitinher	beat	Margaret Melville	+1
+11	Sue Leitinher	beat	Margaret Melville	+1
+12	Margaret Melville	beat	Wendy Dickson	+7
+13	Wendy Dickson	beat	Margaret Melville	+3
+14	Margaret Melville	beat	Wendy Dickson	+2
+15	Sue Leitinher	beat	Gaye Pitman	+2
+16	Sue Leitinher	beat	Gaye Pitman	+2
+17	Kevin Beard	beat	Ron Schodel	+4
+18	Kevin Beard	beat	Ron Schodel	+5
+19	Greg Bury	beat	Owen Edwards	+1
+20	Greg Bury	beat	Owen Edwards	+2
+21	Kevin Beard	beat	Greg Bury	+1
+22	Kevin Beard	beat	Greg Bury	+1
+23	Ron Schodel	beat	Owen Edwards	+2
+24	Ron Schodel	beat	Owen Edwards	+2
+End
+

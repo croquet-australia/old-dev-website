@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>GC H'cap Tournament 2013</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/studio/</ImageTemplate>
+            <ImageTemplateName>Studio</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/National Golf Croquet Handicap Tournament Doubles &amp; Singles 2013.htm</PublishFileName>
+            <PublishIndex>National Golf Croquet Handicap Tournament Doubles &amp; Singles 2013.htm</PublishIndex>
+            <PublishPath>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>30</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>studio</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/HR_ACA Lawrie Simpson &amp; Ross Rillie wait for the toss by Referee Florence-xc.jpg</url>
+                <title> Lawrie Simpson &amp; Ross Rillie wait for the toss by Referee Florence</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/HR_ACA H'cap Tournament Dbls &amp; Singles Nov 2013 050xc.jpg</url>
+                <title>Peg Quebec-Palmer at the scoring computer with Anne Somers Vine and Pam Shepherd checking things out</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/JT_THall BTeerink HRillie RRillie-c.jpg</url>
+                <title>T. Hal,l B. Teerink, H. Rillie &amp; R. Rillie</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/LC_ACA 007xc.jpg</url>
+                <title>Players Brenda Evans and Rayna Murray with referee</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/HR_ACA H'cap Tournament Dbls winner Ross Rillie with Presenter Penny Jackson 10th Nov 2013xc.jpg</url>
+                <title>Tournament Doubles winner Ross Rillie with Presenter Penny Jackson 10th Nov 2013</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC H'cap Tournament 2013/LC_ACA 034_edited-1c.jpg</url>
+                <title>Ross Rillie with the Singles trophy</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

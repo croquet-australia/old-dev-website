@@ -1,0 +1,74 @@
+Event AUS Block
+Date 10-13.6.11
+Class 2
+Type single
+Games 66
+Order firstname
+1	Harley Watts	beat	Creina Dawson	+26TP
+2	Greg Fletcher	beat	Greg Diprose	+26TP
+3	Bruce Fleming	beat	Gareth Bushill	+17
+4	Tony Hall	beat	Dwayne McCormick	+9
+5	Greg Rowberry	beat	Roger Buddle	+24
+6	Mark Prater	beat	Liz Fleming	+25TP
+7	Harley Watts	beat	Greg Diprose	+26
+8	Greg Fletcher	beat	Gareth Bushill	+13TP
+9	Bruce Fleming	beat	Tony Hall	+26TP
+10	Dwayne McCormick	beat	Roger Buddle	+14TP
+11	Greg Rowberry	beat	Liz Fleming	+9
+12	Mark Prater	beat	Creina Dawson	+23TP
+13	Harley Watts	beat	Gareth Bushill	+24TP
+14	Greg Fletcher	beat	Tony Hall	+13
+15	Bruce Fleming	beat	Roger Buddle	+26TP
+16	Dwayne McCormick	beat	Liz Fleming	+26
+17	Greg Rowberry	beat	Creina Dawson	+9TP
+18	Mark Prater	beat	Greg Diprose	+18
+19	Harley Watts	beat	Tony Hall	+16TP
+20	Dwayne McCormick	beat	Mark Prater	+10
+21	Bruce Fleming	beat	Liz Fleming	+25
+22	Roger Buddle	beat	Greg Fletcher	+25
+23	Creina Dawson	beat	Gareth Bushill	+7
+24	Greg Rowberry	beat	Greg Diprose	+6
+25	Creina Dawson	beat	Tony Hall	+10
+26	Harley Watts	beat	Roger Buddle	+23TP
+27	Bruce Fleming	beat	Mark Prater	+26
+28	Greg Fletcher	beat	Liz Fleming	+17TP
+29	Dwayne McCormick	beat	Greg Rowberry	+9
+30	Greg Diprose	beat	Gareth Bushill	+1
+31	Harley Watts	beat	Liz Fleming	+26TP
+32	Greg Fletcher	beat	Mark Prater	+24
+33	Bruce Fleming	beat	Greg Rowberry	+20TP
+34	Dwayne McCormick	beat	Creina Dawson	+16
+35	Tony Hall	beat	Gareth Bushill	+3
+36	Greg Diprose	beat	Roger Buddle	+3
+37	Harley Watts	beat	Mark Prater	+17TP
+38	Greg Fletcher	beat	Greg Rowberry	+26TP
+39	Bruce Fleming	beat	Creina Dawson	+9
+40	Dwayne McCormick	beat	Greg Diprose	+23
+41	Gareth Bushill	beat	Liz Fleming	+4
+42	Tony Hall	beat	Roger Buddle	+5
+43	Harley Watts	beat	Greg Rowberry	+17TP
+44	Greg Fletcher	beat	Creina Dawson	+6
+45	Bruce Fleming	beat	Greg Diprose	+22
+46	Dwayne McCormick	beat	Gareth Bushill	+26TP
+47	Mark Prater	beat	Tony Hall	+16
+48	Roger Buddle	beat	Liz Fleming	+14
+49	Harley Watts	beat	Dwayne McCormick	+25TP
+50	Bruce Fleming	beat	Greg Fletcher	+17TP
+51	Greg Rowberry	beat	Gareth Bushill	+13
+52	Mark Prater	beat	Roger Buddle	+15
+53	Liz Fleming	beat	Creina Dawson	+19
+54	Tony Hall	beat	Greg Diprose	+6
+55	Harley Watts	beat	Bruce Fleming	+20TP
+56	Greg Fletcher	beat	Dwayne McCormick	+15QNP
+57	Greg Rowberry	beat	Tony Hall	+10
+58	Gareth Bushill	beat	Mark Prater	+13
+59	Greg Diprose	beat	Liz Fleming	+6
+60	Roger Buddle	beat	Creina Dawson	+15
+61	Harley Watts	beat	Greg Fletcher	+17TP
+62	Dwayne McCormick	beat	Bruce Fleming	+11TP
+63	Mark Prater	beat	Greg Rowberry	+2
+64	Tony Hall	beat	Liz Fleming	+24
+65	Roger Buddle	beat	Gareth Bushill	+15
+66	Greg Diprose	beat	Creina Dawson	+3
+End
+

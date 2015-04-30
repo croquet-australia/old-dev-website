@@ -1,0 +1,198 @@
+Event AUS Block A
+Date 15-18.5.10
+Class 2
+Type single
+Games 55
+Order firstname
+1	G Young & D Cooke	beat	N White & H White	+3
+2	N Macoun & M Jenner 	beat	G Trivett & R Newsham	+1
+3	P Smith & J Compton	beat	B McAlary & B Piggott	+6
+4	N Pope & F Creasey	beat	C Pont & M Wiltshire	+4
+5	J Evans & S Evans	beat	G Bow & P Gardiner	+2
+6	G Trivett & R Newsham	beat	P Smith & J Compton	+1
+7	C Pont & M Wiltshire	beat	B McAlary & B Piggott	+3
+8	N Pope & F Creasey	beat	J Evans & S Evans	+3
+9	G Young & D Cooke	beat	G Bow & P Gardiner	+5
+10	G Young & D Cooke	beat	G Trivett & R Newsham	+3
+11	N Pope & F Creasey	beat	N Macoun & M Jenner 	+2
+12	P Smith & J Compton	beat	G Bow & P Gardiner	+2
+13	N White & H White	beat	C Pont & M Wiltshire	+4
+14	P Freer & T Hall	beat	J Evans & S Evans	+4
+15	C Pont & M Wiltshire	beat	G Bow & P Gardiner	+5
+16	N White & H White	beat	J Evans & S Evans	+5
+17	G Trivett & R Newsham	beat	P Freer & T Hall	+1
+18	N Macoun & M Jenner 	beat	B McAlary & B Piggott	+4
+19	N Pope & F Creasey	beat	P Smith & J Compton	+6
+20	N Macoun & M Jenner 	beat	N White & H White	+2
+21	N Macoun & M Jenner 	beat	G Bow & P Gardiner	+6
+22	C Pont & M Wiltshire	beat	G Young & D Cooke	+1
+23	C Pont & M Wiltshire	beat	P Freer & T Hall	+7
+24	G Young & D Cooke	beat	B McAlary & B Piggott	+3
+25	P Freer & T Hall	beat	P Smith & J Compton	+6
+26	P Freer & T Hall	beat	N White & H White	+5
+27	N White & H White	beat	P Smith & J Compton	+1
+28	B McAlary & B Piggott	beat	G Bow & P Gardiner	+5
+29	G Trivett & R Newsham	beat	J Evans & S Evans	+4
+30	G Trivett & R Newsham	beat	N Pope & F Creasey	+2
+31	N Macoun & M Jenner 	beat	P Freer & T Hall	+2
+32	N White & H White	beat	G Trivett & R Newsham	+4
+33	N Pope & F Creasey	beat	G Bow & P Gardiner	+2
+34	P Smith & J Compton	beat	G Young & D Cooke	+4
+35	J Evans & S Evans	beat	B McAlary & B Piggott	+5
+36	B McAlary & B Piggott	beat	N White & H White	+3
+37	P Freer & T Hall	beat	N Pope & F Creasey	+1
+38	P Smith & J Compton	beat	J Evans & S Evans	+4
+39	C Pont & M Wiltshire	beat	G Trivett & R Newsham	+4
+40	G Young & D Cooke	beat	N Macoun & M Jenner 	+2
+41	G Young & D Cooke	beat	N Pope & F Creasey	+3
+42	J Evans & S Evans	beat	N Macoun & M Jenner 	+1
+43	G Bow & P Gardiner	beat	G Trivett & R Newsham	+1
+44	P Freer & T Hall	beat	B McAlary & B Piggott	+4
+45	C Pont & M Wiltshire	beat	P Smith & J Compton	+4
+46	N White & H White	beat	N Pope & F Creasey	+1
+47	P Freer & T Hall	beat	G Bow & P Gardiner	+4
+48	G Young & D Cooke	beat	J Evans & S Evans	+3
+49	C Pont & M Wiltshire	beat	N Macoun & M Jenner 	+2
+50	G Trivett & R Newsham	beat	B McAlary & B Piggott	+1
+51	G Bow & P Gardiner	beat	N White & H White	+1
+52	J Evans & S Evans	beat	C Pont & M Wiltshire	+1
+53	N Macoun & M Jenner 	beat	P Smith & J Compton	+4
+54	B McAlary & B Piggott	beat	N Pope & F Creasey	+2
+55	P Freer & T Hall	beat	G Young & D Cooke	+3
+End
+
+Event AUS Block B
+Date 15-18.5.10
+Class 2
+Type single
+Games 45
+Order firstname
+1	L Fleming & B Fleming	beat	B Wells & S G Dilley (JNR)	+2
+2	R Johnstone & J Levick	beat	L Creasey & M Pope	+4
+3	P Gentle & A Verge	beat	. Saunders & V Saunders	+7
+4	J Hicks & A Wall	beat	M Prins & R Johnstone	+1
+5	P Young & A Cooke	beat	B Wells & S G Dilley (JNR)	+2
+6	C Dawson & D Wise	beat	L Creasey & M Pope	+5
+7	R Johnstone & J Levick	beat	. Saunders & V Saunders	+6
+8	J Hicks & A Wall	beat	P Young & A Cooke	+5
+9	P Gentle & A Verge	beat	M Prins & R Johnstone	+3
+10	B Wells & S G Dilley (JNR)	beat	L Creasey & M Pope	+6
+11	L Creasey & M Pope	beat	. Saunders & V Saunders	+1
+12	R Johnstone & J Levick	beat	M Prins & R Johnstone	+3
+13	J Hicks & A Wall	beat	L Fleming & B Fleming	+2
+14	P Gentle & A Verge	beat	P Young & A Cooke	+3
+15	C Dawson & D Wise	beat	B Wells & S G Dilley (JNR)	+1
+16	. Saunders & V Saunders	beat	M Prins & R Johnstone	+2
+17	C Dawson & D Wise	beat	J Hicks & A Wall	+1
+18	R Johnstone & J Levick	beat	P Young & A Cooke	+3
+19	P Gentle & A Verge	beat	L Fleming & B Fleming	+1
+20	B Wells & S G Dilley (JNR)	beat	. Saunders & V Saunders	+3
+21	R Johnstone & J Levick	beat	L Fleming & B Fleming	+7
+22	J Hicks & A Wall	beat	L Creasey & M Pope	+3
+23	P Young & A Cooke	beat	M Prins & R Johnstone	+4
+24	P Young & A Cooke	beat	L Fleming & B Fleming	+1
+25	M Prins & R Johnstone	beat	B Wells & S G Dilley (JNR)	+5
+26	J Hicks & A Wall	beat	. Saunders & V Saunders	+5
+27	P Gentle & A Verge	beat	C Dawson & D Wise	+2
+28	L Fleming & B Fleming	beat	C Dawson & D Wise	+4
+29	P Gentle & A Verge	beat	L Creasey & M Pope	+4
+30	C Dawson & D Wise	beat	R Johnstone & J Levick	+2
+31	. Saunders & V Saunders	beat	C Dawson & D Wise	+1
+32	B Wells & S G Dilley (JNR)	beat	R Johnstone & J Levick	+4
+33	P Young & A Cooke	beat	L Creasey & M Pope	+3
+34	J Hicks & A Wall	beat	P Gentle & A Verge	+4
+35	M Prins & R Johnstone	beat	L Fleming & B Fleming	+2
+36	P Young & A Cooke	beat	. Saunders & V Saunders	+2
+37	L Fleming & B Fleming	beat	L Creasey & M Pope	+4
+38	C Dawson & D Wise	beat	M Prins & R Johnstone	+4
+39	R Johnstone & J Levick	beat	J Hicks & A Wall	+2
+40	B Wells & S G Dilley (JNR)	beat	P Gentle & A Verge	+1
+41	P Young & A Cooke	beat	C Dawson & D Wise	+3
+42	. Saunders & V Saunders	beat	L Fleming & B Fleming	+1
+43	L Creasey & M Pope	beat	M Prins & R Johnstone	+4
+44	R Johnstone & J Levick	beat	P Gentle & A Verge	+2
+45	J Hicks & A Wall	beat	B Wells & S G Dilley (JNR)	+2
+End
+
+Event AUS Y Knockout
+Date 15-23.5.10
+Class 2
+Type match
+Games 2
+Order firstname
+1		beat		+1, +1
+2		beat		+4, +3
+End
+
+Event AUS Knockout
+Date 17-18.5.10
+Class 2
+Type match
+Games 7
+Order firstname
+1		beat		-2, +1, +5
+2		beat		-2, +4, +2
+3		beat		-1, +2, +4
+4		beat		-1, +1, +3
+5		beat		+2, -1, +2
+6		beat		+2, -3, +4
+7		beat		+3, -2, +3, +3
+End
+
+Event AUS Plate Block A
+Date 17-18.5.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	L Fleming & B Fleming	beat	M Prins & R Johnstone	+3
+2	G Bow & P Gardiner	beat	N Pope & F Creasey	+5
+3	G Trivett & R Newsham	beat	B McAlary & B Piggott	+3
+4	G Bow & P Gardiner	beat	G Trivett & R Newsham	+4
+5	L Fleming & B Fleming	beat	B McAlary & B Piggott	+7
+6	M Prins & R Johnstone	beat	N Pope & F Creasey	+2
+7	N Pope & F Creasey	beat	B McAlary & B Piggott	+2
+8	G Bow & P Gardiner	beat	M Prins & R Johnstone	+2
+9	L Fleming & B Fleming	beat	G Trivett & R Newsham	+4
+10	N Pope & F Creasey	beat	G Trivett & R Newsham	+3
+11	L Fleming & B Fleming	beat	G Bow & P Gardiner	+1
+12	M Prins & R Johnstone	beat	B McAlary & B Piggott	+6
+13	N Pope & F Creasey	beat	L Fleming & B Fleming	+3
+14	G Trivett & R Newsham	beat	M Prins & R Johnstone	+3
+15	G Bow & P Gardiner	beat	B McAlary & B Piggott	+1
+End
+
+Event AUS Plate Block B
+Date 17-18.5.10
+Class 2
+Type single
+Games 15
+Order firstname
+1	P Smith & J Compton	beat	J Evans & S Evans	+3
+2	N White & H White	beat	. Saunders & V Saunders	+1
+3	C Dawson & D Wise	beat	L Creasey & M Pope	+2
+4	P Smith & J Compton	beat	L Creasey & M Pope	+5
+5	J Evans & S Evans	beat	N White & H White	+1
+6	C Dawson & D Wise	beat	. Saunders & V Saunders	+2
+7	. Saunders & V Saunders	beat	L Creasey & M Pope	+1
+8	C Dawson & D Wise	beat	J Evans & S Evans	+2
+9	N White & H White	beat	P Smith & J Compton	+2
+10	N White & H White	beat	L Creasey & M Pope	+6
+11	J Evans & S Evans	beat	. Saunders & V Saunders	+1
+12	P Smith & J Compton	beat	C Dawson & D Wise	+2
+13	J Evans & S Evans	beat	L Creasey & M Pope	+5
+14	. Saunders & V Saunders	beat	P Smith & J Compton	+5
+15	C Dawson & D Wise	beat	N White & H White	+2
+End
+
+Event AUS Plate Knockout
+Date 17-18.5.10
+Class 2
+Type match
+Games 3
+Order firstname
+1		beat		+1
+2		beat		+1
+3		beat		+1
+End
+
